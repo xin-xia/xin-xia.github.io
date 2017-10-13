@@ -8,7 +8,7 @@ permalink: /service/
 ## 2018
 
 <ol>
-<li><li>Program Committee  -- 15th Working Conference on Mining Software Repositories (MSR 2018) </li>
+<li>Program Committee  -- 15th Working Conference on Mining Software Repositories (MSR 2018) </li>
 <li>Program Committee  --  33nd ACM SIGAPP Symposium On Applied Computing (SAC 2018 SE Track) </li>
 <li>Program Committee  -- 2018 Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2018)</li>
 </ol>
