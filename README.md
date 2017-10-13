@@ -1,17 +1,35 @@
-# Much-Worse jekyll theme
+# Researcher
 
-This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
+### [Demo Website](http://ankitsultana.com/researcher)
 
-This is a modified version of [Steve Miller's NGVM theme](http://jekyllthemes.org/themes/svm-ngvb/). Since this work is a derivative of Prof. Miller's, therefore it is only fair that I honour his self-deprecating spirit and name this **much-worse**. I prefer large seriff fonts and minimal coloring and styling. Apart form the typography, color scheme and layout,
-this theme has two useful changes:
+A clean, single column, monospace resume template built for jekyll
 
-- It allows you to maintain your website as a subdirectory on your university of company domain (e.g. http://university.edu/department/people/your-website). Most Jekyll blogs are
-designed to be hosted at custom domain names.
+### Installation
 
-- Most jekyll themes are blog-centric, or single page websites. This theme lets you create multi-page website with a blog if you want.
+Simply fork the repository and edit away.
 
-Both the above are not seminal achievements in science, but they are useful. This theme also supports site analytics including [Statcounter](http://statcounter.com) and major comment providers for blogs.
+### Customization
 
-See it in action [here](http://people.csail.mit.edu/gchauras).
+* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
 
-Feel free to send me pull requests with better responsive performance or cleaner HTML/CSS.
+* You can of course remove `contact.md` if you don't want it
+
+* To set the heading, edit the `title` variable in `_config.yml`
+
+* To edit the `links` mentioned on the navigation bar, edit the file `_data/nav.yml`
+
+* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
+
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+
+```html
+<img class="profile-picture" src="sherlock.jpg">
+```
+
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+
+### License
+
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
