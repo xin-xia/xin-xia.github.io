@@ -13,8 +13,8 @@ I got my Ph.D degree in June 2014 from College of Computer Science and Technolog
 
 
 To help developers and testers improve their productivity, my current research focuses on mining and analyzing
-rich data in software repositories to uncover interesting and actionable information. I have employed and customized structured and unstructured data analytics techniques ¨C including data mining, information retrieval,
-natural language processing, search-based algorithms, and program analysis ¨C to transform passive software
+rich data in software repositories to uncover interesting and actionable information. I have employed and customized structured and unstructured data analytics techniques -- including data mining, information retrieval,
+natural language processing, search-based algorithms, and program analysis -- to transform passive software
 engineering data into automated tools and new insights.
 
 ## Contact
