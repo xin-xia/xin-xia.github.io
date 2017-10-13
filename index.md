@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/Xin.jpg" caption="" width="100px" max_width="300px" align="right" %}
+{% include image.html url="images/Xin.jpg" caption="" width="200px"   align="right" %}
 
 I am currently a post-doctoral research fellow at the University of British Columbia with
 a specialization in software analytics and mining software repositories. My advisors are Prof. Gail Murphy and Prof. Reid Holmes. Prior to joining UBC, I was a research assistant professor at Zhejiang University in China. 
