@@ -1,19 +1,11 @@
-{% if page.footer != 'none' %}
-<footer class="site-footer fade-in" id="footer">
-  <div class="read-next"> Read Next: 
-    {% if page.previous.url %}
-    <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
-    {% else if page.next.url %}
-    <a class="next-post" href="{{page.next.url}}">{{page.next.title}}</a>
-    {% else %}
+<footer class="site-footer">
+    {{ site.description }}<br />
+
+    Using <a href="http://jekyllrb.com/">Jekyll</a>
+    {% if site.sourcecode %}
+     :: <a href="{{ site.sourcecode }}">Website source</a>
     {% endif %}
-  </div>
-    
-  <a href="/" class="back-home">Back Home</a></p> 
-
-  <div class="copyright"> 
-    <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
-  </div>
-
+    {% if site.analytics.provider and page.analytics != false %}
+     :: Analytics by {{ site.analytics.provider }}
+    {% endif %}
 </footer>
-{% endif %}
