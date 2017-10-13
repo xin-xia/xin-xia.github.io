@@ -1,5 +1,5 @@
-title: Xin Xia
-description: Homepage
+title: Xin Xia | UBC
+description: Xin Xia's Homepage
 sourcecode: "https://github.com/xin-xia/xin-xia.github.io"
 
 permalink: blog/:year/:month/:day/:title
@@ -9,9 +9,9 @@ url: "https://xin-xia.github.io/"     # the base hostname & protocol for your si
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
-    name: 
+    name: Xin Xia
     facebook:
-    scholar:
+    scholar: https://scholar.google.com/citations?user=XSZRxOEAAAAJ
 
 # Build settings
 markdown: kramdown
