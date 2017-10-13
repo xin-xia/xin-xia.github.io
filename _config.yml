@@ -35,8 +35,8 @@ analytics:
     mixpanel:
         token: ''
     piwik:
-        baseURL: '' # Piwik installation address (without protocol)
-        idsite: ''  # the id of the site on Piwik
+        baseURL: '' 
+        idsite: ''  
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.

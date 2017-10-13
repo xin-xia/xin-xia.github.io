@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Awards
-permalink: /Awards/
+permalink: /awards/
 ---
 
 1. <strong>TSE Featured Paper</strong>, IEEE Transactions on Software Engineering, October 2016 Issue <br />
