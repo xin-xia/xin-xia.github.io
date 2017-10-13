@@ -1,20 +1,29 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/xin.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I am currently a post-doctoral research fellow at the University of British Columbia with
+a specialization in software analytics and mining software repositories. My advisors are Prof. Gail Murphy and Prof. Reid Holmes. Prior to joining UBC, I was a research assistant professor at Zhejiang University in China. 
+
+I got my Ph.D degree in June 2014 from College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Professor Xiaohu Yang, and Professor Jianling Sun. From July 1st , 2012 to January 1st ,2014, I was a visiting student of Professor David Lo in Singapore Management Universiy. 
+
+
+To help developers and testers improve their productivity, my current research focuses on mining and analyzing
+rich data in software repositories to uncover interesting and actionable information. I have employed and customized structured and unstructured data analytics techniques ¨C including data mining, information retrieval,
+natural language processing, search-based algorithms, and program analysis ¨C to transform passive software
+engineering data into automated tools and new insights.
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Xin Xia <br />
+Postdoctoral Research Fellow<br />
+Software Practices Lab <br />
+University of British Columbia <br />
+Email: [xxia02@cs.ubc.ca]
 
-
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+ 
+[xxia02@cs.ubc.ca]: mailto:xxia02@cs.ubc.ca
