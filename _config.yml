@@ -22,7 +22,7 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider:false
+    provider:
     statcounter:
         sc_project  :
         sc_security :
