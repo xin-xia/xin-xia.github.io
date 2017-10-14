@@ -1,4 +1,4 @@
----
+﻿
 layout: page
 title: Publications
 permalink: /publication/
@@ -17,14 +17,14 @@ permalink: /publication/
 25. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Inference of Development Activities from Interaction with Uninstrumented Applications". Empirical Software Engineering (EMSE). Accepted  <br />
 
 24. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Measuring Program Comprehension: A Large-Scale Field Study with Professionals".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.  <br />
-23. Qiao Huang, Emad Shihab, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Identifying Self-admitted Technical Debt Using Texting Mining". In Empirical Software Engineering (EMSE). Accepted. (Invited to ESEC/FSE2017 as part of the Journal First initiative.) <br />
+23. Qiao Huang, Emad Shihab, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Identifying Self-admitted Technical Debt Using Texting Mining". In Empirical Software Engineering (EMSE). Accepted. <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)</strong> <br />
 
  
 22. Xinli Yang, David Lo, Li Li, <strong>Xin Xia</strong>, Tegawende F. Bissyande, Jacques Klein. "Comprehending Malicious Android Apps By Mining Topic-Specific Data Flow Signatures". In Information and Software Technology (IST). Accepted. <br />
   
 21. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Automated Android App Permission Recommendation". In SCIENCE CHINA Information Sciences (SCIS). Accepted  <br />
  
-20. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Pavneet Singh Kochhar, Ahmed E. Hassan, Zhenchang Xing. "What Do Developers Search For on the Web?". In Empirical Software Engineering (EMSE). Accepted (Invited to ESEC/FSE2017 as part of the Journal First initiative.) <br />
+20. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Pavneet Singh Kochhar, Ahmed E. Hassan, Zhenchang Xing. "What Do Developers Search For on the Web?". In Empirical Software Engineering (EMSE). Accepted <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)</strong> <br />
  
 19. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. TLEL: A Two-Layer Ensemble Learning Approach For Just-In-Time Defect Prediction. In Information and Software Technology (IST Journal). Accepted. <br />
  
@@ -36,7 +36,7 @@ permalink: /publication/
  
 16. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Zhiyuan Wan, Jianling Sun. "What Security Questions Do Developers Ask? A Large Scale Study of Stack Overflow Posts".  In Journal of Computer Science and Technology (JCST). Accepted. <br />
  
-15. <strong>Xin Xia</strong>, David Lo. "An Effective Change Recommendation Approach for Supplementary Bug Fixes". In Automated Software Engineering Journal (ASE Journal). In Press (Invited to ASE 2017 as part of the Journal First initiative.) <br />
+15. <strong>Xin Xia</strong>, David Lo. "An Effective Change Recommendation Approach for Supplementary Bug Fixes". In Automated Software Engineering Journal (ASE Journal). In Press <strong>(Invited to ASE 2017 as part of the Journal First initiative.)</strong> <br />
  
 14. <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Xiaohu Yang. "Collective Personalized Change Classification with Multi-Objective Search".  In IEEE Transactions on Reliability. Accepted. <br />
  
@@ -80,7 +80,7 @@ permalink: /publication/
  
 60. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Ling Xu, Dan Yang. "A Systematic Mapping Study of Quality Assessment Models for Software Products". The Annual Conference on Software Analysis, Testing and Evolution (SATE 2017). Accepted as a Full Paper <br />
  
-59. Wenyuan Xu, Xiaobing Sun, <strong>Xin Xia</strong>, Xiang Chen. "Scalable Relevant Project Recommendation on GitHub". Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Full paper.(Invited to SCIENCE CHINA Information Sciences Journal) <br />
+59. Wenyuan Xu, Xiaobing Sun, <strong>Xin Xia</strong>, Xiang Chen. "Scalable Relevant Project Recommendation on GitHub". Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Full paper.<strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong> <br />
  
 58. Huan Yu, <strong>Xin Xia</strong>, Xiaoqiong Zhao and Weiwei Qiu. "Combining Collaborative Filtering and Topic Modeling for More Accurate Android App Library Recommendation" Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Short paper. <br />
  
@@ -114,7 +114,7 @@ permalink: /publication/
  
 ### 2016
  
-43. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "What Permissions Should This App Request?". The Annual Conference on Software Analysis, Testing and Evolution (SATE). Accepted as a Full Paper.  (Invited to SCIENCE CHINA Information Sciences Journal) <br />
+43. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "What Permissions Should This App Request?". The Annual Conference on Software Analysis, Testing and Evolution (SATE). Accepted as a Full Paper.  <strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong> <br />
  
 42. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Lingfeng Bao, Jianling Sun. "Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports".  27th IEEE International Symposium on Software Reliability Engineering (ISSRE 2016). Accepted as a Full Paper <br />
   
@@ -122,7 +122,7 @@ permalink: /publication/
  
 40. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Shanping Li.  ""Automated Debugging Considered Harmful" Considered Harmful -- A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems". 32nd International Conference on Software Maintenance and Evolution (ICSME 2016). Accepted as a Full Paper. <br />
  
-39. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Tien-Duy B. Le, Giuseppe Scanniello, Jianling Sun. "Inferring Links between Concerns and Methods with Multi-Abstraction Vector Space Model".  32nd International Conference on Software Maintenance and Evolution (ICSME 2016). Accepted as a Full Paper.  (Invited to Empirical Software Engineering Journal) <br />
+39. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Tien-Duy B. Le, Giuseppe Scanniello, Jianling Sun. "Inferring Links between Concerns and Methods with Multi-Abstraction Vector Space Model".  32nd International Conference on Software Maintenance and Evolution (ICSME 2016). Accepted as a Full Paper.  <strong>(Invited to Empirical Software Engineering Journal)</strong> <br />
  
 38. <strong>Xin Xia</strong>, Emad Shihab, Yasutaka Kamei, David Lo, Xinyu Wang. "Predicting Crashing Releases of Mobile Applications". 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2016). Accepted as a Full Paper.  <br />
  
@@ -178,9 +178,9 @@ permalink: /publication/
  
 16.      Bo Zhou, <strong>Xin Xia</strong>, David Lo, Cong Tian, and Xinyu Wang. Towards More Accurate Content Categorization of API Discussions. In 22th International Conference on Program Comprehension (ICPC 2014). IEEE, 2014: 95 - 105 <br />
  
-15.      <strong>Xin Xia</strong>, David Lo, Xinyu Wang, and Bo Zhou. Automatic Defect Categorization Based On Fault Triggering Conditions. In Engineering of Complex Computer Systems (ICECCS)[C]//2013 19th International Conference on. IEEE, 2014: 39 - 48  (Best Student Paper Award!)  <br />
+15.      <strong>Xin Xia</strong>, David Lo, Xinyu Wang, and Bo Zhou. Automatic Defect Categorization Based On Fault Triggering Conditions. In Engineering of Complex Computer Systems (ICECCS)[C]//2013 19th International Conference on. IEEE, 2014: 39 - 48  <strong>(Best Student Paper Award!) </strong> <br />
  
-14.      <strong>Xin Xia</strong>, David Lo, Xingen Wang, Chenyi Zhang, Xinyu Wang. Cross-Language Bug Localization[C]// In 22th International Conference on Program Comprehension (ICPC 2014). IEEE, 2014:  275 - 278  (Most Promising Idea Award!)  <br />
+14.      <strong>Xin Xia</strong>, David Lo, Xingen Wang, Chenyi Zhang, Xinyu Wang. Cross-Language Bug Localization[C]// In 22th International Conference on Program Comprehension (ICPC 2014). IEEE, 2014:  275 - 278  <strong>(Most Promising Idea Award!) </strong> <br />
  
 13.      Bo Zhou, <strong>Xin Xia</strong>, David Lo, and Xinyu Wang. BuildPredictor: More Accurate Missed Dependency Prediction in Build Configuration Files[C]//In Proceedings of 38th IEEE Computer Software and Applications Conference (COMPSAC 2014). IEEE, 2014: 53-  58 . <br />
  
