@@ -18,8 +18,8 @@ permalink: /publication/
 25. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Inference of Development Activities from Interaction with Uninstrumented Applications". Empirical Software Engineering (EMSE).  Accepted. <a href="emse171.pdf">[PDF]</a>  <br />
 
 24. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Measuring Program Comprehension: A Large-Scale Field Study with Professionals".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted. <a href="TSE17.pdf">[PDF]</a>   <br />
-23. Qiao Huang, Emad Shihab, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Identifying Self-admitted Technical Debt in Open Source Projects Using Text Mining". In Empirical Software Engineering (EMSE). Accepted. <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)  </strong> <a href="emse172.pdf">[PDF]</a> <br />
 
+23. Qiao Huang, Emad Shihab, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Identifying Self-admitted Technical Debt in Open Source Projects Using Text Mining". In Empirical Software Engineering (EMSE). Accepted. <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)  </strong> <a href="emse172.pdf">[PDF]</a> <br />
  
 22. Xinli Yang, David Lo, Li Li, <strong>Xin Xia</strong>, Tegawende F. Bissyande, Jacques Klein. "Comprehending Malicious Android Apps By Mining Topic-Specific Data Flow Signatures". In Information and Software Technology (IST). Accepted. <a href="ist171.pdf">[PDF]</a> <br />
   
@@ -46,8 +46,7 @@ permalink: /publication/
 12. Jing Jiang, David Lo, Jiahuan He, <strong>Xin Xia</strong>, Pavneet Singh Kochhar, Li Zhang.  "Why and How Developers Fork What from Whom in GitHub". Empirical Software Engeering (EMSE). Accepted.  <a href="EMSE16.pdf">[PDF]</a>  <br />
  
 11. <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted. <strong>(TSE Featured Paper on October 2016 issue.)</strong>    <a href="TSE162.pdf">[PDF]</a>   <br />
- 
- 
+  
    
 ### 2015 
  
@@ -159,8 +158,7 @@ permalink: /publication/
 24. Yun Zhang, David Lo, <strong>Xin Xia</strong>, and Jianling Sun. An Empirical Study of Classifier Combination for Cross-Project Defect Prediction. The 39th Annual International Computers, Software & Applications Conference (COMPSAC 2015). Accepted as a Short Paper.  <a href="compsac152.pdf">[PDF]</a>  <br />
  
 23.  <strong>Xin Xia</strong>, David Lo, Jingfan Tang, and Shanping Li. Understanding Customer Satisfaction Feedback in an IT Outsourcing Company: A Case Study on the Insigma Hengtian Company. 19th International Conference on Evaluation and Assessment in Software Engineering (EASE 2015). Accepted as a Short Paper.  <a href="ease15.pdf">[PDF]</a>  <br />
- 
- 
+  
 22.   <strong>Xin Xia</strong>,  David Lo, Shane McIntosh, Emad Shihab, and Ahmed E. Hassan. Cross-Project Build Co-change Prediction. 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2015): Accepted as a Research Full Paper.  <a href="saner15.pdf">[PDF]</a>  <br />
  
 21.   Xiao Xuan, David Lo, <strong>Xin Xia</strong>, and Yuan Tian. Evaluating Defect Prediction Approaches Using A Massive Set of Metrics: An Empirical Study[C]// 30th ACM Symposium on Applied Computing (SAC 2015). ACM, 2015:  Accepted as a poster paper. <a href="sac15.pdf">[PDF]</a>  <br />
