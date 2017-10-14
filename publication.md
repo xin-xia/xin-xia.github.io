@@ -14,25 +14,25 @@ permalink: /publication/
 ### 2017
   
 26. Xiaobing Sun, Hui Yang, <strong>Xin Xia</strong>, Bin Li. "Enhancing Developer Recommendation with Supplementary Information via Mining Historical Commits". Journal of Systems and Software (JSS). Accepted. <a href="jss17.pdf">[PDF]</a> <br />
-25. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Inference of Development Activities from Interaction with Uninstrumented Applications". Empirical Software Engineering (EMSE). <a href="emse171.pdf">[PDF]</a> Accepted  <br />
+25. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Inference of Development Activities from Interaction with Uninstrumented Applications". Empirical Software Engineering (EMSE).  Accepted. <a href="emse171.pdf">[PDF]</a>  <br />
 
-24. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Measuring Program Comprehension: A Large-Scale Field Study with Professionals".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.  <br />
-23. Qiao Huang, Emad Shihab, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Identifying Self-admitted Technical Debt Using Texting Mining". In Empirical Software Engineering (EMSE). Accepted. <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)</strong> <br />
+24. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Measuring Program Comprehension: A Large-Scale Field Study with Professionals".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted. <a href="TSE17.pdf">[PDF]</a>   <br />
+23. Qiao Huang, Emad Shihab, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Identifying Self-admitted Technical Debt in Open Source Projects Using Text Mining". In Empirical Software Engineering (EMSE). Accepted. <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)  </strong> <a href="emse172.pdf">[PDF]</a> <br />
 
  
-22. Xinli Yang, David Lo, Li Li, <strong>Xin Xia</strong>, Tegawende F. Bissyande, Jacques Klein. "Comprehending Malicious Android Apps By Mining Topic-Specific Data Flow Signatures". In Information and Software Technology (IST). Accepted. <br />
+22. Xinli Yang, David Lo, Li Li, <strong>Xin Xia</strong>, Tegawende F. Bissyande, Jacques Klein. "Comprehending Malicious Android Apps By Mining Topic-Specific Data Flow Signatures". In Information and Software Technology (IST). Accepted. <a href="ist171.pdf">[PDF]</a> <br />
   
-21. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Automated Android App Permission Recommendation". In SCIENCE CHINA Information Sciences (SCIS). Accepted  <br />
+21. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Automated Android App Permission Recommendation". In SCIENCE CHINA Information Sciences (SCIS). Accepted. <a href="scis17.pdf">[PDF]</a>   <br />
  
-20. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Pavneet Singh Kochhar, Ahmed E. Hassan, Zhenchang Xing. "What Do Developers Search For on the Web?". In Empirical Software Engineering (EMSE). Accepted <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)</strong> <br />
+20. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Pavneet Singh Kochhar, Ahmed E. Hassan, Zhenchang Xing. "What Do Developers Search For on the Web?". In Empirical Software Engineering (EMSE). Accepted. <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)</strong> <a href="emse173.pdf">[PDF]</a>   <br />
  
-19. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. TLEL: A Two-Layer Ensemble Learning Approach For Just-In-Time Defect Prediction. In Information and Software Technology (IST Journal). Accepted. <br />
+19. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "TLEL: A Two-Layer Ensemble Learning Approach For Just-In-Time Defect Prediction". In Information and Software Technology (IST Journal). Accepted.  <a href="ist172.pdf">[PDF]</a> <br />
  
 18. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "Combined Classifier for Cross-project Defect Prediction: An Extended Empirical Study". Frontiers of Computer Science (FCS). Accepted. <br />
  
 ### 2016
  
-17. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Qiao Huang, Jianling Sun.  "High Impact Bug Report Detection with Imbalanced Learning Strategies". In Journal of Computer Science and Technology (JCST). Accepted. <br />
+17. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Qiao Huang, Jianling Sun.  "High Impact Bug Report Detection with Imbalanced Learning Strategies". In Journal of Computer Science and Technology (JCST). Accepted.  <a href="jcst161.pdf">[PDF]</a> <br />
  
 16. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Zhiyuan Wan, Jianling Sun. "What Security Questions Do Developers Ask? A Large Scale Study of Stack Overflow Posts".  In Journal of Computer Science and Technology (JCST). Accepted. <br />
  
