@@ -34,42 +34,42 @@ permalink: /publication/
  
 17. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Qiao Huang, Jianling Sun.  "High Impact Bug Report Detection with Imbalanced Learning Strategies". In Journal of Computer Science and Technology (JCST). Accepted.  <a href="jcst161.pdf">[PDF]</a> <br />
  
-16. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Zhiyuan Wan, Jianling Sun. "What Security Questions Do Developers Ask? A Large Scale Study of Stack Overflow Posts".  In Journal of Computer Science and Technology (JCST). Accepted. <br />
+16. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Zhiyuan Wan, Jianling Sun. "What Security Questions Do Developers Ask? A Large Scale Study of Stack Overflow Posts".  In Journal of Computer Science and Technology (JCST). Accepted. <a href="jcst162.pdf">[PDF]</a> <br />
  
-15. <strong>Xin Xia</strong>, David Lo. "An Effective Change Recommendation Approach for Supplementary Bug Fixes". In Automated Software Engineering Journal (ASE Journal). In Press <strong>(Invited to ASE 2017 as part of the Journal First initiative.)</strong> <br />
+15. <strong>Xin Xia</strong>, David Lo. "An Effective Change Recommendation Approach for Supplementary Bug Fixes". In Automated Software Engineering Journal (ASE Journal). Accepted. <strong>(Invited to ASE 2017 as part of the Journal First initiative.)</strong>  <a href="ASEJ16.pdf">[PDF]</a> <br />
  
-14. <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Xiaohu Yang. "Collective Personalized Change Classification with Multi-Objective Search".  In IEEE Transactions on Reliability. Accepted. <br />
+14. <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Xiaohu Yang. "Collective Personalized Change Classification with Multi-Objective Search".  In IEEE Transactions on Reliability. Accepted. <a href="TR16.pdf">[PDF]</a>  <br />
  
-13. <strong>Xin Xia</strong>, David Lo, Ying Ding, Jafar M. Al-Kofahi, Tien N. Nguyen, Xinyu Wang. "Improving Automated Bug Triaging with Specialized Topic Model".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.  <br />
+13. <strong>Xin Xia</strong>, David Lo, Ying Ding, Jafar M. Al-Kofahi, Tien N. Nguyen, Xinyu Wang. "Improving Automated Bug Triaging with Specialized Topic Model".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.  <a href="TSE161.pdf">[PDF]</a>   <br />
  
-12. Jing Jiang, David Lo, Jiahuan He, <strong>Xin Xia</strong>, Pavneet Singh Kochhar, Li Zhang.  "Why and How Developers Fork What from Whom in GitHub". Empirical Software Engeering (EMSE). Accepted.
+12. Jing Jiang, David Lo, Jiahuan He, <strong>Xin Xia</strong>, Pavneet Singh Kochhar, Li Zhang.  "Why and How Developers Fork What from Whom in GitHub". Empirical Software Engeering (EMSE). Accepted.  <a href="EMSE16.pdf">[PDF]</a>  <br />
  
-11. <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.   <br />
+11. <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted. <strong>(TSE Featured Paper on October 2016 issue.)</strong>   <a href="ASEJ16.pdf">[PDF]</a>  <a href="TSE162.pdf">[PDF]</a>   <br />
  
  
    
 ### 2015 
  
-10.  Lingfeng Bao, Jing Li, Zhenchang Xing, Xinyu Wang, <strong>Xin Xia</strong>, Bo Zhou.   Extracting and Analyzing Time-Series HCI Data from Screen-Captured Task Videos.  In Empirical Software Engineering (EMSE Journal). Accepted. <br />
+10.  Lingfeng Bao, Jing Li, Zhenchang Xing, Xinyu Wang, <strong>Xin Xia</strong>, Bo Zhou.   Extracting and Analyzing Time-Series HCI Data from Screen-Captured Task Videos.  In Empirical Software Engineering (EMSE Journal). Accepted.  <a href="EMSE151.pdf">[PDF]</a>  <br />
  
-9.     Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. Multi-Factor Duplicate Question Detection in Stack Overflow. In Journal of Computer Science and Technology (JCST). Accepted.   <br />
+9.     Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. Multi-Factor Duplicate Question Detection in Stack Overflow. In Journal of Computer Science and Technology (JCST). Accepted.   <a href="JCST151.pdf">[PDF]</a>   <br />
  
-8.     Xinyu Wang, <strong>Xin Xia</strong>, David Lo. TagCombine: Recommending Tags to Contents in Software Information Sites. In Journal of Computer Science and Technology (JCST).  Accepted.   <br />
+8.     Xinyu Wang, <strong>Xin Xia</strong>, David Lo. TagCombine: Recommending Tags to Contents in Software Information Sites. In Journal of Computer Science and Technology (JCST).  Accepted.  <a href="JCST152.pdf">[PDF]</a>   <br />
  
-7.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang. Automated Bug Report Field Reassignment and Refinement Prediction. In IEEE Transactions on Reliability. Accepted.   <br />
+7.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang. Automated Bug Report Field Reassignment and Refinement Prediction. In IEEE Transactions on Reliability. Accepted.  <a href="TR15.pdf">[PDF]</a>   <br />
  
-6.     <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Dual Analysis for Recommending Developers to Resolve Bugs. In Journal of Software: Evolution and Process (JSEP Journal). In Press.  <br />
+6.     <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Dual Analysis for Recommending Developers to Resolve Bugs. In Journal of Software: Evolution and Process (JSEP Journal). Accepted.  <a href="JSEP15.pdf">[PDF]</a>   <br />
  
-5.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Xiaohu Yang. ELBlocker: Predicting Blocking Bugs With Ensemble Imbalance Learning. In Information and Software Technology (IST Journal). In Press   <br />
+5.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Xiaohu Yang. ELBlocker: Predicting Blocking Bugs With Ensemble Imbalance Learning. In Information and Software Technology (IST Journal). Accepted.  <a href="IST15.pdf">[PDF]</a>   <br />
  
  
 ### 2014
  
-4.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Bo Zhou. Automatic, High Accuracy Prediction of Reopened Bugs. In Automated Software Engineering Journal (ASE Journal). In Press.   <br />
+4.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Bo Zhou. Automatic, High Accuracy Prediction of Reopened Bugs. In Automated Software Engineering Journal (ASE Journal). Accepted.   <a href="ASEJ141.pdf">[PDF]</a>  <br />
  
-3.     <strong>Xin Xia</strong>, Liang Gong, Tien-Duy B. Le , David Lo, Lingxiao Jiang, Hongyu Zhang. Diversity Maximization Speedup for Localizing Faults in Single-Fault and Multi-Faults Programs. In Automated Software Engineering Journal (ASE Journal).  In Press (Joint First Author)    <br />
+3.     <strong>Xin Xia</strong>, Liang Gong, Tien-Duy B. Le , David Lo, Lingxiao Jiang, Hongyu Zhang. Diversity Maximization Speedup for Localizing Faults in Single-Fault and Multi-Faults Programs. In Automated Software Engineering Journal (ASE Journal).  Accepted.  <a href="ASEJ142.pdf">[PDF]</a>    <br />
  
-2.     Yuan Tian, David Lo, <strong>Xin Xia</strong>, Chengnian Sun. Automated Prediction of Bug Report Priority Using Multi-Factor Analysis. In Empirical Software Engineering (EMSE Journal). In Press   <br />
+2.     Yuan Tian, David Lo, <strong>Xin Xia</strong>, Chengnian Sun. Automated Prediction of Bug Report Priority Using Multi-Factor Analysis. In Empirical Software Engineering (EMSE Journal). Accepted. <a href="EMSE14.pdf">[PDF]</a>    <br />
  
 1.     <strong>Xin Xia</strong>, Xiaozhen Zhou, David Lo, Xiaoqiong Zhao, Ye Wang: An Empirical Study of Bugs in Software Build System. IEICE Transactions 97-D(7): 1769-1780 (2014) <br />
  
