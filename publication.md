@@ -67,7 +67,7 @@ permalink: /publication/
  
 4.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Bo Zhou. Automatic, High Accuracy Prediction of Reopened Bugs. In Automated Software Engineering Journal (ASE Journal). In Press.   <br />
  
-3.     <strong>Xin Xia</strong>, Liang Gong, Tien-Duy B. Le , David Lo, Lingxiao Jiang, Hongyu Zhang. Diversity Maximization Speedup for Localizing Faults in Single-Fault and Multi-Faults Programs. In Automated Software Engineering Journal (ASE Journal).  In Press (*Joint First Author)    <br />
+3.     <strong>Xin Xia</strong>, Liang Gong, Tien-Duy B. Le , David Lo, Lingxiao Jiang, Hongyu Zhang. Diversity Maximization Speedup for Localizing Faults in Single-Fault and Multi-Faults Programs. In Automated Software Engineering Journal (ASE Journal).  In Press (Joint First Author)    <br />
  
 2.     Yuan Tian, David Lo, <strong>Xin Xia</strong>, Chengnian Sun. Automated Prediction of Bug Report Priority Using Multi-Factor Analysis. In Empirical Software Engineering (EMSE Journal). In Press   <br />
  
