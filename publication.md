@@ -56,20 +56,20 @@ permalink: /publication/
  
 8.     Xinyu Wang, <strong>Xin Xia</strong>, David Lo. TagCombine: Recommending Tags to Contents in Software Information Sites. In Journal of Computer Science and Technology (JCST).  Accepted.   <br />
  
-7.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang. Automated Bug Report Field Reassignment and Refinement Prediction. In IEEE Transactions on Reliability. Accepted. [PDF] <br />
+7.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang. Automated Bug Report Field Reassignment and Refinement Prediction. In IEEE Transactions on Reliability. Accepted.   <br />
  
-6.     <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Dual Analysis for Recommending Developers to Resolve Bugs. In Journal of Software: Evolution and Process (JSEP Journal). In Press. [PDF] <br />
+6.     <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Dual Analysis for Recommending Developers to Resolve Bugs. In Journal of Software: Evolution and Process (JSEP Journal). In Press.  <br />
  
-5.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Xiaohu Yang. ELBlocker: Predicting Blocking Bugs With Ensemble Imbalance Learning. In Information and Software Technology (IST Journal). In Press [PDF] <br />
+5.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Xiaohu Yang. ELBlocker: Predicting Blocking Bugs With Ensemble Imbalance Learning. In Information and Software Technology (IST Journal). In Press   <br />
  
  
 ### 2014
  
-4.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Bo Zhou. Automatic, High Accuracy Prediction of Reopened Bugs. In Automated Software Engineering Journal (ASE Journal). In Press. [PDF] <br />
+4.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Bo Zhou. Automatic, High Accuracy Prediction of Reopened Bugs. In Automated Software Engineering Journal (ASE Journal). In Press.   <br />
  
-3.     <strong>Xin Xia</strong>*, Liang Gong*, Tien-Duy B. Le , David Lo, Lingxiao Jiang, Hongyu Zhang. Diversity Maximization Speedup for Localizing Faults in Single-Fault and Multi-Faults Programs. In Automated Software Engineering Journal (ASE Journal).  In Press (*Joint First Author)  [PDF] <br />
+3.     <strong>Xin Xia</strong>*, Liang Gong*, Tien-Duy B. Le , David Lo, Lingxiao Jiang, Hongyu Zhang. Diversity Maximization Speedup for Localizing Faults in Single-Fault and Multi-Faults Programs. In Automated Software Engineering Journal (ASE Journal).  In Press (*Joint First Author)    <br />
  
-2.     Yuan Tian, David Lo, <strong>Xin Xia</strong>, Chengnian Sun. Automated Prediction of Bug Report Priority Using Multi-Factor Analysis. In Empirical Software Engineering (EMSE Journal). In Press [PDF] <br />
+2.     Yuan Tian, David Lo, <strong>Xin Xia</strong>, Chengnian Sun. Automated Prediction of Bug Report Priority Using Multi-Factor Analysis. In Empirical Software Engineering (EMSE Journal). In Press   <br />
  
 1.     <strong>Xin Xia</strong>, Xiaozhen Zhou, David Lo, Xiaoqiong Zhao, Ye Wang: An Empirical Study of Bugs in Software Build System. IEICE Transactions 97-D(7): 1769-1780 (2014) <br />
  
