@@ -25,6 +25,7 @@ permalink: /service/
 <li>Program Committee  -- 25th  International Conference on Program Comprehension (ICPC 2017) </li>
 <li>Program Committee  --  39th International Conference on Software Engineering (ICSE 2017 NIER Track)  </li>
 <li>Program Committee  --  32nd ACM SIGAPP Symposium On Applied Computing (SAC 2017 SE Track) </li>
+<li>Program Committee  -- Chinese  Annual Conference on Software Analysis, Testing and Evolution (SATE 2017) </li>
 <li>Journal referee -- IEEE Transactions on Software Engineering </li>
 <li>Journal referee -- Empirical Software Engineering </li>
 <li>Journal referee -- Journal of Software: Evolution and Process </li>
@@ -39,7 +40,7 @@ permalink: /service/
 <li>Program Committee -- 24th  International Conference on Program Comprehension (ICPC 2016) (Short Paper Track)</li>
 <li>Program Committee -- 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016 ERA Track)</li>
 <li>Program Committee  --  2nd International Workshop on Software Analytics (SWAN 2016) (Held in conjunction with FSE 2016)</li>
-<li>Program Committee  -- Chinese  Annual Conference on Software Analysis, Testing and Evolution (SATE 2016) (Held in conjunction with NASAC 2016)</li>
+<li>Program Committee  -- Chinese  Annual Conference on Software Analysis, Testing and Evolution (SATE 2016)</li>
 <li>Journal referee -- IEEE Transations on Software Engineering</li>
 <li>Journal referee -- Empirical Software Engineering</li>
 <li>Journal referee -- Journal of Software: Evolution and Process</li>
