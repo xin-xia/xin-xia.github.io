@@ -44,7 +44,7 @@ permalink: /publication/
  
 12. Jing Jiang, David Lo, Jiahuan He, <strong>Xin Xia</strong>, Pavneet Singh Kochhar, Li Zhang.  "Why and How Developers Fork What from Whom in GitHub". Empirical Software Engeering (EMSE). Accepted.  <a href="EMSE16.pdf">[PDF]</a>  <br />
  
-11. <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted. <strong>(TSE Featured Paper on October 2016 issue.)</strong>   <a href="ASEJ16.pdf">[PDF]</a>  <a href="TSE162.pdf">[PDF]</a>   <br />
+11. <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted. <strong>(TSE Featured Paper on October 2016 issue.)</strong>    <a href="TSE162.pdf">[PDF]</a>   <br />
  
  
    
@@ -80,37 +80,37 @@ permalink: /publication/
  
 60. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Ling Xu, Dan Yang. "A Systematic Mapping Study of Quality Assessment Models for Software Products". The Annual Conference on Software Analysis, Testing and Evolution (SATE 2017). Accepted as a Full Paper <br />
  
-59. Wenyuan Xu, Xiaobing Sun, <strong>Xin Xia</strong>, Xiang Chen. "Scalable Relevant Project Recommendation on GitHub". Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Full paper.<strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong> <br />
+59. Wenyuan Xu, Xiaobing Sun, <strong>Xin Xia</strong>, Xiang Chen. "Scalable Relevant Project Recommendation on GitHub". Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Full paper.<strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong>  <a href="internetware171.pdf">[PDF]</a> <br />
  
-58. Huan Yu, <strong>Xin Xia</strong>, Xiaoqiong Zhao and Weiwei Qiu. "Combining Collaborative Filtering and Topic Modeling for More Accurate Android App Library Recommendation" Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Short paper. <br />
+58. Huan Yu, <strong>Xin Xia</strong>, Xiaoqiong Zhao and Weiwei Qiu. "Combining Collaborative Filtering and Topic Modeling for More Accurate Android App Library Recommendation". Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Short paper. <a href="internetware172.pdf">[PDF]</a><br />
  
-57. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Dan Yang, Ling Xu. "Automating Aggregation for Software Quality Modeling". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a NIER paper. <br />
+57. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Dan Yang, Ling Xu. "Automating Aggregation for Software Quality Modeling". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017). <a href="icsme171.pdf">[PDF]</a> Accepted as a NIER paper. <br />
  
-56.  Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers’ Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. <br />
+56.  Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers’ Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. <a href="ase17.pdf">[PDF]</a> <br />
  
-55.  Qiao Huang, David Lo, <strong>Xin Xia</strong>, Qingye Wang, Shanping Li. "Which Packages Would be Affected by This Bug Report?".  28th IEEE International Symposium on Software Reliability Engineering (ISSRE 2017). Accepted as a Full Paper. <br />
+55.  Qiao Huang, David Lo, <strong>Xin Xia</strong>, Qingye Wang, Shanping Li. "Which Packages Would be Affected by This Bug Report?".  28th IEEE International Symposium on Software Reliability Engineering (ISSRE 2017). Accepted as a Full Paper. <a href="issre17.pdf">[PDF]</a> <br />
  
-54. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo Xuan-Bach D. Le. "XSearch: A DomainSpecific Cross-Language Relevant Question Retrieval Tool". 11th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017). Accepted as a tool demo paper. <br />
+54. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo Xuan-Bach D. Le. "XSearch: A DomainSpecific Cross-Language Relevant Question Retrieval Tool". 11th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017). Accepted as a tool demo paper. <a href="fse17.pdf">[PDF]</a> <br />
  
-53.  <strong>Xin Xia</strong>, David Lo, Lingfeng Bao, Abhishek Sharma,  Shanping Li.  "Personality and Project Success: Insights from a Large-Scale Study with Professionals''. 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a Full Paper. <br />
+53.  <strong>Xin Xia</strong>, David Lo, Lingfeng Bao, Abhishek Sharma,  Shanping Li.  "Personality and Project Success: Insights from a Large-Scale Study with Professionals''. 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a Full Paper. <a href="icsme172.pdf">[PDF]</a> <br />
  
-52. Qiao Huang, <strong>Xin Xia</strong>, David Lo. "Supervised vs Unsupervised Models: A Holistic Look at Effort-Aware Just-in-Time Defect Prediction". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a Full Paper. <br />
+52. Qiao Huang, <strong>Xin Xia</strong>, David Lo. "Supervised vs Unsupervised Models: A Holistic Look at Effort-Aware Just-in-Time Defect Prediction". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a Full Paper. <a href="icsme173.pdf">[PDF]</a><br />
    
-51. Meng Yan, Yicheng Fang, David Lo, <strong>Xin Xia</strong>, Xiaohong Zhang. "File-Level Defect Prediction: Unsupervised vs. Supervised Models".  11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). Accepted as a Full Paper <br />
+51. Meng Yan, Yicheng Fang, David Lo, <strong>Xin Xia</strong>, Xiaohong Zhang. "File-Level Defect Prediction: Unsupervised vs. Supervised Models".  11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). Accepted as a Full Paper. <a href="esem17.pdf">[PDF]</a><br />
    
-50. Meng Yan, Xiaohong Zhang, Ling Xu, Haibo Hu, Song Sun, <strong>Xin Xia</strong>. “Revisiting the Correlation between Alerts and Software Defects-A Case Study on MyFaces, Camel, and CXF”. The 41th Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Short Paper. <br />
+50. Meng Yan, Xiaohong Zhang, Ling Xu, Haibo Hu, Song Sun, <strong>Xin Xia</strong>. “Revisiting the Correlation between Alerts and Software Defects-A Case Study on MyFaces, Camel, and CXF”. The 41th Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Short Paper. <a href="compsac17.pdf">[PDF]</a> <br />
  
-49. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai. "Bug Characteristics in Blockchain Systems: A Large-Scale Empirical Study". 14th International Conference on Mining Software Repositories (MSR 2017). Accepted as a Full Paper. <br />
+49. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai. "Bug Characteristics in Blockchain Systems: A Large-Scale Empirical Study". 14th International Conference on Mining Software Repositories (MSR 2017). Accepted as a Full Paper. <a href="msr171.pdf">[PDF]</a> <br />
  
-48. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Who Will Leave the Company? A Large-Scale Industry Study of Developer Turnover by Mining Monthly Work Report". 14th International Conference on Mining Software Repositories (MSR 2017). Accepted as a Full Paper. <br />
+48. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Who Will Leave the Company? A Large-Scale Industry Study of Developer Turnover by Mining Monthly Work Report". 14th International Conference on Mining Software Repositories (MSR 2017). Accepted as a Full Paper. <a href="msr172.pdf">[PDF]</a><br />
  
-47. Meng Yan, Xiaohong Zhang, Chao Liu, Jie Zou, Ling Xu, <strong>Xin Xia</strong>. "Learning to Aggregate: An Automated Aggregation Method for Software Quality Model". 39th International Conference on Software Engineering (ICSE 2017). Accepted as a Poster.<br />
+47. Meng Yan, Xiaohong Zhang, Chao Liu, Jie Zou, Ling Xu, <strong>Xin Xia</strong>. "Learning to Aggregate: An Automated Aggregation Method for Software Quality Model". 39th International Conference on Software Engineering (ICSE 2017). Accepted as a Poster. <a href="icse17.pdf">[PDF]</a><br />
  
-46. Tao Zhang, Jiachi Chen, Xiapu Luo, He Jiang, <strong>Xin Xia</strong>. "Bug Report Enrichment with Application of Automated Fixer Recommendation". 25th International Conference on Program Comprehension (ICPC 2017). Accepted as a Full Paper.  <br />
+46. Tao Zhang, Jiachi Chen, Xiapu Luo, He Jiang, <strong>Xin Xia</strong>. "Bug Report Enrichment with Application of Automated Fixer Recommendation". 25th International Conference on Program Comprehension (ICPC 2017). Accepted as a Full Paper. <a href="icpc17.pdf">[PDF]</a> <br />
  
-45. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai, Shanping Li.  "Mining Sandboxes for Linux Containers".  10th IEEE International Conference on Software Testing, Verification and Validation (ICST 2017). Accepted as a Full Paper.  <br />
+45. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai, Shanping Li.  "Mining Sandboxes for Linux Containers".  10th IEEE International Conference on Software Testing, Verification and Validation (ICST 2017). Accepted as a Full Paper. <a href="icst17.pdf">[PDF]</a>  <br />
  
-44. Yun Zhang, David Lo, Pavneet Singh Kochhar, <strong>Xin Xia</strong>, Quanlai Li, Jianling Sun. "Detecting Similar Repositories on GitHub".  24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2017). Accepted as a Full Paper. <br />
+44. Yun Zhang, David Lo, Pavneet Singh Kochhar, <strong>Xin Xia</strong>, Quanlai Li, Jianling Sun. "Detecting Similar Repositories on GitHub".  24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2017). Accepted as a Full Paper.<a href="saner17.pdf">[PDF]</a> <br />
  
 ### 2016
  
