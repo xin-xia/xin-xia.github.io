@@ -17,6 +17,8 @@ rich data in software repositories to uncover interesting and actionable informa
 natural language processing, search-based algorithms, and program analysis -- to transform passive software
 engineering data into automated tools and new insights.
 
+My [Google Scholar]
+
 ## News
 
 1. I will join a faculty member as a lecturer (equivalent to U.S. assistant professor) in the Faculty of Information Technology, Monash University, Australia from January, 2018.
@@ -33,3 +35,4 @@ Email: [xxia02@cs.ubc.ca]
 [Reid Holmes]: https://www.cs.ubc.ca/~rtholmes/index.html
 [David Lo]: http://www.mysmu.edu/faculty/davidlo/
 [xxia02@cs.ubc.ca]: mailto:xxia02@cs.ubc.ca
+[Google Scholar]: https://scholar.google.com/citations?user=XSZRxOEAAAAJ
