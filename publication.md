@@ -13,8 +13,8 @@ permalink: /publication/
 
 ### 2017
   
-26. Xiaobing Sun, Hui Yang, <strong>Xin Xia</strong>, Bin Li. "Enhancing Developer Recommendation with Supplementary Information via Mining Historical Commits". Journal of Systems and Software (JSS). Accepted. <a href="paper/jss17.pdf">[PDF]</a> <br />
-25. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Inference of Development Activities from Interaction with Uninstrumented Applications". Empirical Software Engineering (EMSE). Accepted  <br />
+26. Xiaobing Sun, Hui Yang, <strong>Xin Xia</strong>, Bin Li. "Enhancing Developer Recommendation with Supplementary Information via Mining Historical Commits". Journal of Systems and Software (JSS). Accepted. <a href="jss17.pdf">[PDF]</a> <br />
+25. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Inference of Development Activities from Interaction with Uninstrumented Applications". Empirical Software Engineering (EMSE). <a href="emse171.pdf">[PDF]</a> Accepted  <br />
 
 24. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Measuring Program Comprehension: A Large-Scale Field Study with Professionals".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.  <br />
 23. Qiao Huang, Emad Shihab, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Identifying Self-admitted Technical Debt Using Texting Mining". In Empirical Software Engineering (EMSE). Accepted. <strong>(Invited to ESEC/FSE2017 as part of the Journal First initiative.)</strong> <br />
