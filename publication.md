@@ -7,13 +7,14 @@ permalink: /publication/
 
 ## Book Chapter
 
-1.  <strong>Xin Xia</strong>, David Lo. "Feature Generation and Engineering for Software Analytics". in Feature Engineering for Machine Learning and Data Analytics. The CRC Press, USA <br />
+1.  <strong>Xin Xia</strong>, David Lo. "Feature Generation and Engineering for Software Analytics". in Feature Engineering for Machine Learning and Data Analytics. The CRC Press, USA <a href="chapter1.pdf">[PDF]</a><br />
 
 ## Journal Papers
 
 ### 2017
   
 26. Xiaobing Sun, Hui Yang, <strong>Xin Xia</strong>, Bin Li. "Enhancing Developer Recommendation with Supplementary Information via Mining Historical Commits". Journal of Systems and Software (JSS). Accepted. <a href="jss17.pdf">[PDF]</a> <br />
+
 25. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Inference of Development Activities from Interaction with Uninstrumented Applications". Empirical Software Engineering (EMSE).  Accepted. <a href="emse171.pdf">[PDF]</a>  <br />
 
 24. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Measuring Program Comprehension: A Large-Scale Field Study with Professionals".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted. <a href="TSE17.pdf">[PDF]</a>   <br />
@@ -84,7 +85,7 @@ permalink: /publication/
  
 58. Huan Yu, <strong>Xin Xia</strong>, Xiaoqiong Zhao and Weiwei Qiu. "Combining Collaborative Filtering and Topic Modeling for More Accurate Android App Library Recommendation". Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Short paper. <a href="internetware172.pdf">[PDF]</a><br />
  
-57. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Dan Yang, Ling Xu. "Automating Aggregation for Software Quality Modeling". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017). <a href="icsme171.pdf">[PDF]</a> Accepted as a NIER paper. <br />
+57. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Dan Yang, Ling Xu. "Automating Aggregation for Software Quality Modeling". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017). Accepted as a NIER paper.  <a href="icsme171.pdf">[PDF]</a> <br />
  
 56.  Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers’ Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. <a href="ase17.pdf">[PDF]</a> <br />
  
@@ -114,29 +115,29 @@ permalink: /publication/
  
 ### 2016
  
-43. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "What Permissions Should This App Request?". The Annual Conference on Software Analysis, Testing and Evolution (SATE). Accepted as a Full Paper.  <strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong> <br />
+43. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "What Permissions Should This Android App Request". The Annual Conference on Software Analysis, Testing and Evolution (SATE). Accepted as a Full Paper.  <strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong> <a href="sate16.pdf">[PDF]</a> <br />
  
-42. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Lingfeng Bao, Jianling Sun. "Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports".  27th IEEE International Symposium on Software Reliability Engineering (ISSRE 2016). Accepted as a Full Paper <br />
+42. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Lingfeng Bao, Jianling Sun. "Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports".  27th IEEE International Symposium on Software Reliability Engineering (ISSRE 2016). Accepted as a Full Paper <a href="issre16.pdf">[PDF]</a> <br />
   
-41. Bowen Xu, Deheng Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Guibin Chen, Shanping Li. "Predicting Semantically Linkable Knowledge in Developer Online Forums via Convolutional Neural Network".  31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016). Accepted as a Full Paper. <br />
+41. Bowen Xu, Deheng Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Guibin Chen, Shanping Li. "Predicting Semantically Linkable Knowledge in Developer Online Forums via Convolutional Neural Network".  31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016). Accepted as a Full Paper.<a href="ase16.pdf">[PDF]</a>  <br />
  
-40. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Shanping Li.  ""Automated Debugging Considered Harmful" Considered Harmful -- A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems". 32nd International Conference on Software Maintenance and Evolution (ICSME 2016). Accepted as a Full Paper. <br />
+40. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Shanping Li.  ""Automated Debugging Considered Harmful" Considered Harmful -- A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems". 32nd International Conference on Software Maintenance and Evolution (ICSME 2016). Accepted as a Full Paper. <a href="icsme161.pdf">[PDF]</a>  <br />
  
-39. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Tien-Duy B. Le, Giuseppe Scanniello, Jianling Sun. "Inferring Links between Concerns and Methods with Multi-Abstraction Vector Space Model".  32nd International Conference on Software Maintenance and Evolution (ICSME 2016). Accepted as a Full Paper.  <strong>(Invited to Empirical Software Engineering Journal)</strong> <br />
+39. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Tien-Duy B. Le, Giuseppe Scanniello, Jianling Sun. "Inferring Links between Concerns and Methods with Multi-Abstraction Vector Space Model".  32nd International Conference on Software Maintenance and Evolution (ICSME 2016). Accepted as a Full Paper.  <strong>(Invited to Empirical Software Engineering Journal)</strong> <a href="icsme162.pdf">[PDF]</a> <br />
  
-38. <strong>Xin Xia</strong>, Emad Shihab, Yasutaka Kamei, David Lo, Xinyu Wang. "Predicting Crashing Releases of Mobile Applications". 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2016). Accepted as a Full Paper.  <br />
+38. <strong>Xin Xia</strong>, Emad Shihab, Yasutaka Kamei, David Lo, Xinyu Wang. "Predicting Crashing Releases of Mobile Applications". 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2016). Accepted as a Full Paper. <a href="esem16.pdf">[PDF]</a>   <br />
  
-37. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper. <br />
+37. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper.  <a href="issta16.pdf">[PDF]</a> <br />
  
-36. <strong>Xin Xia</strong>, David Lo, Denzil Correa, Ashish Sureka, Emad Shihab. "It Takes Two to Tango: Deleted Stack Overflow Question Prediction with Text and Meta Features".  The 40th Annual International Computers, Software & Applications Conference (COMPSAC 2016). Accepted as a Full Paper. <br />
+36. <strong>Xin Xia</strong>, David Lo, Denzil Correa, Ashish Sureka, Emad Shihab. "It Takes Two to Tango: Deleted Stack Overflow Question Prediction with Text and Meta Features".  The 40th Annual International Computers, Software & Applications Conference (COMPSAC 2016). Accepted as a Full Paper. <a href="compsac161.pdf">[PDF]</a>  <br />
  
-35. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "Condensing Class Diagrams With Minimal Manual Labeling Cost". The 40th Annual International Computers, Software & Applications Conference (COMPSAC 2016). Accepted as a Full Paper. <br />
+35. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "Condensing Class Diagrams With Minimal Manual Labeling Cost". The 40th Annual International Computers, Software & Applications Conference (COMPSAC 2016). Accepted as a Full Paper.<a href="compsac162.pdf">[PDF]</a>  <br />
  
-34. Xinli Yang, David Lo, Qiao Huang,  <strong>Xin Xia</strong>, Jianling Sun. "Automated Identification of High Impact Bug Reports Leveraging Imbalanced Learning Strategies".  The 40th Annual International Computers, Software & Applications Conference (COMPSAC 2016). Accepted as a Short Paper.  <br />
+34. Xinli Yang, David Lo, Qiao Huang,  <strong>Xin Xia</strong>, Jianling Sun. "Automated Identification of High Impact Bug Reports Leveraging Imbalanced Learning Strategies".  The 40th Annual International Computers, Software & Applications Conference (COMPSAC 2016). Accepted as a Short Paper. <a href="compsac163.pdf">[PDF]</a>   <br />
  
-33. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Qingye Wang, Shanping Li. "Domain-Specific Cross-Language Relevant Question Retrieval".  13th International Conference on Mining Software Repositories (MSR 2016). Accepted as a Full Paper. (Invited to Empirical Software Engineering Journal) <br />
+33. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Qingye Wang, Shanping Li. "Domain-Specific Cross-Language Relevant Question Retrieval".  13th International Conference on Mining Software Repositories (MSR 2016). Accepted as a Full Paper. (Invited to Empirical Software Engineering Journal) <a href="msr161.pdf">[PDF]</a>  <br />
  
-32. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Xinyu Wang, Cong Tian. "How Android App Developers Manage Power Consumption? - An Empirical Study by Mining Power Management Commits". 13th International Conference on Mining Software Repositories (MSR 2016). Accepted as a Full Paper. <br />
+32. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Xinyu Wang, Cong Tian. "How Android App Developers Manage Power Consumption? - An Empirical Study by Mining Power Management Commits". 13th International Conference on Mining Software Repositories (MSR 2016). Accepted as a Full Paper.  <a href="msr162.pdf">[PDF]</a> <br />
  
  
 ### 2015
