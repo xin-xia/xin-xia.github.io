@@ -142,85 +142,85 @@ permalink: /publication/
  
 ### 2015
  
-31. Bowen Xu, David Lo, <strong>Xin Xia</strong>, Ashish Sureka, Shanping Li. "EFSPredictor: Predicting Configuration Bugs With Ensemble Feature Selection". 22th Asia-Pacific Software Engineering Conference (APSEC 2015). Accepted as a Full Paper <br />
+31. Bowen Xu, David Lo, <strong>Xin Xia</strong>, Ashish Sureka, Shanping Li. "EFSPredictor: Predicting Configuration Bugs With Ensemble Feature Selection". 22th Asia-Pacific Software Engineering Conference (APSEC 2015). Accepted as a Full Paper.  <a href="apsec15.pdf">[PDF]</a> <br />
  
-30. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Bowen Xu, Jianling Sun, Shanping Li. "Combining Software Metrics and Text Features for Vulnerable File Prediction".  20th International Conference on Engineering of Complex Computer Systems (ICECCS 2015). Accepted as a Full Paper <br />
+30. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Bowen Xu, Jianling Sun, Shanping Li. "Combining Software Metrics and Text Features for Vulnerable File Prediction".  20th International Conference on Engineering of Complex Computer Systems (ICECCS 2015). Accepted as a Full Paper.  <a href="iceccs15.pdf">[PDF]</a>  <br />
  
-29. Lingfeng Bao,  Decheng Ye, Zhenchang Xing,  <strong>Xin Xia</strong>,   Xinyu Wang. "ActivitySpace: A Remembrance Framework to Support Interapplication Information Needs". 30th IEEE/ACM International Conference on Automated Software Engineering (ASE 2015). Accepted as a Tool Demo Paper. <br />
+29. Lingfeng Bao,  Decheng Ye, Zhenchang Xing,  <strong>Xin Xia</strong>,   Xinyu Wang. "ActivitySpace: A Remembrance Framework to Support Interapplication Information Needs". 30th IEEE/ACM International Conference on Automated Software Engineering (ASE 2015). Accepted as a Tool Demo Paper.  <a href="ase15.pdf">[PDF]</a>  <br />
  
-28. <strong>Xin Xia</strong>, David Lo,  Pavneet Singh Kochhar, Zhenchang Xing, Xinyu Wang, Shanping Li. "An Industrial Experience Report on Test Outsourcing Practices". 26th IEEE International Symposium on Software Reliability Engineering (ISSRE 2015). Accepted as a Full Paper. <br />
+28. <strong>Xin Xia</strong>, David Lo,  Pavneet Singh Kochhar, Zhenchang Xing, Xinyu Wang, Shanping Li. "Experience report: An Industrial Experience Report on Test Outsourcing Practices". 26th IEEE International Symposium on Software Reliability Engineering (ISSRE 2015). Accepted as a Full Paper.  <a href="issre15.pdf">[PDF]</a> <br />
     
-27. <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Xiaohu Yang. "Who Should Review This Change? Putting Text and File Location Analyses Together for More Accurate Recommendations''.  31st International Conference on Software Maintenance and Evolution (ICSME 2015). Accepted as a Full Paper. <br />
+27. <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Xiaohu Yang. "Who Should Review This Change? Putting Text and File Location Analyses Together for More Accurate Recommendations''.  31st International Conference on Software Maintenance and Evolution (ICSME 2015). Accepted as a Full Paper.  <a href="icsme15.pdf">[PDF]</a>  <br />
  
-26.  Xinli Yang, David Lo, <strong>Xin Xia</strong>,  Yun Zhang, Jianling Sun. ``Deep Learning for Just-In-Time Defect Prediction''.  IEEE International Conference on Software Quality, Reliability, and Security (QRS 2015). Accepted as a Full Paper. <br />
+26.  Xinli Yang, David Lo, <strong>Xin Xia</strong>,  Yun Zhang, Jianling Sun. ``Deep Learning for Just-In-Time Defect Prediction''.  IEEE International Conference on Software Quality, Reliability, and Security (QRS 2015). Accepted as a Full Paper. <a href="qrs15.pdf">[PDF]</a>  <br />
  
-25. Weiqin Zou,  <strong>Xin Xia</strong>,  Weiqiang Zhang,  Zhenyu Chen,  and David Lo. An Empirical Study of Bug Fixing Rate. The 39th Annual International Computers, Software & Applications Conference (COMPSAC 2015). Accepted as a Full Paper.<br />
+25. Weiqin Zou,  <strong>Xin Xia</strong>,  Weiqiang Zhang,  Zhenyu Chen,  and David Lo. An Empirical Study of Bug Fixing Rate. The 39th Annual International Computers, Software & Applications Conference (COMPSAC 2015). Accepted as a Full Paper.  <a href="compsac151.pdf">[PDF]</a> <br />
  
-24. Yun Zhang, David Lo, <strong>Xin Xia</strong>, and Jianling Sun. An Empirical Study of Classifier Combination for Cross-Project Defect Prediction. The 39th Annual International Computers, Software & Applications Conference (COMPSAC 2015). Accepted as a Short Paper. <br />
+24. Yun Zhang, David Lo, <strong>Xin Xia</strong>, and Jianling Sun. An Empirical Study of Classifier Combination for Cross-Project Defect Prediction. The 39th Annual International Computers, Software & Applications Conference (COMPSAC 2015). Accepted as a Short Paper.  <a href="compsac152.pdf">[PDF]</a>  <br />
  
-23.  <strong>Xin Xia</strong>, David Lo, Jingfan Tang, and Shanping Li. Understanding Customer Satisfaction Feedback in an IT Outsourcing Company: A Case Study on the Insigma Hengtian Company. 19th International Conference on Evaluation and Assessment in Software Engineering (EASE 2015). Accepted as a Short Paper. <br />
+23.  <strong>Xin Xia</strong>, David Lo, Jingfan Tang, and Shanping Li. Understanding Customer Satisfaction Feedback in an IT Outsourcing Company: A Case Study on the Insigma Hengtian Company. 19th International Conference on Evaluation and Assessment in Software Engineering (EASE 2015). Accepted as a Short Paper.  <a href="ease15.pdf">[PDF]</a>  <br />
  
  
-22.   <strong>Xin Xia</strong>,  David Lo, Shane McIntosh, Emad Shihab, and Ahmed E. Hassan. Cross-Project Build Co-change Prediction. 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2015): Accepted as a Research Full Paper. <br />
+22.   <strong>Xin Xia</strong>,  David Lo, Shane McIntosh, Emad Shihab, and Ahmed E. Hassan. Cross-Project Build Co-change Prediction. 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2015): Accepted as a Research Full Paper.  <a href="saner15.pdf">[PDF]</a>  <br />
  
-21.   Xiao Xuan, David Lo, <strong>Xin Xia</strong>, and Yuan Tian. Evaluating Defect Prediction Approaches Using A Massive Set of Metrics: An Empirical Study[C]// 30th ACM Symposium on Applied Computing (SAC 2015). ACM, 2015:  Accepted as a poster paper. <br />
+21.   Xiao Xuan, David Lo, <strong>Xin Xia</strong>, and Yuan Tian. Evaluating Defect Prediction Approaches Using A Massive Set of Metrics: An Empirical Study[C]// 30th ACM Symposium on Applied Computing (SAC 2015). ACM, 2015:  Accepted as a poster paper. <a href="sac15.pdf">[PDF]</a>  <br />
  
  
 ### 2014
  
  
-20.      <strong>Xin Xia</strong>, David Lo, Ming Wen, Emad Shihab, Bo Zhou. An Empirical Study of Bug Report Field Reassignment.  Joint Meeting of the 18th European Conference on Software Maintenance and Reengineering and the 21st Working Conference on Reverse Engineering (CSMR-WCRE 2014). IEEE, 2014: 174-183 <br />
+20.      <strong>Xin Xia</strong>, David Lo, Ming Wen, Emad Shihab, Bo Zhou. An Empirical Study of Bug Report Field Reassignment.  Joint Meeting of the 18th European Conference on Software Maintenance and Reengineering and the 21st Working Conference on Reverse Engineering (CSMR-WCRE 2014). IEEE, 2014: 174-183 <a href="wcre141.pdf">[PDF]</a> <br />
  
-19.      <strong>Xin Xia</strong>, Feng Yang, David Lo, Zhenyu Chen, Xinyu Wang. Towards More Accurate MultiLabel Software Behavior Learning. Joint Meeting of the 18th European Conference on Software Maintenance and Reengineering and the 21st Working Conference on Reverse Engineering (CSMR-WCRE 2014). IEEE, 2014: 134-143 <br />
+19.      <strong>Xin Xia</strong>, Feng Yang, David Lo, Zhenyu Chen, Xinyu Wang. Towards More Accurate MultiLabel Software Behavior Learning. Joint Meeting of the 18th European Conference on Software Maintenance and Reengineering and the 21st Working Conference on Reverse Engineering (CSMR-WCRE 2014). IEEE, 2014: 134-143 <a href="wcre142.pdf">[PDF]</a> <br />
  
-18.      <strong>Xin Xia</strong>, David Lo, Weiwei Qiu, Xingen Wang, Bo Zhou. Automated Configuration Bug Report Prediction Using Text Mining. In Proceedings of 38th IEEE Computer Software and Applications Conference (COMPSAC 2014). IEEE, 2014: 107 - 116. <br />
+18.      <strong>Xin Xia</strong>, David Lo, Weiwei Qiu, Xingen Wang, Bo Zhou. Automated Configuration Bug Report Prediction Using Text Mining. In Proceedings of 38th IEEE Computer Software and Applications Conference (COMPSAC 2014). IEEE, 2014: 107 - 116. <a href="compsac141.pdf">[PDF]</a> <br />
  
-17.      Lucia, David Lo, <strong>Xin Xia</strong>: Fusion fault localizers. 29th IEEE/ACM International Conference on Automated Software Engineering (ASE 2014): 127-138<br />
+17.      Lucia, David Lo, <strong>Xin Xia</strong>: Fusion fault localizers. 29th IEEE/ACM International Conference on Automated Software Engineering (ASE 2014): 127-138. <a href="ase14.pdf">[PDF]</a> <br />
  
-16.      Bo Zhou, <strong>Xin Xia</strong>, David Lo, Cong Tian, and Xinyu Wang. Towards More Accurate Content Categorization of API Discussions. In 22th International Conference on Program Comprehension (ICPC 2014). IEEE, 2014: 95 - 105 <br />
+16.      Bo Zhou, <strong>Xin Xia</strong>, David Lo, Cong Tian, and Xinyu Wang. Towards More Accurate Content Categorization of API Discussions. In 22th International Conference on Program Comprehension (ICPC 2014). IEEE, 2014: 95 - 105 <a href="icpc141.pdf">[PDF]</a> <br />
  
-15.      <strong>Xin Xia</strong>, David Lo, Xinyu Wang, and Bo Zhou. Automatic Defect Categorization Based On Fault Triggering Conditions. In Engineering of Complex Computer Systems (ICECCS)[C]//2013 19th International Conference on. IEEE, 2014: 39 - 48  <strong>(Best Student Paper Award!) </strong> <br />
+15.     <strong>Xin Xia</strong>, David Lo, Xingen Wang, Chenyi Zhang, Xinyu Wang. Cross-Language Bug Localization[C]// In 22th International Conference on Program Comprehension (ICPC 2014). IEEE, 2014:  275 - 278  <strong>(Most Promising Idea Award!) </strong> <a href="icpc142.pdf">[PDF]</a> <br />
  
-14.      <strong>Xin Xia</strong>, David Lo, Xingen Wang, Chenyi Zhang, Xinyu Wang. Cross-Language Bug Localization[C]// In 22th International Conference on Program Comprehension (ICPC 2014). IEEE, 2014:  275 - 278  <strong>(Most Promising Idea Award!) </strong> <br />
+14.        <strong>Xin Xia</strong>, David Lo, Xinyu Wang, and Bo Zhou. Automatic Defect Categorization Based On Fault Triggering Conditions. In Engineering of Complex Computer Systems (ICECCS)[C]//2013 19th International Conference on. IEEE, 2014: 39 - 48  <strong>(Best Student Paper Award!) </strong> <a href="iceccs14.pdf">[PDF]</a>  <br />
  
-13.      Bo Zhou, <strong>Xin Xia</strong>, David Lo, and Xinyu Wang. BuildPredictor: More Accurate Missed Dependency Prediction in Build Configuration Files[C]//In Proceedings of 38th IEEE Computer Software and Applications Conference (COMPSAC 2014). IEEE, 2014: 53-  58 . <br />
+13.      Bo Zhou, <strong>Xin Xia</strong>, David Lo, and Xinyu Wang. BuildPredictor: More Accurate Missed Dependency Prediction in Build Configuration Files[C]//In Proceedings of 38th IEEE Computer Software and Applications Conference (COMPSAC 2014). IEEE, 2014: 53-  58 . <a href="compsac142.pdf">[PDF]</a> <br />
  
-12.      <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Build System Analysis with Link Prediction[C]//29th ACM Symposium on Applied Computing (SAC 2014). ACM, 2014: 1184 - 1186. <br />
+12.     Xinyu Wang, David Lo, <strong>Xin Xia</strong>, Xingen Wang, Pavneet Singh Kochhar, Tian Yuan, Xiaohu Yang, Shanping Li, Jianling Sun, Bo Zhou. BOAT: An Experimental Platform for Researchers to Comparatively and Reproducibly Evaluate Bug Localization Techniques[C]//36thACM/IEEE International Conference on Software Engineering (ICSE 2014). IEEE, 2014: 572 -  575  (Tool Demo Paper) <a href="icse14.pdf">[PDF]</a> <br />
  
-11.    Xinyu Wang, David Lo, <strong>Xin Xia</strong>, Xingen Wang, Pavneet Singh Kochhar, Tian Yuan, Xiaohu Yang, Shanping Li, Jianling Sun, Bo Zhou. BOAT: An Experimental Platform for Researchers to Comparatively and Reproducibly Evaluate Bug Localization Techniques[C]//36thACM/IEEE International Conference on Software Engineering (ICSE 2014). IEEE, 2014: 572 -  575  (Tool Demo Paper) <br />
+11.     <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Build System Analysis with Link Prediction[C]//29th ACM Symposium on Applied Computing (SAC 2014). ACM, 2014: 1184 - 1186. <a href="sac141.pdf">[PDF]</a> <br />
  
-10.   Xiaoqiong Zhao, <strong>Xin Xia</strong>, Pavneet Singh Kochhar, David Lo, Shanping Li. An Empirical Study of Bugs in Build Process[C]// 29th ACM Symposium on Applied Computing (SAC 2014). ACM, 2014: 1187 - 1189  <br />
+10.   Xiaoqiong Zhao, <strong>Xin Xia</strong>, Pavneet Singh Kochhar, David Lo, Shanping Li. An Empirical Study of Bugs in Build Process[C]// 29th ACM Symposium on Applied Computing (SAC 2014). ACM, 2014: 1187 - 1189  <a href="sac142.pdf">[PDF]</a> <br />
  
  
 ### 2013
  
-9.    <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Accurate developer recommendation for bug resolution[C]// Reverse Engineering (WCRE), 2013 20th Working Conference on. IEEE, 2013: 72-81. <br />
+9.    <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Accurate developer recommendation for bug resolution[C]// Reverse Engineering (WCRE), 2013 20th Working Conference on. IEEE, 2013: 72-81. <a href="wcre13.pdf">[PDF]</a> <br />
  
-8.    <strong>Xin Xia</strong>, David Lo, Feng Zhu, Xinyu Wang, Bo Zhou. Software Internationalization and Localization: An Industrial Experience. In Engineering of Complex Computer Systems (ICECCS)[C]//2013 18th International Conference on. IEEE, 2013: 222-231. <br />
+8.    <strong>Xin Xia</strong>, David Lo, Feng Zhu, Xinyu Wang, Bo Zhou. Software Internationalization and Localization: An Industrial Experience. In Engineering of Complex Computer Systems (ICECCS)[C]//2013 18th International Conference on. IEEE, 2013: 222-231. <a href="iceccs13.pdf">[PDF]</a>  <br />
  
-7.    <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Tag recommendation in software information sites[C]// In Proceedings of the Tenth International Working Conference on Mining Software Repositories(MSR). IEEE, 2013: 287-296 <br />
+7.    <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Tag recommendation in software information sites[C]// In Proceedings of the Tenth International Working Conference on Mining Software Repositories(MSR). IEEE, 2013: 287-296 <a href="msr13.pdf">[PDF]</a>  <br />
  
-6.    <strong>Xin Xia</strong>, Xiaozhen Zhou, David Lo, and Xiaoqiong Zhao. An Empirical Study of Bugs in Software Build Systems. In Quality Software (QSIC)[C]// 2013 13th International Conference on. IEEE, 2013: 200-203 <br />
+6.    <strong>Xin Xia</strong>, Xiaozhen Zhou, David Lo, and Xiaoqiong Zhao. An Empirical Study of Bugs in Software Build Systems. In Quality Software (QSIC)[C]// 2013 13th International Conference on. IEEE, 2013: 200-203 <a href="qrs13.pdf">[PDF]</a>  <br />
  
-5.    <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Xiaohu Yang, Shanping Li, Jianling Sun. A Comparative Study of Supervised Learning Algorithms for Re-opened Bug Prediction[C]// In Software Maintenance and Reengineering (CSMR), 2013 17th European Conference on. IEEE, 2013: 331-334. <br />
+5.    <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Xiaohu Yang, Shanping Li, Jianling Sun. A Comparative Study of Supervised Learning Algorithms for Re-opened Bug Prediction[C]// In Software Maintenance and Reengineering (CSMR), 2013 17th European Conference on. IEEE, 2013: 331-334. <a href="csmr13.pdf">[PDF]</a>  <br />
  
-4.    <strong>Xin Xia</strong>, Xiaohu Yang, Shanping Li, Chao Wu. Instance-Ranking: a new perspective to consider the instance dependency for classification[C]// In Emerging Trends in Knowledge Discovery and Data Mining. Springer Berlin Heidelberg, 2013: 112-123. <br />
+4.    <strong>Xin Xia</strong>, Xiaohu Yang, Shanping Li, Chao Wu. Instance-Ranking: a new perspective to consider the instance dependency for classification[C]// In Emerging Trends in Knowledge Discovery and Data Mining. Springer Berlin Heidelberg, 2013: 112-123. <a href="pakdd13.pdf">[PDF]</a>  <br />
  
  
  
 ### 2012
  
  
-3.    <strong>Xin Xia</strong>, Xiaohu Yang, Chao Wu, Shanping Li, Linfeng Bao. Information credibility on twitter in emergency situation[C]// In Intelligence and Security Informatics. Springer Berlin Heidelberg, 2012: 45-59 <br />
+3.    <strong>Xin Xia</strong>, Xiaohu Yang, Chao Wu, Shanping Li, Linfeng Bao. Information credibility on twitter in emergency situation[C]// In Intelligence and Security Informatics. Springer Berlin Heidelberg, 2012: 45-59 <a href="isi12.pdf">[PDF]</a>  <br />
  
  
  
 ### 2011
  
  
-2.   <strong>Xin Xia</strong>, Xiaohu Yang, Shanping Li, Chao Wu, Linlin Zhou. RW. KNN: A proposed random walk knn algorithm for multi-label classification[C]// In Proceedings of the 4th workshop on Workshop for Ph. D. students in information & knowledge management. ACM, 2011: 87-90. <br />
+2.   <strong>Xin Xia</strong>, Xiaohu Yang, Shanping Li, Chao Wu, Linlin Zhou. RW. KNN: A proposed random walk knn algorithm for multi-label classification[C]// In Proceedings of the 4th workshop on Workshop for Ph. D. students in information & knowledge management. ACM, 2011: 87-90. <a href="pimk11.pdf">[PDF]</a>  <br />
  
-1.   Bo Zhou, Manna Wu, <strong>Xin Xia</strong>, Chao Wu. Ranking in Co-effecting Multi-object/Link Types Networks. In Tools with Artificial Intelligence (ICTAI)[C]// 2011 23rd IEEE International Conference on. IEEE, 2011: 519-522.  <br />
+1.   Bo Zhou, Manna Wu, <strong>Xin Xia</strong>, Chao Wu. Ranking in Co-effecting Multi-object/Link Types Networks. In Tools with Artificial Intelligence (ICTAI)[C]// 2011 23rd IEEE International Conference on. IEEE, 2011: 519-522. <a href="ictai11.pdf">[PDF]</a>   <br />
  
 
 
