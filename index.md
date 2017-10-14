@@ -9,7 +9,7 @@ permalink: /
 I am currently a post-doctoral research fellow at the University of British Columbia with
 a specialization in software analytics and mining software repositories. My advisors are Prof. [Gail C. Murphy] and Prof. [Reid Holmes]. Prior to joining UBC, I was a research assistant professor at College of Computer Science and Technology, Zhejiang University, China. 
 
-I got my Ph.D degree in June 2014 from College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang, and Prof. Jianling Sun. From July 1st , 2012 to January 1st ,2014, I was a visiting student of Prof. [David Lo] in Singapore Management Universiy. 
+I got my Ph.D degree in June 2014 from College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang, and Prof. Jianling Sun. From July, 2012 to January,2014, I was a visiting student of Prof. [David Lo] in Singapore Management Universiy. 
 
 
 To help developers and testers improve their productivity, my current research focuses on mining and analyzing
@@ -31,7 +31,7 @@ engineering data into automated tools and new insights.
 Xin Xia <br />
 Postdoctoral Research Fellow<br />
 Software Practices Lab <br />
-University of British Columbia <br />
+University of British Columbia, Vancouver, BC, Canada <br />
 Email: [xxia02@cs.ubc.ca]
 
 [Gail C. Murphy]: https://blogs.ubc.ca/gailcmurphy/
