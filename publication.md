@@ -1,4 +1,4 @@
-Ôªø---
+---
 layout: page
 title: Publications
 permalink: /publication/
@@ -67,7 +67,7 @@ permalink: /publication/
  
 4.     <strong>Xin Xia</strong>, David Lo, Emad Shihab, Xinyu Wang, Bo Zhou. Automatic, High Accuracy Prediction of Reopened Bugs. In Automated Software Engineering Journal (ASE Journal). In Press.   <br />
  
-3.     <strong>Xin Xia</strong>*, Liang Gong*, Tien-Duy B. Le , David Lo, Lingxiao Jiang, Hongyu Zhang. Diversity Maximization Speedup for Localizing Faults in Single-Fault and Multi-Faults Programs. In Automated Software Engineering Journal (ASE Journal).  In Press (*Joint First Author)    <br />
+3.     <strong>Xin Xia</strong>, Liang Gong, Tien-Duy B. Le , David Lo, Lingxiao Jiang, Hongyu Zhang. Diversity Maximization Speedup for Localizing Faults in Single-Fault and Multi-Faults Programs. In Automated Software Engineering Journal (ASE Journal).  In Press (*Joint First Author)    <br />
  
 2.     Yuan Tian, David Lo, <strong>Xin Xia</strong>, Chengnian Sun. Automated Prediction of Bug Report Priority Using Multi-Factor Analysis. In Empirical Software Engineering (EMSE Journal). In Press   <br />
  
@@ -86,7 +86,7 @@ permalink: /publication/
  
 57. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Dan Yang, Ling Xu. "Automating Aggregation for Software Quality Modeling". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a NIER paper. <br />
  
-56.  Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers‚Äô Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. <br />
+56.  Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers°Ø Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. <br />
  
 55.  Qiao Huang, David Lo, <strong>Xin Xia</strong>, Qingye Wang, Shanping Li. "Which Packages Would be Affected by This Bug Report?".  28th IEEE International Symposium on Software Reliability Engineering (ISSRE 2017). Accepted as a Full Paper. <br />
  
@@ -98,7 +98,7 @@ permalink: /publication/
    
 51. Meng Yan, Yicheng Fang, David Lo, <strong>Xin Xia</strong>, Xiaohong Zhang. "File-Level Defect Prediction: Unsupervised vs. Supervised Models".  11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). Accepted as a Full Paper <br />
    
-50. Meng Yan, Xiaohong Zhang, Ling Xu, Haibo Hu, Song Sun, <strong>Xin Xia</strong>. ‚ÄúRevisiting the Correlation between Alerts and Software Defects-A Case Study on MyFaces, Camel, and CXF‚Äù. The 41th Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Short Paper. <br />
+50. Meng Yan, Xiaohong Zhang, Ling Xu, Haibo Hu, Song Sun, <strong>Xin Xia</strong>. °∞Revisiting the Correlation between Alerts and Software Defects-A Case Study on MyFaces, Camel, and CXF°±. The 41th Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Short Paper. <br />
  
 49. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai. "Bug Characteristics in Blockchain Systems: A Large-Scale Empirical Study". 14th International Conference on Mining Software Repositories (MSR 2017). Accepted as a Full Paper. <br />
  
