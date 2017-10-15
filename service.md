@@ -9,7 +9,7 @@ permalink: /service/
 
 <ol>
 <li>Program Committee  -- 15th Working Conference on Mining Software Repositories (MSR 2018) </li>
-<li>Program Committee  --  33nd ACM SIGAPP Symposium On Applied Computing (SAC 2018 SE Track) </li>
+<li>Program Committee  --  33rd ACM SIGAPP Symposium On Applied Computing (SAC 2018 SE Track) </li>
 <li>Program Committee  -- 2018 Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2018)</li>
 <li>Program Committee  -- The Fourth International Conference on Advances and Trends in Software Engineering (SOFTENG 2018) </li>
 </ol>
@@ -19,7 +19,7 @@ permalink: /service/
 
 <ol>
 <li>Program Committee -- 13th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2017) </li>
-<li>Program Committee  --  32st IEEE/ACM International Conference on Automated Software Engineering (ASE 2017) (Tool Demo Track) </li>
+<li>Program Committee  --  32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017) (Tool Demo Track) </li>
 <li>Program Committee  --  33rd International Conference on Software Maintenance and Evolution (ICSME 2017) </li>
 <li>Program Committee  -- 14th Working Conference on Mining Software Repositories (MSR 2017) </li>
 <li>Program Committee  -- 25th  International Conference on Program Comprehension (ICPC 2017) </li>
