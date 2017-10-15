@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professoinal Service
+title: Professoinal Services
 permalink: /service/
 ---
 
