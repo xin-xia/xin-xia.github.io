@@ -86,7 +86,7 @@ permalink: /publication/
  
 57. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Dan Yang, Ling Xu. "Automating Aggregation for Software Quality Modeling". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017). Accepted as a NIER paper.  <a href="icsme171.pdf">[PDF]</a> <br />
  
-56.  Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers’ Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. <a href="ase17.pdf">[PDF]</a> <br />
+56.  Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers�?Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. <a href="ase17.pdf">[PDF]</a> <br />
  
 55.  Qiao Huang, David Lo, <strong>Xin Xia</strong>, Qingye Wang, Shanping Li. "Which Packages Would be Affected by This Bug Report?".  28th IEEE International Symposium on Software Reliability Engineering (ISSRE 2017). Accepted as a Full Paper. <a href="issre17.pdf">[PDF]</a> <br />
  
@@ -98,7 +98,7 @@ permalink: /publication/
    
 51. Meng Yan, Yicheng Fang, David Lo, <strong>Xin Xia</strong>, Xiaohong Zhang. "File-Level Defect Prediction: Unsupervised vs. Supervised Models".  11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). Accepted as a Full Paper. <a href="esem17.pdf">[PDF]</a><br />
    
-50. Meng Yan, Xiaohong Zhang, Ling Xu, Haibo Hu, Song Sun, <strong>Xin Xia</strong>. “Revisiting the Correlation between Alerts and Software Defects-A Case Study on MyFaces, Camel, and CXF”. The 41th Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Short Paper. <a href="compsac17.pdf">[PDF]</a> <br />
+50. Meng Yan, Xiaohong Zhang, Ling Xu, Haibo Hu, Song Sun, <strong>Xin Xia</strong>. “Revisiting the Correlation between Alerts and Software Defects-A Case Study on MyFaces, Camel, and CXF�? The 41th Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Short Paper. <a href="compsac17.pdf">[PDF]</a> <br />
  
 49. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai. "Bug Characteristics in Blockchain Systems: A Large-Scale Empirical Study". 14th International Conference on Mining Software Repositories (MSR 2017). Accepted as a Full Paper. <a href="msr171.pdf">[PDF]</a> <br />
  
@@ -216,7 +216,7 @@ permalink: /publication/
 ### 2011
  
  
-2.   <strong>Xin Xia</strong>, Xiaohu Yang, Shanping Li, Chao Wu, Linlin Zhou. RW. KNN: A proposed random walk knn algorithm for multi-label classification[C]// In Proceedings of the 4th workshop on Workshop for Ph. D. students in information & knowledge management. ACM, 2011: 87-90. <a href="pimk11.pdf">[PDF]</a>  <br />
+2.   <strong>Xin Xia</strong>, Xiaohu Yang, Shanping Li, Chao Wu, Linlin Zhou. RW. KNN: A proposed random walk knn algorithm for multi-label classification[C]// In Proceedings of the 4th workshop on Workshop for Ph. D. students in information & knowledge management. ACM, 2011: 87-90. <a href="pikm11.pdf">[PDF]</a>  <br />
  
 1.   Bo Zhou, Manna Wu, <strong>Xin Xia</strong>, Chao Wu. Ranking in Co-effecting Multi-object/Link Types Networks. In Tools with Artificial Intelligence (ICTAI)[C]// 2011 23rd IEEE International Conference on. IEEE, 2011: 519-522. <a href="ictai11.pdf">[PDF]</a>   <br />
  
