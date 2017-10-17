@@ -13,7 +13,7 @@ permalink: /publication/
 
 ### 2017
 
-27. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Domain-Specific Cross-Language Relevant Question  Retrieval". Empirical Software Engineering (EMSE).  Accepted. <a href="emse174.pdf">[PDF]</a>  <br />
+27. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Domain-Specific Cross-Language Relevant Question  Retrieval". Empirical Software Engineering (EMSE).  Accepted. <a href="EMSE174.pdf">[PDF]</a>  <br />
    
 26. Xiaobing Sun, Hui Yang, <strong>Xin Xia</strong>, Bin Li. "Enhancing Developer Recommendation with Supplementary Information via Mining Historical Commits". Journal of Systems and Software (JSS). Accepted. <a href="jss17.pdf">[PDF]</a> <br />
 
