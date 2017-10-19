@@ -31,6 +31,7 @@ permalink: /service/
 <li>Journal referee -- Journal of Software: Evolution and Process </li>
 <li>Journal referee -- Journal of Systems and Software </li>
 <li>Journal referee --  Software: Practice and Experience </li>
+<li>Journal referee -- Software Testing, Verification and Reliability</li>
 <li>Review Board -- Empirical Software Engineering (2015-2016) </li>
 </ol>
 
