@@ -24,7 +24,7 @@ engineering data into automated tools and new insights.
 
 ## News
 
-1. I will will join the Faculty of Information Technology, Monash University, Australia as a lecturer (equivalent to U.S. assistant professor) from January, 2018.
+1. I will  join the Faculty of Information Technology, Monash University, Australia as a lecturer (equivalent to U.S. assistant professor) from January, 2018.
 
 ## Contact
 
