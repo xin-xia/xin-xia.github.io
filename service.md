@@ -8,9 +8,11 @@ permalink: /service/
 ## 2018
 
 <ol>
+<li>Program Committee  -- 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2018 SETA Track) </li>
 <li>Program Committee  -- 26th  International Conference on Program Comprehension (ICPC 2018) </li>
 <li>Program Committee  -- 15th Working Conference on Mining Software Repositories (MSR 2018) </li>
 <li>Program Committee  --  33rd ACM SIGAPP Symposium On Applied Computing (SAC 2018 SE Track) </li>
+<li>Program Committee  -- 6th International Workshop on Green and Sustainable Software (GREEN 2018 at ICSE 2018) </li>
 <li>Program Committee  -- 2018 Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2018)</li>
 <li>Program Committee  -- The Fourth International Conference on Advances and Trends in Software Engineering (SOFTENG 2018) </li>
 </ol>
@@ -32,6 +34,7 @@ permalink: /service/
 <li>Journal referee -- Journal of Software: Evolution and Process </li>
 <li>Journal referee -- Journal of Systems and Software </li>
 <li>Journal referee --  Software: Practice and Experience </li>
+<li>Journal referee --  IET Software  </li>
 <li>Journal referee -- Software Testing, Verification and Reliability</li>
 <li>Review Board -- Empirical Software Engineering (2015-2016) </li>
 </ol>
