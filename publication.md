@@ -13,6 +13,8 @@ permalink: /publication/
 
 ### 2017
 
+28. Yun Zhang, David Lo,  <strong>Xin Xia</strong>, Giuseppe Scanniello, Tien-Duy B. Le, Jianling Sun. "Fusing Multi-Abstraction Vector Space Models for Concern Localization". Empirical Software Engineering (EMSE).  Accepted. <a href="EMSE175.pdf">[PDF]</a>  <br />
+
 27. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Domain-Specific Cross-Language Relevant Question  Retrieval". Empirical Software Engineering (EMSE).  Accepted. <a href="EMSE174.pdf">[PDF]</a>  <br />
    
 26. Xiaobing Sun, Hui Yang, <strong>Xin Xia</strong>, Bin Li. "Enhancing Developer Recommendation with Supplementary Information via Mining Historical Commits". Journal of Systems and Software (JSS). Accepted. <a href="jss17.pdf">[PDF]</a> <br />
@@ -94,9 +96,9 @@ permalink: /publication/
  
 54. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo Xuan-Bach D. Le. "XSearch: A DomainSpecific Cross-Language Relevant Question Retrieval Tool". 11th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017). Accepted as a tool demo paper. <a href="fse17.pdf">[PDF]</a> <br />
  
-53.  <strong>Xin Xia</strong>, David Lo, Lingfeng Bao, Abhishek Sharma,  Shanping Li.  "Personality and Project Success: Insights from a Large-Scale Study with Professionals''. 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a Full Paper. <a href="icsme172.pdf">[PDF]</a> <br />
+53.  <strong>Xin Xia</strong>, David Lo, Lingfeng Bao, Abhishek Sharma,  Shanping Li.  "Personality and Project Success: Insights from a Large-Scale Study with Professionals''. 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a Full Paper.  (Invited to Empirical Software Engineering Journal) <a href="icsme172.pdf">[PDF]</a> <br />
  
-52. Qiao Huang, <strong>Xin Xia</strong>, David Lo. "Supervised vs Unsupervised Models: A Holistic Look at Effort-Aware Just-in-Time Defect Prediction". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a Full Paper. <a href="icsme173.pdf">[PDF]</a><br />
+52. Qiao Huang, <strong>Xin Xia</strong>, David Lo. "Supervised vs Unsupervised Models: A Holistic Look at Effort-Aware Just-in-Time Defect Prediction". 33nd International Conference on Software Maintenance and Evolution (ICSME 2017).  Accepted as a Full Paper. (Invited to Empirical Software Engineering Journal) <a href="icsme173.pdf">[PDF]</a><br />
    
 51. Meng Yan, Yicheng Fang, David Lo, <strong>Xin Xia</strong>, Xiaohong Zhang. "File-Level Defect Prediction: Unsupervised vs. Supervised Models".  11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). Accepted as a Full Paper. <a href="esem17.pdf">[PDF]</a><br />
    
