@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 ---
 
-6. <strong>Nominated for Distinguished Paper Award</strong>, 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME 2017), September 2016 <strong>(Two Papers)</strong> <br />
+6. <strong>Nominated for Distinguished Paper Award</strong>, 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME 2017), September 2017 <strong>(Two Papers)</strong> <br />
 
 5. <strong>TSE Featured Paper</strong>, IEEE Transactions on Software Engineering, October 2016 Issue <br />
 
