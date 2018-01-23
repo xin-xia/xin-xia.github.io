@@ -80,6 +80,10 @@ permalink: /publication/
  
 ## Conference Papers
  
+### 2018
+
+61. Zhongxin Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo and Shanping Li. "SATD Detector: A Text-Mining-Based Self-Admitted Technical Debt Detection Tool".   40th International Conference on Software Engineering (ICSE 2018).  Accepted as a tool demo paper.  <br />
+ 
 ### 2017 
  
 60. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Ling Xu, Dan Yang. "A Systematic Mapping Study of Quality Assessment Models for Software Products". The Annual Conference on Software Analysis, Testing and Evolution (SATE 2017). Accepted as a Full Paper.  <a href="sate17.pdf">[PDF]</a> <br />
