@@ -11,6 +11,7 @@ permalink: /service/
 ## 2018
 
 <ol>
+<li>Program Committee  --  34th International Conference on Software Maintenance and Evolution (ICSME 2018) </li>
 <li>Program Committee  -- 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2018 SETA Track) </li>
 <li>Program Committee  -- 26th  International Conference on Program Comprehension (ICPC 2018) </li>
 <li>Program Committee  -- 15th Working Conference on Mining Software Repositories (MSR 2018) </li>
