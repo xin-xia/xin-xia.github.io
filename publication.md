@@ -11,6 +11,10 @@ permalink: /publication/
 
 ## Journal Papers
 
+### 2018
+
+29. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.  <br />
+
 ### 2017
 
 28. Yun Zhang, David Lo,  <strong>Xin Xia</strong>, Giuseppe Scanniello, Tien-Duy B. Le, Jianling Sun. "Fusing Multi-Abstraction Vector Space Models for Concern Localization". Empirical Software Engineering (EMSE).  Accepted. <a href="EMSE175.pdf">[PDF]</a>  <br />
