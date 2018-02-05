@@ -25,7 +25,7 @@ engineering data into automated tools and new insights.
 ## Contact
 
 Xin Xia <br />
-Lectturer<br />
+Lecturer<br />
 Faculty of Information Technology <br />
 Monash University, Melbourne, VIC, Australia <br />
 Email: [xin.xia@monash.edu]
