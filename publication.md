@@ -13,7 +13,7 @@ permalink: /publication/
 
 ### 2018
 
-29. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.  <br />
+29. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.  <a href="tse19.pdf">[PDF]</a><br />
 
 ### 2017
 
