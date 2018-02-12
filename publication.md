@@ -13,6 +13,8 @@ permalink: /publication/
 
 ### 2018
 
+30. Yuanrui Fan,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks". Empirical Software Engineering (EMSE).  Accepted. <br />
+
 29. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.  <a href="tse19.pdf">[PDF]</a><br />
 
 ### 2017
@@ -86,7 +88,7 @@ permalink: /publication/
  
 ### 2018
 
-61. Zhongxin Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo and Shanping Li. "SATD Detector: A Text-Mining-Based Self-Admitted Technical Debt Detection Tool".   40th International Conference on Software Engineering (ICSE 2018).  Accepted as a tool demo paper.  <br />
+61. Zhongxin Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo and Shanping Li. "SATD Detector: A Text-Mining-Based Self-Admitted Technical Debt Detection Tool".   40th International Conference on Software Engineering (ICSE 2018).  Accepted as a tool demo paper.  <a href="icse18.pdf">[PDF]</a>  <br />
  
 ### 2017 
  
