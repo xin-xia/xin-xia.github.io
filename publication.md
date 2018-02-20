@@ -39,7 +39,7 @@ permalink: /publication/
  
 19. Xinli Yang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "TLEL: A Two-Layer Ensemble Learning Approach For Just-In-Time Defect Prediction". In Information and Software Technology (IST Journal). Accepted.  <a href="ist172.pdf">[PDF]</a> <br />
  
-18. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "Combined Classifier for Cross-project Defect Prediction: An Extended Empirical Study". Frontiers of Computer Science (FCS). Accepted. <br />
+18. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "Combined Classifier for Cross-project Defect Prediction: An Extended Empirical Study". Frontiers of Computer Science (FCS). Accepted. <a href="fcs.pdf">[PDF]</a><br />
  
 ### 2016
  
