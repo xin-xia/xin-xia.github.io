@@ -88,6 +88,8 @@ permalink: /publication/
  
 ### 2018
 
+63. Li Li, Jun Gao, Tegawendé F. Bissyandé, Lei Ma,  <strong>Xin Xia</strong>,  Jacques Klein. "Characterising Deprecated Android APIs".  15th International Conference on Mining Software Repositories (MSR 2018). Accepted as a Full Paper.  <br />
+
 62.  Giovanni Viviani, Calahan Janik-Jones, Michalis Famelis,  <strong>Xin Xia</strong>, Gail C. Murphy. "What Design is Discussed by Developers?". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a ERA track paper.   <br />
 
 61. Zhongxin Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo and Shanping Li. "SATD Detector: A Text-Mining-Based Self-Admitted Technical Debt Detection Tool".   40th International Conference on Software Engineering (ICSE 2018).  Accepted as a tool demo paper.  <a href="icse18.pdf">[PDF]</a>  <br />
