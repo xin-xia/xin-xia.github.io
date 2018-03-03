@@ -96,7 +96,7 @@ permalink: /publication/
  
 ### 2017 
  
-60. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Ling Xu, Dan Yang. "A Systematic Mapping Study of Quality Assessment Models for Software Products". The Annual Conference on Software Analysis, Testing and Evolution (SATE 2017). Accepted as a Full Paper.  <a href="sate17.pdf">[PDF]</a> <br />
+60. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Ling Xu, Dan Yang. "A Systematic Mapping Study of Quality Assessment Models for Software Products". The Annual Conference on Software Analysis, Testing and Evolution (SATE 2017). Accepted as a Full Paper. <strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong> <a href="sate17.pdf">[PDF]</a> <br />
  
 59. Wenyuan Xu, Xiaobing Sun, <strong>Xin Xia</strong>, Xiang Chen. "Scalable Relevant Project Recommendation on GitHub". Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Full paper.<strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong>  <a href="internetware171.pdf">[PDF]</a> <br />
  

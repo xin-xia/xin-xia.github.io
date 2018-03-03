@@ -12,7 +12,7 @@ permalink: /service/
 ## 2018
 
 <ol>
-<li>Program Board  -- 29th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2018) </li> 
+<li>Program Commitee -- 29th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2018) </li> 
 <li>Program Committee  --  34th International Conference on Software Maintenance and Evolution (ICSME 2018) </li>
 <li>Program Committee  -- 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2018 SETA Track) </li>
 <li>Program Committee  -- 26th  International Conference on Program Comprehension (ICPC 2018) </li>
@@ -27,6 +27,8 @@ permalink: /service/
 <li>Journal referee -- Journal of Systems and Software </li>
 <li>Journal referee -- IET Software </li>
 <li>Journal referee -- Automated Software Engineering </li>
+<li>Journal referee -- SCIENCE CHINA Information Sciences  </li>
+
 </ol>
 
 
@@ -49,6 +51,7 @@ permalink: /service/
 <li>Journal referee --  Software: Practice and Experience </li>
 <li>Journal referee --  IET Software  </li>
 <li>Journal referee -- Software Testing, Verification and Reliability</li>
+<li>Journal referee -- SCIENCE CHINA Information Sciences  </li>
 <li>Review Board -- Empirical Software Engineering (2015-2016) </li>
 </ol>
 
