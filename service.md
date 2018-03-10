@@ -20,7 +20,7 @@ permalink: /service/
 <li>Program Committee  --  33rd ACM SIGAPP Symposium On Applied Computing (SAC 2018 SE Track) </li>
 <li>Program Committee  -- 6th International Workshop on Green and Sustainable Software (GREEN 2018 at ICSE 2018) </li>
 <li>Program Committee  -- 2018 Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2018)</li>
-<li>Program Committee  -- The Fourth International Conference on Advances and Trends in Software Engineering (SOFTENG 2018) </li>
+<li>Program Committee  -- Chinese Annual Conference on Software Analysis, Testing and Evolution.(SETA 2018) </li>
 <li>Journal referee -- IEEE Transactions on Software Engineering </li>
 <li>Journal referee -- Empirical Software Engineering </li>
 <li>Journal referee -- Journal of Software: Evolution and Process </li>

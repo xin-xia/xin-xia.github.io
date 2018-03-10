@@ -33,5 +33,5 @@ Email: [xin.xia@monash.edu]
 [Gail C. Murphy]: https://blogs.ubc.ca/gailcmurphy/
 [Reid Holmes]: https://www.cs.ubc.ca/~rtholmes/index.html
 [David Lo]: http://www.mysmu.edu/faculty/davidlo/
-[xin.xia@monash.edu]: mailto:xxia02@cs.ubc.ca
+[xin.xia@monash.edu]: mailto:xin.xia@monash.edu
 
