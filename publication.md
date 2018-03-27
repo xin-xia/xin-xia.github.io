@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Publications 
 permalink: /publication/
@@ -13,7 +13,7 @@ permalink: /publication/
 
 ### 2018
 
-30. Yuanrui Fan,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks". Empirical Software Engineering (EMSE).  Accepted. <br />
+30. Yuanrui Fan,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks". Empirical Software Engineering (EMSE).  Accepted. <a href="emse181.pdf">[PDF]</a><br />
 
 29. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.  <a href="tse19.pdf">[PDF]</a><br />
 
@@ -88,13 +88,13 @@ permalink: /publication/
  
 ### 2018
 
-65. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jing Jiang, Jianling Sun. "Recommending Frequently Encountered Bugs". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full  paper.   <br />
+65. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jing Jiang, Jianling Sun. "Recommending Frequently Encountered Bugs". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full  paper. <a href="icpc183.pdf">[PDF]</a>  <br />
 
-64. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Zhi Jin. "Deep Code Comment Generation". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full  paper.   <br />
+64. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Zhi Jin. "Deep Code Comment Generation". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full  paper. <a href="icpc182.pdf">[PDF]</a>  <br />
 
-63. Li Li, Jun Gao, Tegawendé F. Bissyandé, Lei Ma,  <strong>Xin Xia</strong>,  Jacques Klein. "Characterising Deprecated Android APIs".  15th International Conference on Mining Software Repositories (MSR 2018). Accepted as a Full Paper.  <br />
+63. Li Li, Jun Gao, Tegawendé F. Bissyandé, Lei Ma,  <strong>Xin Xia</strong>,  Jacques Klein. "Characterising Deprecated Android APIs".  15th International Conference on Mining Software Repositories (MSR 2018). Accepted as a Full Paper. <a href="msr18.pdf">[PDF]</a> <br />
 
-62.  Giovanni Viviani, Calahan Janik-Jones, Michalis Famelis,  <strong>Xin Xia</strong>, Gail C. Murphy. "What Design is Discussed by Developers?". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a ERA track paper.   <br />
+62.  Giovanni Viviani, Calahan Janik-Jones, Michalis Famelis,  <strong>Xin Xia</strong>, Gail C. Murphy. "What Design is Discussed by Developers?". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a ERA track paper. <a href="icpc181.pdf">[PDF]</a>  <br />
 
 61. Zhongxin Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo and Shanping Li. "SATD Detector: A Text-Mining-Based Self-Admitted Technical Debt Detection Tool".   40th International Conference on Software Engineering (ICSE 2018).  Accepted as a tool demo paper.  <a href="icse18.pdf">[PDF]</a>  <br />
  
