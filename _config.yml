@@ -4,7 +4,6 @@ sourcecode: "https://github.com/xin-xia/xin-xia.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
-encoding: UTF-8
 url: "https://xin-xia.github.io/"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
