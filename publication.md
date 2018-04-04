@@ -87,16 +87,15 @@ permalink: /publication/
 ## Conference Papers
  
 ### 2018
+
 67. Chao Liu,  Dan Yang,  <strong>Xin Xia</strong>, Meng Yan,  Xiaohong Zhang. "Cross-Project Change-Proneness Prediction". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Full Paper <br />
 
-66. Xiaoxue Ren,  Qiao Huang,  <strong>Xin Xia</strong>,  Zhenchang Xing,  Lingfeng Bao,  and David Lo. "Characterizing Common and Domain-Specific Package Bugs: A Case Study on Ubuntu". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Short Paper <br />
-
+66. Xiaoxue Ren,  Qiao Huang,  Xin Xia,  Zhenchang Xing,  Lingfeng Bao,  David Lo. "Characterizing Common and Domain-Specific Package Bugs: A Case Study on Ubuntu". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2017). Accepted as a Short Paper <br />
 
 65. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jing Jiang, Jianling Sun. "Recommending Frequently Encountered Bugs". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full  paper. <a href="icpc183.pdf">[PDF]</a>  <br />
 
 64. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Zhi Jin. "Deep Code Comment Generation". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full  paper. <a href="icpc182.pdf">[PDF]</a>  <br />
 
- 
 63. Li Li, Jun Gao, Tegawende F. Bissyande, Lei Ma,  <strong>Xin Xia</strong>,  Jacques Klein. "Characterising Deprecated Android APIs".  15th International Conference on Mining Software Repositories (MSR 2018). Accepted as a Full Paper. <a href="msr18.pdf">[PDF]</a> <br />
 
 62.  Giovanni Viviani, Calahan Janik-Jones, Michalis Famelis,  <strong>Xin Xia</strong>, Gail C. Murphy. "What Design is Discussed by Developers?". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a ERA track paper. <a href="icpc181.pdf">[PDF]</a>  <br />
