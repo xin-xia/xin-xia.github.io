@@ -13,6 +13,8 @@ permalink: /publication/
 
 ### 2018
 
+31. Xiaobing Sun, Wenyuan Xu,   <strong>Xin Xia</strong>, Xiang Chen, Bin Li. "Personalized Project Recommendation on GitHub". In SCIENCE CHINA Information Sciences (SCIS). Accepted. <br />
+
 30. Yuanrui Fan,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks". Empirical Software Engineering (EMSE).  Accepted. <a href="emse181.pdf">[PDF]</a><br />
 
 29. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.  <a href="tse19.pdf">[PDF]</a><br />
