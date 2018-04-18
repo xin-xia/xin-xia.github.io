@@ -13,7 +13,7 @@ permalink: /publication/
 
 ### 2018
 
-31. Xiaobing Sun, Wenyuan Xu,   <strong>Xin Xia</strong>, Xiang Chen, Bin Li. "Personalized Project Recommendation on GitHub". In SCIENCE CHINA Information Sciences (SCIS). Accepted. <br />
+31. Xiaobing Sun, Wenyuan Xu,   <strong>Xin Xia</strong>, Xiang Chen, Bin Li. "Personalized Project Recommendation on GitHub". In SCIENCE CHINA Information Sciences (SCIS). Accepted. <a href="scis18.pdf">[PDF]</a><br />
 
 30. Yuanrui Fan,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks". Empirical Software Engineering (EMSE).  Accepted. <a href="emse181.pdf">[PDF]</a><br />
 
