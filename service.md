@@ -12,6 +12,7 @@ permalink: /service/
 ## 2018
 
 <ol>
+<li>Local Chair  -- 23rd International Conference on Engineering of Complex Computer Systems (ICECCS 2018)</li>
 <li>Program Commitee -- 29th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2018) </li> 
 <li>Program Committee  --  34th International Conference on Software Maintenance and Evolution (ICSME 2018) </li>
 <li>Program Committee  -- 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2018 SETA Track) </li>
