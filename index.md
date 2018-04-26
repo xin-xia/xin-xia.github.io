@@ -25,6 +25,7 @@ engineering data into automated tools and new insights.
 ### Selected Publications
 1. Meng Yan, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang. "Automating Change-level Self-admitted Technical Debt Determination". IEEE Transactions on Software Engineering (TSE), 20 pages, 2018.  Accepted. <br />
 2. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages, 2018.   Accepted. <br />
+3. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Measuring Program Comprehension: A Large-Scale Field Study with Professionals".  IEEE Transactions on Software Engineering (TSE), 26 pages, 2017.  Accepted.    <br />
  
 ## Contact
 
