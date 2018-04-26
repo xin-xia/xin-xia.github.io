@@ -26,6 +26,14 @@ engineering data into automated tools and new insights.
 1. Meng Yan, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang. "Automating Change-level Self-admitted Technical Debt Determination". IEEE Transactions on Software Engineering (TSE), 20 pages, 2018.  Accepted. <br />
 2. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages, 2018.   Accepted. <br />
 3. <strong>Xin Xia</strong>, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Measuring Program Comprehension: A Large-Scale Field Study with Professionals".  IEEE Transactions on Software Engineering (TSE), 26 pages, 2017.  Accepted.    <br />
+4. <strong>Xin Xia</strong>, David Lo, Ying Ding, Jafar M. Al-Kofahi, Tien N. Nguyen, Xinyu Wang. "Improving Automated Bug Triaging with Specialized Topic Model".  IEEE Transactions on Software Engineering (TSE) 43(3): 272-297 (2017)  <br />
+5.  <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE) 42(10): 977-998 (2016)
+ <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
+6. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper <br />
+7. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers' Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017): 706-716  <br />
+8.  Bowen Xu, Deheng Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Guibin Chen, Shanping Li. "Predicting Semantically Linkable Knowledge in Developer Online Forums via Convolutional Neural Network".  31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016): 51-62   <br />
+9.  Lucia, David Lo, <strong>Xin Xia</strong>: Fusion fault localizers. 29th IEEE/ACM International Conference on Automated Software Engineering (ASE 2014): 127-138.  <br />
+ 
  
 ## Contact
 
