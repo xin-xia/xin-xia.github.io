@@ -94,7 +94,7 @@ permalink: /publication/
 
 68. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper  <a href="ijcai18.pdf">[PDF]</a> <br />
 
-67. Chao Liu,  Dan Yang,  <strong>Xin Xia</strong>, Meng Yan,  Xiaohong Zhang. "Cross-Project Change-Proneness Prediction". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018). Accepted as a Full Paper <br />
+67. Chao Liu,  Dan Yang,  <strong>Xin Xia</strong>, Meng Yan,  Xiaohong Zhang. "Cross-Project Change-Proneness Prediction". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018). Accepted as a Full Paper  <a href="compsac181.pdf">[PDF]</a> <br />
 
 66. Xiaoxue Ren,  Qiao Huang,  <strong>Xin Xia</strong>,  Zhenchang Xing,  Lingfeng Bao,  David Lo. "Characterizing Common and Domain-Specific Package Bugs: A Case Study on Ubuntu". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018). Accepted as a Short Paper <br />
 
