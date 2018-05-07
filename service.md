@@ -13,6 +13,7 @@ permalink: /service/
 
 <ol>
 <li>Local Chair  -- 23rd International Conference on Engineering of Complex Computer Systems (ICECCS 2018)</li>
+<li>Program Committee -- 14th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2018) </li>
 <li>Program Commitee -- 25th Australasian Software Engineering Conference (ASWEC 2018)</li>
 <li>Program Commitee -- 29th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2018) </li> 
 <li>Program Committee  --  34th International Conference on Software Maintenance and Evolution (ICSME 2018) </li>
