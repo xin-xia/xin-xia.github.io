@@ -96,7 +96,7 @@ permalink: /publication/
 
 67. Chao Liu,  Dan Yang,  <strong>Xin Xia</strong>, Meng Yan,  Xiaohong Zhang. "Cross-Project Change-Proneness Prediction". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018). Accepted as a Full Paper  <a href="compsac181.pdf">[PDF]</a> <br />
 
-66. Xiaoxue Ren,  Qiao Huang,  <strong>Xin Xia</strong>,  Zhenchang Xing,  Lingfeng Bao,  David Lo. "Characterizing Common and Domain-Specific Package Bugs: A Case Study on Ubuntu". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018). Accepted as a Short Paper <br />
+66. Xiaoxue Ren,  Qiao Huang,  <strong>Xin Xia</strong>,  Zhenchang Xing,  Lingfeng Bao,  David Lo. "Characterizing Common and Domain-Specific Package Bugs: A Case Study on Ubuntu". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018). <a href="compsac182.pdf">[PDF]</a>  Accepted as a Short Paper <br />
 
 65. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jing Jiang, Jianling Sun. "Recommending Frequently Encountered Bugs". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full  paper. <a href="icpc183.pdf">[PDF]</a>  <br />
 
