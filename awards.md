@@ -4,6 +4,12 @@ title: Awards
 permalink: /awards/
 ---
 
+8. <strong>ACM SIGSOFT Distinguished Paper Award</strong>,  26th International Conference on Program Comprehension (ICPC 2018), May 2018 <br />
+
+7. <strong>FOSS Impact Paper Award</strong>, 15th ACM/IEEE International Conference
+on Mining Software Repositories (MSR 2018), May 2018 <br />
+
+
 6. <strong>Nominated for Distinguished Paper Award</strong>, 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME 2017), September 2017 <strong>(Two Papers)</strong> <br />
 
 5. <strong>TSE Featured Paper</strong>, IEEE Transactions on Software Engineering, October 2016 Issue <br />
