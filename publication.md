@@ -13,13 +13,13 @@ permalink: /publication/
 
 ### 2018
 
-32. Meng Yan, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang. "Automating Change-level Self-admitted Technical Debt Determination". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.  <strong>(Invited to ESEC/FSE2018 as part of the Journal First Paper Track.)  </strong>   <a href="tse182.pdf">[PDF]</a><br />
+32. Meng Yan, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang. "Automating Change-level Self-admitted Technical Debt Determination". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.  <strong>(Invited to ESEC/FSE 2018 as part of the Journal First Paper Track.)  </strong>   <a href="tse182.pdf">[PDF]</a><br />
 
 31. Xiaobing Sun, Wenyuan Xu,   <strong>Xin Xia</strong>, Xiang Chen, Bin Li. "Personalized Project Recommendation on GitHub". In SCIENCE CHINA Information Sciences (SCIS). Accepted. <a href="scis18.pdf">[PDF]</a><br />
 
-30. Yuanrui Fan,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks". Empirical Software Engineering (EMSE).  Accepted.  <strong>(Invited to ESEC/FSE2018 as part of the Journal First Paper Track.)  </strong> <a href="emse181.pdf">[PDF]</a><br />
+30. Yuanrui Fan,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks". Empirical Software Engineering (EMSE).  Accepted.  <strong>(Invited to ESEC/FSE 2018 as part of the Journal First Paper Track.)  </strong> <a href="emse181.pdf">[PDF]</a><br />
 
-29. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.   <strong>(Invited to ESEC/FSE2018 as part of the Journal First Paper Track.)  </strong><a href="tse19.pdf">[PDF]</a><br />
+29. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.   <strong>(Invited to ESEC/FSE 2018 as part of the Journal First Paper Track.)  </strong><a href="tse19.pdf">[PDF]</a><br />
 
 ### 2017
 
