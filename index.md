@@ -29,10 +29,12 @@ engineering data into automated tools and new insights.
 4. <strong>Xin Xia</strong>, David Lo, Ying Ding, Jafar M. Al-Kofahi, Tien N. Nguyen, Xinyu Wang. "Improving Automated Bug Triaging with Specialized Topic Model".  IEEE Transactions on Software Engineering (TSE) 43(3): 272-297 (2017)  <br />
 5. <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE) 42(10): 977-998 (2016)
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
-6. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers' Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017): 706-716  <br />
-7. Bowen Xu, Deheng Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Guibin Chen, Shanping Li. "Predicting Semantically Linkable Knowledge in Developer Online Forums via Convolutional Neural Network".  31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016): 51-62   <br />
-8.  Lucia, David Lo, <strong>Xin Xia</strong>: Fusion fault localizers. 29th IEEE/ACM International Conference on Automated Software Engineering (ASE 2014): 127-138.  <br />
-9. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper <br />
+6. Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing, David Lo, Xinyu Wang. API Method Recommendation without Worrying About the Task-API Knowledge Gap. 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <br />
+7. Zhongxin Liu, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Zhenchang Xing, Xinyu Wang. Neural-Machine-Translation-Based Commit Message Generation: How Far Are We? 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <br />
+8. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers' Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017): 706-716  <br />
+9. Bowen Xu, Deheng Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Guibin Chen, Shanping Li. "Predicting Semantically Linkable Knowledge in Developer Online Forums via Convolutional Neural Network".  31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016): 51-62   <br />
+10.  Lucia, David Lo, <strong>Xin Xia</strong>: Fusion fault localizers. 29th IEEE/ACM International Conference on Automated Software Engineering (ASE 2014): 127-138.  <br />
+11. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper <br />
 
  
  
