@@ -94,9 +94,9 @@ permalink: /publication/
 
 71. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution:  Interactive Programming Tutorials Made Possible". The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Accepted as a tool demo paper.   <br />
 
-70. Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing, David Lo, Xinyu Wang. API Method Recommendation without Worrying About the Task-API Knowledge Gap. 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <br />
+70. Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing, David Lo, Xinyu Wang. API Method Recommendation without Worrying About the Task-API Knowledge Gap. 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <a href="ase182.pdf">[PDF]</a><br />
 
-69. Zhongxin Liu, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Zhenchang Xing, Xinyu Wang. Neural-Machine-Translation-Based Commit Message Generation: How Far Are We? 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <br />
+69. Zhongxin Liu, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Zhenchang Xing, Xinyu Wang. Neural-Machine-Translation-Based Commit Message Generation: How Far Are We? 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <a href="ase181.pdf">[PDF]</a><br />
 
 68. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper  <a href="ijcai18.pdf">[PDF]</a> <br />
 
