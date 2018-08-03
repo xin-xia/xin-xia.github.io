@@ -94,7 +94,7 @@ permalink: /publication/
  
 ### 2018
 
-71. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution:  Interactive Programming Tutorials Made Possible". The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Accepted as a tool demo paper.   <br />
+71. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution:  Interactive Programming Tutorials Made Possible". The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Accepted as a tool demo paper. <a href="FSE2018Demo.pdf">[PDF]</a>  <br />
 
 70. Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing, David Lo, Xinyu Wang. API Method Recommendation without Worrying About the Task-API Knowledge Gap. 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <a href="ase182.pdf">[PDF]</a><br />
 
