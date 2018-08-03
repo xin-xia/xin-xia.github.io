@@ -13,10 +13,10 @@ permalink: /service/
 
 <ol>
 <li>Local Chair  -- 23rd International Conference on Engineering of Complex Computer Systems (ICECCS 2018)</li>
-<li>Program Committee -- 25th Asia-Pacific Software Engineering Conference (APSEC 2018)</li>
+<li>Program Committee -- 25th Asia-Pacific Software Engineering Conference (APSEC 2018) (Research Track and Practice Track)</li>
 <li>Program Committee -- 14th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2018) </li>
 <li>Program Commitee -- 25th Australasian Software Engineering Conference (ASWEC 2018)</li>
-<li>Program Commitee -- 29th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2018) </li> 
+<li>Program Commitee -- 29th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2018) (Research Track and Fast Abstract Track) </li> 
 <li>Program Committee  --  34th International Conference on Software Maintenance and Evolution (ICSME 2018) </li>
 <li>Program Committee  -- 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2018 SETA Track) </li>
 <li>Program Committee  -- 26th  International Conference on Program Comprehension (ICPC 2018) </li>
@@ -24,13 +24,14 @@ permalink: /service/
 <li>Program Committee  --  33rd ACM SIGAPP Symposium On Applied Computing (SAC 2018 SE Track) </li>
 <li>Program Committee  -- 6th International Workshop on Green and Sustainable Software (GREEN 2018 at ICSE 2018) </li>
 <li>Program Committee  -- 2018 Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2018)</li>
-<li>Program Commitee -- 17th National Software Application Conference (NASAC 2018 English Track) </li>
-<li>Program Committee  -- Chinese Annual Conference on Software Analysis, Testing and Evolution.(SETA 2018) </li>
+<li>Program Commitee -- 17th National Software Application Conference (NASAC 2018 English Track and New Technology of Intelligent Software Track) </li>
+<li>Program Committee  -- Chinese Annual Conference on Software Analysis, Testing and Evolution (SETA 2018) </li>
 <li>Journal referee -- IEEE Transactions on Software Engineering </li>
 <li>Journal referee -- Empirical Software Engineering </li>
 <li>Journal referee -- Journal of Software: Evolution and Process </li>
 <li>Journal referee -- Journal of Systems and Software </li>
 <li>Journal referee -- IET Software </li>
+<li>Journal referee -- IEEEE Access </li>
 <li>Journal referee -- Automated Software Engineering </li>
 <li>Journal referee -- SCIENCE CHINA Information Sciences  </li>
 
