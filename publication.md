@@ -100,7 +100,7 @@ permalink: /publication/
 
 69. Zhongxin Liu, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Zhenchang Xing, Xinyu Wang. Neural-Machine-Translation-Based Commit Message Generation: How Far Are We? 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <a href="ase181.pdf">[PDF]</a><br />
 
-68. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper  <a href="ijcai18.pdf">[PDF]</a> <br />
+68. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence   (IJCAI 2018): 2269-2275 <a href="ijcai18.pdf">[PDF]</a> <br />
 
 67. Chao Liu,  Dan Yang,  <strong>Xin Xia</strong>, Meng Yan,  Xiaohong Zhang. "Cross-Project Change-Proneness Prediction". The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018). Accepted as a Full Paper  <a href="compsac181.pdf">[PDF]</a> <br />
 
