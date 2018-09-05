@@ -94,7 +94,7 @@ permalink: /publication/
  
 ### 2018
 
-72. Qiuyuan Chen, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2015). Accepted as a Full Paper.   <br />
+72. Qiuyuan Chen, Lingfeng Bao, Li Li, <strong>Xin Xia</strong>, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2018). Accepted as a Full Paper.   <br />
 
 71. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution:  Interactive Programming Tutorials Made Possible". The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Accepted as a tool demo paper. <a href="FSE2018Demo.pdf">[PDF]</a>  <br />
 
