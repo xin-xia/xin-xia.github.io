@@ -94,6 +94,8 @@ permalink: /publication/
  
 ### 2018
 
+72. Qiuyuan Chen, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2015). Accepted as a Full Paper.   <br />
+
 71. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution:  Interactive Programming Tutorials Made Possible". The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Accepted as a tool demo paper. <a href="FSE2018Demo.pdf">[PDF]</a>  <br />
 
 70. Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing, David Lo, Xinyu Wang. API Method Recommendation without Worrying About the Task-API Knowledge Gap. 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <a href="ase182.pdf">[PDF]</a><br />
@@ -181,7 +183,7 @@ permalink: /publication/
  
 ### 2015
  
-31. Bowen Xu, David Lo, <strong>Xin Xia</strong>, Ashish Sureka, Shanping Li. "EFSPredictor: Predicting Configuration Bugs With Ensemble Feature Selection". 22th Asia-Pacific Software Engineering Conference (APSEC 2015). Accepted as a Full Paper.  <a href="apsec15.pdf">[PDF]</a> <br />
+31. Bowen Xu, David Lo, <strong>Xin Xia</strong>, Ashish Sureka, Shanping Li. "EFSPredictor: Predicting Configuration Bugs With Ensemble Feature Selection". 22nd Asia-Pacific Software Engineering Conference (APSEC 2015). Accepted as a Full Paper.  <a href="apsec15.pdf">[PDF]</a> <br />
  
 30. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Bowen Xu, Jianling Sun, Shanping Li. "Combining Software Metrics and Text Features for Vulnerable File Prediction".  20th International Conference on Engineering of Complex Computer Systems (ICECCS 2015). Accepted as a Full Paper.  <a href="iceccs15.pdf">[PDF]</a>  <br />
  
