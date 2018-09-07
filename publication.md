@@ -13,6 +13,8 @@ permalink: /publication/
 
 ### 2018
 
+34. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Ling Xu, Dan Yang, Shanping Li. "Software Quality Assessment Model: A Systematic Mapping Study".  In SCIENCE CHINA Information Sciences (SCIS). Accepted. <a href="scis181.pdf">[PDF]</a><br />
+
 33. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports".  IEEE Transactions on Software Engineering (TSE), 30 pages.  Accepted.  <a href="tse183.pdf">[PDF]</a><br />
 
 32. Meng Yan, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang. "Automating Change-level Self-admitted Technical Debt Determination". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.  <strong>(Invited to ESEC/FSE 2018 as part of the Journal First Paper Track.)  </strong>   <a href="tse182.pdf">[PDF]</a><br />
