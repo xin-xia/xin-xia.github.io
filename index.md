@@ -23,6 +23,7 @@ engineering data into automated tools and new insights.
 
 
 ### Selected Publications
+1. Weiqin Zou, David Lo, Zhenyu Chen, <strong>Xin Xia</strong>, Yang Feng, Baowen Xu. "How Practitioners Perceive Automated Bug Report Management Techniques". IEEE Transactions on Software Engineering (TSE), 28 pages.  Accepted. <br />
 1. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports".  IEEE Transactions on Software Engineering (TSE), 30 pages.  Accepted.  <br />
 1. Meng Yan, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang. "Automating Change-level Self-admitted Technical Debt Determination". IEEE Transactions on Software Engineering (TSE), 20 pages, 2018.  Accepted. <br />
 2. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System".   IEEE Transactions on Software Engineering (TSE), 16 pages, 2018.   Accepted. <br />

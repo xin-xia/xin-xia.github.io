@@ -13,6 +13,8 @@ permalink: /publication/
 
 ### 2018
 
+35. Weiqin Zou, David Lo, Zhenyu Chen, <strong>Xin Xia</strong>, Yang Feng, Baowen Xu. "How Practitioners Perceive Automated Bug Report Management Techniques". IEEE Transactions on Software Engineering (TSE), 28 pages.  Accepted.  <a href="tse184.pdf">[PDF]</a><br />
+
 34. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Ling Xu, Dan Yang, Shanping Li. "Software Quality Assessment Model: A Systematic Mapping Study".  In SCIENCE CHINA Information Sciences (SCIS). Accepted. <a href="scis181.pdf">[PDF]</a><br />
 
 33. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports".  IEEE Transactions on Software Engineering (TSE), 30 pages.  Accepted.  <a href="tse183.pdf">[PDF]</a><br />
