@@ -11,6 +11,8 @@ permalink: /service/
 <li>Program Committee  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
 <li>Program Committee  --  16th Working Conference on Mining Software Repositories (MSR 2019) </li>
 <li>Program Committee  --  18th International Conference on Software Reuse (ICSR 2019) </li>
+<li>Program Committee  -- 43rd Annual International Computers, Software & Applications Conference (COMPSAC 2019 SETA Track) </li>
+<li>Program Committee  --  34th ACM SIGAPP Symposium On Applied Computing (SAC 2019 SE Track) </li>
 </ol>
 ## 2018
 
