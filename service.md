@@ -8,6 +8,9 @@ permalink: /service/
 <ol>
 <li>Local Chair  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
 <li>Program Committee  --  41th International Conference on Software Engineering (ICSE 2019) </li>
+<li>Program Committee  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
+<li>Program Committee  --  16th Working Conference on Mining Software Repositories (MSR 2019) </li>
+<li>Program Committee  --  18th International Conference on Software Reuse (ICSR 2019) </li>
 </ol>
 ## 2018
 
@@ -27,6 +30,7 @@ permalink: /service/
 <li>Program Commitee -- 17th National Software Application Conference (NASAC 2018 English Track and New Technology of Intelligent Software Track) </li>
 <li>Program Committee  -- Chinese Annual Conference on Software Analysis, Testing and Evolution (SETA 2018) </li>
 <li>Journal referee -- IEEE Transactions on Software Engineering </li>
+<li>Journal referee -- ACM Transactions on Software Engineering and Methodology (TOSEM) </li>
 <li>Journal referee -- Empirical Software Engineering </li>
 <li>Journal referee -- Journal of Software: Evolution and Process </li>
 <li>Journal referee -- Journal of Systems and Software </li>

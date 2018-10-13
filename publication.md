@@ -13,7 +13,9 @@ permalink: /publication/
 
 ### 2018
 
-36. Qiao Huang, <strong>Xin Xia</strong>, David Lo. "Revisiting Supervised and Unsupervised Models for Effort-Aware Just-in-Time Defect Prediction". Empirical Software Engineering (EMSE). Accepted. <br />
+37. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 28 pages.  Accepted.   <a href="tse185.pdf">[PDF]</a> <br />
+
+36. Qiao Huang, <strong>Xin Xia</strong>, David Lo. "Revisiting Supervised and Unsupervised Models for Effort-Aware Just-in-Time Defect Prediction". Empirical Software Engineering (EMSE). Accepted.  <a href="emse182.pdf">[PDF]</a> <br />
 
 35. Weiqin Zou, David Lo, Zhenyu Chen, <strong>Xin Xia</strong>, Yang Feng, Baowen Xu. "How Practitioners Perceive Automated Bug Report Management Techniques". IEEE Transactions on Software Engineering (TSE), 28 pages.  Accepted.  <a href="tse184.pdf">[PDF]</a><br />
 
@@ -100,7 +102,7 @@ permalink: /publication/
  
 ### 2018
 
-72. Qiuyuan Chen, Lingfeng Bao, Li Li, <strong>Xin Xia</strong>, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2018). Accepted as a Full Paper.   <br />
+72. Qiuyuan Chen, Lingfeng Bao, Li Li, <strong>Xin Xia</strong>, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2018). Accepted as a Full Paper. <a href="apsec18.pdf">[PDF]</a>   <br />
 
 71. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "VT-Revolution:  Interactive Programming Tutorials Made Possible". The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Accepted as a tool demo paper. <a href="FSE2018Demo.pdf">[PDF]</a>  <br />
 
