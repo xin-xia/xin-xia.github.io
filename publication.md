@@ -13,7 +13,7 @@ permalink: /publication/
 
 ### 2018
 
-37. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 28 pages.  Accepted.   <a href="tse185.pdf">[PDF]</a> <br />
+37. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.   <a href="tse185.pdf">[PDF]</a> <br />
 
 36. Qiao Huang, <strong>Xin Xia</strong>, David Lo. "Revisiting Supervised and Unsupervised Models for Effort-Aware Just-in-Time Defect Prediction". Empirical Software Engineering (EMSE). Accepted.  <a href="emse182.pdf">[PDF]</a> <br />
 
