@@ -23,6 +23,7 @@ engineering data into automated tools and new insights.
 
 
 ### Selected Publications
+1. Zhiyuan Wan, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Jianwei Yin, Xiaohu Yang. "Perceptions, Expectations, and Challenges in Defect Prediction".  IEE Transactions on Software Engineering (TSE), 26 pages.  Accepted. <br />
 1. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.  <br />
 1. Weiqin Zou, David Lo, Zhenyu Chen, <strong>Xin Xia</strong>, Yang Feng, Baowen Xu. "How Practitioners Perceive Automated Bug Report Management Techniques". IEEE Transactions on Software Engineering (TSE), 28 pages.  Accepted. <br />
 1. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports".  IEEE Transactions on Software Engineering (TSE), 30 pages.  Accepted.  <br />
