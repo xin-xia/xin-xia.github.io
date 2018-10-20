@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (37)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 10, Automated Software Engineering * 3, IEEE Transactions on Reliability * 2.
+<strong>Journal Papers (38)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 10, Automated Software Engineering * 3, IEEE Transactions on Reliability * 2.
 
 <strong>Conference Papers (72)</strong>: ASE * 5, ICSME * 5, MSR * 6, ICPC * 4, SANER * 5, ISSRE * 3, ESEM * 2, ISSTA * 1, IJCAI * 1
 
@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### 2018
 
-38. Zhiyuan Wan, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Jianwei Yin, Xiaohu Yang. "Perceptions, Expectations, and Challenges in Defect Prediction".  IEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.   <a href="tse186.pdf">[PDF]</a> <br />
+38. Zhiyuan Wan, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Jianwei Yin, Xiaohu Yang. "Perceptions, Expectations, and Challenges in Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.   <a href="tse186.pdf">[PDF]</a> <br />
 
 37. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.   <a href="tse185.pdf">[PDF]</a> <br />
 
