@@ -18,6 +18,8 @@ permalink: /publication/
 
 ### 2018
 
+39. Chao Liu, Dan Yang, <strong>Xin Xia</strong>, Meng Yan, Xiaohong Zhang. "A Two-Phase Transfer Learning Model for Cross-Project Defect Prediction". In Information and Software Technology (IST Journal). Accepted.   <br />
+
 38. Zhiyuan Wan, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Jianwei Yin, Xiaohu Yang. "Perceptions, Expectations, and Challenges in Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.   <a href="tse186.pdf">[PDF]</a> <br />
 
 37. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.   <a href="tse185.pdf">[PDF]</a> <br />
