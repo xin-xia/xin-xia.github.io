@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (38)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 10.
+<strong>Journal Papers (39)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 10.
 
 <strong>Conference Papers (72)</strong>: ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
