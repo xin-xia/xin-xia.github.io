@@ -9,6 +9,7 @@ permalink: /service/
 <li>Local Chair  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
 <li>Program Committee  --  41th International Conference on Software Engineering (ICSE 2019) </li>
 <li>Program Committee  --  34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019) </li>
+<li>Program Committee  --  35th International Conference on Software Maintenance and Evolution (ICSME 2019) </li>
 <li>Program Committee  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
 <li>Program Committee  --  16th Working Conference on Mining Software Repositories (MSR 2019) </li>
 <li>Program Committee  -- 27th International Conference on Program Comprehension (ICPC 2019) </li>
