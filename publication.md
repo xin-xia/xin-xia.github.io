@@ -284,4 +284,4 @@ permalink: /publication/
  
 ## Papers in Chinese 
 
-1. 陈秋远, 李善平, 鄢萌, <strong>夏鑫</strong>. 代码克隆检测研究进展. 软件学报， 2018， 已录用
+1. 陈秋远, 李善平, 鄢萌, <strong>夏鑫</strong>. 代码克隆检测研究进展. 软件学报， 2018， 已录用 <a href="rjxb181.pdf">[PDF]</a>   <br />
