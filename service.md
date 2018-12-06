@@ -16,6 +16,7 @@ permalink: /service/
 <li>Program Committee  --  18th International Conference on Software Reuse (ICSR 2019) </li>
 <li>Program Committee  -- 43rd Annual International Computers, Software & Applications Conference (COMPSAC 2019 SETA Track) </li>
 <li>Program Committee  --  34th ACM SIGAPP Symposium On Applied Computing (SAC 2019 SE Track) </li>
+<li>Reviewer -- the NSERC Discovery Grant Program </li>
 </ol>
 ## 2018
 
