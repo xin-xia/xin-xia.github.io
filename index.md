@@ -23,6 +23,10 @@ engineering data into automated tools and new insights.
 
 
 ### Selected Publications
+
+1. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper <br />
+1. Xuan Bach D. Le, Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li, Corina Pasareanu. ``On Reliability of Patch Correctness Assessment''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <br />
+1. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <br />
 1. Zhiyuan Wan, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Jianwei Yin, Xiaohu Yang. "Perceptions, Expectations, and Challenges in Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted. <br />
 1. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.  <br />
 1. Weiqin Zou, David Lo, Zhenyu Chen, <strong>Xin Xia</strong>, Yang Feng, Baowen Xu. "How Practitioners Perceive Automated Bug Report Management Techniques". IEEE Transactions on Software Engineering (TSE), 28 pages.  Accepted. <br />

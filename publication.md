@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (39)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 10.
 
-<strong>Conference Papers (72)</strong>: ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (75)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
 ## Book Chapter
 
@@ -108,6 +108,16 @@ permalink: /publication/
  
  
 ## Conference Papers
+
+
+### 2019
+
+75. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper <br />
+
+74. Xuan Bach D. Le, Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li, Corina Pasareanu. ``On Reliability of Patch Correctness Assessment''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <br />
+
+73. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <br />
+
  
 ### 2018
 
