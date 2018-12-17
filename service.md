@@ -15,6 +15,7 @@ permalink: /service/
 <li>Program Committee  -- 27th International Conference on Program Comprehension (ICPC 2019) </li>
 <li>Program Commitee -- 30th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2019)  </li> 
 <li>Program Committee  --  18th International Conference on Software Reuse (ICSR 2019) </li>
+<li>Program Committee  -- 19th IEEE International Conference on Software Quality, Reliability, and Security （QRS 2019） </li>
 <li>Program Committee  -- 43rd Annual International Computers, Software & Applications Conference (COMPSAC 2019 SETA Track) </li>
 <li>Program Committee  --  34th ACM SIGAPP Symposium On Applied Computing (SAC 2019 SE Track) </li>
 <li>Reviewer -- the NSERC Discovery Grant Program </li>
