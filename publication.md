@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (39)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 10.
 
-<strong>Conference Papers (75)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (76)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
 ## Book Chapter
 
@@ -111,6 +111,8 @@ permalink: /publication/
 
 
 ### 2019
+
+76. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, and David Lo. ``Practitioners' Views on Good Software  Testing Practices''.  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a SEIP Full Paper <br />
 
 75. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper <br />
 
