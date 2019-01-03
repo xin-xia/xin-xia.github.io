@@ -8,6 +8,7 @@ permalink: /service/
 <ol>
 <li>Program Committee  --  42nd International Conference on Software Engineering (ICSE 2020) </li>
 </ol>
+
 ## 2019
 
 <ol>
@@ -21,7 +22,6 @@ permalink: /service/
 <li>Program Commitee -- 30th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2019)  </li> 
 <li>Program Committee  --  18th International Conference on Software Reuse (ICSR 2019) </li>
 <li>Program Committee  -- 19th IEEE International Conference on Software Quality, Reliability, and Security （QRS 2019） </li>
-
 <li>Program Committee  -- 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019) (Student Research Competition Track)</li>
 <li>Program Committee  -- 43rd Annual International Computers, Software & Applications Conference (COMPSAC 2019 SETA Track) </li>
 <li>Program Committee  --  34th ACM SIGAPP Symposium On Applied Computing (SAC 2019 SE Track) </li>
