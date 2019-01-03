@@ -3,11 +3,16 @@ layout: page
 title: Professoinal Services
 permalink: /service/
 ---
+
+## 2020
+<ol>
+<li>Program Committee  --  42nd International Conference on Software Engineering (ICSE 2020) </li>
+</ol>
 ## 2019
 
 <ol>
 <li>Local Chair  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
-<li>Program Committee  --  41th International Conference on Software Engineering (ICSE 2019) </li>
+<li>Program Committee  --  41st International Conference on Software Engineering (ICSE 2019) </li>
 <li>Program Committee  --  34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019) </li>
 <li>Program Committee  --  35th International Conference on Software Maintenance and Evolution (ICSME 2019) </li>
 <li>Program Committee  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
