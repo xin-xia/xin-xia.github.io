@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (39)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 10.
+<strong>Journal Papers (40)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 11.
 
 <strong>Conference Papers (76)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -15,6 +15,10 @@ permalink: /publication/
 1.  <strong>Xin Xia</strong>, David Lo. "Feature Generation and Engineering for Software Analytics". in Feature Engineering for Machine Learning and Data Analytics. The CRC Press, USA <a href="chapter1.pdf">[PDF]</a><br />
 
 ## Journal Papers
+
+### 2019
+
+40. Meng Yan, Xin Xia, David Lo, Ahmed E. Hassan, Shanping Li. "Characterizing and Identifying Reverted Commits". Empirical Software Engineering (EMSE). Accepted.   <br />
 
 ### 2018
 
