@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### 2019
 
-40. Meng Yan, Xin Xia, David Lo, Ahmed E. Hassan, Shanping Li. "Characterizing and Identifying Reverted Commits". Empirical Software Engineering (EMSE). Accepted.   <br />
+40. Meng Yan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Shanping Li. "Characterizing and Identifying Reverted Commits". Empirical Software Engineering (EMSE). Accepted.   <br />
 
 ### 2018
 
