@@ -116,7 +116,7 @@ permalink: /publication/
 
 ### 2019
 
-76. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, and David Lo. ``Practitioners' Views on Good Software  Testing Practices''.  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a SEIP Full Paper <br />
+76. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, and David Lo. ``Practitioners' Views on Good Software  Testing Practices''.  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a SEIP Full Paper. <a href="icse194.pdf">[PDF]</a> <br />
 
 75. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse191.pdf">[PDF]</a> <br />
 
