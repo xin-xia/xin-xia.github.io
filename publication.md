@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (40)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 11.
+<strong>Journal Papers (42)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 11.
 
 <strong>Conference Papers (76)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+41. Qingye Wang, Xin Xia, David Lo, Shanping Li. "Why Is My Code Change Abandoned?" In Information and Software Technology (IST Journal). Accepted.  <br />
 
 40. Meng Yan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Shanping Li. "Characterizing and Identifying Reverted Commits". Empirical Software Engineering (EMSE). Accepted.   <br />
 
