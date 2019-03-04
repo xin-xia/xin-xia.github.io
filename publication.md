@@ -18,6 +18,8 @@ permalink: /publication/
 
 ### 2019
 
+42. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, John Grundy. "Automatic, Highly Accurate App Permission Recommendation". In Automated Software Engineering Journal (ASE Journal). Accepted. <br />
+
 41. Qingye Wang, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Why Is My Code Change Abandoned?" In Information and Software Technology (IST Journal). Accepted.  <a href="ist191.pdf">[PDF]</a> <br />
 
 40. Meng Yan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Shanping Li. "Characterizing and Identifying Reverted Commits". Empirical Software Engineering (EMSE). Accepted.  <a href="emse191.pdf">[PDF]</a> <br />
