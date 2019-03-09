@@ -11,6 +11,7 @@ permalink: /students/
 1. Jiachi Chen (Feb 2019 -- now)  <br />
 2. Zhipeng Gao (Sep 2018 -- now)  <br />
 3. Qiao Huang (Sep 2016 -- now) (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
+Papers with me: TSE, EMSE * 2, ASE 2018, ICSME 2017, ISSRE 2017  <br />
 4. Yuanrui Fan (Sep 2016 -- now)  (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
 5. Zhongxin Liu (Sep 2016 -- now)  (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
 6. Xiaoxue Ren (Sep 2016 -- now)  (Co-supervised with Prof. Jianling Sun at Zhejiang University)  <br />
