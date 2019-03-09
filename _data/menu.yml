@@ -1,5 +1,8 @@
 - title: "CV"
   href: "/cv/"
+  
+- title: "Students"
+  href: "/students/"
 
 - title: "Publications"
   href: "/publication/"
@@ -11,5 +14,3 @@
 - title: "Services"
   href: "/service/"
   
-- title: "Students"
-  href: "/students/"
