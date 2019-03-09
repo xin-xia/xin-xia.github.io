@@ -3,6 +3,10 @@ layout: page
 title: Professoinal Services
 permalink: /service/
 ---
+<ol>
+<li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2021 </li>
+</ol>
+
 
 ## 2020
 <ol>
@@ -20,12 +24,18 @@ permalink: /service/
 <li>Program Committee  --  16th Working Conference on Mining Software Repositories (MSR 2019) </li>
 <li>Program Committee  -- 27th International Conference on Program Comprehension (ICPC 2019) (Research Track and Replications Track) </li>
 <li>Program Commitee -- 30th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2019)  </li> 
+<li>Program Commitee --  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019 Tool Demonstration Track) </li>
 <li>Program Committee  --  18th International Conference on Software Reuse (ICSR 2019) </li>
 <li>Program Committee  -- 19th IEEE International Conference on Software Quality, Reliability, and Security （QRS 2019） </li>
 <li>Program Committee  -- 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019) (Student Research Competition Track)</li>
 <li>Program Committee  -- 43rd Annual International Computers, Software & Applications Conference (COMPSAC 2019 SETA Track) </li>
 <li>Program Committee  --  34th ACM SIGAPP Symposium On Applied Computing (SAC 2019 SE Track) </li>
 <li>Reviewer -- the NSERC Discovery Grant Program </li>
+<li>Journal referee -- IEEE Transactions on Software Engineering </li>
+<li>Journal referee -- Empirical Software Engineering </li>
+<li>Journal referee -- Journal of Software: Evolution and Process </li>
+<li>Journal referee -- Journal of Systems and Software </li>
+<li>Journal referee -- SCIENCE CHINA Information Sciences  </li>
 </ol>
 ## 2018
 
