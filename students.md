@@ -8,8 +8,10 @@ permalink: /students/
 
 ## PhD Students
 
-1. Jiachi Chen (Feb 2019 -- now)  <br />
-2. Zhipeng Gao (Sep 2018 -- now)  <br />
+9. Jiachi Chen (Feb 2019 -- now)  <br />
+8. Zhipeng Gao (Sep 2018 -- now)  <br />
+7. Dehai Zhao (Sep 2018 -- now) (Co-supervised with Prof. Zhenchang Xing at Australian National University)<br />
+Papers with me: ICSE 2019  <br />
 3. Jiakun Liu (Feb 2019 -- now)  (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
 4. Qiao Huang (Sep 2016 -- now) (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
 Papers with me: TSE, EMSE * 2, ASE 2018, ICSME 2017, ISSRE 2017  <br />
