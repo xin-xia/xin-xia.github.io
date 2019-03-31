@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (42)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 11.
+<strong>Journal Papers (43)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 11,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (76)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+43. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted. <a href="tosem191.pdf">[PDF]</a> <br />
 
 42. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, John Grundy. "Automatic, Highly Accurate App Permission Recommendation". In Automated Software Engineering Journal (ASE Journal). Accepted. <a href="AUSE19.pdf">[PDF]</a> <br />
 
