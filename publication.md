@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### 2019
 
-43. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted. <a href="tosem191.pdf">[PDF]</a> <br />
+43. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xinyu Wang, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted. <a href="tosem191.pdf">[PDF]</a> <br />
 
 42. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, John Grundy. "Automatic, Highly Accurate App Permission Recommendation". In Automated Software Engineering Journal (ASE Journal). Accepted. <a href="AUSE19.pdf">[PDF]</a> <br />
 
