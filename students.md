@@ -20,7 +20,7 @@ Papers with me: TSE, EMSE  <br />
 6. Zhongxin Liu (Sep 2016 -- now)  (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
 Papers with me: ASEJ, ASE 2018 (ACM SigSoft Distinguished Paper Award), ICSE 2018 Tool Demo  <br />
 7. Xiaoxue Ren (Sep 2016 -- now)  (Co-supervised with Prof. Jianling Sun at Zhejiang University)  <br />
-Papers with me: COMPSAC 2018 (Short)  <br />
+Papers with me: COMPSAC 2018 (Short), TOSEM  <br />
 8. Qingye Wang (Sep 2015 -- now) (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
 Papers with me: IST  <br />
 9. Xinli Yang (Sep 2014 -- now) (Co-supervised with Prof. Jianling Sun at Zhejiang University)  <br /> 
