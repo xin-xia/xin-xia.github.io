@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (43)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 11,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (44)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 11,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (76)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (77)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
 ## Book Chapter
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+44. Jing Jiang, David Lo, Jiateng Zheng, <strong>Xin Xia</strong>, Yun Yang, Li Zhang. "Who Should Make Decision on this Pull Request? Analyzing Time-Decaying Relationships and File Similarities for Integrator Prediction". Journal of Systems and Software (JSS). Accepted. <a href="jss191.pdf">[PDF]</a> <br />
 
 43. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xinyu Wang, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted. <a href="tosem191.pdf">[PDF]</a> <br />
 
@@ -122,14 +124,17 @@ permalink: /publication/
 
 ### 2019
 
-76. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, and David Lo. ``Practitioners' Views on Good Software  Testing Practices''.  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a SEIP Full Paper. <a href="icse194.pdf">[PDF]</a> <br />
 
-75. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse191.pdf">[PDF]</a> <br />
+77. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, and David Lo. ``Practitioners' Views on Good Software  Testing Practices''.  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a SEIP Full Paper. <a href="icse194.pdf">[PDF]</a> <br />
 
-74. Xuan Bach D. Le, Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li, Corina Pasareanu. ``On Reliability of Patch Correctness Assessment''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper. <a href="icse192.pdf">[PDF]</a>  <br />
+76. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse191.pdf">[PDF]</a> <br />
 
-73. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse193.pdf">[PDF]</a> <br />
+75. Xuan Bach D. Le, Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li, Corina Pasareanu. ``On Reliability of Patch Correctness Assessment''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper. <a href="icse192.pdf">[PDF]</a>  <br />
 
+
+74. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse193.pdf">[PDF]</a> <br />
+
+73. Junxiao Han, Shuiguang Deng, <strong>Xin Xia</strong>, Dongjing Wang and Jianwei Yin. "Characterization and Prediction of Popular Projects on GitHub". The 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2019). Accepted as a Short Paper.  <br /> 
  
 ### 2018
 
