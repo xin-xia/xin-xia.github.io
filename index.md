@@ -41,7 +41,7 @@ engineering data into automated tools and new insights.
 #### TOSEM 
  1. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xinyu Wang, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). 46 pages, 2019. Accepted.  <br />
 
-### Top Conferece Papers
+### Top Conference Papers
 
 #### ICSE
 
