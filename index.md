@@ -25,6 +25,7 @@ engineering data into automated tools and new insights.
 ## Selected Publications
 
 ### Top Journal Papers
+
 #### TSE
 1. Zhiyuan Wan, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Jianwei Yin, Xiaohu Yang. "Perceptions, Expectations, and Challenges in Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted. <br />
 1. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.  <br />
@@ -37,7 +38,7 @@ engineering data into automated tools and new insights.
 5. <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE) 42(10): 977-998 (2016)
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
- #### TOSEM 
+#### TOSEM 
  1. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xinyu Wang, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). 46 pages, 2019. Accepted.  <br />
 
 ### Top Conferece Papers
@@ -51,6 +52,7 @@ engineering data into automated tools and new insights.
 
 
 #### ASE
+
 6. Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing, David Lo, Xinyu Wang. API Method Recommendation without Worrying About the Task-API Knowledge Gap. 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <br />
 7. Zhongxin Liu, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Zhenchang Xing, Xinyu Wang. Neural-Machine-Translation-Based Commit Message Generation: How Far Are We? 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper (<strong>ACM SIGSOFT Distinguished Paper Award</strong>) <br />
 8. Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers' Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017): 706-716  <br />
@@ -62,7 +64,7 @@ engineering data into automated tools and new insights.
 1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper.  <a href="issta16.pdf">[PDF]</a> <br />
  
 
-## IJCAI
+#### IJCAI
 11. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence  (IJCAI 2018): 2269-2275 <br />
 
  
