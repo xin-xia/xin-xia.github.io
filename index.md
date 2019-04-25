@@ -61,7 +61,7 @@ engineering data into automated tools and new insights.
 
 
 #### ISSTA
-1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper.  <a href="issta16.pdf">[PDF]</a> <br />
+1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper. <br />
  
 
 #### IJCAI
