@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (44)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 11,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (45)</strong>: IEEE Transactions on Software Engineering * 9, Empirical Software Engineering * 12,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (77)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+45. Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin. "Deep Code Comment Generation with Hybrid Lexical and Syntactical Information". Empirical Software Engineering (EMSE). Accepted. <br />
 
 44. Jing Jiang, David Lo, Jiateng Zheng, <strong>Xin Xia</strong>, Yun Yang, Li Zhang. "Who Should Make Decision on this Pull Request? Analyzing Time-Decaying Relationships and File Similarities for Integrator Prediction". Journal of Systems and Software (JSS). Accepted. <a href="jss191.pdf">[PDF]</a> <br />
 
