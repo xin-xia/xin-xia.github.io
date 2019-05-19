@@ -27,7 +27,7 @@ engineering data into automated tools and new insights.
 ### Top Journal Papers
 
 #### TSE
-1. 46. Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.    <br />
+1. Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.    <br />
 1. Zhiyuan Wan, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Jianwei Yin, Xiaohu Yang. "Perceptions, Expectations, and Challenges in Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted. <br />
 1. Qiao Huang, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "Automating Intention Mining". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.  <br />
 1. Weiqin Zou, David Lo, Zhenyu Chen, <strong>Xin Xia</strong>, Yang Feng, Baowen Xu. "How Practitioners Perceive Automated Bug Report Management Techniques". IEEE Transactions on Software Engineering (TSE), 28 pages.  Accepted. <br />
