@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (46)</strong>: IEEE Transactions on Software Engineering * 10, Empirical Software Engineering * 12,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (47)</strong>: IEEE Transactions on Software Engineering * 10, Empirical Software Engineering * 12,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (77)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+47. Chao Ni, Xiang Chen, <strong>Xin Xia</strong>, Qing Gu, Yingquan Zhao. "Multi-task Defect Prediction". In Journal of Software: Evolution and Process (JSEP Journal). Accepted.  <a href="JSEP191.pdf">[PDF]</a>   <br />
 
 46. Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.   <a href="tse191.pdf">[PDF]</a> <br />
 
