@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (47)</strong>: IEEE Transactions on Software Engineering * 10, Empirical Software Engineering * 12,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (77)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (78)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
 ## Book Chapter
 
@@ -130,8 +130,9 @@ permalink: /publication/
 
 ### 2019
 
+78. Weiqin Zou, Weiqiang Zhang, <strong>Xin Xia</strong>, Reid Holmes, Zhenyu Chen. "Branch Use in Practice--A Large-Scale Empirical Study of 2,923 Projects on GitHub".  19th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2019). Accepted as a Full Paper. <br />
 
-77. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, and David Lo. ``Practitioners' Views on Good Software  Testing Practices''.  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a SEIP Full Paper. <a href="icse194.pdf">[PDF]</a> <br />
+77. Pavneet Singh Kochhar, <strong>Xin Xia</strong>,   David Lo. ``Practitioners' Views on Good Software  Testing Practices''.  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a SEIP Full Paper. <a href="icse194.pdf">[PDF]</a> <br />
 
 76. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse191.pdf">[PDF]</a> <br />
 
