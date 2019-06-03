@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### 2019
 
-49. Zhiyuan Wan,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "What Do Programmers Discuss about Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions about Blockchain Platforms across Stack Exchange Communities". IEEE Transactions on Software Engineering (TSE), 19 pages.  Accepted.    <br />
+49. Zhiyuan Wan,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "What Do Programmers Discuss about Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions about Blockchain Platforms across Stack Exchange Communities". IEEE Transactions on Software Engineering (TSE), 19 pages.  Accepted.   <a href="TSE192.pdf">[PDF]</a> <br />
 
 48. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai. "Practical and Effective Sandboxing for Linux Containers". Empirical Software Engineering (EMSE). Accepted.   <br />
 
