@@ -143,7 +143,7 @@ permalink: /publication/
 75. Xuan Bach D. Le, Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li, Corina Pasareanu. ``On Reliability of Patch Correctness Assessment''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper. <a href="icse192.pdf">[PDF]</a>  <br />
 
 
-74. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse193.pdf">[PDF]</a> <br />
+74. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse193.pdf">[PDF]</a> (<strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
 73. Junxiao Han, Shuiguang Deng, <strong>Xin Xia</strong>, Dongjing Wang and Jianwei Yin. "Characterization and Prediction of Popular Projects on GitHub". The 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2019). Accepted as a Short Paper.  <br /> 
  

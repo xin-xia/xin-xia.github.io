@@ -3,6 +3,9 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
+
+11. <strong> Nominated for  ACM SIGSOFT Distinguishied Paper Award</strong>,  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019), May 2019 <br />
+
 10.  <strong>Distinguished Reviewer Award</strong>, Journal of Empirical Software Engineering, January, 2019 <br />
 
 9. <strong>ACM SIGSOFT Distinguished Paper Award</strong>, 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018), September 2018 <br />
