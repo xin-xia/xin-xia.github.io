@@ -136,7 +136,7 @@ permalink: /publication/
 
 ### 2019
 
-78. Weiqin Zou, Weiqiang Zhang, <strong>Xin Xia</strong>, Reid Holmes, Zhenyu Chen. "Branch Use in Practice--A Large-Scale Empirical Study of 2,923 Projects on GitHub".  19th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2019). Accepted as a Full Paper. <br />
+78. Weiqin Zou, Weiqiang Zhang, <strong>Xin Xia</strong>, Reid Holmes, Zhenyu Chen. "Branch Use in Practice--A Large-Scale Empirical Study of 2,923 Projects on GitHub".  19th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2019). Accepted as a Full Paper.  <a href="qrs191.pdf">[PDF]</a><br />
 
 77. Pavneet Singh Kochhar, <strong>Xin Xia</strong>,   David Lo. ``Practitioners' Views on Good Software  Testing Practices''.  41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a SEIP Full Paper. <a href="icse194.pdf">[PDF]</a> <br />
 
