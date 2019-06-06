@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (49)</strong>: IEEE Transactions on Software Engineering * 11, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (50)</strong>: IEEE Transactions on Software Engineering * 12, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (78)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+50. Giovanni Viviani, Michalis Famelis, <strong>Xin Xia</strong>, Calahan Janik-Jones, Gail C. Murphy. "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests". IEEE Transactions on Software Engineering (TSE), 13 pages.  Accepted.   <br />
 
 49. Zhiyuan Wan,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "What Do Programmers Discuss about Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions about Blockchain Platforms across Stack Exchange Communities". IEEE Transactions on Software Engineering (TSE), 19 pages.  Accepted.   <a href="TSE192.pdf">[PDF]</a> <br />
 

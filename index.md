@@ -27,6 +27,8 @@ engineering data into automated tools and new insights.
 ### Top Journal Papers
 
 #### TSE
+
+1. Giovanni Viviani, Michalis Famelis, <strong>Xin Xia</strong>, Calahan Janik-Jones, Gail C. Murphy. "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests". IEEE Transactions on Software Engineering (TSE), 13 pages.  Accepted.   <br />
 1.  Zhiyuan Wan,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "What Do Programmers Discuss about Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions about Blockchain Platforms across Stack Exchange Communities". IEEE Transactions on Software Engineering (TSE), 19 pages.  Accepted.    <br />
 1. Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.    <br />
 1. Zhiyuan Wan, <strong>Xin Xia</strong>, Ahmed E. Hassan, David Lo, Jianwei Yin, Xiaohu Yang. "Perceptions, Expectations, and Challenges in Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted. <br />
@@ -49,7 +51,7 @@ engineering data into automated tools and new insights.
 
 1. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper <br />
 1. Xuan Bach D. Le, Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li, Corina Pasareanu. ``On Reliability of Patch Correctness Assessment''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <br />
-1. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <br />
+1. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
 
 
