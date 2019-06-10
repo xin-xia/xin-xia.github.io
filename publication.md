@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (50)</strong>: IEEE Transactions on Software Engineering * 12, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (78)</strong>: ICSE * 3, ASE * 5, ICSME * 5, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (79)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
 
 ## Book Chapter
 
@@ -135,6 +135,8 @@ permalink: /publication/
 
 
 ### 2019
+
+79. Luis Cruz, Rui Abreu, John Grundy, Li Li,  <strong>Xin Xia</strong>. "Do Energy-oriented Changes Hinder Maintainability?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Full Paper. <br />
 
 78. Weiqin Zou, Weiqiang Zhang, <strong>Xin Xia</strong>, Reid Holmes, Zhenyu Chen. "Branch Use in Practice--A Large-Scale Empirical Study of 2,923 Projects on GitHub".  19th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2019). Accepted as a Full Paper.  <a href="qrs191.pdf">[PDF]</a><br />
 
