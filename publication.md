@@ -136,9 +136,9 @@ permalink: /publication/
 
 ### 2019
 
-81. Liang Cai, Haoye Wang, Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing,  David Lo. " BIKER: A Tool for Bi-Information Source Based API Method Recommendation". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Accepted as a tool demo paper. <br />
+81. Liang Cai, Haoye Wang, Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing,  David Lo. " BIKER: A Tool for Bi-Information Source Based API Method Recommendation". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <br />
 
-80.  Liang Cai, Haoye Wang, Bowen Xu, Qiao Huang, <strong>Xin Xia</strong>, David Lo, Zhenchang Xing. "AnswerBot: An Answer Summary Generation Tool Based on Stack Overflow". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018). Accepted as a tool demo paper. <br />
+80.  Liang Cai, Haoye Wang, Bowen Xu, Qiao Huang, <strong>Xin Xia</strong>, David Lo, Zhenchang Xing. "AnswerBot: An Answer Summary Generation Tool Based on Stack Overflow". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <br />
 
 79. Luis Cruz, Rui Abreu, John Grundy, Li Li,  <strong>Xin Xia</strong>. "Do Energy-oriented Changes Hinder Maintainability?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Full Paper. <br />
 
