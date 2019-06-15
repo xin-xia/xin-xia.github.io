@@ -8,7 +8,11 @@ permalink: /publication/
 
 <strong>Journal Papers (50)</strong>: IEEE Transactions on Software Engineering * 12, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (8)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (81)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
+
+<strong>Book Chapter (1) </strong> 
+
+<strong>Papers in Chinese (2)</strong>: 软件学报*2
 
 ## Book Chapter
 
