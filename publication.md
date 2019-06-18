@@ -32,7 +32,7 @@ permalink: /publication/
 
 46. Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Gail Murphy. "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects". IEEE Transactions on Software Engineering (TSE), 22 pages.  Accepted.   <a href="tse191.pdf">[PDF]</a> <br />
 
-45. Xing Hu, Ge Li, <strong>Xin Xia</strong>, David Lo, Zhi Jin. "Deep Code Comment Generation with Hybrid Lexical and Syntactical Information". Empirical Software Engineering (EMSE). Accepted. <br />
+45. Xing Hu, Ge Li, <strong>Xin Xia</strong>, David Lo, Zhi Jin. "Deep Code Comment Generation with Hybrid Lexical and Syntactical Information". Empirical Software Engineering (EMSE). Accepted. <a href="emse192.pdf">[PDF]</a> <br />
 
 44. Jing Jiang, David Lo, Jiateng Zheng, <strong>Xin Xia</strong>, Yun Yang, Li Zhang. "Who Should Make Decision on this Pull Request? Analyzing Time-Decaying Relationships and File Similarities for Integrator Prediction". Journal of Systems and Software (JSS). Accepted. <a href="jss191.pdf">[PDF]</a> <br />
 
