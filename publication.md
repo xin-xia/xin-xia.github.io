@@ -22,7 +22,7 @@ permalink: /publication/
 
 ### 2019
 
-50. Giovanni Viviani, Michalis Famelis, <strong>Xin Xia</strong>, Calahan Janik-Jones, Gail C. Murphy. "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests". IEEE Transactions on Software Engineering (TSE), 13 pages.  Accepted.   <br />
+50. Giovanni Viviani, Michalis Famelis, <strong>Xin Xia</strong>, Calahan Janik-Jones, Gail C. Murphy. "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests". IEEE Transactions on Software Engineering (TSE), 13 pages.  Accepted.  <a href="tse193.pdf">[PDF]</a> <br />
 
 49. Zhiyuan Wan,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "What Do Programmers Discuss about Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions about Blockchain Platforms across Stack Exchange Communities". IEEE Transactions on Software Engineering (TSE), 19 pages.  Accepted.   <a href="TSE192.pdf">[PDF]</a> <br />
 
