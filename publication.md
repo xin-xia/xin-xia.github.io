@@ -22,11 +22,13 @@ permalink: /publication/
 
 ### 2019
 
+51. Tianchi Zhou, Xiaobing Sun, <strong>Xin Xia</strong>, Bin Li, Xiang Chen. "Improving Defect Prediction with Deep Forest". In Information and Software Technology (IST Journal). Accepted.   <br />
+
 50. Giovanni Viviani, Michalis Famelis, <strong>Xin Xia</strong>, Calahan Janik-Jones, Gail C. Murphy. "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests". IEEE Transactions on Software Engineering (TSE), 13 pages.  Accepted.  <a href="tse193.pdf">[PDF]</a> <br />
 
 49. Zhiyuan Wan,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "What Do Programmers Discuss about Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions about Blockchain Platforms across Stack Exchange Communities". IEEE Transactions on Software Engineering (TSE), 19 pages.  Accepted.   <a href="TSE192.pdf">[PDF]</a> <br />
 
-48. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai. "Practical and Effective Sandboxing for Linux Containers". Empirical Software Engineering (EMSE). Accepted.   <br />
+48. Zhiyuan Wan, David Lo, <strong>Xin Xia</strong>, Liang Cai. "Practical and Effective Sandboxing for Linux Containers". Empirical Software Engineering (EMSE). Accepted.  <a href="emse193.pdf">[PDF]</a>  <br />
 
 47. Chao Ni, Xiang Chen, <strong>Xin Xia</strong>, Qing Gu, Yingquan Zhao. "Multi-task Defect Prediction". In Journal of Software: Evolution and Process (JSEP Journal). Accepted.  <a href="JSEP191.pdf">[PDF]</a>   <br />
 
