@@ -4,12 +4,14 @@ title: Professoinal Services
 permalink: /service/
 ---
 <ol>
+<li>Steering Committee  --   IEEE?ACM International Conference on Mining Software Repositories (MSR) 2019 -- 2021 </li>
 <li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2021 </li>
 </ol>
 
 
 ## 2020
 <ol>
+<li> Student Competition co-Chair -- 7th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft  2020)</li>
 <li>Program Committee  --  42nd International Conference on Software Engineering (ICSE 2020) </li>
 </ol>
 
@@ -22,14 +24,20 @@ permalink: /service/
 <li>Program Committee  --  35th International Conference on Software Maintenance and Evolution (ICSME 2019) </li>
 <li>Program Committee  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
 <li>Program Committee  --  16th Working Conference on Mining Software Repositories (MSR 2019) </li>
-<li>Program Committee  -- 27th International Conference on Program Comprehension (ICPC 2019) (Research Track and Replications Track) </li>
+<li>Program Committee  -- 27th International Conference on Program Comprehension (ICPC 2019) (Research Track, Replications, and Negative Results Track) </li>
 <li>Program Commitee -- 30th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2019)  </li> 
 <li>Program Commitee --  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019 Tool Demonstration Track) </li>
 <li>Program Committee  --  18th International Conference on Software Reuse (ICSR 2019) </li>
 <li>Program Committee  -- 19th IEEE International Conference on Software Quality, Reliability, and Security （QRS 2019） </li>
 <li>Program Committee  -- 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019) (Student Research Competition Track)</li>
 <li>Program Committee  -- 43rd Annual International Computers, Software & Applications Conference (COMPSAC 2019 SETA Track) </li>
+<li>Program Committee  --  15th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2019)   </li>
+<li>Program Committee  --  19th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2019 RENE Track)  </li>
 <li>Program Committee  --  34th ACM SIGAPP Symposium On Applied Computing (SAC 2019 SE Track) </li>
+<li>Distinguished Reviewers -- ACM Transactions on Software Engineering and Methodology (TOSEM) </li>
+<li>Guest Editor -- Empirical Software Engineering -- Special issue on Intelligent Software Engineering </li>
+<li>Guest Editor -- Journal of Systems and Software -- Special issue on Intelligent Software Engineering </li>
+<li>Guest Editor -- Automated Software Engineering  -- Special issue on Automated Software Engineering for Mobile Applications </li>
 <li>Reviewer -- the NSERC Discovery Grant Program </li>
 <li>Journal referee -- IEEE Transactions on Software Engineering </li>
 <li>Journal referee -- Empirical Software Engineering </li>
