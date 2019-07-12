@@ -22,7 +22,7 @@ permalink: /publication/
 
 ### 2019
 
-51. Tianchi Zhou, Xiaobing Sun, <strong>Xin Xia</strong>, Bin Li, Xiang Chen. "Improving Defect Prediction with Deep Forest". In Information and Software Technology (IST Journal). Accepted.   <br />
+51. Tianchi Zhou, Xiaobing Sun, <strong>Xin Xia</strong>, Bin Li, Xiang Chen. "Improving Defect Prediction with Deep Forest". In Information and Software Technology (IST Journal). Accepted. <a href="ist192.pdf">[PDF]</a>   <br />
 
 50. Giovanni Viviani, Michalis Famelis, <strong>Xin Xia</strong>, Calahan Janik-Jones, Gail C. Murphy. "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests". IEEE Transactions on Software Engineering (TSE), 13 pages.  Accepted.  <a href="tse193.pdf">[PDF]</a> <br />
 
