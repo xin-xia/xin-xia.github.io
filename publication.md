@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (51)</strong>: IEEE Transactions on Software Engineering * 12, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (52)</strong>: IEEE Transactions on Software Engineering * 12, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (81)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -21,6 +21,9 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+52.  Jiajun Jiang, Yingfei Xiong,  <strong>Xin Xia</strong>. "A manual inspection of Defects4J bugs and its implications for automatic program repair".  In SCIENCE CHINA Information Sciences (SCIS). Accepted.  <br />
+
 
 51. Tianchi Zhou, Xiaobing Sun, <strong>Xin Xia</strong>, Bin Li, Xiang Chen. "Improving Defect Prediction with Deep Forest". In Information and Software Technology (IST Journal). Accepted. <a href="ist192.pdf">[PDF]</a>   <br />
 
