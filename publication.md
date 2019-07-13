@@ -144,7 +144,7 @@ permalink: /publication/
 
 ### 2019
 
-83. Zhipeng Gao, Vinoj Jayasundara, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Tool Demo Paper. <br />
+83. Zhipeng Gao, Vinoj Jayasundara, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Tool Demo Paper. <br />
 
 82. Zhe Jin, Kong Yik Chee <strong>Xin Xia</strong>. "What Do Developers Discuss about Biometric APIs?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Short Paper. <br />
 
