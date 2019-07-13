@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (52)</strong>: IEEE Transactions on Software Engineering * 12, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (81)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (83)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
 
 <strong>Book Chapter (1) </strong> 
 
@@ -23,7 +23,6 @@ permalink: /publication/
 ### 2019
 
 52.  Jiajun Jiang, Yingfei Xiong,  <strong>Xin Xia</strong>. "A manual inspection of Defects4J bugs and its implications for automatic program repair".  In SCIENCE CHINA Information Sciences (SCIS). Accepted.  <br />
-
 
 51. Tianchi Zhou, Xiaobing Sun, <strong>Xin Xia</strong>, Bin Li, Xiang Chen. "Improving Defect Prediction with Deep Forest". In Information and Software Technology (IST Journal). Accepted. <a href="ist192.pdf">[PDF]</a>   <br />
 
@@ -144,6 +143,10 @@ permalink: /publication/
 
 
 ### 2019
+
+83. Zhipeng Gao, Vinoj Jayasundara, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Tool Demo Paper. <br />
+
+82. Zhe Jin, Kong Yik Chee <strong>Xin Xia</strong>. "What Do Developers Discuss about Biometric APIs?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Short Paper. <br />
 
 81. Liang Cai, Haoye Wang, Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing,  David Lo. " BIKER: A Tool for Bi-Information Source Based API Method Recommendation". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <a href="fse191.pdf">[PDF]</a> <br />
 
