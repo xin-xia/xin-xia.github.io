@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (52)</strong>: IEEE Transactions on Software Engineering * 12, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (53)</strong>: IEEE Transactions on Software Engineering * 13, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (83)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -21,6 +21,8 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+53. Yuanrui Fan, <strong>Xin Xia</strong>, Daniel Alencar da Costa, David Lo, Ahmed E. Hassan, Shanping Li. "The Impact of Changes Mislabeled by SZZ on Just-in-Time Defect Prediction". IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.   <br />
 
 52.  Jiajun Jiang, Yingfei Xiong,  <strong>Xin Xia</strong>. "A manual inspection of Defects4J bugs and its implications for automatic program repair".  In SCIENCE CHINA Information Sciences (SCIS). Accepted.  <br />
 
