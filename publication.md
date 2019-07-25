@@ -24,7 +24,7 @@ permalink: /publication/
 
 53. Yuanrui Fan, <strong>Xin Xia</strong>, Daniel Alencar da Costa, David Lo, Ahmed E. Hassan, Shanping Li. "The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction". IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.  <a href="tse194.pdf">[PDF]</a>  <br />
 
-52.  Jiajun Jiang, Yingfei Xiong,  <strong>Xin Xia</strong>. "A manual inspection of Defects4J bugs and its implications for automatic program repair".  In SCIENCE CHINA Information Sciences (SCIS). Accepted.  <br />
+52.  Jiajun Jiang, Yingfei Xiong,  <strong>Xin Xia</strong>. "A manual inspection of Defects4J bugs and its implications for automatic program repair".  In SCIENCE CHINA Information Sciences (SCIS). Accepted. <a href="scis191.pdf">[PDF]</a>  <br />
 
 51. Tianchi Zhou, Xiaobing Sun, <strong>Xin Xia</strong>, Bin Li, Xiang Chen. "Improving Defect Prediction with Deep Forest". In Information and Software Technology (IST Journal). Accepted. <a href="ist192.pdf">[PDF]</a>   <br />
 
