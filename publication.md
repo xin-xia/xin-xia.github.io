@@ -154,7 +154,7 @@ permalink: /publication/
 
 80.  Liang Cai, Haoye Wang, Bowen Xu, Qiao Huang, <strong>Xin Xia</strong>, David Lo, Zhenchang Xing. "AnswerBot: An Answer Summary Generation Tool Based on Stack Overflow". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <a href="fse192.pdf">[PDF]</a> <br />
 
-79. Luis Cruz, Rui Abreu, John Grundy, Li Li,  <strong>Xin Xia</strong>. "Do Energy-oriented Changes Hinder Maintainability?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Full Paper. <br />
+79. Luis Cruz, Rui Abreu, John Grundy, Li Li,  <strong>Xin Xia</strong>. "Do Energy-oriented Changes Hinder Maintainability?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Full Paper. <a href="icsme191.pdf">[PDF]</a><br />
 
 78. Weiqin Zou, Weiqiang Zhang, <strong>Xin Xia</strong>, Reid Holmes, Zhenyu Chen. "Branch Use in Practice--A Large-Scale Empirical Study of 2,923 Projects on GitHub".  19th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2019). Accepted as a Full Paper.  <a href="qrs191.pdf">[PDF]</a><br />
 
@@ -167,7 +167,7 @@ permalink: /publication/
 
 74. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse193.pdf">[PDF]</a> (<strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
-73. Junxiao Han, Shuiguang Deng, <strong>Xin Xia</strong>, Dongjing Wang and Jianwei Yin. "Characterization and Prediction of Popular Projects on GitHub". The 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2019). Accepted as a Short Paper.  <br /> 
+73. Junxiao Han, Shuiguang Deng, <strong>Xin Xia</strong>, Dongjing Wang and Jianwei Yin. "Characterization and Prediction of Popular Projects on GitHub". The 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2019). Accepted as a Short Paper. <a href="compsac19.pdf">[PDF]</a> <br /> 
  
 ### 2018
 
