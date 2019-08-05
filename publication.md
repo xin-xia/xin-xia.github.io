@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (53)</strong>: IEEE Transactions on Software Engineering * 13, Empirical Software Engineering * 13,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (54)</strong>: IEEE Transactions on Software Engineering * 13, Empirical Software Engineering * 14,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (83)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
 
@@ -21,6 +21,8 @@ permalink: /publication/
 ## Journal Papers
 
 ### 2019
+
+54. Li Li, Jun Gao, Tegawende F. Bissyande, Lei Ma,  <strong>Xin Xia</strong>,  Jacques Klein. "CDA: Characterising Deprecated Android APIs".  Empirical Software Engineering (EMSE). Accepted.<br />
 
 53. Yuanrui Fan, <strong>Xin Xia</strong>, Daniel Alencar da Costa, David Lo, Ahmed E. Hassan, Shanping Li. "The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction". IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.  <a href="tse194.pdf">[PDF]</a>  <br />
 
