@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (54)</strong>: IEEE Transactions on Software Engineering * 13, Empirical Software Engineering * 14,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (83)</strong>: ICSE * 3, ASE * 5, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (86)</strong>: ICSE * 3, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
 
 <strong>Book Chapter (1) </strong> 
 
@@ -147,6 +147,13 @@ permalink: /publication/
 
 
 ### 2019
+
+
+86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
+
+85. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, Guoqiang Li, Jianling Sun. "Discovering, Explaining and Summarizing Controversial Discussions in Community Q&A Sites". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
+
+84. Cuiyun Gao, Jichuan Zeng,  <strong>Xin Xia</strong>, David Lo, Michael R. Lyu, Irwin King. "Automating App Review Response Generation". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019): Conditionally Accepted as a Full Paper.  <br />
 
 83. Zhipeng Gao, Vinoj Jayasundara, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Tool Demo Paper. <br />
 
