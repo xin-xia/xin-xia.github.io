@@ -16,10 +16,7 @@ rich data in software repositories to uncover interesting and actionable informa
 natural language processing, search-based algorithms, and program analysis -- to transform passive software
 engineering data into automated tools and new insights.
 
-## Prospective Students: 
-
-I'm actively recruiting PhD students. Please contact me if you are interested in our PhD program and have strong interests in software engineering research, e.g., AI (deep learning) for SE, Mining Software Repositories, and Empirical Software Engineering. 
-
+ 
 ### Google Scholar
 [Direct link] to Google scholar page.
 
