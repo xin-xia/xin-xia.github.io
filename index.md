@@ -29,7 +29,7 @@ engineering data into automated tools and new insights.
 #### TSE
 
 
-1. Zhiyuan Wan,  <strong>Xin Xia</strong>, David Lo, Gail Murphy. "How does Machine Learning Change Software Development Practices?" IEEE Transactions on Software Engineering (TSE), 15 pages.  Accepted.   <br />
+1. Zhiyuan Wan,  <strong>Xin Xia</strong>, David Lo, Gail Murphy. "How does Machine Learning Change Software Development Practices?" IEEE Transactions on Software Engineering (TSE), 14 pages.  Accepted.   <br />
 1. Yuanrui Fan, <strong>Xin Xia</strong>, Daniel Alencar da Costa, David Lo, Ahmed E. Hassan, Shanping Li. "The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction". IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.   <br />
 1. Giovanni Viviani, Michalis Famelis, <strong>Xin Xia</strong>, Calahan Janik-Jones, Gail C. Murphy. "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests". IEEE Transactions on Software Engineering (TSE), 13 pages.  Accepted.   <br />
 1.  Zhiyuan Wan,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "What Do Programmers Discuss about Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions about Blockchain Platforms across Stack Exchange Communities". IEEE Transactions on Software Engineering (TSE), 19 pages.  Accepted.    <br />
