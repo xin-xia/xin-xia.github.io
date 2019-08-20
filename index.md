@@ -25,6 +25,10 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 
 [Direct link]: https://scholar.google.com/citations?user=XSZRxOEAAAAJ
 
+## Prospective Students: 
+
+I'm actively recruiting PhD students. Please contact me if you are interested in our PhD program and have strong interests in software engineering research, e.g., AI (deep learning) for SE, Mining Software Repositories, and Empirical Software Engineering. 
+
 
 ## Selected Publications
 
