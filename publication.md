@@ -22,6 +22,8 @@ permalink: /publication/
 
 ### 2019
 
+55. Zhiyuan Wan,  <strong>Xin Xia</strong>, David Lo, Gail Murphy. "How does Machine Learning Change Software Development Practices?" IEEE Transactions on Software Engineering (TSE), 15 pages.  Accepted.  <a href="tse195.pdf">[PDF]</a>  <br />
+
 54. Li Li, Jun Gao, Tegawende F. Bissyande, Lei Ma,  <strong>Xin Xia</strong>,  Jacques Klein. "CDA: Characterising Deprecated Android APIs".  Empirical Software Engineering (EMSE). Accepted.<br />
 
 53. Yuanrui Fan, <strong>Xin Xia</strong>, Daniel Alencar da Costa, David Lo, Ahmed E. Hassan, Shanping Li. "The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction". IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.  <a href="tse194.pdf">[PDF]</a>  <br />
