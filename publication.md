@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (55)</strong>: IEEE Transactions on Software Engineering * 14, Empirical Software Engineering * 14,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (86)</strong>: ICSE * 3, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, IJCAI * 1
+<strong>Conference Papers (88)</strong>: ICSE * 3, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1
 
 <strong>Book Chapter (1) </strong> 
 
@@ -149,6 +149,10 @@ permalink: /publication/
 
 
 ### 2019
+
+88. Bolin Wei, Ge Li, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "Code Generation as Dual Task of Code Summarization". Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019): Accepted as a Full Paper. <br />
+
+87. Qingye Wang, Bowen Xu, <strong>Xin Xia</strong>, Ting Wang, Shanping Li. "Duplicate Pull Request Detection: When Time Matters". 11th Asia-Pacific Symposium on Internetware (Internetware 2019): Accepted as a Full Paper. <br />
 
 
 86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />

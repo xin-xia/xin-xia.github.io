@@ -78,6 +78,10 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 #### ISSTA
 1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper. <br />
  
+ 
+#### NeurIPS
+
+1. Bolin Wei, Ge Li, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "Code Generation as Dual Task of Code Summarization". Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019): Accepted as a Full Paper. <br /> 
 
 #### IJCAI
 11. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence  (IJCAI 2018): 2269-2275 <br />
