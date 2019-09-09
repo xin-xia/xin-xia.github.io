@@ -159,13 +159,13 @@ permalink: /publication/
 
 85. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, Guoqiang Li, Jianling Sun. "Discovering, Explaining and Summarizing Controversial Discussions in Community Q&A Sites". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
 
-84. Cuiyun Gao, Jichuan Zeng,  <strong>Xin Xia</strong>, David Lo, Michael R. Lyu, Irwin King. "Automating App Review Response Generation". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019): Conditionally Accepted as a Full Paper.  <br />
+84. Cuiyun Gao, Jichuan Zeng,  <strong>Xin Xia</strong>, David Lo, Michael R. Lyu, Irwin King. "Automating App Review Response Generation". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):   Accepted as a Full Paper.  <br />
 
 83. Zhipeng Gao, Vinoj Jayasundara, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Tool Demo Paper. <br />
 
 82. Zhe Jin, Kong Yik Chee <strong>Xin Xia</strong>. "What Do Developers Discuss about Biometric APIs?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Short Paper. <br />
 
-81. Liang Cai, Haoye Wang, Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing,  David Lo. " BIKER: A Tool for Bi-Information Source Based API Method Recommendation". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <a href="fse191.pdf">[PDF]</a> <br />
+81. Liang Cai, Haoye Wang, Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing,  David Lo. " BIKER: A Tool for Bi-Information Source Based API Method Recommendation". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <a href="fse191.pdf">[PDF]</a> (<strong> Best Tool Demo Award</strong>)<br />
 
 80.  Liang Cai, Haoye Wang, Bowen Xu, Qiao Huang, <strong>Xin Xia</strong>, David Lo, Zhenchang Xing. "AnswerBot: An Answer Summary Generation Tool Based on Stack Overflow". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <a href="fse192.pdf">[PDF]</a> <br />
 
