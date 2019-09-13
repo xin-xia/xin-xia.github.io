@@ -4,15 +4,18 @@ title: Professoinal Services
 permalink: /service/
 ---
 <ol>
-<li>Steering Committee  --   IEEE?ACM International Conference on Mining Software Repositories (MSR) 2019 -- 2021 </li>
+<li>Steering Committee  --   IEEE/ACM International Conference on Mining Software Repositories (MSR) 2019 -- 2022 </li>
 <li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2021 </li>
 </ol>
 
 
 ## 2020
 <ol>
+<li> New Ideas Track co-Chair -- 36th International Conference on Software Maintenance and Evolution (ICSME 2020) </li>
+<li> Journal-first Track co-Chair -- 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020) </li>
 <li> Student Competition co-Chair -- 7th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft  2020)</li>
 <li>Program Committee  --  42nd International Conference on Software Engineering (ICSE 2020) </li>
+<li>Program Committee  --  27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020) </li>
 </ol>
 
 ## 2019

@@ -157,13 +157,13 @@ permalink: /publication/
 87. Qingye Wang, Bowen Xu, <strong>Xin Xia</strong>, Ting Wang, Shanping Li. "Duplicate Pull Request Detection: When Time Matters". 11th Asia-Pacific Symposium on Internetware (Internetware 2019): Accepted as a Full Paper. <br />
 
 
-86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
+86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper. <a href="ase191.pdf">[PDF]</a>  <br />
 
 85. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, Guoqiang Li, Jianling Sun. "Discovering, Explaining and Summarizing Controversial Discussions in Community Q&A Sites". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
 
-84. Cuiyun Gao, Jichuan Zeng,  <strong>Xin Xia</strong>, David Lo, Michael R. Lyu, Irwin King. "Automating App Review Response Generation". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):   Accepted as a Full Paper.  <br />
+84. Cuiyun Gao, Jichuan Zeng,  <strong>Xin Xia</strong>, David Lo, Michael R. Lyu, Irwin King. "Automating App Review Response Generation". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):   Accepted as a Full Paper. <a href="ase193.pdf">[PDF]</a>  <br />
 
-83. Zhipeng Gao, Vinoj Jayasundara, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Tool Demo Paper. <br />
+83. Zhipeng Gao, Vinoj Jayasundara, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Tool Demo Paper. <a href="icsme192.pdf">[PDF]</a><br />
 
 82. Zhe Jin, Kong Yik Chee <strong>Xin Xia</strong>. "What Do Developers Discuss about Biometric APIs?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Short Paper. <br />
 
