@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (56)</strong>: IEEE Transactions on Software Engineering * 15, Empirical Software Engineering * 14,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (58)</strong>: IEEE Transactions on Software Engineering * 17, Empirical Software Engineering * 14,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (88)</strong>: ICSE * 3, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1
 
@@ -22,7 +22,11 @@ permalink: /publication/
 
 ### 2019
 
-56. Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach Dinh Le, <strong>Xin Xia</strong>, Yang Feng, Zhenyu Chen, Baowen Xu. "Smart Contract Development: Challenges and Opportunities". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted. <br />
+58. Rubing Huang, Weifeng Sun, Yinyin Xu, Haibo Chen, Dave Towey, <strong>Xin Xia</strong>. "A Survey on Adaptive Random Testing". IEEE Transactions on Software Engineering (TSE), 32 pages.  Accepted.  <a href="tse198.pdf">[PDF]</a> <br />
+
+57. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Which Variables Should I Log?" IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.  <a href="tse197.pdf">[PDF]</a> <br />
+
+56. Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach Dinh Le, <strong>Xin Xia</strong>, Yang Feng, Zhenyu Chen, Baowen Xu. "Smart Contract Development: Challenges and Opportunities". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.  <a href="tse196.pdf">[PDF]</a> <br />
 
 55. Zhiyuan Wan,  <strong>Xin Xia</strong>, David Lo, Gail Murphy. "How does Machine Learning Change Software Development Practices?" IEEE Transactions on Software Engineering (TSE), 14 pages.  Accepted.  <a href="tse195.pdf">[PDF]</a>  <br />
 

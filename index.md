@@ -33,7 +33,10 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 
 #### TSE
 
-1. Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach Dinh Le, <strong>Xin Xia</strong>, Yang Feng, Zhenyu Chen, Baowen Xu. "Smart Contract Development: Challenges and Opportunities". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.
+
+1. Rubing Huang, Weifeng Sun, Yinyin Xu, Haibo Chen, Dave Towey, <strong>Xin Xia</strong>. "A Survey on Adaptive Random Testing". IEEE Transactions on Software Engineering (TSE), 32 pages.  Accepted.  <br />
+1. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Which Variables Should I Log?" IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.  <br />
+1. Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach Dinh Le, <strong>Xin Xia</strong>, Yang Feng, Zhenyu Chen, Baowen Xu. "Smart Contract Development: Challenges and Opportunities". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.<br />
 1. Zhiyuan Wan,  <strong>Xin Xia</strong>, David Lo, Gail Murphy. "How does Machine Learning Change Software Development Practices?" IEEE Transactions on Software Engineering (TSE), 14 pages.  Accepted.   <br />
 1. Yuanrui Fan, <strong>Xin Xia</strong>, Daniel Alencar da Costa, David Lo, Ahmed E. Hassan, Shanping Li. "The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction". IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.   <br />
 1. Giovanni Viviani, Michalis Famelis, <strong>Xin Xia</strong>, Calahan Janik-Jones, Gail C. Murphy. "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests". IEEE Transactions on Software Engineering (TSE), 13 pages.  Accepted.   <br />
