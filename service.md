@@ -14,7 +14,9 @@ permalink: /service/
 <li> New Ideas Track co-Chair -- 36th International Conference on Software Maintenance and Evolution (ICSME 2020) </li>
 <li> Journal-first Track co-Chair -- 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020) </li>
 <li> Student Competition co-Chair -- 7th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft  2020)</li>
+<li>  Publicity co-Chair -- 16th International PROMISE Conference on Analytics in SE (PROMISE 2020) </li>
 <li>Program Committee  --  42nd International Conference on Software Engineering (ICSE 2020) </li>
+<li>Program Committee  --  28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020) </li>
 <li>Program Committee  --  27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020) </li>
 </ol>
 
