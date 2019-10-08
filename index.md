@@ -89,7 +89,9 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 #### IJCAI
 11. Xing Hu, Ge Li, <strong>Xin Xia</strong>,  David Lo, Shuai Lu,  Zhi Jin. "Summarizing Source Code with Transferred API Knowledge". 27th International Joint Conference on Artificial Intelligence  (IJCAI 2018): 2269-2275 <br />
 
- 
+#### UbiComp
+
+1. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, Xin Xia, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help". he 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper. <br />
  
 ## Contact
 
