@@ -155,7 +155,7 @@ permalink: /publication/
 
 ### 2020
 
-89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help". he 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper. <br />
+89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help".   2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper. <br />
 
 
 ### 2019
