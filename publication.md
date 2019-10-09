@@ -17,7 +17,7 @@ permalink: /publication/
 
 ## 2020 
 
-### Conference Papers (Research Track)
+### Conference Papers (Full Papers)
 
 
 89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help".   2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper. <br />
@@ -68,7 +68,7 @@ permalink: /publication/
 40. Meng Yan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Shanping Li. "Characterizing and Identifying Reverted Commits". Empirical Software Engineering (EMSE). Accepted.  <a href="emse191.pdf">[PDF]</a> <br />
 
 
-## Conference Papers (Full Papers)
+### Conference Papers (Full Papers)
 
 88. Bolin Wei, Ge Li, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "Code Generation as Dual Task of Code Summarization". Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019): Accepted as a Full Paper. <br />
 
@@ -97,13 +97,12 @@ permalink: /publication/
 74. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  <a href="icse193.pdf">[PDF]</a> (<strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
 
-## Conference Papers (Short Papers)
-
+### Conference Papers (Short Papers)
 
 
 73. Junxiao Han, Shuiguang Deng, <strong>Xin Xia</strong>, Dongjing Wang and Jianwei Yin. "Characterization and Prediction of Popular Projects on GitHub". The 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2019). Accepted as a Short Paper. <a href="compsac19.pdf">[PDF]</a> <br /> 
  
- 82. Zhe Jin, Kong Yik Chee <strong>Xin Xia</strong>. "What Do Developers Discuss about Biometric APIs?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Short Paper. <br />
+82. Zhe Jin, Kong Yik Chee <strong>Xin Xia</strong>. "What Do Developers Discuss about Biometric APIs?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Short Paper. <br />
 
 81. Liang Cai, Haoye Wang, Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing,  David Lo. " BIKER: A Tool for Bi-Information Source Based API Method Recommendation". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <a href="fse191.pdf">[PDF]</a> (<strong> Best Tool Demo Award</strong>)<br />
 
@@ -212,9 +211,7 @@ permalink: /publication/
 18. Yun Zhang, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "Combined Classifier for Cross-project Defect Prediction: An Extended Empirical Study". Frontiers of Computer Science (FCS). Accepted. <a href="fcs.pdf">[PDF]</a><br />
  
  
- ### Conference Papers (Full Papers)
- 
-  
+### Conference Papers (Full Papers)  
 
 
 56.  Bowen Xu, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo. "AnswerBot - Automated Generation of Answer Summary to Developers' Technical Questions". 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. <a href="ase17.pdf">[PDF]</a> <br />
@@ -303,6 +300,7 @@ permalink: /publication/
 32. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Xinyu Wang, Cong Tian. "How Android App Developers Manage Power Consumption? - An Empirical Study by Mining Power Management Commits". 13th International Conference on Mining Software Repositories (MSR 2016). Accepted as a Full Paper.  <a href="msr162.pdf">[PDF]</a> <br />
 
 43. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "What Permissions Should This Android App Request". The Annual Conference on Software Analysis, Testing and Evolution (SATE). Accepted as a Full Paper.  <strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong> <a href="sate16.pdf">[PDF]</a> <br />
+
  
 ## Conference Papers (Short Papers)
  
@@ -410,7 +408,7 @@ permalink: /publication/
 7.    <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Bo Zhou. Tag recommendation in software information sites[C]// In Proceedings of the Tenth International Working Conference on Mining Software Repositories(MSR). IEEE, 2013: 287-296 <a href="msr13.pdf">[PDF]</a>  <br />
  
 
-## Conference Papers (Short Papers)
+### Conference Papers (Short Papers)
 
 6.    <strong>Xin Xia</strong>, Xiaozhen Zhou, David Lo, and Xiaoqiong Zhao. An Empirical Study of Bugs in Software Build Systems. In Quality Software (QSIC)[C]// 2013 13th International Conference on. IEEE, 2013: 200-203 <a href="qrs13.pdf">[PDF]</a>  <br />
  
