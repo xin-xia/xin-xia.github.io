@@ -165,7 +165,7 @@ permalink: /publication/
 
 
 
-## Conference Papers (Short Papers)
+### Conference Papers (Short Papers)
 
 62.  Giovanni Viviani, Calahan Janik-Jones, Michalis Famelis,  <strong>Xin Xia</strong>, Gail C. Murphy. "What Design is Discussed by Developers?". 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a ERA track paper. <a href="icpc181.pdf">[PDF]</a>  <br />
 
@@ -242,7 +242,7 @@ permalink: /publication/
 59. Wenyuan Xu, Xiaobing Sun, <strong>Xin Xia</strong>, Xiang Chen. "Scalable Relevant Project Recommendation on GitHub". Ninth Asia-Pacific Symposium on Internetware (Internetware 2017). Accepted as a Full paper.<strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong>  <a href="internetware171.pdf">[PDF]</a> <br />
  
 
-## Conference Papers (Short Papers)
+### Conference Papers (Short Papers)
 
 47. Meng Yan, Xiaohong Zhang, Chao Liu, Jie Zou, Ling Xu, <strong>Xin Xia</strong>. "Learning to Aggregate: An Automated Aggregation Method for Software Quality Model". 39th International Conference on Software Engineering (ICSE 2017). Accepted as a Poster. <a href="icse17.pdf">[PDF]</a><br />
  
@@ -302,7 +302,7 @@ permalink: /publication/
 43. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "What Permissions Should This Android App Request". The Annual Conference on Software Analysis, Testing and Evolution (SATE). Accepted as a Full Paper.  <strong>(Invited to SCIENCE CHINA Information Sciences Journal)</strong> <a href="sate16.pdf">[PDF]</a> <br />
 
  
-## Conference Papers (Short Papers)
+### Conference Papers (Short Papers)
  
 34. Xinli Yang, David Lo, Qiao Huang,  <strong>Xin Xia</strong>, Jianling Sun. "Automated Identification of High Impact Bug Reports Leveraging Imbalanced Learning Strategies".  The 40th Annual International Computers, Software & Applications Conference (COMPSAC 2016). Accepted as a Short Paper. <a href="compsac163.pdf">[PDF]</a>   <br />
  
@@ -345,7 +345,7 @@ permalink: /publication/
 22.   <strong>Xin Xia</strong>,  David Lo, Shane McIntosh, Emad Shihab, and Ahmed E. Hassan. Cross-Project Build Co-change Prediction. 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2015): Accepted as a Research Full Paper.  <a href="saner15.pdf">[PDF]</a>  <br />
  
 
-## Conference Papers (Short Papers)
+### Conference Papers (Short Papers)
 
 21.   Xiao Xuan, David Lo, <strong>Xin Xia</strong>, and Yuan Tian. Evaluating Defect Prediction Approaches Using A Massive Set of Metrics: An Empirical Study[C]// 30th ACM Symposium on Applied Computing (SAC 2015). ACM, 2015:  Accepted as a poster paper. <a href="sac15.pdf">[PDF]</a>  <br />
 
@@ -384,7 +384,7 @@ permalink: /publication/
 14.        <strong>Xin Xia</strong>, David Lo, Xinyu Wang, and Bo Zhou. Automatic Defect Categorization Based On Fault Triggering Conditions. In Engineering of Complex Computer Systems (ICECCS)[C]//2013 19th International Conference on. IEEE, 2014: 39 - 48  <strong>(Best Student Paper Award!) </strong> <a href="iceccs14.pdf">[PDF]</a>  <br />
  
 
-## Conference Papers (Short Papers)
+### Conference Papers (Short Papers)
  
 13.      Bo Zhou, <strong>Xin Xia</strong>, David Lo, and Xinyu Wang. BuildPredictor: More Accurate Missed Dependency Prediction in Build Configuration Files[C]//In Proceedings of 38th IEEE Computer Software and Applications Conference (COMPSAC 2014). IEEE, 2014: 53-  58 . <a href="compsac142.pdf">[PDF]</a> <br />
  
