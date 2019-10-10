@@ -75,7 +75,7 @@ permalink: /publication/
 87. Qingye Wang, Bowen Xu, <strong>Xin Xia</strong>, Ting Wang, Shanping Li. "Duplicate Pull Request Detection: When Time Matters". 11th Asia-Pacific Symposium on Internetware (Internetware 2019): Accepted as a Full Paper.  <a href="internetware19.pdf">[PDF]</a> <br />
 
 
-86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper. <a href="ase191.pdf">[PDF]</a>  <br />
+86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper. <a href="ase191.pdf">[PDF]</a>  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)<br />
 
 85. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, Guoqiang Li, Jianling Sun. "Discovering, Explaining and Summarizing Controversial Discussions in Community Q&A Sites". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <a href="ase192.pdf">[PDF]</a>  <br />
 

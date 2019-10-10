@@ -68,7 +68,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 
 #### ASE
 
-86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
+86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper. (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)<br />
 85. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, Guoqiang Li, Jianling Sun. "Discovering, Explaining and Summarizing Controversial Discussions in Community Q&A Sites". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
 84. Cuiyun Gao, Jichuan Zeng,  <strong>Xin Xia</strong>, David Lo, Michael R. Lyu, Irwin King. "Automating App Review Response Generation". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
 6. Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing, David Lo, Xinyu Wang. API Method Recommendation without Worrying About the Task-API Knowledge Gap. 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018): Accepted as a Full Paper <br />

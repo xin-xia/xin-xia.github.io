@@ -3,6 +3,9 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
+
+13. <strong>ACM SIGSOFT Distinguished Paper Award</strong> 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019), November 2019 <br />
+
 12. <strong> Best Tool Demo Paper Award</strong>,   27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019), August 2019 <br />
 
 
