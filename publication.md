@@ -70,7 +70,7 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-88. Bolin Wei, Ge Li, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "Code Generation as Dual Task of Code Summarization". Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019): Accepted as a Full Paper. <br />
+88. Bolin Wei, Ge Li, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "Code Generation as a Dual Task of Code Summarization". Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019): Accepted as a Full Paper.  <a href="nips19.pdf">[PDF]</a> <br />
 
 87. Qingye Wang, Bowen Xu, <strong>Xin Xia</strong>, Ting Wang, Shanping Li. "Duplicate Pull Request Detection: When Time Matters". 11th Asia-Pacific Symposium on Internetware (Internetware 2019): Accepted as a Full Paper.  <a href="internetware19.pdf">[PDF]</a> <br />
 
