@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (58)</strong>: IEEE Transactions on Software Engineering * 17, Empirical Software Engineering * 14,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (59)</strong>: IEEE Transactions on Software Engineering * 17, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (89)</strong>: ICSE * 3, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -28,6 +28,8 @@ permalink: /publication/
 
 ### Journal Papers
 
+
+59. Junxiao Han, Emad Shihab, Zhiyuan Wan, Shuihuang Deng, <strong>Xin Xia</strong>. "What do Programmers Discuss about Deep Learning Frameworks". Empirical Software Engineering (EMSE). Accepted.<br />
 
 58. Rubing Huang, Weifeng Sun, Yinyin Xu, Haibo Chen, Dave Towey, <strong>Xin Xia</strong>. "A Survey on Adaptive Random Testing". IEEE Transactions on Software Engineering (TSE), 32 pages.  Accepted.  <a href="tse198.pdf">[PDF]</a> <br />
 
