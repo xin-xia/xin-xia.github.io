@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (59)</strong>: IEEE Transactions on Software Engineering * 17, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (89)</strong>: ICSE * 3, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (90)</strong>: ICSE * 3, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (1) </strong> 
 
@@ -18,6 +18,8 @@ permalink: /publication/
 ## 2020 
 
 ### Conference Papers (Full Papers)
+
+90. Wenhan Wang, Ge Li, Bo Ma, <strong>Xin Xia</strong>,  Zhi Jin. "Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree". 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020).  Accepted as a Full Paper. <br />
 
 
 89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help".   2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper. <br />
