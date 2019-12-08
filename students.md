@@ -7,7 +7,7 @@ permalink: /students/
 
 
 ## PhD Students
-
+10. Tingting Bi (July 2019 -- now) <br />
 9. Jiachi Chen (Feb 2019 -- now)  <br />
 8. Zhipeng Gao (Sep 2018 -- now)  <br />
 7. Dehai Zhao (Sep 2018 -- now) (Co-supervised with Prof. Zhenchang Xing at Australian National University)<br />
@@ -23,16 +23,14 @@ Papers with me: ASEJ, ASE 2018 (ACM SigSoft Distinguished Paper Award), ICSE 201
 Papers with me: COMPSAC 2018 (Short), TOSEM  <br />
 8. Qingye Wang (Sep 2015 -- now) (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
 Papers with me: IST  <br />
-9. Xinli Yang (Sep 2014 -- now) (Co-supervised with Prof. Jianling Sun at Zhejiang University)  <br /> 
-Papers with me: IST * 2, JCST * 2, ISSRE 2016, COMPSAC 2016 * 2, QRS 2015  <br />
+
 
 ## Post-docs
 
 3. Chao Liu (Feb 2019 -- now) (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
 Papers with me: IST, COMPSAC 2018  <br />
 2. Neng Zhang (Dec 2018 -- now) (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
-1. [Meng Yan] (July 2017 -- now) (Co-supervised with Prof. Shanping Li at Zhejiang University)  <br />
-Papers with me: TSE, EMSE, ESEM 2017  <br />
+
 
 
 
@@ -46,6 +44,8 @@ Papers with me: TSE, EMSE, ESEM 2017  <br />
 Papers with me: EMSE, JCST, FCS, ICPC 2018, ICSME 2016, SANER 2016, ICECCS 2015, COMPSAC 2015 (Short)  <br />
 2. [Bowen Xu] (Master, 2016, co-supervised with Prof. Shanping Li at Zhejiang University) (PhD student @ Singapore Management University) <br />
 Papers with me: EMSE, ASE 2017, ESEC/FSE 2017 Tool Demo,  ASE 2016, MSR 2016, APSEC 2015 
+9. Xinli Yang (PhD, 2019, co-supervised with Prof. Jianling Sun at Zhejiang University) (Associate Prof @ Zhejiang Shuren University) <br /> 
+Papers with me: IST * 2, JCST * 2, ISSRE 2016, COMPSAC 2016 * 2, QRS 2015  <br />
 
 ## Former Post-docs (Current Positions)
 
@@ -53,6 +53,8 @@ Papers with me: EMSE, ASE 2017, ESEC/FSE 2017 Tool Demo,  ASE 2016, MSR 2016, AP
 Papers with me: TSE * 2, EMSE * 3, SCIS, ESEC/FSE 2018 Tool Demo, ICSME 2017, MSR 2017, ICSME 2016, MSR 2016, ASE 2015 Tool Demo <br />
 2. [Zhiyuan Wan] (Co-supervised with Prof. Shanping Li at Zhejiang University) (Post-doc @ UBC) <br />
 Papers with me: TSE, ICSE 2019, ICST 2017, MSR 2017 <br />
+1. [Meng Yan] (Co-supervised with Prof. Shanping Li at Zhejiang University) (Assistant Prof @Chongqing University)  <br />
+Papers with me: TSE, EMSE, ESEM 2017  <br />
 
 
 [Lingfeng Bao]: https://baolingfeng.github.io/
