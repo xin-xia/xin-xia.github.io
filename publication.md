@@ -111,7 +111,7 @@ permalink: /publication/
 
 73. Junxiao Han, Shuiguang Deng, <strong>Xin Xia</strong>, Dongjing Wang and Jianwei Yin. "Characterization and Prediction of Popular Projects on GitHub". The 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2019). Accepted as a Short Paper. <a href="compsac19.pdf">[PDF]</a> <br /> 
  
-82. Zhe Jin, Kong Yik Chee <strong>Xin Xia</strong>. "What Do Developers Discuss about Biometric APIs?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Short Paper. <br />
+82. Zhe Jin, Kong Yik Chee <strong>Xin Xia</strong>. "What Do Developers Discuss about Biometric APIs?" 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019).  Accepted as a Short Paper.  <a href="icsme193.pdf">[PDF]</a><br />
 
 81. Liang Cai, Haoye Wang, Qiao Huang, <strong>Xin Xia</strong>, Zhenchang Xing,  David Lo. " BIKER: A Tool for Bi-Information Source Based API Method Recommendation". The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. <a href="fse191.pdf">[PDF]</a> (<strong> Best Tool Demo Award</strong>)<br />
 
