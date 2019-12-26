@@ -24,7 +24,7 @@ permalink: /publication/
 90. Wenhan Wang, Ge Li, Bo Ma, <strong>Xin Xia</strong>,  Zhi Jin. "Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree". 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020).  Accepted as a Full Paper. <br />
 
 
-89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help".   2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper. <br />
+89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help".   2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper.  <a href="ubicomp201.pdf">[PDF]</a> <br />
 
  
 ### Papers in Chinese 
