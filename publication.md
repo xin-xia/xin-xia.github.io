@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (1) </strong> 
 
-<strong>Papers in Chinese (2)</strong>: 软件学报*2
+<strong>Papers in Chinese (3)</strong>: 软件学报*3
 
 
 ## 2020 
@@ -26,7 +26,10 @@ permalink: /publication/
 
 89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help".   2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper. <br />
 
+ 
+### Papers in Chinese 
 
+1.  郑 炜, 陈军正, 吴潇雪, 陈 翔,  <strong>夏鑫</strong>. 基于深度学习的安全缺陷报告预测方法实证研究. 软件学报， 2020， 已录用 <a href="rjxb201.pdf">[PDF]</a>   <br />
 
 ## 2019
 
