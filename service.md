@@ -18,6 +18,7 @@ permalink: /service/
 <ol>
 
 <li> Award Committee -- SIGSOFT Outstanding Doctoral Dissertation Award </li>
+<li> Award Committee -- MSR 2010 Most Influential Paper Award Committee </li>
 <li> New Ideas Track co-Chair -- 36th International Conference on Software Maintenance and Evolution (ICSME 2020) </li>
 <li> Journal-first Track co-Chair -- 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020) </li>
 <li> Student Competition co-Chair -- 7th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft  2020)</li>

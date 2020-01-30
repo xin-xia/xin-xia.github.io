@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (59)</strong>: IEEE Transactions on Software Engineering * 17, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (60)</strong>: IEEE Transactions on Software Engineering * 18, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (92)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,9 +17,16 @@ permalink: /publication/
 
 ## 2020 
 
+
+### Journal Papers
+
+93. Zhipeng Gao, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "Checking Smart Contracts with Structural Code Embedding". IEEE Transactions on Software Engineering (TSE), 18 pages.  Accepted.   <br />
+
+
+
 ### Conference Papers (Full Papers)
 
-92. Jiakun Liu, <strong>Xin Xia</strong>, Xin Xia, Emad Shihab, David Lo, Shanping Li. "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a SEIS Track Full Paper.  <br />
+92. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a SEIS Track Full Paper.  <br />
 
 91. Xiaoxue Ren, Zhenchang Xing, Jiamou Sun, <strong>Xin Xia</strong>, Jianling Sun. "Demystify Official API Usage Directives with Crowdsourced API Misuse Scenarios, Erroneous Code Examples and Patches". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a Full Paper.  <br />
 
