@@ -20,13 +20,13 @@ permalink: /publication/
 
 ### Journal Papers
 
-93. Zhipeng Gao, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "Checking Smart Contracts with Structural Code Embedding". IEEE Transactions on Software Engineering (TSE), 18 pages.  Accepted.   <br />
+93. Zhipeng Gao, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "Checking Smart Contracts with Structural Code Embedding". IEEE Transactions on Software Engineering (TSE), 18 pages.  Accepted.   <a href="tse201.pdf">[PDF]</a> <br />
 
 
 
 ### Conference Papers (Full Papers)
 
-92. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a SEIS Track Full Paper.  <br />
+92. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a SEIS Track Full Paper.   <a href="icse201.pdf">[PDF]</a> <br />
 
 91. Xiaoxue Ren, Zhenchang Xing, Jiamou Sun, <strong>Xin Xia</strong>, Jianling Sun. "Demystify Official API Usage Directives with Crowdsourced API Misuse Scenarios, Erroneous Code Examples and Patches". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a Full Paper.  <br />
 
