@@ -28,9 +28,9 @@ permalink: /publication/
 
 92. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a SEIS Track Full Paper.   <a href="icse201.pdf">[PDF]</a> <br />
 
-91. Xiaoxue Ren, Zhenchang Xing, Jiamou Sun, <strong>Xin Xia</strong>, Jianling Sun. "Demystify Official API Usage Directives with Crowdsourced API Misuse Scenarios, Erroneous Code Examples and Patches". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a Full Paper.  <br />
+91. Xiaoxue Ren, Zhenchang Xing, Jiamou Sun, <strong>Xin Xia</strong>, Jianling Sun. "Demystify Official API Usage Directives with Crowdsourced API Misuse Scenarios, Erroneous Code Examples and Patches". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a Full Paper. <a href="icse202.pdf">[PDF]</a> <br />
 
-90. Wenhan Wang, Ge Li, Bo Ma, <strong>Xin Xia</strong>,  Zhi Jin. "Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree". 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020).  Accepted as a Full Paper. <br />
+90. Wenhan Wang, Ge Li, Bo Ma, <strong>Xin Xia</strong>,  Zhi Jin. "Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree". 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020).  Accepted as a Full Paper. <a href="saner20.pdf">[PDF]</a> <br />
 
 
 89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help".   2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper.  <a href="ubicomp201.pdf">[PDF]</a> <br />
