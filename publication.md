@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (60)</strong>: IEEE Transactions on Software Engineering * 18, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (92)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (93)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (1) </strong> 
 
@@ -26,9 +26,11 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
+93. Tingmin Wu, Rongjunchen Zhang, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "What risk? I don’t understand. An Empirical Study on Users’ Understanding of the Terms Used in Security Texts". The 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020).  Accepted as a Full Paper.   <br />
+
 92. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a SEIS Track Full Paper.   <a href="icse201.pdf">[PDF]</a> <br />
 
-91. Xiaoxue Ren, Zhenchang Xing, Jiamou Sun, <strong>Xin Xia</strong>, Jianling Sun. "Demystify Official API Usage Directives with Crowdsourced API Misuse Scenarios, Erroneous Code Examples and Patches". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a Full Paper. <a href="icse202.pdf">[PDF]</a> <br />
+91. Xiaoxue Ren,  Jiamou Sun, Zhenchang Xing, <strong>Xin Xia</strong>, Jianling Sun. "Demystify Official API Usage Directives with Crowdsourced API Misuse Scenarios, Erroneous Code Examples and Patches". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a Full Paper. <a href="icse202.pdf">[PDF]</a> <br />
 
 90. Wenhan Wang, Ge Li, Bo Ma, <strong>Xin Xia</strong>,  Zhi Jin. "Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree". 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020).  Accepted as a Full Paper. <a href="saner20.pdf">[PDF]</a> <br />
 
