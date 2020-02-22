@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (1) </strong> 
 
-<strong>Papers in Chinese (4)</strong>: 软件学报*4
+<strong>Papers in Chinese (5)</strong>: 软件学报*5
 
 
 ## 2020 
@@ -42,6 +42,7 @@ permalink: /publication/
 
 1.  郑 炜, 陈军正, 吴潇雪, 陈 翔,  <strong>夏鑫</strong>. 基于深度学习的安全缺陷报告预测方法实证研究. 软件学报， 2020， 已录用 <a href="rjxb201.pdf">[PDF]</a>   <br />
 2.  杨博,张能,李善平,<strong>夏鑫</strong>. 智能代码补全方法研究进展. 软件学报， 2020， 已录用   <br />
+3. 蔡亮,端豪,鄢萌,<strong>夏鑫</strong>. 基于双层协同的联盟区块链隐私数据保护方法. 软件学报， 2020， 已录用   <br />
 
 ## 2019
 
