@@ -29,6 +29,8 @@ permalink: /service/
 <li>Program Committee -- 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020)</li>
 <li>Program Committee  --  27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020) </li>
 <li>Program Committee  --  28th International Conference on Program Comprehension (ICPC 2020)  </li> 
+<li>Program Commitee -- 31st IEEE International Symposium on Software Reliability  Engineering (ISSRE 2020)  </li> 
+<li>Program Committee  -- 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020 Visions and Reflections Track) </li>
 <li>Guest Editor -- Empirical Software Engineering -- Special issue on Recommendation Systems for Software Engineering </li>
 </ol>
 
