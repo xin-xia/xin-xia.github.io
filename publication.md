@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (61)</strong>: IEEE Transactions on Software Engineering * 19, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 1.
+<strong>Journal Papers (62)</strong>: IEEE Transactions on Software Engineering * 20, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 1.
 
 <strong>Conference Papers (93)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -20,10 +20,12 @@ permalink: /publication/
 
 ### Journal Papers
 
-94. Qiang He, Bo Li, Feifei Chen, John Grundy, <strong>Xin Xia</strong>, Yun Yang. "Diversified Third-Party Library Prediction for Mobile App Development". IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.     <br />
+62. Meng Yan, <strong>Xin Xia</strong>, Yuanrui Fan, Ahmed E. Hassan, David Lo, Shanping Li. "Just-In-Time Defect Identification and Localization: A Two-Phase Framework". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.    <a href="tse202.pdf">[PDF]</a>  <br />
+
+61. Qiang He, Bo Li, Feifei Chen, John Grundy, <strong>Xin Xia</strong>, Yun Yang. "Diversified Third-Party Library Prediction for Mobile App Development". IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.     <br />
 
 
-93. Zhipeng Gao, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "Checking Smart Contracts with Structural Code Embedding". IEEE Transactions on Software Engineering (TSE), 18 pages.  Accepted.   <a href="tse201.pdf">[PDF]</a> <br />
+60. Zhipeng Gao, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "Checking Smart Contracts with Structural Code Embedding". IEEE Transactions on Software Engineering (TSE), 18 pages.  Accepted.   <a href="tse201.pdf">[PDF]</a> <br />
 
 
 
