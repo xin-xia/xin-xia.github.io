@@ -35,7 +35,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 ### Top Journal Papers
 
 #### TSE
-
+1.  Qiang He, Bo Li, Feifei Chen, John Grundy, <strong>Xin Xia</strong>, Yun Yang. "Diversified Third-Party Library Prediction for Mobile App Development". IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.     <br />
 1. Zhipeng Gao, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "Checking Smart Contracts with Structural Code Embedding". IEEE Transactions on Software Engineering (TSE), 18 pages.  Accepted.   <br />
 1. Rubing Huang, Weifeng Sun, Yinyin Xu, Haibo Chen, Dave Towey, <strong>Xin Xia</strong>. "A Survey on Adaptive Random Testing". IEEE Transactions on Software Engineering (TSE), 32 pages.  Accepted.  <br />
 1. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li. "Which Variables Should I Log?" IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.  <br />
