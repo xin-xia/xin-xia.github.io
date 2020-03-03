@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (62)</strong>: IEEE Transactions on Software Engineering * 20, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 1.
 
-<strong>Conference Papers (93)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (96)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (1) </strong> 
 
@@ -30,6 +30,14 @@ permalink: /publication/
 
 
 ### Conference Papers (Full Papers)
+
+
+96.  Jianhang Shuai, Ling Xu, Chao Liu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Improving Code Search with Co-Attentive Representation Learning".  28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <br />
+
+95. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin.  "A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <br />
+
+94. Jianjun He, Ling Xu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <br />
+
 
 93. Tingmin Wu, Rongjunchen Zhang, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "What risk? I don’t understand. An Empirical Study on Users’ Understanding of the Terms Used in Security Texts". The 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020).  Accepted as a Full Paper.   <br />
 
