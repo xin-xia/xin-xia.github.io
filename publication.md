@@ -22,7 +22,7 @@ permalink: /publication/
 
 62. Meng Yan, <strong>Xin Xia</strong>, Yuanrui Fan, Ahmed E. Hassan, David Lo, Shanping Li. "Just-In-Time Defect Identification and Localization: A Two-Phase Framework". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.    <a href="tse202.pdf">[PDF]</a>  <br />
 
-61. Qiang He, Bo Li, Feifei Chen, John Grundy, <strong>Xin Xia</strong>, Yun Yang. "Diversified Third-Party Library Prediction for Mobile App Development". IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.     <br />
+61. Qiang He, Bo Li, Feifei Chen, John Grundy, <strong>Xin Xia</strong>, Yun Yang. "Diversified Third-Party Library Prediction for Mobile App Development". IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.  <a href="tse203.pdf">[PDF]</a>     <br />
 
 
 60. Zhipeng Gao, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "Checking Smart Contracts with Structural Code Embedding". IEEE Transactions on Software Engineering (TSE), 18 pages.  Accepted.   <a href="tse201.pdf">[PDF]</a> <br />
@@ -39,7 +39,7 @@ permalink: /publication/
 94. Jianjun He, Ling Xu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <br />
 
 
-93. Tingmin Wu, Rongjunchen Zhang, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "What risk? I don’t understand. An Empirical Study on Users’ Understanding of the Terms Used in Security Texts". The 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020).  Accepted as a Full Paper.   <br />
+93. Tingmin Wu, Rongjunchen Zhang, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "What risk? I don’t understand. An Empirical Study on Users’ Understanding of the Terms Used in Security Texts". The 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020).  Accepted as a Full Paper.   <a href="asiaccs20.pdf">[PDF]</a>  <br />
 
 92. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a SEIS Track Full Paper.   <a href="icse201.pdf">[PDF]</a> <br />
 
@@ -62,7 +62,7 @@ permalink: /publication/
 ### Journal Papers
 
 
-59. Junxiao Han, Emad Shihab, Zhiyuan Wan, Shuihuang Deng, <strong>Xin Xia</strong>. "What do Programmers Discuss about Deep Learning Frameworks". Empirical Software Engineering (EMSE). Accepted.<br />
+59. Junxiao Han, Emad Shihab, Zhiyuan Wan, Shuihuang Deng, <strong>Xin Xia</strong>. "What do Programmers Discuss about Deep Learning Frameworks". Empirical Software Engineering (EMSE). Accepted. <a href="emse195.pdf">[PDF]</a>  <br />
 
 58. Rubing Huang, Weifeng Sun, Yinyin Xu, Haibo Chen, Dave Towey, <strong>Xin Xia</strong>. "A Survey on Adaptive Random Testing". IEEE Transactions on Software Engineering (TSE), 32 pages.  Accepted.  <a href="tse198.pdf">[PDF]</a> <br />
 
