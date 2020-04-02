@@ -60,6 +60,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
  
 #### TOSEM 
 
+1. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Minghui Wu, Xiaohu Yang. "psc2code: Denoising Code Extraction from Programming Screencasts". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
 1. Jieshan Chen, Chunyang Chen, Zhenchang Xing, <strong>Xin Xia</strong>, Liming Zhu, John Grundy, Jinshui Wang. "Wireframe-Based UI Design Search Through Image Autoencoder". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
  1. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xinyu Wang, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). 46 pages, 2019. Accepted.  <br />
 

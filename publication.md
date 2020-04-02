@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (63)</strong>: IEEE Transactions on Software Engineering * 20, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 2.
+<strong>Journal Papers (64)</strong>: IEEE Transactions on Software Engineering * 20, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 3.
 
 <strong>Conference Papers (96)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 
 
 ### Journal Papers
+
+64. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Minghui Wu, Xiaohu Yang. "psc2code: Denoising Code Extraction from Programming Screencasts". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
 
 63. Jieshan Chen, Chunyang Chen, Zhenchang Xing, <strong>Xin Xia</strong>, Liming Zhu, John Grundy, Jinshui Wang. "Wireframe-Based UI Design Search Through Image Autoencoder". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
 
