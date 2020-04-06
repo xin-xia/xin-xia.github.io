@@ -36,11 +36,11 @@ permalink: /publication/
 ### Conference Papers (Full Papers)
 
 
-96.  Jianhang Shuai, Ling Xu, Chao Liu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Improving Code Search with Co-Attentive Representation Learning".  28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <br />
+96.  Jianhang Shuai, Ling Xu, Chao Liu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Improving Code Search with Co-Attentive Representation Learning".  28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper. <a href="icpc202.pdf">[PDF]</a> <br />
 
 95. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin.  "A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <br />
 
-94. Jianjun He, Ling Xu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <br />
+94. Jianjun He, Ling Xu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper. <a href="icpc201.pdf">[PDF]</a>  <br />
 
 
 93. Tingmin Wu, Rongjunchen Zhang, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "What risk? I don’t understand. An Empirical Study on Users’ Understanding of the Terms Used in Security Texts". The 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020).  Accepted as a Full Paper.   <a href="asiaccs20.pdf">[PDF]</a>  <br />
