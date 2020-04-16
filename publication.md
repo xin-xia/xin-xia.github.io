@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (64)</strong>: IEEE Transactions on Software Engineering * 20, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 3.
+<strong>Journal Papers (65)</strong>: IEEE Transactions on Software Engineering * 21, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 3.
 
 <strong>Conference Papers (96)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 
 
 ### Journal Papers
+
+65. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "Defining Smart Contract Defects on Ethereum". IEEE Transactions on Software Engineering (TSE), 17 pages.  Accepted.    <a href="tse204.pdf">[PDF]</a>  <br />
 
 64. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Minghui Wu, Xiaohu Yang. "psc2code: Denoising Code Extraction from Programming Screencasts". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="tosem201.pdf">[PDF]</a>    <br />
 

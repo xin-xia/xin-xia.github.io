@@ -36,6 +36,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 
 #### TSE
 
+1. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "Defining Smart Contract Defects on Ethereum". IEEE Transactions on Software Engineering (TSE), 17 pages.  Accepted.      <br />
 1. Meng Yan, <strong>Xin Xia</strong>, Yuanrui Fan, Ahmed E. Hassan, David Lo, Shanping Li. "Just-In-Time Defect Identification and Localization: A Two-Phase Framework". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.     <br />
 1.  Qiang He, Bo Li, Feifei Chen, John Grundy, <strong>Xin Xia</strong>, Yun Yang. "Diversified Third-Party Library Prediction for Mobile App Development". IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.     <br />
 1. Zhipeng Gao, Lingxiao Jiang, <strong>Xin Xia</strong>, David Lo, John Grundy. "Checking Smart Contracts with Structural Code Embedding". IEEE Transactions on Software Engineering (TSE), 18 pages.  Accepted.   <br />
