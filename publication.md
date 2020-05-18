@@ -20,7 +20,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-66. Zhipeng Gao, <strong>Xin Xia</strong>, John Grundy, David Lo, Yuan-Fang Li. "Generating Question Titles for Stack Overflow from Mined Code Snippets". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="tosem203.pdf">[PDF]</a>     <br />
+66. Zhipeng Gao, <strong>Xin Xia</strong>, John Grundy, David Lo, Yuan-Fang Li. "Generating Question Titles for Stack Overflow from Mined Code Snippets". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="TOSEM203.pdf">[PDF]</a>     <br />
 
 65. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "Defining Smart Contract Defects on Ethereum". IEEE Transactions on Software Engineering (TSE), 17 pages.  Accepted.    <a href="tse204.pdf">[PDF]</a>  <br />
 
