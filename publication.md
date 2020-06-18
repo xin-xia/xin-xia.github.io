@@ -28,7 +28,7 @@ permalink: /publication/
 
 64. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Minghui Wu, Xiaohu Yang. "psc2code: Denoising Code Extraction from Programming Screencasts". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="tosem201.pdf">[PDF]</a>    <br />
 
-63. Jieshan Chen, Chunyang Chen, Zhenchang Xing, <strong>Xin Xia</strong>, Liming Zhu, John Grundy, Jinshui Wang. "Wireframe-Based UI Design Search Through Image Autoencoder". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
+63. Jieshan Chen, Chunyang Chen, Zhenchang Xing, <strong>Xin Xia</strong>, Liming Zhu, John Grundy, Jinshui Wang. "Wireframe-Based UI Design Search Through Image Autoencoder". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="TOSEM202.pdf">[PDF]</a>    <br />
 
 62. Meng Yan, <strong>Xin Xia</strong>, Yuanrui Fan, Ahmed E. Hassan, David Lo, Shanping Li. "Just-In-Time Defect Identification and Localization: A Two-Phase Framework". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.    <a href="tse202.pdf">[PDF]</a>  <br />
 
