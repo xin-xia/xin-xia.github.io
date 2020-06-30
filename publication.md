@@ -44,7 +44,7 @@ permalink: /publication/
 
 96.  Jianhang Shuai, Ling Xu, Chao Liu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Improving Code Search with Co-Attentive Representation Learning".  28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper. <a href="icpc202.pdf">[PDF]</a> <br />
 
-95. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin.  "A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <a href="icpc203.pdf">[PDF]</a>  <br />
+95. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin.  "A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper.  <a href="icpc203.pdf">[PDF]</a>   (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)<br />
 
 94. Jianjun He, Ling Xu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks". 28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper. <a href="icpc201.pdf">[PDF]</a>  <br />
 

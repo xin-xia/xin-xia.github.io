@@ -3,6 +3,7 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
+15. <strong>ACM SIGSOFT Distinguished Paper Award</strong>,  28th International Conference on Program Comprehension (ICPC 2020), July 2020 <br />
 
 14. <strong>Best Reviewer Award</strong>, Journal of Systems and Software (JSS), February, 2020
 
