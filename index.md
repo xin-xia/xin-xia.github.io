@@ -60,6 +60,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### TOSEM 
+1.  Wenhan Wang, Ge Li, Sijie Shen, <strong>Xin Xia</strong>, Zhi Jin. "Modular Tree Network for Source Code Representation Learning". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1.  Zhipeng Gao, <strong>Xin Xia</strong>, John Grundy, David Lo, Yuan-Fang Li. "Generating Question Titles for Stack Overflow from Mined Code Snippets". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
 1. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Minghui Wu, Xiaohu Yang. "psc2code: Denoising Code Extraction from Programming Screencasts". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
 1. Jieshan Chen, Chunyang Chen, Zhenchang Xing, <strong>Xin Xia</strong>, Liming Zhu, John Grundy, Jinshui Wang. "Wireframe-Based UI Design Search Through Image Autoencoder". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
