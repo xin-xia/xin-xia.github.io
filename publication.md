@@ -20,7 +20,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-68. Wenhan Wang, Ge Li, Sijie Shen, <strong>Xin Xia</strong>, Zhi Jin. "Modular Tree Network for Source Code Representation Learning". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+68. Wenhan Wang, Ge Li, Sijie Shen, <strong>Xin Xia</strong>, Zhi Jin. "Modular Tree Network for Source Code Representation Learning". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem204.pdf">[PDF]</a>     <br />
 
 67. Chao Ni,  <strong>Xin Xia</strong>, David Lo, Xiang Chen, Qing Gu. "Revisiting Supervised and Unsupervised Methods for Effort-Aware Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.    <a href="tse205.pdf">[PDF]</a>  <br />
 
