@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (68)</strong>: IEEE Transactions on Software Engineering * 22, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 5.
+<strong>Journal Papers (69)</strong>: IEEE Transactions on Software Engineering * 22, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 6.
 
 <strong>Conference Papers (96)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 
 
 ### Journal Papers
+
+69.  Zhipeng Gao, <strong>Xin Xia</strong>,  David Lo, John Grundy. "Technical Q&A Site Answer Recommendation via Question Boosting". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem205.pdf">[PDF]</a>     <br />  
 
 68. Wenhan Wang, Ge Li, Sijie Shen, <strong>Xin Xia</strong>, Zhi Jin. "Modular Tree Network for Source Code Representation Learning". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem204.pdf">[PDF]</a>     <br />
 
