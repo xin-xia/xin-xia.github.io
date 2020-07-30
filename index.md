@@ -82,6 +82,10 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 
 #### ASE
 
+100. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+99. Zhiyuan Wan, Gail Murphy, <strong>Xin Xia</strong>. "Predicting Code Context Models for Software Development Tasks". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+98. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "API-Misuse Detection Driven by Fine-Grained API-Constraint Knowledge Graph". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+97. Bolin Wei, Yongming Li, Ge Li,  <strong>Xin Xia</strong>, Zhi Jin. "Retrieve and Refine: Exemplar-based Neural Comment Generation". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
 86. Zhongxin Liu, <strong>Xin Xia</strong>, Christoph Treude, David Lo, Shanping Li. "Automatic Generation of Pull Request Descriptions". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper. (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)<br />
 85. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, Guoqiang Li, Jianling Sun. "Discovering, Explaining and Summarizing Controversial Discussions in Community Q&A Sites". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />
 84. Cuiyun Gao, Jichuan Zeng,  <strong>Xin Xia</strong>, David Lo, Michael R. Lyu, Irwin King. "Automating App Review Response Generation". 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019):  Accepted as a Full Paper.  <br />

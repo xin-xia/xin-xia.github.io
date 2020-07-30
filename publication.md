@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (69)</strong>: IEEE Transactions on Software Engineering * 22, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 6.
 
-<strong>Conference Papers (96)</strong>: ICSE * 4, ASE * 8, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (100)</strong>: ICSE * 4, ASE * 12, ICSME * 6, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (1) </strong> 
 
@@ -45,6 +45,13 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
+100. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+
+99. Zhiyuan Wan, Gail Murphy, <strong>Xin Xia</strong>. "Predicting Code Context Models for Software Development Tasks". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+
+98. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "API-Misuse Detection Driven by Fine-Grained API-Constraint Knowledge Graph". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+
+97. Bolin Wei, Yongming Li, Ge Li,  <strong>Xin Xia</strong>, Zhi Jin. "Retrieve and Refine: Exemplar-based Neural Comment Generation". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
 
 96.  Jianhang Shuai, Ling Xu, Chao Liu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Improving Code Search with Co-Attentive Representation Learning".  28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper. <a href="icpc202.pdf">[PDF]</a> <br />
 
