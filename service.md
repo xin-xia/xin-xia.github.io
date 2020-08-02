@@ -5,8 +5,8 @@ permalink: /service/
 ---
 <ol>
 <li>Steering Committee  --   IEEE/ACM International Conference on Mining Software Repositories (MSR) 2019 -- 2022 </li>
-<li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2021 </li>
-<li>Associate Editor  --   Journal of Software: Evolution and Process (JSEP) 2020 -- 2022 </li>
+<li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2022 </li>
+<li>Associate Editor  --   Journal of Software: Evolution and Process (JSEP) 2020 -- 2023 </li>
 </ol>
 
 ## 2021
