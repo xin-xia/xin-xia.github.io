@@ -16,7 +16,7 @@ rich data in software repositories to uncover interesting and actionable informa
 natural language processing, search-based algorithms, and program analysis -- to transform passive software
 engineering data into automated tools and new insights.
 
-My detailed CV can be found <a href="CV-Xin Xia.pdf">[here]</a> (Updated: April 7, 2020).
+My detailed CV can be found <a href="CV-Xin Xia.pdf">[here]</a> (Updated: August 8, 2020).
 
 
  
