@@ -20,7 +20,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-70. Neng Zhang, Qiao Huang, <strong>Xin Xia</strong>, Ying Zou, David Lo, Zhenchang Xing. "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.      <br />
+70. Neng Zhang, Qiao Huang, <strong>Xin Xia</strong>, Ying Zou, David Lo, Zhenchang Xing. "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval".  IEEE Transactions on Software Engineering (TSE), 27 pages.  Accepted.      <a href="tse206.pdf">[PDF]</a>  <br />
 
 69.  Zhipeng Gao, <strong>Xin Xia</strong>,  David Lo, John Grundy. "Technical Q&A Site Answer Recommendation via Question Boosting". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem205.pdf">[PDF]</a>     <br />  
 
