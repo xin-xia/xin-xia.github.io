@@ -35,6 +35,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 ### Top Journal Papers
 
 #### TSE
+Neng Zhang, Qiao Huang, <strong>Xin Xia</strong>, Ying Zou, David Lo, Zhenchang Xing. "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.      <br />
 1. Chao Ni,  <strong>Xin Xia</strong>, David Lo, Xiang Chen, Qing Gu. "Revisiting Supervised and Unsupervised Methods for Effort-Aware Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE), 16 pages.  Accepted.      <br />
 1. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "Defining Smart Contract Defects on Ethereum". IEEE Transactions on Software Engineering (TSE), 17 pages.  Accepted.      <br />
 1. Meng Yan, <strong>Xin Xia</strong>, Yuanrui Fan, Ahmed E. Hassan, David Lo, Shanping Li. "Just-In-Time Defect Identification and Localization: A Two-Phase Framework". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.     <br />
