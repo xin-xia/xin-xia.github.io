@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (69)</strong>: IEEE Transactions on Software Engineering * 22, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 6.
+<strong>Journal Papers (70)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 6.
 
 <strong>Conference Papers (102)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 
 
 ### Journal Papers
+
+70. Neng Zhang, Qiao Huang, <strong>Xin Xia</strong>, Ying Zou, David Lo, Zhenchang Xing. "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval".  IEEE Transactions on Software Engineering (TSE), 26 pages.  Accepted.      <br />
 
 69.  Zhipeng Gao, <strong>Xin Xia</strong>,  David Lo, John Grundy. "Technical Q&A Site Answer Recommendation via Question Boosting". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem205.pdf">[PDF]</a>     <br />  
 
