@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (70)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 6.
 
-<strong>Conference Papers (102)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (105)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (1) </strong> 
 
@@ -76,6 +76,16 @@ permalink: /publication/
 
 
 89. Zhiyuan Wan, Lingfeng Bao, Debin Gao,  Eran Toch, <strong>Xin Xia</strong>, Tamir Mendel, David Lo. "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help".   2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020): Accepted as a Full Paper.  <a href="ubicomp201.pdf">[PDF]</a> <br />
+
+ 
+### Conference Papers (Short Papers)
+
+105. Boao Li, Meng Yan, <strong>Xin Xia</strong>, Xing Hu, Ge Li, David Lo.   "DeepCommenter: A Deep Code Comment Generation Tool with Hybrid Lexical and Syntactical Information". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper.  <br /> 
+
+104. Lingfeng Bao, Shengyi Pan, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Enhancing Developer Interactions with Programming Screencasts through Accurate Code Extraction". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper.  <br /> 
+
+103. Fangcheng Qiu, Meng Yan, <strong>Xin Xia</strong>, Xinyu Wang, Yuanrui Fan, Ahmed E. Hassan, David Lo.  "JITO: A Tool for Just-In-Time Defect Identification and Localization".  The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper.  <br /> 
+
 
  
 ### Papers in Chinese 
