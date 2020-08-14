@@ -11,7 +11,7 @@ I am  an ARC DECRA Fellow and a lecturer (equivalent to U.S. assistant professor
 I got my Ph.D degree in June 2014 from College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang, and Prof. Jianling Sun. From July, 2012 to January,2014, I was a visiting student of Prof. [David Lo] in Singapore Management Universiy. 
 
 
-To help developers and testers improve their productivity, my current research focuses on mining and analyzing
+To help developers and testers improve their productivity, my current research focuses on data science for software engineering, i.e., mining and analyzing
 rich data in software repositories to uncover interesting and actionable information. I have employed and customized structured and unstructured data analytics techniques -- including data mining, information retrieval,
 natural language processing, search-based algorithms, and program analysis -- to transform passive software
 engineering data into automated tools and new insights.
@@ -27,7 +27,7 @@ My detailed CV can be found <a href="CV-Xin Xia.pdf">[here]</a> (Updated: August
 
 ## Prospective Students: 
 
-I'm actively recruiting PhD students. Please contact me if you are interested in our PhD program and have strong interests in software engineering research, e.g., AI (deep learning) for SE, Mining Software Repositories, and Empirical Software Engineering. 
+I'm actively recruiting PhD students. Please contact me if you are interested in our PhD program and have strong interests in software engineering research, e.g., data science, AI (deep learning) for SE, Mining Software Repositories, and Empirical Software Engineering. 
 
 
 ## Selected Publications (CCF Rank A Journals/Conferences)
