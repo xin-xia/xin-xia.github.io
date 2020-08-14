@@ -27,7 +27,7 @@ My detailed CV can be found <a href="CV-Xin Xia.pdf">[here]</a> (Updated: August
 
 ## Prospective Students: 
 
-I'm actively recruiting PhD students. Please contact me if you are interested in our PhD program and have strong interests in software engineering research, e.g., data science, AI (deep learning) for SE, Mining Software Repositories, and Empirical Software Engineering. 
+I'm actively recruiting PhD students. Please contact me if you are interested in our PhD program and have strong interests in data science and software engineering research, e.g., data science, AI (deep learning) and SE, Mining Software Repositories, and Empirical Software Engineering. 
 
 
 ## Selected Publications (CCF Rank A Journals/Conferences)
