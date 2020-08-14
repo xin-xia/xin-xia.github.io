@@ -20,7 +20,7 @@ My detailed CV can be found <a href="CV-Xin Xia.pdf">[here]</a> (Updated: August
 
 ### Research Interests
 
-Data Science, AI and SE, Mining Software Reposities, Empirical Software Engineering
+Data Science, AI and SE, Mining Software Repositories, Empirical Software Engineering
  
 ### Google Scholar
 [Direct link] to Google scholar page.
