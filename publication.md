@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (70)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 6.
+<strong>Journal Papers (71)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 6.
 
 <strong>Conference Papers (105)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 
 
 ### Journal Papers
+
+71. Jing Jiang, Qiudi Wu, Jin Cao, Xin Xia, Li Zhang. "Recommending Tags for Pull Requests in GitHub". In Information and Software Technology (IST Journal). Accepted.   <br />
 
 70. Neng Zhang, Qiao Huang, <strong>Xin Xia</strong>, Ying Zou, David Lo, Zhenchang Xing. "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval".  IEEE Transactions on Software Engineering (TSE), 27 pages.  Accepted.      <a href="tse206.pdf">[PDF]</a>  <br />
 
