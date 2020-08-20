@@ -20,7 +20,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-71. Jing Jiang, Qiudi Wu, Jin Cao, Xin Xia, Li Zhang. "Recommending Tags for Pull Requests in GitHub". In Information and Software Technology (IST Journal). Accepted.   <br />
+71. Jing Jiang, Qiudi Wu, Jin Cao, <strong>Xin Xia</strong>, Li Zhang. "Recommending Tags for Pull Requests in GitHub". In Information and Software Technology (IST Journal). Accepted.   <br />
 
 70. Neng Zhang, Qiao Huang, <strong>Xin Xia</strong>, Ying Zou, David Lo, Zhenchang Xing. "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval".  IEEE Transactions on Software Engineering (TSE), 27 pages.  Accepted.      <a href="tse206.pdf">[PDF]</a>  <br />
 
