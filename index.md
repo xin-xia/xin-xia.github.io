@@ -85,7 +85,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 
 #### ASE
 
-1. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+1. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)  <br />
 1. Zhiyuan Wan, Gail Murphy, <strong>Xin Xia</strong>. "Predicting Code Context Models for Software Development Tasks". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
 1. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "API-Misuse Detection Driven by Fine-Grained API-Constraint Knowledge Graph". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
 1. Bolin Wei, Yongming Li, Ge Li,  <strong>Xin Xia</strong>, Zhi Jin. "Retrieve and Refine: Exemplar-based Neural Comment Generation". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />

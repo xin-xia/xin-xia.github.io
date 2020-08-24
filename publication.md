@@ -53,7 +53,7 @@ permalink: /publication/
 
 101. Meng Yan, <strong>Xin Xia</strong>, Yuanrui Fan, David Lo, Ahmed E. Hassan, Xindong Zhang. "Effort-Aware Just-in-Time Defect Identification in Practice: A Case Study at Alibaba". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Industry Track Full paper.  <br /> 
 
-100. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+100. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)  <br />
 
 99. Zhiyuan Wan, Gail Murphy, <strong>Xin Xia</strong>. "Predicting Code Context Models for Software Development Tasks". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
 
