@@ -49,17 +49,17 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-102.  Junxiao Han, Shuiguang Deng, David Lo, Chen Zhi, Jianwei Yin, <strong>Xin Xia</strong>.  "An Empirical Study of the Dependency Networks of Deep Learning Libraries". 36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020).  Accepted as a Full Paper. <br />
+102.  Junxiao Han, Shuiguang Deng, David Lo, Chen Zhi, Jianwei Yin, <strong>Xin Xia</strong>.  "An Empirical Study of the Dependency Networks of Deep Learning Libraries". 36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020).  Accepted as a Full Paper.  <a href="icsme201.pdf">[PDF]</a>  <br />
 
-101. Meng Yan, <strong>Xin Xia</strong>, Yuanrui Fan, David Lo, Ahmed E. Hassan, Xindong Zhang. "Effort-Aware Just-in-Time Defect Identification in Practice: A Case Study at Alibaba". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Industry Track Full paper.  <br /> 
+101. Meng Yan, <strong>Xin Xia</strong>, Yuanrui Fan, David Lo, Ahmed E. Hassan, Xindong Zhang. "Effort-Aware Just-in-Time Defect Identification in Practice: A Case Study at Alibaba". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Industry Track Full paper.  <a href="fse201.pdf">[PDF]</a> <br /> 
 
-100. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)  <br />
+100. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.  <a href="ase202.pdf">[PDF]</a>    (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)  <br />
 
-99. Zhiyuan Wan, Gail Murphy, <strong>Xin Xia</strong>. "Predicting Code Context Models for Software Development Tasks". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+99. Zhiyuan Wan, Gail Murphy, <strong>Xin Xia</strong>. "Predicting Code Context Models for Software Development Tasks". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.   <a href="ase201.pdf">[PDF]</a>      <br />
 
-98. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "API-Misuse Detection Driven by Fine-Grained API-Constraint Knowledge Graph". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+98. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "API-Misuse Detection Driven by Fine-Grained API-Constraint Knowledge Graph". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.  <a href="ase203.pdf">[PDF]</a>  <br />
 
-97. Bolin Wei, Yongming Li, Ge Li,  <strong>Xin Xia</strong>, Zhi Jin. "Retrieve and Refine: Exemplar-based Neural Comment Generation". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
+97. Bolin Wei, Yongming Li, Ge Li,  <strong>Xin Xia</strong>, Zhi Jin. "Retrieve and Refine: Exemplar-based Neural Comment Generation". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <a href="ase204.pdf">[PDF]</a>    <br />
 
 96.  Jianhang Shuai, Ling Xu, Chao Liu, Meng Yan, <strong>Xin Xia</strong>, Yan Lei. "Improving Code Search with Co-Attentive Representation Learning".  28th International Conference on Program Comprehension (ICPC 2020). Accepted as a Full  paper. <a href="icpc202.pdf">[PDF]</a> <br />
 
