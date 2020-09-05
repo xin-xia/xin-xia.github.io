@@ -82,11 +82,11 @@ permalink: /publication/
  
 ### Conference Papers (Short Papers)
 
-105. Boao Li, Meng Yan, <strong>Xin Xia</strong>, Xing Hu, Ge Li, David Lo.   "DeepCommenter: A Deep Code Comment Generation Tool with Hybrid Lexical and Syntactical Information". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper.  <br /> 
+105. Boao Li, Meng Yan, <strong>Xin Xia</strong>, Xing Hu, Ge Li, David Lo.   "DeepCommenter: A Deep Code Comment Generation Tool with Hybrid Lexical and Syntactical Information". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper.   <a href="fse202.pdf">[PDF]</a> <br /> 
 
-104. Lingfeng Bao, Shengyi Pan, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Enhancing Developer Interactions with Programming Screencasts through Accurate Code Extraction". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper.  <br /> 
+104. Lingfeng Bao, Shengyi Pan, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Enhancing Developer Interactions with Programming Screencasts through Accurate Code Extraction". The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper. <a href="fse204.pdf">[PDF]</a> <br />
 
-103. Fangcheng Qiu, Meng Yan, <strong>Xin Xia</strong>, Xinyu Wang, Yuanrui Fan, Ahmed E. Hassan, David Lo.  "JITO: A Tool for Just-In-Time Defect Identification and Localization".  The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper.  <br /> 
+103. Fangcheng Qiu, Meng Yan, <strong>Xin Xia</strong>, Xinyu Wang, Yuanrui Fan, Ahmed E. Hassan, David Lo.  "JITO: A Tool for Just-In-Time Defect Identification and Localization".  The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Accepted as an Tool Demo paper.  <a href="fse203.pdf">[PDF]</a> <br />
 
 
  
