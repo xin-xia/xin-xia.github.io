@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (71)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 15,  ACM Transactions on Software Engineering and Methodology * 6.
+<strong>Journal Papers (73)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 17,  ACM Transactions on Software Engineering and Methodology * 6.
 
 <strong>Conference Papers (105)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,10 @@ permalink: /publication/
 
 
 ### Journal Papers
+
+73. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt".   Empirical Software Engineering (EMSE). Accepted.  <br />
+
+72. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Shanping Li. "What Makes a Popular Academic AI Repository?". Empirical Software Engineering (EMSE). Accepted.  <br />
 
 71. Jing Jiang, Qiudi Wu, Jin Cao, <strong>Xin Xia</strong>, Li Zhang. "Recommending Tags for Pull Requests in GitHub". In Information and Software Technology (IST Journal). Accepted.   <br />
 
