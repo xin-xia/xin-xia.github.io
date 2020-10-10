@@ -34,7 +34,7 @@ permalink: /service/
 <li>Program Committee -- 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020)</li>
 <li>Program Committee  --  27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020) </li>
 <li>Program Committee  --  28th International Conference on Program Comprehension (ICPC 2020)  </li> 
-<li>Program Commitee -- 31st IEEE International Symposium on Software Reliability  Engineering (ISSRE 2020)  </li> 
+<li>Program Committee -- 31st IEEE International Symposium on Software Reliability  Engineering (ISSRE 2020)  </li> 
 <li>Program Committee  -- 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020 Visions and Reflections Track) </li>
 <li>Guest Editor -- Empirical Software Engineering -- Special issue on Recommendation Systems for Software Engineering </li>
 <li>Guest Editor -- Information and Software Technology -- Special issue on Intelligent Software Engineering </li>
@@ -51,8 +51,8 @@ permalink: /service/
 <li>Program Committee  --  26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) </li>
 <li>Program Committee  --  16th Working Conference on Mining Software Repositories (MSR 2019) </li>
 <li>Program Committee  -- 27th International Conference on Program Comprehension (ICPC 2019) (Research Track, Replications, and Negative Results Track) </li>
-<li>Program Commitee -- 30th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2019)  </li> 
-<li>Program Commitee --  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019 Tool Demonstration Track) </li>
+<li>Program Committee -- 30th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2019)  </li> 
+<li>Program Committee --  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019 Tool Demonstration Track) </li>
 <li>Program Committee  --  18th International Conference on Software Reuse (ICSR 2019) </li>
 <li>Program Committee  -- 19th IEEE International Conference on Software Quality, Reliability, and Security （QRS 2019） </li>
 <li>Program Committee  -- 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019) (Student Research Competition Track)</li>
@@ -77,8 +77,8 @@ permalink: /service/
 <li>Local Chair  -- 23rd International Conference on Engineering of Complex Computer Systems (ICECCS 2018)</li>
 <li>Program Committee -- 25th Asia-Pacific Software Engineering Conference (APSEC 2018) (Research Track and Practice Track)</li>
 <li>Program Committee -- 14th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2018) </li>
-<li>Program Commitee -- 25th Australasian Software Engineering Conference (ASWEC 2018)</li>
-<li>Program Commitee -- 29th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2018) (Research Track and Fast Abstract Track) </li> 
+<li>Program Committee -- 25th Australasian Software Engineering Conference (ASWEC 2018)</li>
+<li>Program Committee -- 29th IEEE International Symposium on Software Reliability  Engineering (ISSRE 2018) (Research Track and Fast Abstract Track) </li> 
 <li>Program Committee  --  34th International Conference on Software Maintenance and Evolution (ICSME 2018) </li>
 <li>Program Committee  -- 42nd Annual International Computers, Software & Applications Conference (COMPSAC 2018 SETA Track) </li>
 <li>Program Committee  -- 26th  International Conference on Program Comprehension (ICPC 2018) </li>
@@ -86,7 +86,7 @@ permalink: /service/
 <li>Program Committee  --  33rd ACM SIGAPP Symposium On Applied Computing (SAC 2018 SE Track) </li>
 <li>Program Committee  -- 6th International Workshop on Green and Sustainable Software (GREEN 2018 at ICSE 2018) </li>
 <li>Program Committee  -- 2018 Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2018)</li>
-<li>Program Commitee -- 17th National Software Application Conference (NASAC 2018 English Track and New Technology of Intelligent Software Track) </li>
+<li>Program Committee -- 17th National Software Application Conference (NASAC 2018 English Track and New Technology of Intelligent Software Track) </li>
 <li>Program Committee  -- Chinese Annual Conference on Software Analysis, Testing and Evolution (SETA 2018) </li>
 <li>Journal referee -- IEEE Transactions on Software Engineering </li>
 <li>Journal referee -- ACM Transactions on Software Engineering and Methodology (TOSEM) </li>
