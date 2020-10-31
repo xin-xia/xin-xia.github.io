@@ -48,6 +48,11 @@ permalink: /service/
 <li>Guest Editor -- Empirical Software Engineering -- Special issue on Recommendation Systems for Software Engineering </li>
 <li>Guest Editor -- Information and Software Technology -- Special issue on Intelligent Software Engineering </li>
 <li>Guest Editor -- IET Software -- Special issue on ACM SAC 2021 </li>
+<li>Journal referee -- IEEE Transactions on Software Engineering </li>
+<li>Journal referee -- ACM Transactions on Software Engineering and Methodology (TOSEM) </li>
+<li>Journal referee -- Empirical Software Engineering </li>
+<li>Journal referee -- ACM Computing Survey </li>
+<li>Journal referee -- Journal of Systems and Software </li>
 </ol>
 
 ## 2019
@@ -75,6 +80,7 @@ permalink: /service/
 <li>Guest Editor -- Automated Software Engineering  -- Special issue on Automated Software Engineering for Mobile Applications </li>
 <li>Reviewer -- the NSERC Discovery Grant Program </li>
 <li>Journal referee -- IEEE Transactions on Software Engineering </li>
+<li>Journal referee -- ACM Transactions on Software Engineering and Methodology (TOSEM) </li>
 <li>Journal referee -- Empirical Software Engineering </li>
 <li>Journal referee -- Journal of Software: Evolution and Process </li>
 <li>Journal referee -- Journal of Systems and Software </li>
@@ -103,7 +109,6 @@ permalink: /service/
 <li>Journal referee -- Journal of Software: Evolution and Process </li>
 <li>Journal referee -- Journal of Systems and Software </li>
 <li>Journal referee -- IET Software </li>
-<li>Journal referee -- IEEEE Access </li>
 <li>Journal referee -- Automated Software Engineering </li>
 <li>Journal referee -- SCIENCE CHINA Information Sciences  </li>
 
