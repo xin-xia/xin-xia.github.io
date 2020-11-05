@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (73)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 17,  ACM Transactions on Software Engineering and Methodology * 6.
+<strong>Journal Papers (74)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 6.
 
 <strong>Conference Papers (105)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,9 @@ permalink: /publication/
 
 
 ### Journal Papers
+
+74. Xiaowei Chen, Rabe Abdalkareem, Suhaib Mujahid, Emad Shihab, <strong>Xin Xia</strong>. "Helping or not Helping? Why and How Trivial Packages Impact the npm Ecosystem". Empirical Software Engineering (EMSE). Accepted.  <br />
+
 
 73. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt".   Empirical Software Engineering (EMSE). Accepted.  <br />
 
