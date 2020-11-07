@@ -10,12 +10,17 @@ permalink: /publication/
 
 <strong>Conference Papers (105)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
-<strong>Book Chapter (1) </strong> 
+<strong>Book Chapter (2) </strong> 
 
 <strong>Papers in Chinese (6)</strong>: 软件学报*6
 
 
 ## 2020 
+
+### Book Chapter
+
+1.  Zhongxin Liu,  <strong>Xin Xia</strong>, David Lo. "Sequence-to-Sequence Learning for Automated Software Artifact Generation". in Artificial Intelligence for Software Engineering. The World Scientific Press<br />
+
 
 
 ### Journal Papers
