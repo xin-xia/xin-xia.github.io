@@ -63,7 +63,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### TOSEM 
-
+1. Qiuyuan Chen, <strong>Xin Xia</strong>, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.       <br />
 1. Zhipeng Gao, <strong>Xin Xia</strong>,  David Lo, John Grundy. "Technical Q&A Site Answer Recommendation via Question Boosting". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.         <br />
 1.  Wenhan Wang, Ge Li, Sijie Shen, <strong>Xin Xia</strong>, Zhi Jin. "Modular Tree Network for Source Code Representation Learning". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1.  Zhipeng Gao, <strong>Xin Xia</strong>, John Grundy, David Lo, Yuan-Fang Li. "Generating Question Titles for Stack Overflow from Mined Code Snippets". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
