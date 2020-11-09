@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (75)</strong>: IEEE Transactions on Software Engineering * 23, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 7.
+<strong>Journal Papers (76)</strong>: IEEE Transactions on Software Engineering * 24, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 7.
 
 <strong>Conference Papers (105)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -24,6 +24,8 @@ permalink: /publication/
 
 
 ### Journal Papers
+
+76. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann. "An Empirical Study of Release Note Production and Usage in Practice".  IEEE Transactions on Software Engineering (TSE), Accepted. <br />
 
 75. Qiuyuan Chen, <strong>Xin Xia</strong>, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem206.pdf">[PDF]</a>     <br />
 
