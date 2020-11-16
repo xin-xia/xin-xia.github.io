@@ -25,7 +25,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-76. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann. "An Empirical Study of Release Note Production and Usage in Practice".  IEEE Transactions on Software Engineering (TSE), Accepted. <br />
+76. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann. "An Empirical Study of Release Note Production and Usage in Practice".  IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse207.pdf">[PDF]</a>  <br />
 
 75. Qiuyuan Chen, <strong>Xin Xia</strong>, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem206.pdf">[PDF]</a>     <br />
 
