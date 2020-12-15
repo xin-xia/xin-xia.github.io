@@ -76,7 +76,10 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 
 #### ICSE
 
-
+1. Bo Yang, Zhenchang Xing,  <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye, Shanping Li. "Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+1. Haoye Wang, <strong>Xin Xia</strong>, David Lo, John Grundy, Xinyu Wang. "Automatic Solution Summarization for Crash Bugs". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+1. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Yuan Wang, Shanping Li. "A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+1. Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Jiachi Chen, Xiapu Luo, Xiaohu Yang. "Smart Contract Security: a Practitioners’ Perspective".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
 1. Xiaoxue Ren,  Jiamou Sun,  Zhenchang Xing,  <strong>Xin Xia</strong>, Jianling Sun. "Demystify Official API Usage Directives with Crowdsourced API Misuse Scenarios, Erroneous Code Examples and Patches". 42nd ACM/IEEE International Conference on Software Engineering （ICSE 2020). Accepted as a Full Paper.  <br />
 1. <strong>Xin Xia</strong>, Zhiyuan Wan,   Pavneet Singh Kochhar, David Lo. ``How Practitioners Perceive Coding Proficiency''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper <br />
 1. Xuan Bach D. Le, Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li, Corina Pasareanu. ``On Reliability of Patch Correctness Assessment''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <br />

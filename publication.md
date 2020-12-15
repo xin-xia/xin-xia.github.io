@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (76)</strong>: IEEE Transactions on Software Engineering * 24, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 7.
 
-<strong>Conference Papers (106)</strong>: ICSE * 4, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (110)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -19,7 +19,16 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-1. Humphrey O. Obie, Waqar Hussain, <strong>Xin Xia</strong>, John Grundy, Li Li, Burak Turhan, Jon Whittle and Mojtaba Shahin. "A First Look at Human Values-Violation in  App Reviews". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIS Track Full Paper.    <br />
+110. Bo Yang, Zhenchang Xing,  <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye, Shanping Li. "Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+
+109. Haoye Wang, <strong>Xin Xia</strong>, David Lo, John Grundy, Xinyu Wang. "Automatic Solution Summarization for Crash Bugs". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+
+108. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Yuan Wang, Shanping Li. "A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+
+
+107. Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Jiachi Chen, Xiapu Luo, Xiaohu Yang. "Smart Contract Security: a Practitioners’ Perspective".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+
+106. Humphrey O. Obie, Waqar Hussain, <strong>Xin Xia</strong>, John Grundy, Li Li, Burak Turhan, Jon Whittle and Mojtaba Shahin. "A First Look at Human Values-Violation in  App Reviews". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIS Track Full Paper.    <br />
 
 
 
