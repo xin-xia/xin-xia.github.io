@@ -19,10 +19,10 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-114. Zejun Zhang, Yanming Yang, Xin Xia, David Lo, Xiaoxue Ren, John Grundy. "Unveiling the Mystery of API Evolution in Deep Learning Frameworks -- A Case Study of Tensorflow 2".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <br />
+114. Zejun Zhang, Yanming Yang, <strong>Xin Xia</strong>, David Lo, Xiaoxue Ren, John Grundy. "Unveiling the Mystery of API Evolution in Deep Learning Frameworks -- A Case Study of Tensorflow 2".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <br />
 
 
-113. Junxiao Han, Shuiguang Deng, David Lo, Chen Zhi, Jianwei Yin, Xin Xia. "An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <br />
+113. Junxiao Han, Shuiguang Deng, David Lo, Chen Zhi, Jianwei Yin, <strong>Xin Xia</strong>. "An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <br />
 
 
 112. Zeyu Wang, Sheng Huang, Zhongxin Liu, Meng Yan,  <strong>Xin Xia</strong>, Bei Wang and Dan Yang. "Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.   <br />
