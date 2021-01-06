@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (76)</strong>: IEEE Transactions on Software Engineering * 24, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 7.
 
-<strong>Conference Papers (112)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (114)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -18,6 +18,12 @@ permalink: /publication/
 
 
 ### Conference Papers (Full Papers)
+
+114. Zejun Zhang, Yanming Yang, Xin Xia, David Lo, Xiaoxue Ren, John Grundy. "Unveiling the Mystery of API Evolution in Deep Learning Frameworks -- A Case Study of Tensorflow 2".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <br />
+
+
+113. Junxiao Han, Shuiguang Deng, David Lo, Chen Zhi, Jianwei Yin, Xin Xia. "An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <br />
+
 
 112. Zeyu Wang, Sheng Huang, Zhongxin Liu, Meng Yan,  <strong>Xin Xia</strong>, Bei Wang and Dan Yang. "Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.   <br />
 
