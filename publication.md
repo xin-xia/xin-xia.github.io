@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (77)</strong>: IEEE Transactions on Software Engineering * 24, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 8.
 
-<strong>Conference Papers (114)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (115)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -47,6 +47,9 @@ permalink: /publication/
 
 106. Humphrey O. Obie, Waqar Hussain, <strong>Xin Xia</strong>, John Grundy, Li Li, Burak Turhan, Jon Whittle and Mojtaba Shahin. "A First Look at Human Values-Violation in  App Reviews". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIS Track Full Paper.    <br />
 
+### Conference Papers (Short Papers)
+
+115. Bo Yang, Zhenchang Xing, <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye,  Shanping Li. "UIS-Hunter: Detecting UI Design Smells in Android Apps". 43rd International Conference on Software Engineering (ICSE 2021).  Accepted as a tool demo paper.   <br />
 
 
 ## 2020 
