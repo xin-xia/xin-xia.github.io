@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-78. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode". IEEE Transactions on Software Engineering (TSE), Accepted. <br />
+78. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse211.pdf">[PDF]</a> <br />
 
 
 77. Qiuyuan Chen, Chunyang Chen, Safwat Hassan, Zhenchang Xing, <strong>Xin Xia</strong>, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="tosem211.pdf">[PDF]</a>     <br />
