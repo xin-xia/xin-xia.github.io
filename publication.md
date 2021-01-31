@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (2) </strong> 
 
-<strong>Papers in Chinese (6)</strong>: 软件学报*6
+<strong>Papers in Chinese (7)</strong>: 软件学报*7
 
 ## 2021
 
@@ -54,6 +54,10 @@ permalink: /publication/
 
 115. Bo Yang, Zhenchang Xing, <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye,  Shanping Li. "UIS-Hunter: Detecting UI Design Smells in Android Apps". 43rd International Conference on Software Engineering (ICSE 2021).  Accepted as a tool demo paper.   <br />
 
+
+### Papers in Chinese 
+
+1. 王青叶，万志远， <strong>夏鑫</strong>， 李善平. "代码审查中代码变更恢复经验研究". 软件学报， 2021， 已录用   <br />
 
 ## 2020 
 
