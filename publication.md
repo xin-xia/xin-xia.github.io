@@ -43,10 +43,10 @@ permalink: /publication/
 
 109. Haoye Wang, <strong>Xin Xia</strong>, David Lo, John Grundy, Xinyu Wang. "Automatic Solution Summarization for Crash Bugs". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
 
-108. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Yuan Wang, Shanping Li. "A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+108. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Yuan Wang, Shanping Li. "A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.   <a href="icse212.pdf">[PDF]</a> <br /> 
 
 
-107. Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Jiachi Chen, Xiapu Luo, Xiaohu Yang. "Smart Contract Security: a Practitioners’ Perspective".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+107. Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Jiachi Chen, Xiapu Luo, Xiaohu Yang. "Smart Contract Security: a Practitioners’ Perspective".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.   <a href="icse211.pdf">[PDF]</a> <br /> 
 
 106. Humphrey O. Obie, Waqar Hussain, <strong>Xin Xia</strong>, John Grundy, Li Li, Burak Turhan, Jon Whittle and Mojtaba Shahin. "A First Look at Human Values-Violation in  App Reviews". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIS Track Full Paper.    <br />
 
