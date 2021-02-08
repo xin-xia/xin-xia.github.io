@@ -26,10 +26,10 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-114. Zejun Zhang, Yanming Yang, <strong>Xin Xia</strong>, David Lo, Xiaoxue Ren, John Grundy. "Unveiling the Mystery of API Evolution in Deep Learning Frameworks -- A Case Study of Tensorflow 2".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <br />
+114. Zejun Zhang, Yanming Yang, <strong>Xin Xia</strong>, David Lo, Xiaoxue Ren, John Grundy. "Unveiling the Mystery of API Evolution in Deep Learning Frameworks -- A Case Study of Tensorflow 2".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper. <a href="icse215.pdf">[PDF]</a>   <br />
 
 
-113. Junxiao Han, Shuiguang Deng, David Lo, Chen Zhi, Jianwei Yin, <strong>Xin Xia</strong>. "An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <br />
+113. Junxiao Han, Shuiguang Deng, David Lo, Chen Zhi, Jianwei Yin, <strong>Xin Xia</strong>. "An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <a href="icse216.pdf">[PDF]</a>   <br />
 
 
 112. Zeyu Wang, Sheng Huang, Zhongxin Liu, Meng Yan,  <strong>Xin Xia</strong>, Bei Wang and Dan Yang. "Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.   <br />
@@ -39,20 +39,20 @@ permalink: /publication/
 111. Bei Wang, Meng Yan, Zhongxin Liu, Ling Xu, <strong>Xin Xia</strong>, Xiaohong Zhang and Dan Yang. "Quality Assurance for Automated Commit Message Generation". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.   <br />
 
 
-110. Bo Yang, Zhenchang Xing,  <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye, Shanping Li. "Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+110. Bo Yang, Zhenchang Xing,  <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye, Shanping Li. "Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.  <a href="icse213.pdf">[PDF]</a>    <br />
 
-109. Haoye Wang, <strong>Xin Xia</strong>, David Lo, John Grundy, Xinyu Wang. "Automatic Solution Summarization for Crash Bugs". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.    <br />
+109. Haoye Wang, <strong>Xin Xia</strong>, David Lo, John Grundy, Xinyu Wang. "Automatic Solution Summarization for Crash Bugs". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.  <a href="icse214.pdf">[PDF]</a>    <br />
 
 108. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Yuan Wang, Shanping Li. "A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.   <a href="icse212.pdf">[PDF]</a> <br /> 
 
 
 107. Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Jiachi Chen, Xiapu Luo, Xiaohu Yang. "Smart Contract Security: a Practitioners’ Perspective".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.   <a href="icse211.pdf">[PDF]</a> <br /> 
 
-106. Humphrey O. Obie, Waqar Hussain, <strong>Xin Xia</strong>, John Grundy, Li Li, Burak Turhan, Jon Whittle and Mojtaba Shahin. "A First Look at Human Values-Violation in  App Reviews". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIS Track Full Paper.    <br />
+106. Humphrey O. Obie, Waqar Hussain, <strong>Xin Xia</strong>, John Grundy, Li Li, Burak Turhan, Jon Whittle and Mojtaba Shahin. "A First Look at Human Values-Violation in  App Reviews". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIS Track Full Paper.  <a href="icse218.pdf">[PDF]</a>   <br />
 
 ### Conference Papers (Short Papers)
 
-115. Bo Yang, Zhenchang Xing, <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye,  Shanping Li. "UIS-Hunter: Detecting UI Design Smells in Android Apps". 43rd International Conference on Software Engineering (ICSE 2021).  Accepted as a tool demo paper.   <br />
+115. Bo Yang, Zhenchang Xing, <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye,  Shanping Li. "UIS-Hunter: Detecting UI Design Smells in Android Apps". 43rd International Conference on Software Engineering (ICSE 2021).  Accepted as a tool demo paper.   <a href="icse217.pdf">[PDF]</a>  <br />
 
 
 ### Papers in Chinese 
