@@ -78,9 +78,9 @@ permalink: /publication/
 
 73. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt".   Empirical Software Engineering (EMSE). Accepted.  <br />
 
-72. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Shanping Li. "What Makes a Popular Academic AI Repository?". Empirical Software Engineering (EMSE). Accepted.  <br />
+72. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Shanping Li. "What Makes a Popular Academic AI Repository?". Empirical Software Engineering (EMSE). Accepted.   <a href="emse201.pdf">[PDF]</a>  <br />
 
-71. Jing Jiang, Qiudi Wu, Jin Cao, <strong>Xin Xia</strong>, Li Zhang. "Recommending Tags for Pull Requests in GitHub". In Information and Software Technology (IST Journal). Accepted.   <br />
+71. Jing Jiang, Qiudi Wu, Jin Cao, <strong>Xin Xia</strong>, Li Zhang. "Recommending Tags for Pull Requests in GitHub". In Information and Software Technology (IST Journal). Accepted.   <a href="ist201.pdf">[PDF]</a>  <br />
 
 70. Neng Zhang, Qiao Huang, <strong>Xin Xia</strong>, Ying Zou, David Lo, Zhenchang Xing. "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval".  IEEE Transactions on Software Engineering (TSE), 27 pages.  Accepted.      <a href="tse206.pdf">[PDF]</a>  <br />
 

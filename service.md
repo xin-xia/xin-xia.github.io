@@ -24,6 +24,9 @@ permalink: /service/
 <li>Program Committee -- 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)</li>
 <li>Program Committee  --  28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021) </li>
 <li>Program Committee  --  18th Working Conference on Mining Software Repositories (MSR 2021) </li>
+<li>Program Committee -- 37th International Conference on Software Maintenance and Evolution (ICSME 2021) </li>
+<li>Program Committee -- 37th International Conference on Software Maintenance and Evolution (ICSME 2021 Journal First Track) </li>
+<li>Program Committee  -- 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021 Visions and Reflections Track) </li>
 <li>Workshop co-Chair  --  36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)</li>
 <li>Workshop co-Chair  --  28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021) </li>
 </ol>
@@ -44,6 +47,7 @@ permalink: /service/
 <li>Program Committee -- 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020)</li>
 <li>Program Committee  --  27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020) </li>
 <li>Program Committee  --  28th International Conference on Program Comprehension (ICPC 2020)  </li> 
+<li> Program Committee -- 36th International Conference on Software Maintenance and Evolution (ICSME 2020) </li>
 <li>Program Committee -- 31st IEEE International Symposium on Software Reliability  Engineering (ISSRE 2020)  </li> 
 <li>Program Committee  -- 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020 Visions and Reflections Track) </li>
 <li>Guest Editor -- Empirical Software Engineering -- Special issue on Recommendation Systems for Software Engineering </li>
