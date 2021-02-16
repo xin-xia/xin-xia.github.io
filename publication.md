@@ -76,7 +76,7 @@ permalink: /publication/
 74. Xiaowei Chen, Rabe Abdalkareem, Suhaib Mujahid, Emad Shihab, <strong>Xin Xia</strong>. "Helping or not Helping? Why and How Trivial Packages Impact the npm Ecosystem". Empirical Software Engineering (EMSE). Accepted.  <br />
 
 
-73. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt".   Empirical Software Engineering (EMSE). Accepted.  <br />
+73. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt".   Empirical Software Engineering (EMSE). Accepted.  <a href="emse202.pdf">[PDF]</a>  <br />
 
 72. Yuanrui Fan, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan, Shanping Li. "What Makes a Popular Academic AI Repository?". Empirical Software Engineering (EMSE). Accepted.   <a href="emse201.pdf">[PDF]</a>  <br />
 
