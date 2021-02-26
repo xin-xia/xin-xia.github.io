@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (2) </strong> 
 
-<strong>Papers in Chinese (7)</strong>: 软件学报*7
+<strong>Papers in Chinese (8)</strong>: 软件学报*7, 计算机研究与发展*1
 
 ## 2021
 
@@ -58,6 +58,7 @@ permalink: /publication/
 ### Papers in Chinese 
 
 1. 王青叶，万志远， <strong>夏鑫</strong>， 李善平. "代码审查中代码变更恢复经验研究". 软件学报， 2021， 已录用   <br />
+2. 汪烨， 陈骏武，<strong>夏鑫</strong>， 姜波。 “智能化需求获取与建模研究综述”. 计算机研究与发展，2021，已录用 <br />
 
 ## 2020 
 
