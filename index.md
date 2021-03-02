@@ -37,6 +37,7 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 ### Top Journal Papers
 
 #### TSE
+1. Xiaoxue Wu, Wei Zheng,  <strong>Xin Xia</strong>, David Lo. "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction". IEEE Transactions on Software Engineering (TSE), Accepted. <br />
 1. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode". IEEE Transactions on Software Engineering (TSE), Accepted. <br />
 1. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann. "An Empirical Study of Release Note Production and Usage in Practice".  IEEE Transactions on Software Engineering (TSE), Accepted. <br />
 1. Neng Zhang, Qiao Huang, <strong>Xin Xia</strong>, Ying Zou, David Lo, Zhenchang Xing. "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval".  IEEE Transactions on Software Engineering (TSE), 27 pages.  Accepted.      <br />

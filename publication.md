@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (78)</strong>: IEEE Transactions on Software Engineering * 25, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 8.
+<strong>Journal Papers (79)</strong>: IEEE Transactions on Software Engineering * 26, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 8.
 
 <strong>Conference Papers (115)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+79. Xiaoxue Wu, Wei Zheng,  <strong>Xin Xia</strong>, David Lo. "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction". IEEE Transactions on Software Engineering (TSE), Accepted. <br />
+
 
 78. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse211.pdf">[PDF]</a> <br />
 
