@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (2) </strong> 
 
-<strong>Papers in Chinese (8)</strong>: 软件学报*7, 计算机研究与发展*1
+<strong>Papers in Chinese (8)</strong>: 软件学报 * 7, 计算机研究与发展 * 1
 
 ## 2021
 
