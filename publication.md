@@ -77,7 +77,7 @@ permalink: /publication/
 
 75. Qiuyuan Chen, <strong>Xin Xia</strong>, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem206.pdf">[PDF]</a>     <br />
 
-74. Xiaowei Chen, Rabe Abdalkareem, Suhaib Mujahid, Emad Shihab, <strong>Xin Xia</strong>. "Helping or not Helping? Why and How Trivial Packages Impact the npm Ecosystem". Empirical Software Engineering (EMSE). Accepted.  <br />
+74. Xiaowei Chen, Rabe Abdalkareem, Suhaib Mujahid, Emad Shihab, <strong>Xin Xia</strong>. "Helping or not Helping? Why and How Trivial Packages Impact the npm Ecosystem". Empirical Software Engineering (EMSE). Accepted.  <a href="emse203.pdf">[PDF]</a>  <br />
 
 
 73. Jiakun Liu, Qiao Huang, <strong>Xin Xia</strong>, Emad Shihab, David Lo, Shanping Li. "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt".   Empirical Software Engineering (EMSE). Accepted.  <a href="emse202.pdf">[PDF]</a>  <br />
