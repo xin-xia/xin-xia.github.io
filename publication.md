@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-79. Xiaoxue Wu, Wei Zheng,  <strong>Xin Xia</strong>, David Lo. "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction". IEEE Transactions on Software Engineering (TSE), Accepted. <br />
+79. Xiaoxue Wu, Wei Zheng,  <strong>Xin Xia</strong>, David Lo. "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.  <a href="tse212.pdf">[PDF]</a> <br />
 
 
 78. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiapu Luo, Ting Chen. "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse211.pdf">[PDF]</a> <br />
