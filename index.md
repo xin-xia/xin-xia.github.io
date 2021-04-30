@@ -128,7 +128,7 @@ Xin Xia <br />
 Lecturer<br />
 Faculty of Information Technology <br />
 Monash University, Melbourne, VIC, Australia <br />
-Email: [xin.xia@monash.edu]
+Email: [xxia@zju.edu.cn]
 
 [Gail C. Murphy]: https://blogs.ubc.ca/gailcmurphy/
 [Reid Holmes]: https://www.cs.ubc.ca/~rtholmes/index.html
