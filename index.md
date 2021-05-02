@@ -133,5 +133,5 @@ Email: [xxia@zju.edu.cn]
 [Gail C. Murphy]: https://blogs.ubc.ca/gailcmurphy/
 [Reid Holmes]: https://www.cs.ubc.ca/~rtholmes/index.html
 [David Lo]: http://www.mysmu.edu/faculty/davidlo/
-[xin.xia@monash.edu]: mailto:xin.xia@monash.edu
+[xxia@zju.edu.cn]: mailto:xxia@zju.edu.cn
 
