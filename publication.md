@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (80)</strong>: IEEE Transactions on Software Engineering * 27, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 8.
+<strong>Journal Papers (81)</strong>: IEEE Transactions on Software Engineering * 27, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 9.
 
 <strong>Conference Papers (115)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+81. Haoye Wang, <strong>Xin Xia</strong>, David Lo, Qiang He, Xinyu Wang, John Grundy.  "Context-Aware Retrieval-based Deep Commit Message Generation". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
+
 
 80. Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, <strong>Xin Xia</strong>, Irwin King,  Michael R. Lyu. "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
 
