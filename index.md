@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/Xin.jpg" caption="" width="250px"   align="right" %}
 
-I am  an ARC DECRA Fellow and a lecturer (equivalent to U.S. assistant professor) at the Faculty of Information Technology, Monash University, Australia. Prior to joining Monash University, I was a post-doctoral research fellow in the software practices lab at the University of British Columbia in Canada,  with a specialization in software analytics and mining software repositories. My advisors are Prof. [Gail C. Murphy] and Prof. [Reid Holmes]. From 2014 to 2017, I was a research assistant professor at College of Computer Science and Technology, Zhejiang University, China.  
+I am the Director of the Software Engineering Application Technology Lab at Huawei, China. Prior to joining Huawei, I was  an ARC DECRA Fellow and a lecturer (equivalent to U.S. assistant professor) at the Faculty of Information Technology, Monash University, Australia from 2018 to 2021. From 2016 to 2017, I was a post-doctoral research fellow in the software practices lab at the University of British Columbia in Canada,  with a specialization in software analytics and mining software repositories. My advisors are Prof. [Gail C. Murphy] and Prof. [Reid Holmes]. From 2014 to 2017, I was a research assistant professor at College of Computer Science and Technology, Zhejiang University, China.  
 
 I got my Ph.D degree in June 2014 from College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang  and Prof. Jianling Sun. From July, 2012 to January,2014, I was a visiting student of Prof. [David Lo] in Singapore Management Universiy. 
 
@@ -16,7 +16,7 @@ rich data in software repositories to uncover interesting and actionable informa
 natural language processing, search-based algorithms, and program analysis -- to transform passive software
 engineering data into automated tools and new insights.
 
-My detailed CV can be found <a href="CV-Xin Xia.pdf">[here]</a> (Updated: February 28, 2021).
+ 
 
 ### Research Interests
 
@@ -127,9 +127,9 @@ I'm actively recruiting PhD students. Please contact me if you are interested in
 ## Contact
 
 Xin Xia <br />
-Lecturer<br />
-Faculty of Information Technology <br />
-Monash University, Melbourne, VIC, Australia <br />
+Director<br />
+Software Engineering Application Technology Lab <br />
+Huawei, China <br />
 Email: [xin.xia@acm.org]
 
 [Gail C. Murphy]: https://blogs.ubc.ca/gailcmurphy/
