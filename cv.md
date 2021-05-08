@@ -14,7 +14,7 @@ permalink: /cv/
 ## Professional Experience
 
 
-<strong> ARC DECRA Fellow and Lecturer, &nbsp;&nbsp;&nbsp;&nbsp; Feb  2018 -- May 2021  <br /> 
+<strong> ARC DECRA Fellow and Lecturer</strong>, &nbsp;&nbsp;&nbsp;&nbsp; Feb  2018 -- May 2021  <br /> 
 &nbsp;&nbsp; Faculty of Information Technology  <br /> 
 &nbsp;&nbsp; Monash University, Australia  <br /> 
  
