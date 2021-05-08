@@ -1,4 +1,4 @@
-title: Xin Xia | Huawei
+title: Xin Xia | Huawei, China
 description: Xin Xia's Homepage
 sourcecode: "https://github.com/xin-xia/xin-xia.github.io"
 encoding: UTF-8
@@ -23,7 +23,7 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider:
+    provider: google
     statcounter:
         sc_project  :
         sc_security :
