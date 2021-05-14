@@ -18,13 +18,13 @@ permalink: /publication/
 
 ### Journal Papers
 
-83. Chao Liu, <strong>Xin Xia</strong>, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li. "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
+83. Chao Liu, <strong>Xin Xia</strong>, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li. "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="tosem213.pdf">[PDF]</a>         <br />
 
 
 82. Cuiyun Gao, Wenjie Zhou, <strong>Xin Xia</strong>, David Lo, Qi Xie, Michael R. Lyu. "Automating App Review Response Generation Based on Contextual Knowledge". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
 
 
-81. Haoye Wang, <strong>Xin Xia</strong>, David Lo, Qiang He, Xinyu Wang, John Grundy.  "Context-Aware Retrieval-based Deep Commit Message Generation". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <a href="tosem212.pdf">[PDF]</a>     <br />  <br />
+81. Haoye Wang, <strong>Xin Xia</strong>, David Lo, Qiang He, Xinyu Wang, John Grundy.  "Context-Aware Retrieval-based Deep Commit Message Generation". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <a href="tosem212.pdf">[PDF]</a>     <br />
 
 
 80. Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, <strong>Xin Xia</strong>, Irwin King,  Michael R. Lyu. "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
