@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (83)</strong>: IEEE Transactions on Software Engineering * 27, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
+<strong>Journal Papers (84)</strong>: IEEE Transactions on Software Engineering * 27, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
 
 <strong>Conference Papers (115)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+84. Tingting Bi, Peng Liang, Antony Tang,  <strong>Xin Xia</strong>. "Mining architecture tactics and quality attributes knowledge in Stack Overflow". In Journal of Systems and Software (JSS). Accepted.  <br />
 
 83. Chao Liu, <strong>Xin Xia</strong>, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li. "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="tosem213.pdf">[PDF]</a>         <br />
 
