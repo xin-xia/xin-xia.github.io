@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (84)</strong>: IEEE Transactions on Software Engineering * 27, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
 
-<strong>Conference Papers (115)</strong>: ICSE * 8, ASE * 12, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (118)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -42,6 +42,18 @@ permalink: /publication/
 
 
 ### Conference Papers (Full Papers)
+
+118. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Tom Zimmermann. "Automating the Removal of Obsolete TODO Comments". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
+
+
+
+117.  Jiakun Liu, Sebastian Baltes, Christoph Treude, David Lo, Yun Zhang, <strong>Xin Xia</strong>. "Characterizing Search Activities on Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
+
+         
+
+116. Bo Li, Qiang He, Feifei Chen, <strong>Xin Xia</strong>, Li Li, John Grundy, Yun Yang. "Embedding App-Library Graph for Neural Third Party Library Recommendation". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
+
+          
 
 114. Zejun Zhang, Yanming Yang, <strong>Xin Xia</strong>, David Lo, Xiaoxue Ren, John Grundy. "Unveiling the Mystery of API Evolution in Deep Learning Frameworks -- A Case Study of Tensorflow 2".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper. <a href="icse215.pdf">[PDF]</a>   <br />
 

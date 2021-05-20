@@ -87,6 +87,11 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 1. Xuan Bach D. Le, Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li, Corina Pasareanu. ``On Reliability of Patch Correctness Assessment''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper  <br />
 1. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  (<strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
+#### ESEC/FSE
+
+1. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Tom Zimmermann. "Automating the Removal of Obsolete TODO Comments". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
+1. Jiakun Liu, Sebastian Baltes, Christoph Treude, David Lo, Yun Zhang, <strong>Xin Xia</strong>. "Characterizing Search Activities on Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
+1. Bo Li, Qiang He, Feifei Chen, <strong>Xin Xia</strong>, Li Li, John Grundy, Yun Yang. "Embedding App-Library Graph for Neural Third Party Library Recommendation". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
 
 
 #### ASE
