@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (84)</strong>: IEEE Transactions on Software Engineering * 27, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
+<strong>Journal Papers (85)</strong>: IEEE Transactions on Software Engineering * 27, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
 
 <strong>Conference Papers (118)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+85. Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.  <br />
+
 
 84. Tingting Bi, Peng Liang, Antony Tang,  <strong>Xin Xia</strong>. "Mining architecture tactics and quality attributes knowledge in Stack Overflow". In Journal of Systems and Software (JSS). Accepted.  <br />
 
