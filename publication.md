@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-85. Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.  <br />
+85. Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.    <a href="scis211.pdf">[PDF]</a>    <br />
 
 
 84. Tingting Bi, Peng Liang, Antony Tang,  <strong>Xin Xia</strong>. "Mining architecture tactics and quality attributes knowledge in Stack Overflow". In Journal of Systems and Software (JSS). Accepted.  <br />
@@ -26,7 +26,7 @@ permalink: /publication/
 83. Chao Liu, <strong>Xin Xia</strong>, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li. "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="tosem213.pdf">[PDF]</a>         <br />
 
 
-82. Cuiyun Gao, Wenjie Zhou, <strong>Xin Xia</strong>, David Lo, Qi Xie, Michael R. Lyu. "Automating App Review Response Generation Based on Contextual Knowledge". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
+82. Cuiyun Gao, Wenjie Zhou, <strong>Xin Xia</strong>, David Lo, Qi Xie, Michael R. Lyu. "Automating App Review Response Generation Based on Contextual Knowledge". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem214.pdf">[PDF]</a>     <br />   <br />
 
 
 81. Haoye Wang, <strong>Xin Xia</strong>, David Lo, Qiang He, Xinyu Wang, John Grundy.  "Context-Aware Retrieval-based Deep Commit Message Generation". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <a href="tosem212.pdf">[PDF]</a>     <br />
