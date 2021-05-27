@@ -6,8 +6,8 @@ permalink: /
 
 {% include image.html url="images/Xin.jpg" caption="" width="250px"   align="right" %}
 
-I am the Director of the Software Engineering Application Technology Lab at Huawei, China. Prior to joining Huawei, I was  an ARC DECRA Fellow and a lecturer (equivalent to U.S. assistant professor) at the Faculty of Information Technology, Monash University, Australia, from 2018 to 2021. 
-I got my Ph.D degree in June 2014 from College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang  and Prof. Jianling Sun. From July  2012 to January 2014, I was a visiting student of Prof. [David Lo] in Singapore Management Universiy. 
+I am the Director of the Software Engineering Application Technology Lab at Huawei, China. Prior to joining Huawei, I was  an ARC DECRA Fellow and a lecturer (equivalent to U.S. assistant professor) at the Faculty of Information Technology, Monash University, Australia. 
+I got my Ph.D degree in June 2014 from the College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang  and Prof. Jianling Sun. From July  2012 to January 2014, I was a visiting student of Prof. [David Lo] in Singapore Management University. 
 
 
 To help developers and testers improve their productivity, my current research focuses on data science for software engineering, i.e., mining and analyzing
