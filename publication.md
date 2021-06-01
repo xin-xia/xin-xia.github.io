@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (85)</strong>: IEEE Transactions on Software Engineering * 27, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
+<strong>Journal Papers (86)</strong>: IEEE Transactions on Software Engineering * 28, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
 
 <strong>Conference Papers (118)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+86. Jiakun Liu, Xin Xia, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li. "Broken External Links on Stack Overflow". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
+
 
 85. Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.    <a href="scis211.pdf">[PDF]</a>    <br />
 
