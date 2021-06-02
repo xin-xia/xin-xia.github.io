@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-86. Jiakun Liu,  <strong>Xin Xia</strong>, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li. "Broken External Links on Stack Overflow". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
+86. Jiakun Liu,  <strong>Xin Xia</strong>, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li. "Broken External Links on Stack Overflow". IEEE Transactions on Software Engineering (TSE), Accepted.   <a href="tse214.pdf">[PDF]</a> <br />
 
 
 85. Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.    <a href="scis211.pdf">[PDF]</a>    <br />
@@ -35,7 +35,7 @@ permalink: /publication/
 81. Haoye Wang, <strong>Xin Xia</strong>, David Lo, Qiang He, Xinyu Wang, John Grundy.  "Context-Aware Retrieval-based Deep Commit Message Generation". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <a href="tosem212.pdf">[PDF]</a>     <br />
 
 
-80. Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, <strong>Xin Xia</strong>, Irwin King,  Michael R. Lyu. "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
+80. Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, <strong>Xin Xia</strong>, Irwin King,  Michael R. Lyu. "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing". IEEE Transactions on Software Engineering (TSE), Accepted.   <a href="tse213.pdf">[PDF]</a> <br />
 
 
 79. Xiaoxue Wu, Wei Zheng,  <strong>Xin Xia</strong>, David Lo. "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.  <a href="tse212.pdf">[PDF]</a> <br />
