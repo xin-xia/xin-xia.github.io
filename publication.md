@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (86)</strong>: IEEE Transactions on Software Engineering * 28, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
 
-<strong>Conference Papers (118)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 7, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (119)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -48,6 +48,8 @@ permalink: /publication/
 
 
 ### Conference Papers (Full Papers)
+
+119. Tingting Bi, <strong>Xin Xia</strong>, David Lo,  Aldeida Aleti. "A First Look at Accessibility Issues in GitHub". 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021).  Accepted as a Full Paper.   <br />
 
 118. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Tom Zimmermann. "Automating the Removal of Obsolete TODO Comments". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
 
