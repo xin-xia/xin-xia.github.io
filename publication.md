@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (86)</strong>: IEEE Transactions on Software Engineering * 28, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
+<strong>Journal Papers (87)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
 
 <strong>Conference Papers (119)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+87. Bowen Xu, Thong Hoang, Abhishek Sharma, Chengran Yang, <strong>Xin Xia</strong>, David Lo. "Post2Vec: Learning Distributed Representations of Stack Overflow Posts". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
 
 86. Jiakun Liu,  <strong>Xin Xia</strong>, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li. "Broken External Links on Stack Overflow". IEEE Transactions on Software Engineering (TSE), Accepted.   <a href="tse214.pdf">[PDF]</a> <br />
 

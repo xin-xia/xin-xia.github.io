@@ -32,6 +32,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 ### Top Journal Papers
 
 #### TSE
+1. Bowen Xu, Thong Hoang, Abhishek Sharma, Chengran Yang, <strong>Xin Xia</strong>, David Lo. "Post2Vec: Learning Distributed Representations of Stack Overflow Posts". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
 1.  Jiakun Liu,  <strong>Xin Xia</strong>, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li. "Broken External Links on Stack Overflow". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
 1.  Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, <strong>Xin Xia</strong>, Irwin King,  Michael R. Lyu. "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
 1. Xiaoxue Wu, Wei Zheng,  <strong>Xin Xia</strong>, David Lo. "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction". IEEE Transactions on Software Engineering (TSE), Accepted. <br />
