@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (87)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 18,  ACM Transactions on Software Engineering and Methodology * 11.
 
-<strong>Conference Papers (119)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (121)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -90,6 +90,13 @@ permalink: /publication/
 106. Humphrey O. Obie, Waqar Hussain, <strong>Xin Xia</strong>, John Grundy, Li Li, Burak Turhan, Jon Whittle and Mojtaba Shahin. "A First Look at Human Values-Violation in  App Reviews". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIS Track Full Paper.  <a href="icse218.pdf">[PDF]</a>   <br />
 
 ### Conference Papers (Short Papers)
+
+121. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "KGAMD: An API-Misuse Detector Driven by Fine-Grained API-Constraint Knowledge Graph". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021).  Accepted as a tool demo paper.    <br />
+
+
+
+120. Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Yuan-Fang Li. "Code2Que: A Tool for Improving Question Titles from Mined Code Snippets in Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021).  Accepted as a tool demo paper.    <br />
+
 
 115. Bo Yang, Zhenchang Xing, <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye,  Shanping Li. "UIS-Hunter: Detecting UI Design Smells in Android Apps". 43rd International Conference on Software Engineering (ICSE 2021).  Accepted as a tool demo paper.   <a href="icse217.pdf">[PDF]</a>  <br />
 
