@@ -98,6 +98,12 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 #### ASE
 
+
+1. Xing Hu, Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Automating User Notice Generation for Smart Contract Functions". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Conditionally  Accepted.    <br />
+1. Jiayuan Zhou, Michael Pacheco, Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Yuan Wang, Ahmed E. Hassan. "Finding A Needle in a Haystack: Automatic Mining of Silent Vulnerability Fixes". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Conditionally  Accepted.    <br />
+1. Shengyi Pan, Lingfeng Bao, Xiaoxue Ren,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Automating Developer Chat Mining". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
+1. Jia Li, Yongmin Li, Ge Li, Xing Hu, <strong>Xin Xia</strong>, Zhi Jin. "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
+1. Yanqi Su, Zhenchang Xing, Xin Peng, <strong>Xin Xia</strong>, Chong Wang, Xiwei Xu, Liming Zhu. " Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
 1. Zhongxin Liu, <strong>Xin Xia</strong>, Meng Yan, Shanping Li. "Automating Just-In-Time Comment Updating". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)  <br />
 1. Zhiyuan Wan, Gail Murphy, <strong>Xin Xia</strong>. "Predicting Code Context Models for Software Development Tasks". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />
 1. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "API-Misuse Detection Driven by Fine-Grained API-Constraint Knowledge Graph". 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020):  Accepted as a Full Paper.    <br />

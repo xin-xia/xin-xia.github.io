@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (88)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 19,  ACM Transactions on Software Engineering and Methodology * 11.
 
-<strong>Conference Papers (121)</strong>: ICSE * 8, ASE * 12, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (126)</strong>: ICSE * 8, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -53,6 +53,16 @@ permalink: /publication/
 
 
 ### Conference Papers (Full Papers)
+
+126. Xing Hu, Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Automating User Notice Generation for Smart Contract Functions". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Conditionally  Accepted.    <br />
+
+125. Jiayuan Zhou, Michael Pacheco, Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Yuan Wang, Ahmed E. Hassan. "Finding A Needle in a Haystack: Automatic Mining of Silent Vulnerability Fixes". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Conditionally  Accepted.    <br />
+
+124. Shengyi Pan, Lingfeng Bao, Xiaoxue Ren,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Automating Developer Chat Mining". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
+
+123. Jia Li, Yongmin Li, Ge Li, Xing Hu, <strong>Xin Xia</strong>, Zhi Jin. "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
+
+122. Yanqi Su, Zhenchang Xing, Xin Peng, <strong>Xin Xia</strong>, Chong Wang, Xiwei Xu, Liming Zhu. " Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
 
 119. Tingting Bi, <strong>Xin Xia</strong>, David Lo,  Aldeida Aleti. "A First Look at Accessibility Issues in GitHub". 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021).  Accepted as a Full Paper.   <br />
 
