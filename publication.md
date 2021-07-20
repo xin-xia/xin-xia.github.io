@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (88)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 19,  ACM Transactions on Software Engineering and Methodology * 11.
+<strong>Journal Papers (89)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 11.
 
 <strong>Conference Papers (126)</strong>: ICSE * 8, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+89. Jiakun Liu, Haoxiang Zhang, <strong>Xin Xia</strong>, David Lo, Ying Zou, Ahmed. E. Hassan, Shanping Li. "An Exploratory Study on the Repeatedly Shared External Links on Stack Overflow". Empirical Software Engineering (EMSE). Accepted.   <br />
+
 
 88. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "Maintenance-Related Concerns for Post-deployed Ethereum Smart Contract Development: Issues, Techniques, and Future Challenges". Empirical Software Engineering (EMSE). Accepted.   <br />
 
