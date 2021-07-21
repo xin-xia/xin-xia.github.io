@@ -31,7 +31,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 ### Top Journal Papers
 
-### ACM Computing Surveys
+#### ACM Computing Surveys
 
 1. Chao Liu, <strong>Xin Xia</strong>, David Lo, Cuiyun Gao, Xiaohu Yang, John Grundy. "Opportunities and Challenges in Code Search Tools". In ACM Computing Surveys (CSUR). Accepted. <br />
 
