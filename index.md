@@ -27,11 +27,17 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 [Direct link]: https://scholar.google.com/citations?user=XSZRxOEAAAAJ
 
  
-## Selected Publications (CCF Rank A Journals/Conferences)
+## Selected Publications  
 
 ### Top Journal Papers
 
-#### TSE
+### ACM Computing Surveys
+
+1. Chao Liu, <strong>Xin Xia</strong>, David Lo, Cuiyun Gao, Xiaohu Yang, John Grundy. "Opportunities and Challenges in Code Search Tools". In ACM Computing Surveys (CSUR). Accepted. <br />
+
+
+#### IEEE Transactions on Software Engineering
+
 1. Bowen Xu, Thong Hoang, Abhishek Sharma, Chengran Yang, <strong>Xin Xia</strong>, David Lo. "Post2Vec: Learning Distributed Representations of Stack Overflow Posts". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
 1.  Jiakun Liu,  <strong>Xin Xia</strong>, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li. "Broken External Links on Stack Overflow". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
 1.  Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, <strong>Xin Xia</strong>, Irwin King,  Michael R. Lyu. "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing". IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
@@ -63,7 +69,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 5. <strong>Xin Xia</strong>, David Lo, Sinno Jialin Pan,  Nachiappan Nagappan, Xinyu Wang. "HYDRA: Massively Compositional Model for Cross-Project Defect Prediction".  IEEE Transactions on Software Engineering (TSE) 42(10): 977-998 (2016)
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
-#### TOSEM 
+#### ACM Transactions on Software Engineering and Methodology
 1. Chao Liu, <strong>Xin Xia</strong>, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li. "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
 1.  Cuiyun Gao, Wenjie Zhou, <strong>Xin Xia</strong>, David Lo, Qi Xie, Michael R. Lyu. "Automating App Review Response Generation Based on Contextual Knowledge". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
 1. Haoye Wang, <strong>Xin Xia</strong>, David Lo, Qiang He, Xinyu Wang, John Grundy.  "Context-Aware Retrieval-based Deep Commit Message Generation". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
