@@ -70,6 +70,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Chao Liu, Cuiyun Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "On the Reproducibility and Replicability of Deep Learning in Software Engineering". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Chao Liu, <strong>Xin Xia</strong>, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li. "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
 1.  Cuiyun Gao, Wenjie Zhou, <strong>Xin Xia</strong>, David Lo, Qi Xie, Michael R. Lyu. "Automating App Review Response Generation Based on Contextual Knowledge". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
 1. Haoye Wang, <strong>Xin Xia</strong>, David Lo, Qiang He, Xinyu Wang, John Grundy.  "Context-Aware Retrieval-based Deep Commit Message Generation". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
