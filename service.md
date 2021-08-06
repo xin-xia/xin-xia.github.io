@@ -17,6 +17,16 @@ permalink: /service/
 <li>Formal Research Demonstrations Co-Chair -- 45th International Conference on Software Engineering (ICSE 2023) </li>  
 </ol>
 
+## 2022
+<ol>
+<li>Data/Tool Showcase co-Chair  --  19th International Conference on Mining Software Repositories (MSR 2022) </li>
+<li>Tool  co-Chair  --  International Conference on Technical Debt 2022 (TechDebt 2022) </li>
+<li>Program Committee  --  44th International Conference on Software Engineering (ICSE 2022) (SEIP track, NIER track) </li>
+<li>Program Committee  --  29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) </li>
+<li>Program Committee  --  19th Working Conference on Mining Software Repositories (MSR 2022) </li>
+
+</ol>
+
 
 ## 2021
 <ol>
@@ -25,7 +35,7 @@ permalink: /service/
 <li>Program Committee  --  43rd International Conference on Software Engineering (ICSE 2021) </li>
 <li>Program Committee -- 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)</li>
 <li>Program Committee  --  28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021) </li>
-<li>Program Committee  --  18th Working Conference on Mining Software Repositories (MSR 2021) </li>
+<li>Program Committee  --  18th International Conference on Mining Software Repositories (MSR 2021) </li>
 <li>Program Committee -- 37th International Conference on Software Maintenance and Evolution (ICSME 2021) </li>
 <li>Program Committee -- 37th International Conference on Software Maintenance and Evolution (ICSME 2021 Journal First Track) </li>
 <li>Program Committee  -- 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021 Visions and Reflections Track) </li>

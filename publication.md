@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (91)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 12, ACM Computing Surveys * 1.
+<strong>Journal Papers (92)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 12, ACM Computing Surveys * 1.
 
 <strong>Conference Papers (126)</strong>: ICSE * 8, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+92. Ying Wei, Xiaobing Sun, Lili Bo, Sicong Cao, <strong>Xin Xia</strong>, Bin Li. "A Comprehensive Study on Security Bug Characteristics". In Journal of Software: Evolution and Process (JSEP). Accepted. <br />
+
 
 91. Chao Liu, Cuiyun Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "On the Reproducibility and Replicability of Deep Learning in Software Engineering". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 
