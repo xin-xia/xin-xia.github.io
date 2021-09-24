@@ -67,13 +67,13 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-126. Xing Hu, Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Automating User Notice Generation for Smart Contract Functions". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):   Accepted as a Full Paper.    <br />
+126. Xing Hu, Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Automating User Notice Generation for Smart Contract Functions". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):   Accepted as a Full Paper.    <a href="ase214.pdf">[PDF]</a> <br />
 
 125. Jiayuan Zhou, Michael Pacheco, Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Yuan Wang, Ahmed E. Hassan. "Finding A Needle in a Haystack: Automatic Mining of Silent Vulnerability Fixes". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper. <a href="ase211.pdf">[PDF]</a>    <br />
 
 124. Shengyi Pan, Lingfeng Bao, Xiaoxue Ren,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Automating Developer Chat Mining". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <a href="ase212.pdf">[PDF]</a>    <br />
 
-123. Jia Li, Yongmin Li, Ge Li, Xing Hu, <strong>Xin Xia</strong>, Zhi Jin. "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
+123. Jia Li, Yongmin Li, Ge Li, Xing Hu, <strong>Xin Xia</strong>, Zhi Jin. "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.   <a href="ase213.pdf">[PDF]</a>  <br />
 
 122. Yanqi Su, Zhenchang Xing, Xin Peng, <strong>Xin Xia</strong>, Chong Wang, Xiwei Xu, Liming Zhu. " Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
 
