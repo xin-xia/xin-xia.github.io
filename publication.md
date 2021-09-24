@@ -78,7 +78,7 @@ permalink: /publication/
 
 122. Yanqi Su, Zhenchang Xing, Xin Peng, <strong>Xin Xia</strong>, Chong Wang, Xiwei Xu, Liming Zhu. " Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
 
-119. Tingting Bi, <strong>Xin Xia</strong>, David Lo,  Aldeida Aleti. "A First Look at Accessibility Issues in GitHub". 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021).  Accepted as a Full Paper.   <br />
+119. Tingting Bi, <strong>Xin Xia</strong>, David Lo,  Aldeida Aleti. "A First Look at Accessibility Issues in GitHub". 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021).  Accepted as a Full Paper.    <a href="icsme211.pdf">[PDF]</a>   <br />
 
 118. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Tom Zimmermann. "Automating the Removal of Obsolete TODO Comments". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.   <a href="fse211.pdf">[PDF]</a>   <br />
 
