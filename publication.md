@@ -28,7 +28,8 @@ permalink: /publication/
 
 90. Chao Liu, <strong>Xin Xia</strong>, David Lo, Cuiyun Gao, Xiaohu Yang, John Grundy. "Opportunities and Challenges in Code Search Tools". In ACM Computing Surveys (CSUR). Accepted.  <a href="csur211.pdf">[PDF]</a> <br />
  <br />
- <a href="emse212.pdf">[PDF]</a> <br />
+ 
+ 89. Jiakun Liu, Haoxiang Zhang, <strong>Xin Xia</strong>, David Lo, Ying Zou, Ahmed E. Hassan, Shanping Li.  "An Exploratory Study on the Repeatedly Shared External Links on Stack Overflowow".  Empirical Software Engineering (EMSE). Accepted. <a href="emse212.pdf">[PDF]</a> <br />
 
 
 88. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "Maintenance-Related Concerns for Post-deployed Ethereum Smart Contract Development: Issues, Techniques, and Future Challenges". Empirical Software Engineering (EMSE). Accepted.  <a href="emse211.pdf">[PDF]</a> <br /> 
