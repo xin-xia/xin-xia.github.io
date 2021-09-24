@@ -24,6 +24,7 @@ permalink: /service/
 <li>Program Committee  --   37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022)</li>
 <li>Program Committee  --  44th International Conference on Software Engineering (ICSE 2022) (SEIP track, NIER track) </li>
 <li>Program Committee  --  29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) </li>
+<li>Program Committee  --  30th International Conference on Program Comprehension (ICPC 20212  </li> 
 <li>Program Committee  --  26th AAAI Conference on Artificial Intelligence (AAAI 2022) </li>
 <li>Program Committee  --  19th Working Conference on Mining Software Repositories (MSR 2022) </li>
 

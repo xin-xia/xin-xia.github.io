@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-93. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy. "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+93. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy. "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem216.pdf">[PDF]</a>   <br />
 
 
 92. Ying Wei, Xiaobing Sun, Lili Bo, Sicong Cao, <strong>Xin Xia</strong>, Bin Li. "A Comprehensive Study on Security Bug Characteristics". In Journal of Software: Evolution and Process (JSEP). Accepted. <br />
@@ -76,7 +76,7 @@ permalink: /publication/
 
 123. Jia Li, Yongmin Li, Ge Li, Xing Hu, <strong>Xin Xia</strong>, Zhi Jin. "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.   <a href="ase213.pdf">[PDF]</a>  <br />
 
-122. Yanqi Su, Zhenchang Xing, Xin Peng, <strong>Xin Xia</strong>, Chong Wang, Xiwei Xu, Liming Zhu. " Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
+122. Yanqi Su, Zhenchang Xing, Xin Peng, <strong>Xin Xia</strong>, Chong Wang, Xiwei Xu, Liming Zhu. " Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.   <a href="ase215.pdf">[PDF]</a>    <br />
 
 119. Tingting Bi, <strong>Xin Xia</strong>, David Lo,  Aldeida Aleti. "A First Look at Accessibility Issues in GitHub". 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021).  Accepted as a Full Paper.    <a href="icsme211.pdf">[PDF]</a>   <br />
 
@@ -100,11 +100,11 @@ permalink: /publication/
 113. Junxiao Han, Shuiguang Deng, David Lo, Chen Zhi, Jianwei Yin, <strong>Xin Xia</strong>. "An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent".  43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIP Track Full Paper.    <a href="icse216.pdf">[PDF]</a>   <br />
 
 
-112. Zeyu Wang, Sheng Huang, Zhongxin Liu, Meng Yan,  <strong>Xin Xia</strong>, Bei Wang and Dan Yang. "Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.   <br />
+112. Zeyu Wang, Sheng Huang, Zhongxin Liu, Meng Yan,  <strong>Xin Xia</strong>, Bei Wang and Dan Yang. "Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.   <a href="saner211.pdf">[PDF]</a> <br />
 
 
 
-111. Bei Wang, Meng Yan, Zhongxin Liu, Ling Xu, <strong>Xin Xia</strong>, Xiaohong Zhang and Dan Yang. "Quality Assurance for Automated Commit Message Generation". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.   <br />
+111. Bei Wang, Meng Yan, Zhongxin Liu, Ling Xu, <strong>Xin Xia</strong>, Xiaohong Zhang and Dan Yang. "Quality Assurance for Automated Commit Message Generation". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.  <a href="saner212.pdf">[PDF]</a>  <br />
 
 
 110. Bo Yang, Zhenchang Xing,  <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye, Shanping Li. "Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.  <a href="icse213.pdf">[PDF]</a>    <br />
