@@ -28,13 +28,13 @@ permalink: /publication/
 
 90. Chao Liu, <strong>Xin Xia</strong>, David Lo, Cuiyun Gao, Xiaohu Yang, John Grundy. "Opportunities and Challenges in Code Search Tools". In ACM Computing Surveys (CSUR). Accepted.  <a href="csur211.pdf">[PDF]</a> <br />
  <br />
- <a href="emse212.pdf">[PDF]</a> <br />/>
+ <a href="emse212.pdf">[PDF]</a> <br />
 
 
-88. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "Maintenance-Related Concerns for Post-deployed Ethereum Smart Contract Development: Issues, Techniques, and Future Challenges". Empirical Software Engineering (EMSE). Accepted.  <a href="emse211.pdf">[PDF]</a> <br />/>
+88. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "Maintenance-Related Concerns for Post-deployed Ethereum Smart Contract Development: Issues, Techniques, and Future Challenges". Empirical Software Engineering (EMSE). Accepted.  <a href="emse211.pdf">[PDF]</a> <br /> 
 
 
-87. Bowen Xu, Thong Hoang, Abhishek Sharma, Chengran Yang, <strong>Xin Xia</strong>, David Lo. "Post2Vec: Learning Distributed Representations of Stack Overflow Posts". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
+87. Bowen Xu, Thong Hoang, Abhishek Sharma, Chengran Yang, <strong>Xin Xia</strong>, David Lo. "Post2Vec: Learning Distributed Representations of Stack Overflow Posts". IEEE Transactions on Software Engineering (TSE), Accepted.    <a href="tse215.pdf">[PDF]</a> <br />
 
 86. Jiakun Liu,  <strong>Xin Xia</strong>, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li. "Broken External Links on Stack Overflow". IEEE Transactions on Software Engineering (TSE), Accepted.   <a href="tse214.pdf">[PDF]</a> <br />
 
@@ -42,7 +42,7 @@ permalink: /publication/
 85. Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.    <a href="scis211.pdf">[PDF]</a>    <br />
 
 
-84. Tingting Bi, Peng Liang, Antony Tang,  <strong>Xin Xia</strong>. "Mining architecture tactics and quality attributes knowledge in Stack Overflow". In Journal of Systems and Software (JSS). Accepted.  <br />
+84. Tingting Bi, Peng Liang, Antony Tang,  <strong>Xin Xia</strong>. "Mining architecture tactics and quality attributes knowledge in Stack Overflow". In Journal of Systems and Software (JSS). Accepted.    <a href="jss211.pdf">[PDF]</a>   <br />
 
 83. Chao Liu, <strong>Xin Xia</strong>, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li. "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <a href="tosem213.pdf">[PDF]</a>         <br />
 
@@ -79,15 +79,17 @@ permalink: /publication/
 
 119. Tingting Bi, <strong>Xin Xia</strong>, David Lo,  Aldeida Aleti. "A First Look at Accessibility Issues in GitHub". 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021).  Accepted as a Full Paper.   <br />
 
-118. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Tom Zimmermann. "Automating the Removal of Obsolete TODO Comments". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
+118. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Tom Zimmermann. "Automating the Removal of Obsolete TODO Comments". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.   <a href="fse211.pdf">[PDF]</a>   <br />
 
 
 
-117.  Jiakun Liu, Sebastian Baltes, Christoph Treude, David Lo, Yun Zhang, <strong>Xin Xia</strong>. "Characterizing Search Activities on Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
+117.  Jiakun Liu, Sebastian Baltes, Christoph Treude, David Lo, Yun Zhang, <strong>Xin Xia</strong>. "Characterizing Search Activities on Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <a href="fse213.pdf">[PDF]</a>   <br />
+ 
 
          
 
-116. Bo Li, Qiang He, Feifei Chen, <strong>Xin Xia</strong>, Li Li, John Grundy, Yun Yang. "Embedding App-Library Graph for Neural Third Party Library Recommendation". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
+116. Bo Li, Qiang He, Feifei Chen, <strong>Xin Xia</strong>, Li Li, John Grundy, Yun Yang. "Embedding App-Library Graph for Neural Third Party Library Recommendation". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper. <a href="fse212.pdf">[PDF]</a>   <br />
+
 
           
 
@@ -117,11 +119,11 @@ permalink: /publication/
 
 ### Conference Papers (Short Papers)
 
-121. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "KGAMD: An API-Misuse Detector Driven by Fine-Grained API-Constraint Knowledge Graph". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021).  Accepted as a tool demo paper.    <br />
+121. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "KGAMD: An API-Misuse Detector Driven by Fine-Grained API-Constraint Knowledge Graph". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021).  Accepted as a tool demo paper.    <a href="fse214.pdf">[PDF]</a>   <br />
 
 
 
-120. Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Yuan-Fang Li. "Code2Que: A Tool for Improving Question Titles from Mined Code Snippets in Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021).  Accepted as a tool demo paper.    <br />
+120. Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Yuan-Fang Li. "Code2Que: A Tool for Improving Question Titles from Mined Code Snippets in Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021).  Accepted as a tool demo paper.    <a href="fse215.pdf">[PDF]</a>   <br />
 
 
 115. Bo Yang, Zhenchang Xing, <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye,  Shanping Li. "UIS-Hunter: Detecting UI Design Smells in Android Apps". 43rd International Conference on Software Engineering (ICSE 2021).  Accepted as a tool demo paper.   <a href="icse217.pdf">[PDF]</a>  <br />
