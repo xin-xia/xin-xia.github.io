@@ -24,14 +24,14 @@ permalink: /publication/
 92. Ying Wei, Xiaobing Sun, Lili Bo, Sicong Cao, <strong>Xin Xia</strong>, Bin Li. "A Comprehensive Study on Security Bug Characteristics". In Journal of Software: Evolution and Process (JSEP). Accepted. <br />
 
 
-91. Chao Liu, Cuiyun Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "On the Reproducibility and Replicability of Deep Learning in Software Engineering". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+91. Chao Liu, Cuiyun Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "On the Reproducibility and Replicability of Deep Learning in Software Engineering". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem215.pdf">[PDF]</a> <br />
 
-90. Chao Liu, <strong>Xin Xia</strong>, David Lo, Cuiyun Gao, Xiaohu Yang, John Grundy. "Opportunities and Challenges in Code Search Tools". In ACM Computing Surveys (CSUR). Accepted. <br />
+90. Chao Liu, <strong>Xin Xia</strong>, David Lo, Cuiyun Gao, Xiaohu Yang, John Grundy. "Opportunities and Challenges in Code Search Tools". In ACM Computing Surveys (CSUR). Accepted.  <a href="csur211.pdf">[PDF]</a> <br />
+ <br />
+ <a href="emse212.pdf">[PDF]</a> <br />/>
 
-89. Jiakun Liu, Haoxiang Zhang, <strong>Xin Xia</strong>, David Lo, Ying Zou, Ahmed. E. Hassan, Shanping Li. "An Exploratory Study on the Repeatedly Shared External Links on Stack Overflow". Empirical Software Engineering (EMSE). Accepted.   <br />
 
-
-88. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "Maintenance-Related Concerns for Post-deployed Ethereum Smart Contract Development: Issues, Techniques, and Future Challenges". Empirical Software Engineering (EMSE). Accepted.   <br />
+88. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "Maintenance-Related Concerns for Post-deployed Ethereum Smart Contract Development: Issues, Techniques, and Future Challenges". Empirical Software Engineering (EMSE). Accepted.  <a href="emse211.pdf">[PDF]</a> <br />/>
 
 
 87. Bowen Xu, Thong Hoang, Abhishek Sharma, Chengran Yang, <strong>Xin Xia</strong>, David Lo. "Post2Vec: Learning Distributed Representations of Stack Overflow Posts". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
