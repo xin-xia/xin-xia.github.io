@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (2) </strong> 
 
-<strong>Papers in Chinese (10)</strong>: 软件学报 * 9, 计算机研究与发展 * 1
+<strong>Papers in Chinese (11)</strong>: 软件学报 * 9, 计算机研究与发展 * 2
 
 ## 2021
 
@@ -133,6 +133,7 @@ permalink: /publication/
 2. 汪烨， 陈骏武，<strong>夏鑫</strong>， 姜波。 “智能化需求获取与建模研究综述”. 计算机研究与发展，2021，已录用 <br />
 3. 陈浙哲， 鄢萌，<strong>夏鑫</strong>， 刘忠鑫， 徐洲， 雷晏。 “代码自然性及其应用研究进展”。 软件学报， 2021， 已录用    <a href="jos201.pdf">[PDF]</a> <br />
 4. 郑炜,王晓龙,陈翔,<strong>夏鑫</strong>,廖慧玲,刘程远,孙瑞阳. "重复软件缺陷报告检测方法综述". 软件学报， 2021， 已录用      <br />
+5. 郑炜,唐辉,陈翔,张满青,<strong>夏鑫</strong>. "安卓移动应用兼容性测试研究综述". 计算机研究与发展，2021，已录用 <br />
 
 ## 2020 
 
