@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (93)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 13, ACM Computing Surveys * 1.
+<strong>Journal Papers (94)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 13, ACM Computing Surveys * 1.
 
 <strong>Conference Papers (126)</strong>: ICSE * 8, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+94. Tingming Wu, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "Analysis of Trending Topics and Text-based Channels of Information Delivery in Cybersecurity". In  ACM Transactions on Information Technology (TOIT). Accepted.       <br />
+
 
 93. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy. "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem216.pdf">[PDF]</a>   <br />
 
