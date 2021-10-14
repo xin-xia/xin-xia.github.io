@@ -81,7 +81,7 @@ permalink: /publication/
 
 123. Jia Li, Yongmin Li, Ge Li, Xing Hu, <strong>Xin Xia</strong>, Zhi Jin. "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.   <a href="ase213.pdf">[PDF]</a>  <br />
 
-122. Yanqi Su, Zhenchang Xing, Xin Peng, <strong>Xin Xia</strong>, Chong Wang, Xiwei Xu, Liming Zhu. " Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.   <a href="ase215.pdf">[PDF]</a>    <br />
+122. Yanqi Su, Zhenchang Xing, Xin Peng, <strong>Xin Xia</strong>, Chong Wang, Xiwei Xu, Liming Zhu. " Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.   <a href="ase215.pdf">[PDF]</a>  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)    <br />
 
 119. Tingting Bi, <strong>Xin Xia</strong>, David Lo,  Aldeida Aleti. "A First Look at Accessibility Issues in GitHub". 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021).  Accepted as a Full Paper.    <a href="icsme211.pdf">[PDF]</a>   <br />
 
