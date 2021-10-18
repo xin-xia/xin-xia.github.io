@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (95)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 13, ACM Computing Surveys * 1.
+<strong>Journal Papers (96)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 13, ACM Computing Surveys * 1.
 
 <strong>Conference Papers (126)</strong>: ICSE * 8, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+96. Cuiyun Gao, Jichuan Zeng, David Lo, <strong>Xin Xia</strong>, Irwin King, Michael R.Lyu. "Understanding in-app advertising issues based on large scale app review analysis". In Information and Software Technology (IST). Accepted.      <br />
+
 
 95. Mojtaba Shahin, Chris Gonsalvez, Jon Whittle, Chunyang Chen, Li Li, <strong>Xin Xia</strong>. "How Secondary School Girls Perceive Computational Thinking Practices through Collaborative Programming with the Micro:bit". In Journal of Systems and Software (JSS). Accepted.      <br />
 
