@@ -18,6 +18,9 @@ permalink: /publication/
 
 ### Journal Papers
 
+97. Xing Hu, Qiuyuan Chen, Haoye Wang, <strong>Xin Xia</strong>, David Lo, Thomas Zimmermann. "Correlating Automated and Human Evaluation of Code Documentation Generation Quality". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+
+
 96. Cuiyun Gao, Jichuan Zeng, David Lo, <strong>Xin Xia</strong>, Irwin King, Michael R.Lyu. "Understanding in-app advertising issues based on large scale app review analysis". In Information and Software Technology (IST). Accepted.      <br />
 
 

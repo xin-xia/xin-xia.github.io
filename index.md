@@ -70,6 +70,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Xing Hu, Qiuyuan Chen, Haoye Wang, <strong>Xin Xia</strong>, David Lo, Thomas Zimmermann. "Correlating Automated and Human Evaluation of Code Documentation Generation Quality". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy. "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Chao Liu, Cuiyun Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "On the Reproducibility and Replicability of Deep Learning in Software Engineering". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Chao Liu, <strong>Xin Xia</strong>, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li. "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.      <br />
