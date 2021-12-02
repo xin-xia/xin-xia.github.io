@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (96)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 13, ACM Computing Surveys * 1.
+<strong>Journal Papers (99)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 1.
 
 <strong>Conference Papers (126)</strong>: ICSE * 8, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,10 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+99. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann, Denae Ford. "Accessibility in Software Practice: A Practitioner’s Perspective". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+
+98. Yanming Yang,  <strong>Xin Xia</strong>, David Lo, Tingting Bi, John Grundy, Xiaohu Yang. "Predictive Models in Software Engineering: Challenges and Opportunities". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem217.pdf">[PDF]</a>    <br />
 
 97. Xing Hu, Qiuyuan Chen, Haoye Wang, <strong>Xin Xia</strong>, David Lo, Thomas Zimmermann. "Correlating Automated and Human Evaluation of Code Documentation Generation Quality". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 
