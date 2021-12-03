@@ -8,11 +8,28 @@ permalink: /publication/
 
 <strong>Journal Papers (99)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 1.
 
-<strong>Conference Papers (126)</strong>: ICSE * 8, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (131)</strong>: ICSE * 12, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
 <strong>Papers in Chinese (11)</strong>: 软件学报 * 9, 计算机研究与发展 * 2
+
+
+
+## 2022 
+
+### Conference Papers (Full Papers)
+
+
+131. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
+
+130. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao"A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
+
+
+129. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
+
+
+128. Lingfeng Bao, <strong>Xin Xia</strong>, Ahmed E. Hassan, Xiaohu Yang.  "SZZ for Vulnerability: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
 
 ## 2021
 
@@ -134,6 +151,9 @@ permalink: /publication/
 106. Humphrey O. Obie, Waqar Hussain, <strong>Xin Xia</strong>, John Grundy, Li Li, Burak Turhan, Jon Whittle and Mojtaba Shahin. "A First Look at Human Values-Violation in  App Reviews". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a SEIS Track Full Paper.  <a href="icse218.pdf">[PDF]</a>   <br />
 
 ### Conference Papers (Short Papers)
+
+127. Zuohui Chen, Renxuan Wang, Jingyang Xiang,  Yue Yu,  <strong>Xin Xia</strong>, Shouling Ji, Qi Xuan, Xiaoniu Yang. "Detecting Adversarial Samples with Graph-Guided Testing". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Late Breaking Results Paper.      <br />
+
 
 121. Xiaoxue Ren, Xinyuan Ye, Zhenchang Xing, <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Jianling Sun. "KGAMD: An API-Misuse Detector Driven by Fine-Grained API-Constraint Knowledge Graph". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021).  Accepted as a tool demo paper.    <a href="fse214.pdf">[PDF]</a>   <br />
 
