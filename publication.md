@@ -21,12 +21,12 @@ permalink: /publication/
 ### Conference Papers (Full Papers)
 
 
-131. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
+131. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 
-130. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao"A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
+130. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao"A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 
 
-129. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
+129. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 
 
 128. Lingfeng Bao, <strong>Xin Xia</strong>, Ahmed E. Hassan, Xiaohu Yang.  "SZZ for Vulnerability: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
