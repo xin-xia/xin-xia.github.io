@@ -39,7 +39,7 @@ permalink: /publication/
 
 98. Yanming Yang,  <strong>Xin Xia</strong>, David Lo, Tingting Bi, John Grundy, Xiaohu Yang. "Predictive Models in Software Engineering: Challenges and Opportunities". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem217.pdf">[PDF]</a>    <br />
 
-97. Xing Hu, Qiuyuan Chen, Haoye Wang, <strong>Xin Xia</strong>, David Lo, Thomas Zimmermann. "Correlating Automated and Human Evaluation of Code Documentation Generation Quality". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+97. Xing Hu, Qiuyuan Chen, Haoye Wang, <strong>Xin Xia</strong>, David Lo, Thomas Zimmermann. "Correlating Automated and Human Evaluation of Code Documentation Generation Quality". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem218.pdf">[PDF]</a>    <br />
 
 
 96. Cuiyun Gao, Jichuan Zeng, David Lo, <strong>Xin Xia</strong>, Irwin King, Michael R.Lyu. "Understanding in-app advertising issues based on large scale app review analysis". In Information and Software Technology (IST). Accepted.      <br />
