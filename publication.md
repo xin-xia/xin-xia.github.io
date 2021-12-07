@@ -35,7 +35,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-99. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann, Denae Ford. "Accessibility in Software Practice: A Practitioner’s Perspective". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+99. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann, Denae Ford. "Accessibility in Software Practice: A Practitioner’s Perspective". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem219.pdf">[PDF]</a>   <br />
 
 98. Yanming Yang,  <strong>Xin Xia</strong>, David Lo, Tingting Bi, John Grundy, Xiaohu Yang. "Predictive Models in Software Engineering: Challenges and Opportunities". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem217.pdf">[PDF]</a>    <br />
 
