@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (99)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 1.
+<strong>Journal Papers (100)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 2.
 
 <strong>Conference Papers (131)</strong>: ICSE * 12, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -34,6 +34,9 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+
+100. Yanming Yang, <strong>Xin Xia</strong>, David Lo, John Grundy. "A Survey on Deep Learning for Software Engineering". In ACM Computing Surveys (CSUR). Accepted.  <a href="csur212.pdf">[PDF]</a>  <a href="csur212.pdf">[Appendix]</a>
+ <br />
 
 99. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann, Denae Ford. "Accessibility in Software Practice: A Practitioner’s Perspective". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem219.pdf">[PDF]</a>   <br />
 

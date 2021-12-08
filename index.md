@@ -33,6 +33,8 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 #### ACM Computing Surveys
 
+1. Yanming Yang, <strong>Xin Xia</strong>, David Lo, John Grundy. "A Survey on Deep Learning for Software Engineering". In ACM Computing Surveys (CSUR). Accepted.  
+ <br />
 1. Chao Liu, <strong>Xin Xia</strong>, David Lo, Cuiyun Gao, Xiaohu Yang, John Grundy. "Opportunities and Challenges in Code Search Tools". In ACM Computing Surveys (CSUR). Accepted. <br />
 
 
