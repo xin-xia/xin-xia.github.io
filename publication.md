@@ -35,7 +35,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-100. Yanming Yang, <strong>Xin Xia</strong>, David Lo, John Grundy. "A Survey on Deep Learning for Software Engineering". In ACM Computing Surveys (CSUR). Accepted.  <a href="csur212.pdf">[PDF]</a>  <a href="csur212.pdf">[Appendix]</a>
+100. Yanming Yang, <strong>Xin Xia</strong>, David Lo, John Grundy. "A Survey on Deep Learning for Software Engineering". In ACM Computing Surveys (CSUR). Accepted.  <a href="csur212.pdf">[PDF]</a>  <a href="appendix.pdf">[Appendix]</a>
  <br />
 
 99. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann, Denae Ford. "Accessibility in Software Practice: A Practitioner’s Perspective". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem219.pdf">[PDF]</a>   <br />
