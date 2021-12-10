@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (100)</strong>: IEEE Transactions on Software Engineering * 29, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 2.
+<strong>Journal Papers (101)</strong>: IEEE Transactions on Software Engineering * 30, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 2.
 
 <strong>Conference Papers (131)</strong>: ICSE * 12, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,10 @@ permalink: /publication/
 
 
 ## 2022 
+
+### Journal Papers
+
+101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
 
 ### Conference Papers (Full Papers)
 
@@ -34,6 +38,7 @@ permalink: /publication/
 ## 2021
 
 ### Journal Papers
+ 
 
 100. Yanming Yang, <strong>Xin Xia</strong>, David Lo, John Grundy. "A Survey on Deep Learning for Software Engineering". In ACM Computing Surveys (CSUR). Accepted.  <a href="csur212.pdf">[PDF]</a>  <a href="appendix.pdf">[Appendix]</a>
  <br />
