@@ -20,7 +20,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
+101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse216.pdf">[PDF]</a>    <br />
 
 ### Conference Papers (Full Papers)
 
