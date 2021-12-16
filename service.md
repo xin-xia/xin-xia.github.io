@@ -14,7 +14,9 @@ permalink: /service/
 ## 2023
 <ol>
 <li>Program co-Chair  --  30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023) </li>
+<li>Program co-Chair  --  International Conference on Technical Debt 2023 (TechDebt 2023) </li>
 <li>Formal Research Demonstrations Co-Chair -- 45th International Conference on Software Engineering (ICSE 2023) </li>  
+<li>Program Committee  --  45th International Conference on Software Engineering (ICSE 2023) (SEIS track) </li>
 </ol>
 
 ## 2022
