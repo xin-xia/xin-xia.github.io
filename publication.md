@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (101)</strong>: IEEE Transactions on Software Engineering * 30, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 2.
 
-<strong>Conference Papers (131)</strong>: ICSE * 12, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (134)</strong>: ICSE * 12, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -34,6 +34,12 @@ permalink: /publication/
 
 
 128. Lingfeng Bao, <strong>Xin Xia</strong>, Ahmed E. Hassan, Xiaohu Yang.  "SZZ for Vulnerability: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Conditionally Accepted as a  Full Paper.    <br />
+
+134. Shichao Wang, Yun Zhang, Lingfeng Bao, <strong>Xin Xia</strong>,  Minghui Wu. "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Conditionally Accepted as a Full Paper.    <br />
+
+133. Menghan Wu, Yang Zhang, Jiakun Liu, Shangwen Wang, Zhang Zhang, <strong>Xin Xia</strong>, Xinjun Mao. "On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.    <br />
+
+132. Dezhen Kong, Qiuyuan Chen, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.    <br />
 
 ## 2021
 
