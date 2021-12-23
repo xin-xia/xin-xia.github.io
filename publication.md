@@ -33,7 +33,7 @@ permalink: /publication/
 129. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 
 
-128. Lingfeng Bao, <strong>Xin Xia</strong>, Ahmed E. Hassan, Xiaohu Yang.  "SZZ for Vulnerability: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
+128. Lingfeng Bao, <strong>Xin Xia</strong>, Ahmed E. Hassan, Xiaohu Yang.  "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 
 134. Shichao Wang, Yun Zhang, Lingfeng Bao, <strong>Xin Xia</strong>,  Minghui Wu. "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Conditionally Accepted as a Full Paper.    <br />
 
