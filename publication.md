@@ -20,7 +20,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-102. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Meng Yan, Shanping Li. "Just-In-Time Obsolete Comment Detection and Update".  IEEE Transactions on Software Engineering (TSE), Accepted.     <br />
+102. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Meng Yan, Shanping Li. "Just-In-Time Obsolete Comment Detection and Update".  IEEE Transactions on Software Engineering (TSE), Accepted.   <a href="tse221.pdf">[PDF]</a>      <br />
 
 101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse216.pdf">[PDF]</a>    <br />
 
