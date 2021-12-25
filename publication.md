@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (101)</strong>: IEEE Transactions on Software Engineering * 30, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 2.
+<strong>Journal Papers (102)</strong>: IEEE Transactions on Software Engineering * 31, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 16, ACM Computing Surveys * 2.
 
 <strong>Conference Papers (134)</strong>: ICSE * 12, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 ## 2022 
 
 ### Journal Papers
+
+102. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Meng Yan, Shanping Li. "Just-In-Time Obsolete Comment Detection and Update".  IEEE Transactions on Software Engineering (TSE), Accepted.     <br />
 
 101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse216.pdf">[PDF]</a>    <br />
 
