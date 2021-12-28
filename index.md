@@ -74,6 +74,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
  
 #### ACM Transactions on Software Engineering and Methodology
 
+1. Chao Ni,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang, Ahmed E. Hassan. "Just-In-Time Defect Prediction on JavaScript Projects: A Replication Study". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.       <br />
 1. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann, Denae Ford. "Accessibility in Software Practice: A Practitioner’s Perspective". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Yanming Yang,  <strong>Xin Xia</strong>, David Lo, Tingting Bi, John Grundy, Xiaohu Yang. "Predictive Models in Software Engineering: Challenges and Opportunities". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.       <br />
 1. Xing Hu, Qiuyuan Chen, Haoye Wang, <strong>Xin Xia</strong>, David Lo, Thomas Zimmermann. "Correlating Automated and Human Evaluation of Code Documentation Generation Quality". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
