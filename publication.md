@@ -20,7 +20,7 @@ permalink: /publication/
 
 ### Journal Papers
 
-103. Chao Ni,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang, Ahmed E. Hassan. "Just-In-Time Defect Prediction on JavaScript Projects: A Replication Study". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.       <br />
+103. Chao Ni,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang, Ahmed E. Hassan. "Just-In-Time Defect Prediction on JavaScript Projects: A Replication Study". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem221.pdf">[PDF]</a>     <br />
 
 102. Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Meng Yan, Shanping Li. "Just-In-Time Obsolete Comment Detection and Update".  IEEE Transactions on Software Engineering (TSE), Accepted.   <a href="tse221.pdf">[PDF]</a>      <br />
 
