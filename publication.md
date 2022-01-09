@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (103)</strong>: IEEE Transactions on Software Engineering * 31, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 17, ACM Computing Surveys * 2.
 
-<strong>Conference Papers (134)</strong>: ICSE * 12, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (132)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -29,7 +29,7 @@ permalink: /publication/
 ### Conference Papers (Full Papers)
 
 
-131. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
+132. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 
 130. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao"A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 
@@ -156,8 +156,7 @@ permalink: /publication/
 
 111. Bei Wang, Meng Yan, Zhongxin Liu, Ling Xu, <strong>Xin Xia</strong>, Xiaohong Zhang and Dan Yang. "Quality Assurance for Automated Commit Message Generation". 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021).  Accepted as a Full Paper.  <a href="saner212.pdf">[PDF]</a>  <br />
 
-
-110. Bo Yang, Zhenchang Xing,  <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye, Shanping Li. "Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.  <a href="icse213.pdf">[PDF]</a>    <br />
+ 
 
 109. Haoye Wang, <strong>Xin Xia</strong>, David Lo, John Grundy, Xinyu Wang. "Automatic Solution Summarization for Crash Bugs". 43rd ACM/IEEE International Conference on Software Engineering （ICSE 2021). Accepted as a Research Full Paper.  <a href="icse214.pdf">[PDF]</a>    <br />
 
@@ -179,9 +178,7 @@ permalink: /publication/
 
 120. Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Yuan-Fang Li. "Code2Que: A Tool for Improving Question Titles from Mined Code Snippets in Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021).  Accepted as a tool demo paper.    <a href="fse215.pdf">[PDF]</a>   <br />
 
-
-115. Bo Yang, Zhenchang Xing, <strong>Xin Xia</strong>, Chunyang Chen, Deheng Ye,  Shanping Li. "UIS-Hunter: Detecting UI Design Smells in Android Apps". 43rd International Conference on Software Engineering (ICSE 2021).  Accepted as a tool demo paper.   <a href="icse217.pdf">[PDF]</a>  <br />
-
+ 
 
 ### Papers in Chinese 
 
