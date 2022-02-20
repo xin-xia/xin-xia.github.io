@@ -39,6 +39,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### IEEE Transactions on Software Engineering
+1. Neng Zhang, Ying Zou, <strong>Xin Xia</strong>, Qiao Huang, David Lo, Shanping Li. "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey". IEEE Transactions on Software Engineering (TSE), Accepted.        <br />
 1.  Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Meng Yan, Shanping Li. "Just-In-Time Obsolete Comment Detection and Update".  IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
 1. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
 1. Bowen Xu, Thong Hoang, Abhishek Sharma, Chengran Yang, <strong>Xin Xia</strong>, David Lo. "Post2Vec: Learning Distributed Representations of Stack Overflow Posts". IEEE Transactions on Software Engineering (TSE), Accepted.    <br />
