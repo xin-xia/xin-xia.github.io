@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (103)</strong>: IEEE Transactions on Software Engineering * 31, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 17, ACM Computing Surveys * 2.
+<strong>Journal Papers (104)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 17, ACM Computing Surveys * 2.
 
 <strong>Conference Papers (133)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,10 @@ permalink: /publication/
 ## 2022 
 
 ### Journal Papers
+
+104. Neng Zhang, Ying Zou, <strong>Xin Xia</strong>, Qiao Huang, David Lo, Shanping Li. "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey". IEEE Transactions on Software Engineering (TSE), Accepted.        <br />
+
+
 
 103. Chao Ni,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang, Ahmed E. Hassan. "Just-In-Time Defect Prediction on JavaScript Projects: A Replication Study". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem221.pdf">[PDF]</a>     <br />
 

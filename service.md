@@ -22,11 +22,13 @@ permalink: /service/
 ## 2022
 <ol>
 <li>Data/Tool Showcase co-Chair  --  19th International Conference on Mining Software Repositories (MSR 2022) </li>
-<li>Tool  co-Chair  --  International Conference on Technical Debt 2022 (TechDebt 2022) </li>
+<li>Tools Track  co-Chair  --  International Conference on Technical Debt 2022 (TechDebt 2022) </li>
+<li>Industry Track  co-Chair  --  33rd  IEEE International Symposium on Software Reliability  Engineering (ISSRE 2022)    </li>
 <li>Program Committee  --   37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022)</li>
 <li>Program Committee  --  44th International Conference on Software Engineering (ICSE 2022) (SEIP track, NIER track) </li>
 <li>Program Committee  --  29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) </li>
 <li>Program Committee  --  30th International Conference on Program Comprehension (ICPC 20212  </li> 
+<li>Program Committee -- 38th International Conference on Software Maintenance and Evolution (ICSME 2022) </li>
 <li>Program Committee  --  26th AAAI Conference on Artificial Intelligence (AAAI 2022) </li>
 <li>Program Committee  --  19th Working Conference on Mining Software Repositories (MSR 2022) </li>
 
@@ -36,6 +38,10 @@ permalink: /service/
 ## 2021
 <ol>
 <li>Program co-Chair  --  International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2021) </li>
+<li>Workshop co-Chair  --  36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)</li>
+<li>Workshop co-Chair  --  28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021) </li>
+<li>Workshop co-Chair  --  36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)</li>
+<li>New Faculty Symposium Track co-Chair  --   32nd IEEE International Symposium on Software Reliability  Engineering (ISSRE 2022)    </li>
 <li>Program Committee  --  29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021) </li>
 <li>Program Committee  --  43rd International Conference on Software Engineering (ICSE 2021) </li>
 <li>Program Committee -- 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)</li>
@@ -44,8 +50,7 @@ permalink: /service/
 <li>Program Committee -- 37th International Conference on Software Maintenance and Evolution (ICSME 2021) </li>
 <li>Program Committee -- 37th International Conference on Software Maintenance and Evolution (ICSME 2021 Journal First Track) </li>
 <li>Program Committee  -- 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021 Visions and Reflections Track) </li>
-<li>Workshop co-Chair  --  36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)</li>
-<li>Workshop co-Chair  --  28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021) </li>
+
 </ol>
 
 ## 2020
