@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (104)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 20,  ACM Transactions on Software Engineering and Methodology * 17, ACM Computing Surveys * 2.
+<strong>Journal Papers (105)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 17, ACM Computing Surveys * 2.
 
 <strong>Conference Papers (133)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 ## 2022 
 
 ### Journal Papers
+
+105. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "A Unified Multi-task Learning Model for AST-level and Token-level Code Completion".  Empirical Software Engineering (EMSE). Accepted.  <br />
 
 104. Neng Zhang, Ying Zou, <strong>Xin Xia</strong>, Qiao Huang, David Lo, Shanping Li. "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey". IEEE Transactions on Software Engineering (TSE), Accepted.        <br />
 
