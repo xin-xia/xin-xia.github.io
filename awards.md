@@ -4,6 +4,8 @@ title: Awards
 permalink: /awards/
 ---
 
+19. 18. <strong>ACM SIGSOFT Early Career Researcher Award</strong>,  ACM SIGSOFT, March, 2022 <br />  
+
 18. <strong>ACM SIGSOFT Distinguished Paper Award</strong>,  36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021), November 2021 <br />  
 
 17. <strong>Rising Star (Top 40 Young Researchers) in Australia</strong> (one of the five recipients in the Engineering & Computer Science area) by The Australian. Source: https://specialreports.theaustralian.com.au/1540291/27/. September 2020  <br />
