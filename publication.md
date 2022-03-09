@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (106)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 18, ACM Computing Surveys * 2.
 
-<strong>Conference Papers (133)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (134)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -35,6 +35,8 @@ permalink: /publication/
 101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse216.pdf">[PDF]</a>    <br />
 
 ### Conference Papers (Full Papers)
+
+134. Chenning Tao, Qi Zhan, Xing Hu, <strong>Xin Xia</strong>. "C4: Contrastive Cross-Language Code Clone Detection". 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022). Accepted as a  Full Paper.    <br />
 
 133. Qiuyuan Chen, Dezhen Kong, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Accepted as a SEIP Track Full Paper.  <br />
 
