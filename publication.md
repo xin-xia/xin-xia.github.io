@@ -53,7 +53,7 @@ permalink: /publication/
 
 134. Shichao Wang, Yun Zhang, Lingfeng Bao, <strong>Xin Xia</strong>,  Minghui Wu. "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Conditionally Accepted as a Full Paper.    <br />
 
-133. Menghan Wu, Yang Zhang, Jiakun Liu, Shangwen Wang, Zhang Zhang, <strong>Xin Xia</strong>, Xinjun Mao. "On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.    <br />
+133. Menghan Wu, Yang Zhang, Jiakun Liu, Shangwen Wang, Zhang Zhang, <strong>Xin Xia</strong>, Xinjun Mao. "On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.    (<strong>IEEE Computer Society TCSE  Distinguished Paper Award</strong>)  <br />
 
 132. Dezhen Kong, Qiuyuan Chen, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.    <br />
 
