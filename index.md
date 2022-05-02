@@ -91,6 +91,10 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 1. Lingfeng Bao, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Minghui Wu, Xiaohu Yang. "psc2code: Denoising Code Extraction from Programming Screencasts". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
 1. Jieshan Chen, Chunyang Chen, Zhenchang Xing, <strong>Xin Xia</strong>, Liming Zhu, John Grundy, Jinshui Wang. "Wireframe-Based UI Design Search Through Image Autoencoder". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
  1. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xinyu Wang, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). 46 pages, 2019. Accepted.  <br />
+ 
+ #### IEEEE Transactions on Dependable and Secure Computing 
+1. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.   <br />
+
 
 ### Top Conference Papers
 

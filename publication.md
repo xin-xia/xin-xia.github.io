@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (107)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 18, ACM Computing Surveys * 2.
+<strong>Journal Papers (108)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 18, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
 
 <strong>Conference Papers (134)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 ## 2022 
 
 ### Journal Papers
+
+108. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.   <br />
 
 107. Ye Wang, Junwu Chen,  Qiao Huang, <strong>Xin Xia</strong>, Bo Jiang. "Deep Learning-based Open API Recommendation for Mashup Development". In Science China Information Sciences (SCIS). Accepted.   <br />
 
