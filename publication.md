@@ -28,7 +28,7 @@ permalink: /publication/
 
 106. Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, <strong>Xin Xia</strong>, Michael R.Lyu. "Code Structure Guided Transformer for Source Code Summarization". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
 
-105. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "A Unified Multi-task Learning Model for AST-level and Token-level Code Completion".  Empirical Software Engineering (EMSE). Accepted.  <br />
+105. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "A Unified Multi-task Learning Model for AST-level and Token-level Code Completion".  Empirical Software Engineering (EMSE). Accepted. <a href="emse221.pdf">[PDF]</a>      <br />     <br />
 
 104. Neng Zhang, Ying Zou, <strong>Xin Xia</strong>, Qiao Huang, David Lo, Shanping Li. "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey". IEEE Transactions on Software Engineering (TSE), Accepted.     <a href="tse222.pdf">[PDF]</a>      <br />     <br />
 
@@ -44,7 +44,7 @@ permalink: /publication/
 
 134. Chenning Tao, Qi Zhan, Xing Hu, <strong>Xin Xia</strong>. "C4: Contrastive Cross-Language Code Clone Detection". 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022). Accepted as a  Full Paper.    <br />
 
-133. Qiuyuan Chen, Dezhen Kong, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Accepted as a SEIP Track Full Paper.  <br />
+133. Qiuyuan Chen, Dezhen Kong, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Accepted as a SEIP Track Full Paper. <a href="icse222.pdf">[PDF]</a>  <br />
 
 
 132. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
@@ -55,13 +55,13 @@ permalink: /publication/
 129. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 
 
-128. Lingfeng Bao, <strong>Xin Xia</strong>, Ahmed E. Hassan, Xiaohu Yang.  "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
+128. Lingfeng Bao, <strong>Xin Xia</strong>, Ahmed E. Hassan, Xiaohu Yang.  "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper. <a href="icse221.pdf">[PDF]</a>    <br />
 
-134. Shichao Wang, Yun Zhang, Lingfeng Bao, <strong>Xin Xia</strong>,  Minghui Wu. "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Conditionally Accepted as a Full Paper.    <br />
+134. Shichao Wang, Yun Zhang, Lingfeng Bao, <strong>Xin Xia</strong>,  Minghui Wu. "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).   Accepted as a Full Paper.  <a href="saner222.pdf">[PDF]</a>   <br />
 
-133. Menghan Wu, Yang Zhang, Jiakun Liu, Shangwen Wang, Zhang Zhang, <strong>Xin Xia</strong>, Xinjun Mao. "On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.    (<strong>IEEE Computer Society TCSE  Distinguished Paper Award</strong>)  <br />
+133. Menghan Wu, Yang Zhang, Jiakun Liu, Shangwen Wang, Zhang Zhang, <strong>Xin Xia</strong>, Xinjun Mao. "On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.   <a href="saner223.pdf">[PDF]</a>   <br />  (<strong>IEEE Computer Society TCSE  Distinguished Paper Award</strong>)  <br />
 
-132. Dezhen Kong, Qiuyuan Chen, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.    <br />
+132. Dezhen Kong, Qiuyuan Chen, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper. <a href="saner221.pdf">[PDF]</a>    <br />
 
 ## 2021
 
