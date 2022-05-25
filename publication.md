@@ -26,11 +26,11 @@ permalink: /publication/
 
 
 
-106. Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, <strong>Xin Xia</strong>, Michael R.Lyu. "Code Structure Guided Transformer for Source Code Summarization". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
+106. Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, <strong>Xin Xia</strong>, Michael R.Lyu. "Code Structure Guided Transformer for Source Code Summarization". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted. <a href="tosem222.pdf">[PDF]</a>      <br />      
 
-105. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "A Unified Multi-task Learning Model for AST-level and Token-level Code Completion".  Empirical Software Engineering (EMSE). Accepted. <a href="emse221.pdf">[PDF]</a>      <br />     <br />
+105. Fang Liu, Ge Li, Bolin Wei, <strong>Xin Xia</strong>, Zhiyi Fu, Zhi Jin. "A Unified Multi-task Learning Model for AST-level and Token-level Code Completion".  Empirical Software Engineering (EMSE). Accepted. <a href="emse221.pdf">[PDF]</a>      <br />     
 
-104. Neng Zhang, Ying Zou, <strong>Xin Xia</strong>, Qiao Huang, David Lo, Shanping Li. "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey". IEEE Transactions on Software Engineering (TSE), Accepted.     <a href="tse222.pdf">[PDF]</a>      <br />     <br />
+104. Neng Zhang, Ying Zou, <strong>Xin Xia</strong>, Qiao Huang, David Lo, Shanping Li. "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey". IEEE Transactions on Software Engineering (TSE), Accepted.     <a href="tse222.pdf">[PDF]</a>      <br />     
 
 
 
