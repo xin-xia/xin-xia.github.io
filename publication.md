@@ -49,7 +49,7 @@ permalink: /publication/
 
 132. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.  <a href="icse224.pdf">[PDF]</a>  <br />  <br />
 
-130. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao"A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.   <a href="icse223.pdf">[PDF]</a>    <br />  <br />
+130. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao. "A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.   <a href="icse223.pdf">[PDF]</a>    <br />  <br />
 
 
 129. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.  <a href="icse225.pdf">[PDF]</a>  <br />  <br />   <br />
@@ -83,7 +83,7 @@ permalink: /publication/
 
 95. Mojtaba Shahin, Chris Gonsalvez, Jon Whittle, Chunyang Chen, Li Li, <strong>Xin Xia</strong>. "How Secondary School Girls Perceive Computational Thinking Practices through Collaborative Programming with the Micro:bit". In Journal of Systems and Software (JSS). Accepted.      <br />
 
-94. Tingming Wu, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "Analysis of Trending Topics and Text-based Channels of Information Delivery in Cybersecurity". In  ACM Transactions on Information Technology (TOIT). Accepted.       <br />
+94. Tingming Wu, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "Analysis of Trending Topics and Text-based Channels of Information Delivery in Cybersecurity". In  ACM Transactions on Information Technology (TOIT). Accepted.        <a href="toit211.pdf">[PDF]</a>   <br />
 
 
 93. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy. "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem216.pdf">[PDF]</a>   <br />
