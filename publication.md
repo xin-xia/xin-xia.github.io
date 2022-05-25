@@ -42,17 +42,17 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-134. Chenning Tao, Qi Zhan, Xing Hu, <strong>Xin Xia</strong>. "C4: Contrastive Cross-Language Code Clone Detection". 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022). Accepted as a  Full Paper.    <br />
+134. Chenning Tao, Qi Zhan, Xing Hu, <strong>Xin Xia</strong>. "C4: Contrastive Cross-Language Code Clone Detection". 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022). Accepted as a  Full Paper.  <a href="icpc221.pdf">[PDF]</a>  <br />  <br />
 
 133. Qiuyuan Chen, Dezhen Kong, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022). Accepted as a SEIP Track Full Paper. <a href="icse222.pdf">[PDF]</a>  <br />
 
 
-132. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
+132. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.  <a href="icse224.pdf">[PDF]</a>  <br />  <br />
 
-130. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao"A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
+130. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao"A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.   <a href="icse223.pdf">[PDF]</a>    <br />  <br />
 
 
-129. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
+129. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.  <a href="icse225.pdf">[PDF]</a>  <br />  <br />   <br />
 
 
 128. Lingfeng Bao, <strong>Xin Xia</strong>, Ahmed E. Hassan, Xiaohu Yang.  "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper. <a href="icse221.pdf">[PDF]</a>    <br />
