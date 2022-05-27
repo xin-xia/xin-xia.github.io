@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (108)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 18, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
+<strong>Journal Papers (109)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 19, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
 
 <strong>Conference Papers (134)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -20,7 +20,9 @@ permalink: /publication/
 
 ### Journal Papers
 
-108. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.   <br />
+109. Chen Zeng, Yue Yu, Shanshan Li, <strong>Xin Xia</strong>, Zhiming Wang, Mingyang Geng, Linxiao Bai, Wei Dong, and Xiangke Liao. "deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.  <a href="tosem223.pdf">[PDF]</a>   <br />
+
+108. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.  <a href="tdsc221.pdf">[PDF]</a>   <br />
 
 107. Ye Wang, Junwu Chen,  Qiao Huang, <strong>Xin Xia</strong>, Bo Jiang. "Deep Learning-based Open API Recommendation for Mashup Development". In Science China Information Sciences (SCIS). Accepted.   <br />
 
@@ -78,10 +80,10 @@ permalink: /publication/
 97. Xing Hu, Qiuyuan Chen, Haoye Wang, <strong>Xin Xia</strong>, David Lo, Thomas Zimmermann. "Correlating Automated and Human Evaluation of Code Documentation Generation Quality". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem218.pdf">[PDF]</a>    <br />
 
 
-96. Cuiyun Gao, Jichuan Zeng, David Lo, <strong>Xin Xia</strong>, Irwin King, Michael R.Lyu. "Understanding in-app advertising issues based on large scale app review analysis". In Information and Software Technology (IST). Accepted.      <br />
+96. Cuiyun Gao, Jichuan Zeng, David Lo, <strong>Xin Xia</strong>, Irwin King, Michael R.Lyu. "Understanding in-app advertising issues based on large scale app review analysis". In Information and Software Technology (IST). Accepted.  <a href="ist211.pdf">[PDF]</a>      <br />
 
 
-95. Mojtaba Shahin, Chris Gonsalvez, Jon Whittle, Chunyang Chen, Li Li, <strong>Xin Xia</strong>. "How Secondary School Girls Perceive Computational Thinking Practices through Collaborative Programming with the Micro:bit". In Journal of Systems and Software (JSS). Accepted.      <br />
+95. Mojtaba Shahin, Chris Gonsalvez, Jon Whittle, Chunyang Chen, Li Li, <strong>Xin Xia</strong>. "How Secondary School Girls Perceive Computational Thinking Practices through Collaborative Programming with the Micro:bit". In Journal of Systems and Software (JSS). Accepted.   <a href="emse212.pdf">[PDF]</a>     <br />
 
 94. Tingming Wu, Wanlun Ma, Sheng Wen, <strong>Xin Xia</strong>, Cecile Paris, Surya Nepal, Yang Xiang. "Analysis of Trending Topics and Text-based Channels of Information Delivery in Cybersecurity". In  ACM Transactions on Information Technology (TOIT). Accepted.        <a href="toit211.pdf">[PDF]</a>   <br />
 

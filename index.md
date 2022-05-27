@@ -73,6 +73,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Chen Zeng, Yue Yu, Shanshan Li, <strong>Xin Xia</strong>, Zhiming Wang, Mingyang Geng, Linxiao Bai, Wei Dong, and Xiangke Liao. "deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
 1. Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, <strong>Xin Xia</strong>, Michael R.Lyu. "Code Structure Guided Transformer for Source Code Summarization". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
 1. Chao Ni,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang, Ahmed E. Hassan. "Just-In-Time Defect Prediction on JavaScript Projects: A Replication Study". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.       <br />
 1. Tingting Bi, <strong>Xin Xia</strong>, David Lo, John Grundy, Thomas Zimmermann, Denae Ford. "Accessibility in Software Practice: A Practitioner’s Perspective". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
