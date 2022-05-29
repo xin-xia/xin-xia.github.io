@@ -91,7 +91,7 @@ permalink: /publication/
 93. Jiachi Chen, <strong>Xin Xia</strong>, David Lo, John Grundy. "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <a href="tosem216.pdf">[PDF]</a>   <br />
 
 
-92. Ying Wei, Xiaobing Sun, Lili Bo, Sicong Cao, <strong>Xin Xia</strong>, Bin Li. "A Comprehensive Study on Security Bug Characteristics". In Journal of Software: Evolution and Process (JSEP). Accepted. <br />
+92. Ying Wei, Xiaobing Sun, Lili Bo, Sicong Cao, <strong>Xin Xia</strong>, Bin Li. "A Comprehensive Study on Security Bug Characteristics". In Journal of Software: Evolution and Process (JSEP). Accepted.   <a href="jsep211.pdf">[PDF]</a>  <br />
 
 
 91. Chao Liu, Cuiyun Gao, <strong>Xin Xia</strong>, David Lo, John Grundy, Xiaohu Yang. "On the Reproducibility and Replicability of Deep Learning in Software Engineering". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <a href="tosem215.pdf">[PDF]</a> <br />
