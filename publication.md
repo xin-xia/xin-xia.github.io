@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (109)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 19, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
+<strong>Journal Papers (110)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 20, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
 
-<strong>Conference Papers (134)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (135)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -19,6 +19,9 @@ permalink: /publication/
 ## 2022 
 
 ### Journal Papers
+
+110. Filipe R. Cogo,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "Assessing the alignment between the information needs of developers and the documentation of programming languages: A case study on Rust". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <br />
+
 
 109. Chen Zeng, Yue Yu, Shanshan Li, <strong>Xin Xia</strong>, Zhiming Wang, Mingyang Geng, Linxiao Bai, Wei Dong, and Xiangke Liao. "deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.  <a href="tosem223.pdf">[PDF]</a>   <br />
 
@@ -43,6 +46,8 @@ permalink: /publication/
 101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse216.pdf">[PDF]</a>    <br />
 
 ### Conference Papers (Full Papers)
+
+135. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan,  <strong>Xin Xia</strong>, Xiaohong Zhang. "Improving Fault Localization Using Model-domain Synthesized Failing Test Generation". 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022).  Accepted as a Full Paper.     <br />
 
 134. Chenning Tao, Qi Zhan, Xing Hu, <strong>Xin Xia</strong>. "C4: Contrastive Cross-Language Code Clone Detection". 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022). Accepted as a  Full Paper.  <a href="icpc221.pdf">[PDF]</a>  <br />  <br />
 
