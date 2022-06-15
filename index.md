@@ -94,7 +94,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 1. Jieshan Chen, Chunyang Chen, Zhenchang Xing, <strong>Xin Xia</strong>, Liming Zhu, John Grundy, Jinshui Wang. "Wireframe-Based UI Design Search Through Image Autoencoder". In  ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
  1. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xinyu Wang, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). 46 pages, 2019. Accepted.  <br />
  
-#### IEEEE Transactions on Dependable and Secure Computing 
+#### IEEE Transactions on Dependable and Secure Computing 
 1. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.   <br />
 
 
@@ -115,7 +115,17 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 1. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  (<strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
 #### ESEC/FSE
+1. Chao Ni, Wei Wang, Kaiwen Yang, <strong>Xin Xia</strong>, Kui Liu, David Lo. "The Best of Both Worlds: Integrating Semantic Features with Expert Features for Defect Prediction and Localization". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
 
+1. Shengyi Pan, Jiayuan Zhou, Filipe R. Cogo,  <strong>Xin Xia</strong>, Lingfeng Bao, Xing Hu, Shanping Li, Ahmed E. Hassan. "Automated Unearthing of Dangerous Issue Reports".  The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+1. Zhiyuan Wan, <strong>Xin Xia</strong>, Yun Zhang, David Lo, Daibing Zhou, Qiuyuan Chen, Ahmed. E. Hassan. "What Motivates Software Practitioners to Contribute to Inner Source?". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+1.  Lin Shi, Fangwen Mu, Xiao Chen, Song Wang, Junjie Chen, Ye Yang, Ge Li, <strong>Xin Xia</strong>, Qing Wang. "Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+1. Zejun Zhang, Zhengchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu. "Making Python Code Idiomatic by Automatic Refactoring Non-Idiomatic Python Code with Pythonic Idioms".  The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+1. Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, Tao Zhang,  <strong>Xin Xia</strong>, Yuhai Zhao, Bowen Xu. "How to Better Utilize Code Graphs in Semantic Code Search?". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
 1. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Tom Zimmermann. "Automating the Removal of Obsolete TODO Comments". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
 1. Jiakun Liu, Sebastian Baltes, Christoph Treude, David Lo, Yun Zhang, <strong>Xin Xia</strong>. "Characterizing Search Activities on Stack Overflow". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 
 1. Bo Li, Qiang He, Feifei Chen, <strong>Xin Xia</strong>, Li Li, John Grundy, Yun Yang. "Embedding App-Library Graph for Neural Third Party Library Recommendation". The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Accepted as a Research Full paper.  <br /> 

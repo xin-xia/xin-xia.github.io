@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (110)</strong>: IEEE Transactions on Software Engineering * 32, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 20, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
 
-<strong>Conference Papers (135)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 3, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (141)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -25,7 +25,7 @@ permalink: /publication/
 
 109. Chen Zeng, Yue Yu, Shanshan Li, <strong>Xin Xia</strong>, Zhiming Wang, Mingyang Geng, Linxiao Bai, Wei Dong, and Xiangke Liao. "deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.  <a href="tosem223.pdf">[PDF]</a>   <br />
 
-108. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.  <a href="tdsc221.pdf">[PDF]</a>   <br />
+108. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.  <a href="tdsc221.pdf">[PDF]</a>   <br />
 
 107. Ye Wang, Junwu Chen,  Qiao Huang, <strong>Xin Xia</strong>, Bo Jiang. "Deep Learning-based Open API Recommendation for Mashup Development". In Science China Information Sciences (SCIS). Accepted.   <br />
 
@@ -46,6 +46,18 @@ permalink: /publication/
 101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse216.pdf">[PDF]</a>    <br />
 
 ### Conference Papers (Full Papers)
+
+141. Chao Ni, Wei Wang, Kaiwen Yang, <strong>Xin Xia</strong>, Kui Liu, David Lo. "The Best of Both Worlds: Integrating Semantic Features with Expert Features for Defect Prediction and Localization". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+140. Shengyi Pan, Jiayuan Zhou, Filipe R. Cogo,  <strong>Xin Xia</strong>, Lingfeng Bao, Xing Hu, Shanping Li, Ahmed E. Hassan. "Automated Unearthing of Dangerous Issue Reports".  The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+139. Zhiyuan Wan, <strong>Xin Xia</strong>, Yun Zhang, David Lo, Daibing Zhou, Qiuyuan Chen, Ahmed. E. Hassan. "What Motivates Software Practitioners to Contribute to Inner Source?". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+138.  Lin Shi, Fangwen Mu, Xiao Chen, Song Wang, Junjie Chen, Ye Yang, Ge Li, <strong>Xin Xia</strong>, Qing Wang. "Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+137. Zejun Zhang, Zhengchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu. "Making Python Code Idiomatic by Automatic Refactoring Non-Idiomatic Python Code with Pythonic Idioms".  The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
+
+136. Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, Tao Zhang,  <strong>Xin Xia</strong>, Yuhai Zhao, Bowen Xu. "How to Better Utilize Code Graphs in Semantic Code Search?". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
 
 135. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan,  <strong>Xin Xia</strong>, Xiaohong Zhang. "Improving Fault Localization Using Model-domain Synthesized Failing Test Generation". 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022).  Accepted as a Full Paper.     <br />
 
