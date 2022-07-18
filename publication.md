@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (111)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 20, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
+<strong>Journal Papers (111)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
 
 <strong>Conference Papers (141)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 ## 2022 
 
 ### Journal Papers
+
+112. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Xindong Zhang, Zhenchang Xing. "I Know What You Are Searching For: Code Snippet Recommendation from Stack Overflow Posts". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.  <a href="tosem224.pdf">[PDF]</a>   <br />
 
 111. Bo Lin, Shangwen Wang, Zhongxin Liu, <strong>Xin Xia</strong>,   Xiaoguang Mao. "Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
