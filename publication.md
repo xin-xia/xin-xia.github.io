@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (111)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
+<strong>Journal Papers (112)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
 
 <strong>Conference Papers (141)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
