@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (112)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 21,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
+<strong>Journal Papers (113)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
 
-<strong>Conference Papers (141)</strong>: ICSE * 11, ASE * 17, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (143)</strong>: ICSE * 11, ASE * 19, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -19,6 +19,8 @@ permalink: /publication/
 ## 2022 
 
 ### Journal Papers
+
+113. Ying Fu, Meng Yan, Zhou Xu, <strong>Xin Xia</strong>, Xiaohong Zhang, Dan Yang.  "An Empirical Study of the Impact of Log Parsers on the Performance of Log-based Anomaly Detection".  Empirical Software Engineering (EMSE). Accepted.     <br /> 
 
 112. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Xindong Zhang, Zhenchang Xing. "I Know What You Are Searching For: Code Snippet Recommendation from Stack Overflow Posts". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.  <a href="tosem224.pdf">[PDF]</a>   <br />
 
@@ -50,6 +52,10 @@ permalink: /publication/
 101. Fangcheng Qiu, Zhipeng Gao, <strong>Xin Xia</strong>, David Lo, John Grundy,  Xinyu Wang. "Deep Just-In-Time Defect Localization". IEEE Transactions on Software Engineering (TSE), Accepted. <a href="tse216.pdf">[PDF]</a>    <br />
 
 ### Conference Papers (Full Papers)
+
+143. Yanqi Su, Zheming Han, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Constructing a System Knowledge Graph of User Tasks and Failures from Bug Reports to Support Soap Opera Testing".  37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022):   Accepted as a Full Paper.    <br />
+
+142. Haoye Tian, Xunzhu Tang, Andrew Habib, Shangwen Wang, Kui Liu,  <strong>Xin Xia</strong>, Jacques Klein, Tegawendé F. Bissyandé. "Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness". 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022):   Accepted as a Full Paper.    <br />
 
 141. Chao Ni, Wei Wang, Kaiwen Yang, <strong>Xin Xia</strong>, Kui Liu, David Lo. "The Best of Both Worlds: Integrating Semantic Features with Expert Features for Defect Prediction and Localization". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
 

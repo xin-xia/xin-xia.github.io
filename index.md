@@ -135,7 +135,8 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 #### ASE
 
-
+1. Yanqi Su, Zheming Han, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Constructing a System Knowledge Graph of User Tasks and Failures from Bug Reports to Support Soap Opera Testing".  37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022):   Accepted as a Full Paper.    <br />
+1. Haoye Tian, Xunzhu Tang, Andrew Habib, Shangwen Wang, Kui Liu,  <strong>Xin Xia</strong>, Jacques Klein, Tegawendé F. Bissyandé. "Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness". 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022):   Accepted as a Full Paper.    <br />
 1. Xing Hu, Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Automating User Notice Generation for Smart Contract Functions". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
 1. Jiayuan Zhou, Michael Pacheco, Zhiyuan Wan, <strong>Xin Xia</strong>, David Lo, Yuan Wang, Ahmed E. Hassan. "Finding A Needle in a Haystack: Automatic Mining of Silent Vulnerability Fixes". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
 1. Shengyi Pan, Lingfeng Bao, Xiaoxue Ren,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Automating Developer Chat Mining". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
