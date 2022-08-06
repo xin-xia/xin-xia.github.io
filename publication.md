@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (2) </strong> 
 
-<strong>Papers in Chinese (11)</strong>: 软件学报 * 9, 计算机研究与发展 * 2
+<strong>Papers in Chinese (12)</strong>: 软件学报 * 10, 计算机研究与发展 * 2
 
 
 
@@ -91,6 +91,11 @@ permalink: /publication/
 133. Menghan Wu, Yang Zhang, Jiakun Liu, Shangwen Wang, Zhang Zhang, <strong>Xin Xia</strong>, Xinjun Mao. "On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper.   <a href="saner223.pdf">[PDF]</a>   <br />  (<strong>IEEE Computer Society TCSE  Distinguished Paper Award</strong>)  <br />
 
 132. Dezhen Kong, Qiuyuan Chen, Lingfeng Bao, Chenxing Sun, <strong>Xin Xia</strong>, Shanping Li. "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study". 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).  Accepted as a Full Paper. <a href="saner221.pdf">[PDF]</a>    <br />
+
+### Papers in Chinese 
+
+1. 刘忠鑫,  唐郅杰,  <strong>夏鑫</strong>， 李善平. "代码变更表示学习及其应用研究进展". 软件学报， 2022， 已录用   <br />
+ 
 
 ## 2021
 

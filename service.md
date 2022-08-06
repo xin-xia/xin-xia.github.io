@@ -15,8 +15,9 @@ permalink: /service/
 <ol>
 <li>Program co-Chair  --  30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023) </li>
 <li>Program co-Chair  --  International Conference on Technical Debt 2023 (TechDebt 2023) </li>
-<li>Formal Research Demonstrations Co-Chair -- 45th International Conference on Software Engineering (ICSE 2023) </li>  
-<li>Program Committee  --  45th International Conference on Software Engineering (ICSE 2023) (SEIS track) </li>
+<li>Formal Research Demonstrations co-Chair -- 45th International Conference on Software Engineering (ICSE 2023) </li>  
+<li>Program Committee  --  31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023) </li>
+<li>Program Committee  --  45th International Conference on Software Engineering (ICSE 2023) (SEIS track, SEIP track) </li>
 </ol>
 
 ## 2022
@@ -27,7 +28,8 @@ permalink: /service/
 <li>Program Committee  --   37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022)</li>
 <li>Program Committee  --  44th International Conference on Software Engineering (ICSE 2022) (SEIP track, NIER track) </li>
 <li>Program Committee  --  29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) </li>
-<li>Program Committee  --  30th International Conference on Program Comprehension (ICPC 20212  </li> 
+<li>Program Committee  --  30th International Conference on Program Comprehension (ICPC 2022)  </li> 
+<li>Program Committee  --  30tht ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022 Industry Track) </li>
 <li>Program Committee -- 38th International Conference on Software Maintenance and Evolution (ICSME 2022) </li>
 <li>Program Committee  --  26th AAAI Conference on Artificial Intelligence (AAAI 2022) </li>
 <li>Program Committee  --  19th Working Conference on Mining Software Repositories (MSR 2022) </li>
