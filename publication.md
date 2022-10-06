@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (113)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
+<strong>Journal Papers (114)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1.
 
 <strong>Conference Papers (144)</strong>: ICSE * 11, ASE * 19, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -19,6 +19,8 @@ permalink: /publication/
 ## 2022 
 
 ### Journal Papers
+
+114. Qing Huang, Zhiqiang Yuan, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. "1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application". IEEE Transactions on Services Computing (TSC). Accepted. <br />
 
 113. Ying Fu, Meng Yan, Zhou Xu, <strong>Xin Xia</strong>, Xiaohong Zhang, Dan Yang.  "An Empirical Study of the Impact of Log Parsers on the Performance of Log-based Anomaly Detection".  Empirical Software Engineering (EMSE). Accepted.     <br /> 
 

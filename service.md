@@ -10,6 +10,14 @@ permalink: /service/
 <li>Editorial Board Member  --   Empirical Software Engineering 2021 --  </li>
 </ol>
 
+## 2024
+<ol>
+<li>Software Engineering in Society (SEIS) co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
+<li>Program Committee  --  46th International Conference on Software Engineering (ICSE 2024)   </li>
+
+</ol>
+
+
 
 ## 2023
 <ol>
@@ -18,6 +26,7 @@ permalink: /service/
 <li>Formal Research Demonstrations co-Chair -- 45th International Conference on Software Engineering (ICSE 2023) </li>  
 <li>Program Committee  --  31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023) </li>
 <li>Program Committee  --  45th International Conference on Software Engineering (ICSE 2023) (SEIS track, SEIP track) </li>
+<li>Program Committee  --  31st nternational Conference on Program Comprehension (ICPC 2023)  </li> 
 </ol>
 
 ## 2022
