@@ -99,10 +99,29 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 #### IEEE Transactions on Dependable and Secure Computing 
 1. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.   <br />
 
+#### IEEE Transactions on Services Computing
+1. Qing Huang, Zhiqiang Yuan, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. "1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application". IEEE Transactions on Services Computing (TSC). Accepted. <br />
+
+
+#### Science China Information Sciences 
+
+1.  Ye Wang, Junwu Chen,  Qiao Huang, <strong>Xin Xia</strong>, Bo Jiang. "Deep Learning-based Open API Recommendation for Mashup Development". In Science China Information Sciences (SCIS). Accepted.   <br />
+1.  Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.     <br />
+1. Jiajun Jiang, Yingfei Xiong,  <strong>Xin Xia</strong>. "A manual inspection of Defects4J bugs and its implications for automatic program repair".  In SCIENCE CHINA Information Sciences (SCIS). Accepted.  <br />
+1. Meng Yan, <strong>Xin Xia</strong>, Xiaohong Zhang, Ling Xu, Dan Yang, Shanping Li. "Software Quality Assessment Model: A Systematic Mapping Study".  In SCIENCE CHINA Information Sciences (SCIS). Accepted.  <br />
+1. Xiaobing Sun, Wenyuan Xu,   <strong>Xin Xia</strong>, Xiang Chen, Bin Li. "Personalized Project Recommendation on GitHub". In SCIENCE CHINA Information Sciences (SCIS). Accepted. <br />
+1. Lingfeng Bao, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Automated Android App Permission Recommendation". In SCIENCE CHINA Information Sciences (SCIS). Accepted.    <br />
+ 
 
 ### Top Conference Papers
 
 #### ICSE
+1. Zejun Zhang, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+1.  Shengyi Pan, Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Fine-grained Commit-level Vulnerability Type Prediction By CWE Tree Structure". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+1. Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>, Deheng Ye, Xiwei Xu, Liming Zhu. "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+1. Sen Fang, Tao Zhang, Youshuai Tan, He Jiang, <strong>Xin Xia</strong>, Xiaobing Sun.  "RepresentThemAll: A Universal Learning Representation of Bug Reports". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+1. Zhongxin Liu, Zhijie Tang, <strong>Xin Xia</strong>, Xiaohu Yang. "CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+1. Jiayuan Zhou, Michael Pacheco, Jinfu Chen, Xing Hu, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. " CoLeFunDa: Explainable Silent Vulnerability Fix Identification". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 1. Xing Hu,  <strong>Xin Xia</strong>, David Lo, Zhiyuan Wan, Qiuyuan Chen, Tom Zimmermann. "Practitioners’ Expectations on Automated Code Comment Generation". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 1. Huan Xie, Yan Lei, Meng Yan, Yue Yu, <strong>Xin Xia</strong>, Xiaoguang Mao"A Universal Data Augmentation Approach for Fault Localization". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
 1. Neng Zhang, Chao Liu, <strong>Xin Xia</strong>, Christoph Treude, Ying Zou, David Lo, Zibin Zheng. "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion". 44th ACM/IEEE International Conference on Software Engineering （ICSE 2022).  Accepted as a  Full Paper.    <br />
