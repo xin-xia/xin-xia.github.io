@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (114)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (144)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (150)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -20,25 +20,25 @@ permalink: /publication/
 ### Conference Papers (Full Papers)
 
 
-149. Zejun Zhang, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+150. Zejun Zhang, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
 
 
-148.  Shengyi Pan, Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Fine-grained Commit-level Vulnerability Type Prediction By CWE Tree Structure". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+149.  Shengyi Pan, Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Fine-grained Commit-level Vulnerability Type Prediction By CWE Tree Structure". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
 
 
-147. Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>, Deheng Ye, Xiwei Xu, Liming Zhu. "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+148. Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>, Deheng Ye, Xiwei Xu, Liming Zhu. "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
 
 
-146. Sen Fang, Tao Zhang, Youshuai Tan, He Jiang, <strong>Xin Xia</strong>, Xiaobing Sun.  "RepresentThemAll: A Universal Learning Representation of Bug Reports". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+147. Sen Fang, Tao Zhang, Youshuai Tan, He Jiang, <strong>Xin Xia</strong>, Xiaobing Sun.  "RepresentThemAll: A Universal Learning Representation of Bug Reports". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
 
-145. Zhongxin Liu, Zhijie Tang, <strong>Xin Xia</strong>, Xiaohu Yang. "CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+146. Zhongxin Liu, Zhijie Tang, <strong>Xin Xia</strong>, Xiaohu Yang. "CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
 
-144. Jiayuan Zhou, Michael Pacheco, Jinfu Chen, Xing Hu, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. " CoLeFunDa: Explainable Silent Vulnerability Fix Identification". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
+145. Jiayuan Zhou, Michael Pacheco, Jinfu Chen, Xing Hu, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. " CoLeFunDa: Explainable Silent Vulnerability Fix Identification". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
 
 
