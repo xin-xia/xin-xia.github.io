@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (2) </strong> 
 
-<strong>Papers in Chinese (12)</strong>: 软件学报 * 10, 计算机研究与发展 * 2
+<strong>Papers in Chinese (13)</strong>: 软件学报 * 11, 计算机研究与发展 * 2
 
 ## 2023 
 
@@ -128,6 +128,8 @@ permalink: /publication/
 ### Papers in Chinese 
 
 1. 刘忠鑫,  唐郅杰,  <strong>夏鑫</strong>， 李善平. "代码变更表示学习及其应用研究进展". 软件学报， 2022， 已录用   <br />
+
+1. 徐同同,  刘逵， <strong>夏鑫</strong>. "漏洞自动修复研究综述". 软件学报， 2022， 已录用   <br />
  
 
 ## 2021
