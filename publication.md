@@ -386,7 +386,7 @@ permalink: /publication/
 
 56. Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach Dinh Le, <strong>Xin Xia</strong>, Yang Feng, Zhenyu Chen, Baowen Xu. "Smart Contract Development: Challenges and Opportunities". IEEE Transactions on Software Engineering (TSE), 20 pages.  Accepted.  <a href="tse196.pdf">[PDF]</a> <br />
 
-55. Zhiyuan Wan,  <strong>Xin Xia</strong>, David Lo, Gail Murphy. "How does Machine Learning Change Software Development Practices?" IEEE Transactions on Software Engineering (TSE), 14 pages.  Accepted.  <a href="tse195.pdf">[PDF]</a>  <br />
+55. Zhiyuan Wan,  <strong>Xin Xia</strong>, David Lo, Gail Murphy. "How does Machine Learning Change Software Development Practices?" IEEE Transactions on Software Engineering (TSE), 14 pages.  Accepted.  <a href="tse195.pdf">[PDF]</a>   (<strong>IEEE Transactions on Software Engineering 2021 Best Paper Award Runner-Up</strong>)  <br />
 
 54. Li Li, Jun Gao, Tegawende F. Bissyande, Lei Ma,  <strong>Xin Xia</strong>,  Jacques Klein. "CDA: Characterising Deprecated Android APIs".  Empirical Software Engineering (EMSE). Accepted. <a href="emse194.pdf">[PDF]</a> <br />
 
