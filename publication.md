@@ -42,7 +42,7 @@ permalink: /publication/
 
 ### Papers in Chinese 
 
-1. 汪烨， 胡坤， 姜波，  <strong>夏鑫</strong>， 唐贤书。 “软件跟踪链技术研究综述”。 计算机学报， 2023， 已录用  <br />
+1. 汪烨， 胡坤， 姜波，  <strong>夏鑫</strong>， 唐贤书。 “软件跟踪链自动化技术研究综述”。 计算机学报， 2023， 已录用  <br />
  
 
 ## 2022 
