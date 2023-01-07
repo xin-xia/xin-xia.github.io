@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (2) </strong> 
 
-<strong>Papers in Chinese (13)</strong>: 软件学报 * 11, 计算机研究与发展 * 2
+<strong>Papers in Chinese (14)</strong>: 软件学报 * 11, 计算机研究与发展 * 2， 计算机学报 * 1
 
 ## 2023 
 
@@ -40,7 +40,10 @@ permalink: /publication/
 
 145. Jiayuan Zhou, Michael Pacheco, Jinfu Chen, Xing Hu, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. " CoLeFunDa: Explainable Silent Vulnerability Fix Identification". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
+### Papers in Chinese 
 
+1. 汪烨， 胡坤， 姜波，  <strong>夏鑫</strong>， 唐贤书。 “软件跟踪链技术研究综述”。 计算机学报， 2023， 已录用  <br />
+ 
 
 ## 2022 
 
