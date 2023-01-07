@@ -8,7 +8,7 @@ permalink: /service/
 <li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2022 </li>
 <li>Editorial Board Member  --   Journal of Software: Evolution and Process (JSEP) 2020 -- 2023 </li>
 <li>Editorial Board Member  --   Empirical Software Engineering 2021 --  </li>
-<li>Associate Editor  --   Automated Software Engineering 2021 --  </li>
+<li>Associate Editor  --   Automated Software Engineering 2023 --  </li>
 </ol>
 
 ## 2024
