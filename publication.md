@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (114)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (150)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 1, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (151)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -18,6 +18,8 @@ permalink: /publication/
 
 
 ### Conference Papers (Full Papers)
+
+151. Zhongxin Liu, Kui Liu,  <strong>Xin Xia</strong>, Xiaohu Yang.  "Towards More Realistic Evaluation for Neural Test Oracle Generation". The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023).     Accepted as a  Full Paper.      <br />
 
 
 150. Zejun Zhang, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />

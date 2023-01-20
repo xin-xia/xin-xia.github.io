@@ -176,6 +176,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### ISSTA
+1. Zhongxin Liu, Kui Liu,  <strong>Xin Xia</strong>, Xiaohu Yang.  "Towards More Realistic Evaluation for Neural Test Oracle Generation". The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023).     Accepted as a  Full Paper.      <br />
 1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper. <br />
  
  
