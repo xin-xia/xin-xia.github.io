@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (114)</strong>: IEEE Transactions on Software Engineering * 33, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (115)</strong>: IEEE Transactions on Software Engineering * 34, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (151)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -15,6 +15,11 @@ permalink: /publication/
 <strong>Papers in Chinese (14)</strong>: 软件学报 * 11, 计算机研究与发展 * 2， 计算机学报 * 1
 
 ## 2023 
+
+### Journal Papers
+
+
+115. Yujia Chen, Cuiyun Gao, Xiaoxue Ren, Yun Peng, <strong>Xin Xia</strong>, Michael R. Lyu. "API Usage Recommendation via Multi-View Heterogeneous Graph Representation Learning". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 
 ### Conference Papers (Full Papers)

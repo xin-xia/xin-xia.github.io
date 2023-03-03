@@ -38,6 +38,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### IEEE Transactions on Software Engineering
+1. Yujia Chen, Cuiyun Gao, Xiaoxue Ren, Yun Peng, <strong>Xin Xia</strong>, Michael R. Lyu. "API Usage Recommendation via Multi-View Heterogeneous Graph Representation Learning". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Bo Lin, Shangwen Wang, Zhongxin Liu, <strong>Xin Xia</strong>,   Xiaoguang Mao. "Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />    
 1. Neng Zhang, Ying Zou, <strong>Xin Xia</strong>, Qiao Huang, David Lo, Shanping Li. "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey". IEEE Transactions on Software Engineering (TSE), Accepted.        <br />
 1.  Zhongxin Liu, <strong>Xin Xia</strong>, David Lo, Meng Yan, Shanping Li. "Just-In-Time Obsolete Comment Detection and Update".  IEEE Transactions on Software Engineering (TSE), Accepted.   <br />
