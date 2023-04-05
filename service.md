@@ -15,7 +15,7 @@ permalink: /service/
 ## 2024
 <ol>
 <li>Software Engineering in Society (SEIS) co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
-<li>Program Committee  --  46th International Conference on Software Engineering (ICSE 2024)   </li>
+<li>Program Committee  --  46th International Conference on Software Engineering (ICSE 2024) (Research Track, NIER Track)  </li>
 
 </ol>
 
@@ -29,6 +29,7 @@ permalink: /service/
 <li>Program Committee  --  32nd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023) (Research Track, Industry Track) </li>
 <li>Program Committee  --   38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)</li>
 <li>Program Committee  --  45th International Conference on Software Engineering (ICSE 2023) (SEIS track, SEIP track) </li>
+<li>Program Committee  --  39th International Conference on Software Maintenance and Evolution (ICSME 2023) </li>
 <li>Program Committee  --  30th International Conference on Program Comprehension (ICPC 2023)  </li> 
 <li>Program Committee  --  20th International Conference on Mining Software Repositories (MSR 2023) </li>
 <li>Program Committee  --  2nd International Conference on AI Engineering – Software Engineering for AI (CAIN 2023)  </li> 
