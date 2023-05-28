@@ -38,6 +38,8 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### IEEE Transactions on Software Engineering
+1. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan, <strong>Xin Xia</strong>, David Lo. Context-Aware Neural Fault Localization.  Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
+1. Truong Giang Nguyen, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Chengran Yang, Zhipeng Zhao, Bowen Xu, Jiayuan Zhou,  <strong>Xin Xia</strong>, Ahmed E. Hassan, Xuan-Bach D. Le, and David Lo. Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Yujia Chen, Cuiyun Gao, Xiaoxue Ren, Yun Peng, <strong>Xin Xia</strong>, Michael R. Lyu. "API Usage Recommendation via Multi-View Heterogeneous Graph Representation Learning". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Bo Lin, Shangwen Wang, Zhongxin Liu, <strong>Xin Xia</strong>,   Xiaoguang Mao. "Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />    
 1. Neng Zhang, Ying Zou, <strong>Xin Xia</strong>, Qiao Huang, David Lo, Shanping Li. "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey". IEEE Transactions on Software Engineering (TSE), Accepted.        <br />
@@ -75,6 +77,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Qing Huang, Dianshu Liao, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse. In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Xindong Zhang, Zhenchang Xing. "I Know What You Are Searching For: Code Snippet Recommendation from Stack Overflow Posts". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <br />
 1. Filipe R. Cogo,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "Assessing the alignment between the information needs of developers and the documentation of programming languages: A case study on Rust". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <br />
 1. Chen Zeng, Yue Yu, Shanshan Li, <strong>Xin Xia</strong>, Zhiming Wang, Mingyang Geng, Linxiao Bai, Wei Dong, and Xiangke Liao. "deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.   <br />
@@ -137,6 +140,9 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 1. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  (<strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
 #### ESEC/FSE
+
+1. Chao Ni, Xin Yin, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>. Distinguishing Look-Alike Innocent and Vulnerable Code by  Subtle Semantic Representation Learning and Explanation. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
+1. Bo Lin, Shangwen Wang, Zhongxin Liu, Yepang Liu,  <strong>Xin Xia</strong>, Xiaoguang Mao.  CCT5: A Code-Change-Oriented Pre-Trained Model. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
 1. Chao Ni, Wei Wang, Kaiwen Yang, <strong>Xin Xia</strong>, Kui Liu, David Lo. "The Best of Both Worlds: Integrating Semantic Features with Expert Features for Defect Prediction and Localization". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
 
 1. Shengyi Pan, Jiayuan Zhou, Filipe R. Cogo,  <strong>Xin Xia</strong>, Lingfeng Bao, Xing Hu, Shanping Li, Ahmed E. Hassan. "Automated Unearthing of Dangerous Issue Reports".  The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />

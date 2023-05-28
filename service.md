@@ -16,6 +16,7 @@ permalink: /service/
 <ol>
 <li>Software Engineering in Society (SEIS) co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
 <li>Program Committee  --  46th International Conference on Software Engineering (ICSE 2024) (Research Track, NIER Track)  </li>
+<li>Program Committee  --  33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2024)   </li>
 
 </ol>
 
@@ -41,7 +42,7 @@ permalink: /service/
 <li>Tools Track  co-Chair  --  International Conference on Technical Debt 2022 (TechDebt 2022) </li>
 <li>Industry Track  co-Chair  --  33rd  IEEE International Symposium on Software Reliability  Engineering (ISSRE 2022)    </li>
 <li>Program Committee  --   37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022)</li>
-<li>Program Committee  --  30tht ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022 Industry Track) </li>
+<li>Program Committee  --  30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022 Industry Track) </li>
 <li>Program Committee  --  44th International Conference on Software Engineering (ICSE 2022) (SEIP track, NIER track) </li>
 <li>Program Committee  --  29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) </li>
 <li>Program Committee  --  30th International Conference on Program Comprehension (ICPC 2022)  </li> 

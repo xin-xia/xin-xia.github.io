@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (115)</strong>: IEEE Transactions on Software Engineering * 34, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 21, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (118)</strong>: IEEE Transactions on Software Engineering * 36, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 22, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (151)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 9, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (153)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 11, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (2) </strong> 
 
@@ -18,11 +18,21 @@ permalink: /publication/
 
 ### Journal Papers
 
+118. Qing Huang, Dianshu Liao, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse. In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+
+117. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan, <strong>Xin Xia</strong>, David Lo. Context-Aware Neural Fault Localization.  Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
+
+116. Truong Giang Nguyen, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Chengran Yang, Zhipeng Zhao, Bowen Xu, Jiayuan Zhou,  <strong>Xin Xia</strong>, Ahmed E. Hassan, Xuan-Bach D. Le, and David Lo. Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 115. Yujia Chen, Cuiyun Gao, Xiaoxue Ren, Yun Peng, <strong>Xin Xia</strong>, Michael R. Lyu. "API Usage Recommendation via Multi-View Heterogeneous Graph Representation Learning". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 
 ### Conference Papers (Full Papers)
+
+153. Chao Ni, Xin Yin, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>. Distinguishing Look-Alike Innocent and Vulnerable Code by  Subtle Semantic Representation Learning and Explanation. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
+
+
+152. Bo Lin, Shangwen Wang, Zhongxin Liu, Yepang Liu,  <strong>Xin Xia</strong>, Xiaoguang Mao.  CCT5: A Code-Change-Oriented Pre-Trained Model. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
 
 151. Zhongxin Liu, Kui Liu,  <strong>Xin Xia</strong>, Xiaohu Yang.  "Towards More Realistic Evaluation for Neural Test Oracle Generation". The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023).     Accepted as a  Full Paper.      <br />
 
