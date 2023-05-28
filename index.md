@@ -101,7 +101,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
  1. Xiaoxue Ren, Zhenchang Xing, <strong>Xin Xia</strong>, David Lo, Xinyu Wang, John Grundy. "Neural Network Based Detection of Self-admitted Technical Debt: From Performance to Explainability". In  ACM Transactions on Software Engineering and Methodology (TOSEM). 46 pages, 2019. Accepted.  <br />
  
 #### IEEE Transactions on Dependable and Secure Computing 
-1. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEEE Transactions on Dependable and Secure Computing (TDSC). Accepted.   <br />
+1. Lihong Tang, Tingmin Wu, Xiao Chen, Li Li,  <strong>Xin Xia</strong>, Marthie Grobler, Yang Xiang. "How does Visualisation Help App Practitioners Analyse Android Apps?". In IEEE  Transactions on Dependable and Secure Computing (TDSC). Accepted.   <br />
 
 #### IEEE Transactions on Services Computing
 1. Qing Huang, Zhiqiang Yuan, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. "1+1>2: Programming Know-What and Know-How Knowledge Fusion, Semantic Enrichment and Coherent Application". IEEE Transactions on Services Computing (TSC). Accepted. <br />
