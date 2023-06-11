@@ -25,7 +25,7 @@ permalink: /publication/
 
 118. Qing Huang, Dianshu Liao, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse. In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 
-117. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan, <strong>Xin Xia</strong>, David Lo. Context-Aware Neural Fault Localization.  Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
+117. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan, <strong>Xin Xia</strong>, David Lo. Context-Aware Neural Fault Localization.   IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 116. Truong Giang Nguyen, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Chengran Yang, Zhipeng Zhao, Bowen Xu, Jiayuan Zhou,  <strong>Xin Xia</strong>, Ahmed E. Hassan, Xuan-Bach D. Le, and David Lo. Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
