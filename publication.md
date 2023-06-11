@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (118)</strong>: IEEE Transactions on Software Engineering * 36, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 22, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (118)</strong>: IEEE Transactions on Software Engineering * 37, Empirical Software Engineering * 22,  ACM Transactions on Software Engineering and Methodology * 23, ACM Computing Surveys * 2, IEEEE Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (153)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 11, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -18,9 +18,14 @@ permalink: /publication/
 
 ### Journal Papers
 
+120. Yuanhang Yang, Wei He, Cuiyun Gao, Zenglin Xu,  <strong>Xin Xia</strong>, Chuanyi Liu.  "TopicAns: Topic-Informed Architecture for Answer Recommendation on Technical Q&A Site". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
+
+
+119. Junwei Zhang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
+
 118. Qing Huang, Dianshu Liao, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse. In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 
-117. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan, <strong>Xin Xia</strong>, David Lo. Context-Aware Neural Fault Localization.  Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
+117. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan, , David Lo. Context-Aware Neural Fault Localization.  Multi-Granularity Detector for Vulnerability Fixes. 
 
 116. Truong Giang Nguyen, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Chengran Yang, Zhipeng Zhao, Bowen Xu, Jiayuan Zhou,  <strong>Xin Xia</strong>, Ahmed E. Hassan, Xuan-Bach D. Le, and David Lo. Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 

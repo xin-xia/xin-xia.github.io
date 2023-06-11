@@ -38,6 +38,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### IEEE Transactions on Software Engineering
+1. Junwei Zhang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan, <strong>Xin Xia</strong>, David Lo. Context-Aware Neural Fault Localization.  Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Truong Giang Nguyen, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Chengran Yang, Zhipeng Zhao, Bowen Xu, Jiayuan Zhou,  <strong>Xin Xia</strong>, Ahmed E. Hassan, Xuan-Bach D. Le, and David Lo. Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Yujia Chen, Cuiyun Gao, Xiaoxue Ren, Yun Peng, <strong>Xin Xia</strong>, Michael R. Lyu. "API Usage Recommendation via Multi-View Heterogeneous Graph Representation Learning". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
@@ -77,6 +78,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Yuanhang Yang, Wei He, Cuiyun Gao, Zenglin Xu,  <strong>Xin Xia</strong>, Chuanyi Liu.  "TopicAns: Topic-Informed Architecture for Answer Recommendation on Technical Q&A Site". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Qing Huang, Dianshu Liao, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse. In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, John Grundy, Xindong Zhang, Zhenchang Xing. "I Know What You Are Searching For: Code Snippet Recommendation from Stack Overflow Posts". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <br />
 1. Filipe R. Cogo,  <strong>Xin Xia</strong>, Ahmed E. Hassan. "Assessing the alignment between the information needs of developers and the documentation of programming languages: A case study on Rust". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.    <br />
