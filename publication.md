@@ -19,8 +19,8 @@ permalink: /publication/
 ### Book Chapter
 
 1. Xin Xia and David Lo.  Information Retrieval-Based Techniques for Software Fault. In Handbook of Software Fault Localization: Foundations and Advances.  <br />
-Localization
-
+ 
+ 
 ### Journal Papers
 
 121. Weifeng Sun, Meng Yan, Zhongxin Liu,  <strong>Xin Xia</strong>, Yan Lei, David Lo, "Revisiting the Identification of the Co-Evolution of Production and Test Code". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.
