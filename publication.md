@@ -19,6 +19,7 @@ permalink: /publication/
 ### Journal Papers
 
 121. Weifeng Sun, Meng Yan, Zhongxin Liu,  <strong>Xin Xia</strong>, Yan Lei, David Lo, "Revisiting the Identification of the Co-Evolution of Production and Test Code". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.
+
 120. Yuanhang Yang, Wei He, Cuiyun Gao, Zenglin Xu,  <strong>Xin Xia</strong>, Chuanyi Liu.  "TopicAns: Topic-Informed Architecture for Answer Recommendation on Technical Q&A Site". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 
 
@@ -64,6 +65,8 @@ permalink: /publication/
 145. Jiayuan Zhou, Michael Pacheco, Jinfu Chen, Xing Hu, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. " CoLeFunDa: Explainable Silent Vulnerability Fix Identification". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
 ### Papers in Chinese 
+
+1. 徐同同， 刘逵，<strong>夏鑫</strong>。  “漏洞自动修复研究综述”. 软件学报， 2023. 已录用。 <br />
 
 1. 汪烨， 胡坤， 姜波，  <strong>夏鑫</strong>， 唐贤书。 “软件跟踪链自动化技术研究综述”。 计算机学报， 2023， 已录用  <br />
  
