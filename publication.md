@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (121)</strong>: IEEE Transactions on Software Engineering * 37,  ACM Transactions on Software Engineering and Methodology * 24, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (153)</strong>: ICSE * 17, ASE * 19, ESEC/FSE* 11, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (158)</strong>: ICSE * 17, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### Book Chapter
 
-1. Xin Xia and David Lo.  Information Retrieval-Based Techniques for Software Fault. In Handbook of Software Fault Localization: Foundations and Advances.  <br />
+1. <strong>Xin Xia</strong> and David Lo.  Information Retrieval-Based Techniques for Software Fault. In Handbook of Software Fault Localization: Foundations and Advances.  <br />
  
  
 ### Journal Papers
@@ -40,6 +40,22 @@ permalink: /publication/
 
 
 ### Conference Papers (Full Papers)
+
+158. Xing Hu, Zhuang Liu, <strong>Xin Xia</strong>, Zhongxin Liu, Tongtong Xu, Xiaohu Yang. Identify and Update Test Cases when Production Code Changes: A Transformer-based Approach. ASE 2023: Accepted as a Research Full Paper. <br />
+
+
+157. Zhenhao Li, An Ran Chen, Xing Hu, <strong>Xin Xia</strong>, Tse-Hsun (Peter) Chen, Weiyi Shang.  Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages. ASE 2023: Accepted as a Research Full Paper. <br />
+
+
+156. Lingxiao Tang, Lingfeng Bao, <strong>Xin Xia</strong>, Zhongdong Huang.  Neural SZZ Algorithm. ASE 2023: Accepted as a Research Full Paper. <br />
+
+
+155. Yanming Yang, Ying Zou, Xing Hu, David Lo, Cao Ni, John Grundy, <strong>Xin Xia</strong>. C3: Code Clone-based Identification of Duplicated Components.  ESEC/FSE 2023:  Accepted as a Industry Full paper.     <br />
+
+
+154. Zhiyuan Wan, Yun Zhang, <strong>Xin Xia</strong>, Yi Jiang, David Lo. Software Architecture in Practice: Challenges and Opportunities. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
+
+
 
 153. Chao Ni, Xin Yin, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>. Distinguishing Look-Alike Innocent and Vulnerable Code by  Subtle Semantic Representation Learning and Explanation. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
 

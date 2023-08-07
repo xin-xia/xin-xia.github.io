@@ -144,11 +144,10 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 1. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  (<strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
 #### ESEC/FSE
-
+1. Zhiyuan Wan, Yun Zhang, <strong>Xin Xia</strong>, Yi Jiang, David Lo. Software Architecture in Practice: Challenges and Opportunities. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
 1. Chao Ni, Xin Yin, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>. Distinguishing Look-Alike Innocent and Vulnerable Code by  Subtle Semantic Representation Learning and Explanation. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
 1. Bo Lin, Shangwen Wang, Zhongxin Liu, Yepang Liu,  <strong>Xin Xia</strong>, Xiaoguang Mao.  CCT5: A Code-Change-Oriented Pre-Trained Model. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
 1. Chao Ni, Wei Wang, Kaiwen Yang, <strong>Xin Xia</strong>, Kui Liu, David Lo. "The Best of Both Worlds: Integrating Semantic Features with Expert Features for Defect Prediction and Localization". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
-
 1. Shengyi Pan, Jiayuan Zhou, Filipe R. Cogo,  <strong>Xin Xia</strong>, Lingfeng Bao, Xing Hu, Shanping Li, Ahmed E. Hassan. "Automated Unearthing of Dangerous Issue Reports".  The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
 
 1. Zhiyuan Wan, <strong>Xin Xia</strong>, Yun Zhang, David Lo, Daibing Zhou, Qiuyuan Chen, Ahmed. E. Hassan. "What Motivates Software Practitioners to Contribute to Inner Source?". The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). Accepted as a Research Full paper.     <br />
@@ -164,7 +163,9 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### ASE
-
+1. Xing Hu, Zhuang Liu, <strong>Xin Xia</strong>, Zhongxin Liu, Tongtong Xu, Xiaohu Yang. Identify and Update Test Cases when Production Code Changes: A Transformer-based Approach. ASE 2023: Accepted as a Research Full Paper. <br />
+1. Zhenhao Li, An Ran Chen, Xing Hu, <strong>Xin Xia</strong>, Tse-Hsun (Peter) Chen, Weiyi Shang.  Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages. ASE 2023: Accepted as a Research Full Paper. <br />
+1. Lingxiao Tang, Lingfeng Bao, <strong>Xin Xia</strong>, Zhongdong Huang.  Neural SZZ Algorithm. ASE 2023: Accepted as a Research Full Paper. <br />
 1. Yanqi Su, Zheming Han, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Constructing a System Knowledge Graph of User Tasks and Failures from Bug Reports to Support Soap Opera Testing".  37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022):   Accepted as a Full Paper.    <br />
 1. Haoye Tian, Xunzhu Tang, Andrew Habib, Shangwen Wang, Kui Liu,  <strong>Xin Xia</strong>, Jacques Klein, Tegawendé F. Bissyandé. "Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness". 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022):   Accepted as a Full Paper.    <br />
 1. Xing Hu, Zhipeng Gao,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Automating User Notice Generation for Smart Contract Functions". 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021):  Accepted as a Full Paper.    <br />
