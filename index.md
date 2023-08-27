@@ -79,6 +79,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Jiamou Sun, Zhenchang Xing,  <strong>Xin Xia</strong>, Qinghua Lu, Xiwei Xu, Liming Zhu. "Aspect-Level Information Discrepancies across Heterogeneous Vulnerability Reports: Severity, Types and Detection Methods". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.   <br />
 1.  Weifeng Sun, Meng Yan, Zhongxin Liu,  <strong>Xin Xia</strong>, Yan Lei, David Lo, "Revisiting the Identification of the Co-Evolution of Production and Test Code". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted. <br />
 1. Yuanhang Yang, Wei He, Cuiyun Gao, Zenglin Xu,  <strong>Xin Xia</strong>, Chuanyi Liu.  "TopicAns: Topic-Informed Architecture for Answer Recommendation on Technical Q&A Site". In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />
 1. Qing Huang, Dianshu Liao, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, <strong>Xin Xia</strong>. Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse. In ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted.     <br />

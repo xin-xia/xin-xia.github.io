@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (121)</strong>: IEEE Transactions on Software Engineering * 37,  ACM Transactions on Software Engineering and Methodology * 24, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (122)</strong>: IEEE Transactions on Software Engineering * 37,  ACM Transactions on Software Engineering and Methodology * 25, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (158)</strong>: ICSE * 17, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -22,6 +22,8 @@ permalink: /publication/
  
  
 ### Journal Papers
+
+122. Jiamou Sun, Zhenchang Xing,  <strong>Xin Xia</strong>, Qinghua Lu, Xiwei Xu, Liming Zhu. "Aspect-Level Information Discrepancies across Heterogeneous Vulnerability Reports: Severity, Types and Detection Methods". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.     <br />
 
 121. Weifeng Sun, Meng Yan, Zhongxin Liu,  <strong>Xin Xia</strong>, Yan Lei, David Lo, "Revisiting the Identification of the Co-Evolution of Production and Test Code". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.
 
