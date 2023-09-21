@@ -12,9 +12,18 @@ permalink: /service/
 <li>Associate Editor  --   ACM Transactions on Software Engineering and Methodology  2023 --  </li>
 </ol>
 
+## 2025
+<ol>
+
+<li>Area Chair  --  47th International Conference on Software Engineering (ICSE 2025)   </li>
+<li>Program Committee  --  33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2024)   </li>
+
+</ol>
+
 ## 2024
 <ol>
 <li>Software Engineering in Society (SEIS) co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
+<li>Industry Challenge Track co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
 <li>Program Committee  --  46th International Conference on Software Engineering (ICSE 2024) (Research Track, NIER Track)  </li>
 <li>Program Committee  --  33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2024)   </li>
 
