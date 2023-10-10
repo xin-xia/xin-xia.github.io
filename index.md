@@ -125,6 +125,12 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 ### Top Conference Papers
 
 #### ICSE
+1. Yanming Yang, Xing Hu, <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine".  ICSE 2024: Accepted as a  Full Paper.      <br />
+1. Qi Zhan, Xing Hu, Zhiyang Li, <strong>Xin Xia</strong>, David Lo, Shanping Li. "PS3: Precise Patch Presence Test based on Semantic Symbolic Signature".  ICSE 2024: Accepted as a  Full Paper.      <br />
+1. Yi Gao, Xing Hu, Tongtong Xu,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "MUT: Human-in-the-Loop Unit Test Migration". ICSE 2024: Accepted as a  Full Paper.      <br />
+1. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Yi Gao, Tongtong Xu, David Lo, Xiaohu Yang. " Exploiting Library Vulnerability via Migration Based Automating Test Generation". ICSE 2024: Accepted as a  Full Paper.      <br />
+1. Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Towards More Practical Automation of Vulnerability Assessment". ICSE 2024: Accepted as a  Full Paper.      <br />
+1. Hailong Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, David Lo, <strong>Xin Xia</strong>, David Lo. "Code Search is All You Need? Improving Code Suggestions with Code Search". ICSE 2024: Accepted as a  Full Paper.      <br />
 1. Zejun Zhang, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 1.  Shengyi Pan, Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Fine-grained Commit-level Vulnerability Type Prediction By CWE Tree Structure". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 1. Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>, Deheng Ye, Xiwei Xu, Liming Zhu. "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
