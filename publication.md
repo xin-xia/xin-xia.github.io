@@ -6,13 +6,30 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (122)</strong>: IEEE Transactions on Software Engineering * 37,  ACM Transactions on Software Engineering and Methodology * 25, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (124)</strong>: IEEE Transactions on Software Engineering * 37,  ACM Transactions on Software Engineering and Methodology * 27, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (158)</strong>: ICSE * 17, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (164)</strong>: ICSE * 23, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
 <strong>Papers in Chinese (15)</strong>: 软件学报 * 12, 计算机研究与发展 * 2， 计算机学报 * 1
+
+## 2024
+
+### Conference Papers (Full Papers)
+
+
+164. Yanming Yang, Xing Hu, <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine".  ICSE 2024: Accepted as a  Full Paper.      <br />
+
+163. Qi Zhan, Xing Hu, Zhiyang Li, <strong>Xin Xia</strong>, David Lo, Shanping Li. "PS3: Precise Patch Presence Test based on Semantic Symbolic Signature".  ICSE 2024: Accepted as a  Full Paper.      <br />
+
+162. Yi Gao, Xing Hu, Tongtong Xu,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "MUT: Human-in-the-Loop Unit Test Migration". ICSE 2024: Accepted as a  Full Paper.      <br />
+
+161. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Yi Gao, Tongtong Xu, David Lo, Xiaohu Yang. " Exploiting Library Vulnerability via Migration Based Automating Test Generation". ICSE 2024: Accepted as a  Full Paper.      <br />
+
+160. Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Towards More Practical Automation of Vulnerability Assessment". ICSE 2024: Accepted as a  Full Paper.      <br />
+
+159. Hailong Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, David Lo, <strong>Xin Xia</strong>, David Lo. "Code Search is All You Need? Improving Code Suggestions with Code Search". ICSE 2024: Accepted as a  Full Paper.      <br />
 
 ## 2023 
 
@@ -22,6 +39,11 @@ permalink: /publication/
  
  
 ### Journal Papers
+
+124. Yanming Yang, Xing Hu,  <strong>Xin Xia</strong>, Xiaohu Yang. "The Lost World: Characterizing and Detecting Undiscovered Test Smells".  In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.     <br />
+
+
+123. Jia Li, Zhuo Li, Huangzhao Zhang, Ge Li, Zhi Jin, Xing Hu,  <strong>Xin Xia</strong>. "Poison Attack and Poison Detection on Deep Source Code Processing Models". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.     <br />
 
 122. Jiamou Sun, Zhenchang Xing,  <strong>Xin Xia</strong>, Qinghua Lu, Xiwei Xu, Liming Zhu. "Aspect-Level Information Discrepancies across Heterogeneous Vulnerability Reports: Severity, Types and Detection Methods". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.     <br />
 
