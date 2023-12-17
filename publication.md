@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (124)</strong>: IEEE Transactions on Software Engineering * 37,  ACM Transactions on Software Engineering and Methodology * 27, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (125)</strong>: IEEE Transactions on Software Engineering * 38,  ACM Transactions on Software Engineering and Methodology * 27, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (164)</strong>: ICSE * 23, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (167)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -16,7 +16,17 @@ permalink: /publication/
 
 ## 2024
 
+### Journal Papers  
+
+125. Yanming Yang, Xing Hu, Zhipeng Gao, Jinfu Chen, Chao Ni, <strong>Xin Xia</strong>,   David Lo. "Federated Learning for Software Engineering: A
+Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
+
 ### Conference Papers (Full Papers)
+
+167. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xian Zhan, David Lo, Xiaohu Yang. "PPT4J: Patch Presence Test for Java Binaries". ICSE 2024: Accepted as a  Full Paper.      <br />
+
+166. Zhongxin Liu, Zhijie Tang, Junwen Zhang,  <strong>Xin Xia</strong>, Xiaohu Yang. "Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks". ICSE 2024: Accepted as a  Full Paper.      <br />
+165. Shuzheng Gao, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, <strong>Xin Xia</strong>, Michael R. Lyu."Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models". ICSE 2024: Accepted as a  Full Paper.      <br />
 
 
 164. Yanming Yang, Xing Hu, <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine".  ICSE 2024: Accepted as a  Full Paper.      <br />
