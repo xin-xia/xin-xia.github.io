@@ -38,7 +38,8 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### IEEE Transactions on Software Engineering
-
+1. Yanming Yang, Xing Hu, Zhipeng Gao, Jinfu Chen, Chao Ni, <strong>Xin Xia</strong>,   David Lo. "Federated Learning for Software Engineering: A
+Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Junwei Zhang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Zhuo Zhang, Yan Lei, Xiaoguang Mao, Meng Yan, <strong>Xin Xia</strong>, David Lo. Context-Aware Neural Fault Localization.  Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Truong Giang Nguyen, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Chengran Yang, Zhipeng Zhao, Bowen Xu, Jiayuan Zhou,  <strong>Xin Xia</strong>, Ahmed E. Hassan, Xuan-Bach D. Le, and David Lo. Multi-Granularity Detector for Vulnerability Fixes. IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
@@ -127,6 +128,10 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 ### Top Conference Papers
 
 #### ICSE
+
+1. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xian Zhan, David Lo, Xiaohu Yang. "PPT4J: Patch Presence Test for Java Binaries". ICSE 2024: Accepted as a  Full Paper.      <br />
+1. Zhongxin Liu, Zhijie Tang, Junwen Zhang,  <strong>Xin Xia</strong>, Xiaohu Yang. "Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks". ICSE 2024: Accepted as a  Full Paper.      <br />
+1. Shuzheng Gao, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, <strong>Xin Xia</strong>, Michael R. Lyu."Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models". ICSE 2024: Accepted as a  Full Paper.      <br />
 1. Yanming Yang, Xing Hu, <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine".  ICSE 2024: Accepted as a  Full Paper.      <br />
 1. Qi Zhan, Xing Hu, Zhiyang Li, <strong>Xin Xia</strong>, David Lo, Shanping Li. "PS3: Precise Patch Presence Test based on Semantic Symbolic Signature".  ICSE 2024: Accepted as a  Full Paper.      <br />
 1. Yi Gao, Xing Hu, Tongtong Xu,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "MUT: Human-in-the-Loop Unit Test Migration". ICSE 2024: Accepted as a  Full Paper.      <br />
