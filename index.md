@@ -38,6 +38,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### IEEE Transactions on Software Engineering
+1. Junxiao Han, Jiahao Zhang, David Lo, <strong>Xin Xia</strong>, Shuiguang Deng,  Minghui Wu. "Understanding Newcomers’ Onboarding Process in Deep Learning Projects". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 1. Yanming Yang, Xing Hu, Zhipeng Gao, Jinfu Chen, Chao Ni, <strong>Xin Xia</strong>,   David Lo. "Federated Learning for Software Engineering: A
 Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 1. Junwei Zhang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
