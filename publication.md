@@ -6,22 +6,30 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (125)</strong>: IEEE Transactions on Software Engineering * 38,  ACM Transactions on Software Engineering and Methodology * 27, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (126)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 27, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (167)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (170)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
-<strong>Papers in Chinese (15)</strong>: 软件学报 * 12, 计算机研究与发展 * 2， 计算机学报 * 1
+<strong>Papers in Chinese (16)</strong>: 软件学报 * 13, 计算机研究与发展 * 2， 计算机学报 * 1
 
 ## 2024
 
 ### Journal Papers  
 
+126. Junxiao Han, Jiahao Zhang, David Lo, <strong>Xin Xia</strong>, Shuiguang Deng,  Minghui Wu. "Understanding Newcomers’ Onboarding Process in Deep Learning Projects". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
+
 125. Yanming Yang, Xing Hu, Zhipeng Gao, Jinfu Chen, Chao Ni, <strong>Xin Xia</strong>,   David Lo. "Federated Learning for Software Engineering: A
 Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 ### Conference Papers (Full Papers)
+
+170. Tingwei Zhu, Zhongxin Liu, Tongtong Xu, Ze Tang, Tian Zhang, Minxue Pan, <strong>Xin Xia</strong>.  "Exploring and Improving Code Completion for Test Code". ICPC 2024: Accepted as a Full Paper   <br />
+
+169. Jiaqi Wu, Lingfeng Bao, Xiaohu Yang, <strong>Xin Xia</strong>, Xing Hu. "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges".  MSR 2024: Accepted as a Full Paper  <br />
+ 
+168. Junwei Zhang, Xing Hu, Lingfeng Bao, <strong>Xin Xia</strong>, Shanping Li. "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization". SANER 2024: Accepted as a Full Paper  <br />
 
 167. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xian Zhan, David Lo, Xiaohu Yang. "PPT4J: Patch Presence Test for Java Binaries". ICSE 2024: Accepted as a  Full Paper.      <br />
 
@@ -120,6 +128,8 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 145. Jiayuan Zhou, Michael Pacheco, Jinfu Chen, Xing Hu, <strong>Xin Xia</strong>, David Lo, Ahmed E. Hassan. " CoLeFunDa: Explainable Silent Vulnerability Fix Identification". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 
 ### Papers in Chinese 
+
+1. 詹奇,  潘圣益, 胡星, 鲍凌峰, <strong>夏鑫</strong>. "开源软件漏洞感知技术综述". 软件学报， 2023. 已录用。 <br />
 
 1. 徐同同， 刘逵，<strong>夏鑫</strong>。  “漏洞自动修复研究综述”. 软件学报， 2023. 已录用。 <br />
 
