@@ -117,7 +117,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### Science China Information Sciences 
-
+1.  Kexing Chen, Lingfeng Bao, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "E-PRedictor: An Approach for Early Prediction of Pull Request Acceptance" Science China Information Sciences (SCIS), Accepted   <br /> 
 1.  Ye Wang, Junwu Chen,  Qiao Huang, <strong>Xin Xia</strong>, Bo Jiang. "Deep Learning-based Open API Recommendation for Mashup Development". In Science China Information Sciences (SCIS). Accepted.   <br />
 1.  Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.     <br />
 1. Jiajun Jiang, Yingfei Xiong,  <strong>Xin Xia</strong>. "A manual inspection of Defects4J bugs and its implications for automatic program repair".  In SCIENCE CHINA Information Sciences (SCIS). Accepted.  <br />
