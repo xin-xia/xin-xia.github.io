@@ -8,7 +8,7 @@ permalink: /service/
 <li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2022 </li>
   <li>Steering Committee  --  International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE) 2021 -- 2024 </li>
     <li>Steering Committee  --  Asia-Pacific Symposium on Internetware, 2024--  </li>
-<li>Editorial Board Member  --   Journal of Software: Evolution and Process (JSEP) 2020 -- 2023 </li>
+<li>Editorial Board Member  --   Journal of Software: Evolution and Process (JSEP) 2020 --  </li>
 <li>Editorial Board Member  --   Empirical Software Engineering 2021 --  </li>
 <li>Associate Editor  --   Automated Software Engineering 2023 --  </li>
 <li>Associate Editor  --   ACM Transactions on Software Engineering and Methodology  2023 --  </li>
@@ -25,7 +25,7 @@ permalink: /service/
 <li>Software Engineering in Society (SEIS) co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
 <li>Industry Challenge Track co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
 <li>Program Committee  --  46th International Conference on Software Engineering (ICSE 2024) (Research Track, NIER Track)  </li>
-<li>Program Committee  --  33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2024) （Research Track， Industry Track）   </li>
+<li>Program Committee  --  33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2024) （Research Track， Industry Track, IVR Track）   </li>
 <li>Program Committee  --  33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)    </li>
 </ol>
 
