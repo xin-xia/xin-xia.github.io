@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (126)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 27, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (128)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 27, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (170)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2024
 
 ### Journal Papers  
+128. Li Wen, Lingfeng Bao, Jiachi Chen, John Grundy, <strong>Xin Xia</strong>, Xiaohu Yang. "Market manipulation of Cryptocurrencies: Evidence from Social Media and Transaction Data" ACM Transactions on Internet Technology (TOIT), Accepted   <br />
+
+127.  Kexing Chen, Lingfeng Bao, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "E-PRedictor: An Approach for Early Prediction of Pull Request Acceptance" Science China Information Sciences (SCIS), Accepted   <br /> 
 
 126. Junxiao Han, Jiahao Zhang, David Lo, <strong>Xin Xia</strong>, Shuiguang Deng,  Minghui Wu. "Understanding Newcomers’ Onboarding Process in Deep Learning Projects". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 
