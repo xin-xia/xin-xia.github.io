@@ -18,7 +18,7 @@ permalink: /publication/
 
 ### Journal Papers  
 
-129. Zhipeng Gao, Yanqi Su, Xing Hu, <strong>Xin Xia</strong>. "Automating TODO-dropped Methods Detection and Patching" In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+129. Zhipeng Gao, Yanqi Su, Xing Hu, <strong>Xin Xia</strong>. "Automating TODO-dropped Methods Detection and Patching". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 128. Li Wen, Lingfeng Bao, Jiachi Chen, John Grundy, <strong>Xin Xia</strong>, Xiaohu Yang. "Market manipulation of Cryptocurrencies: Evidence from Social Media and Transaction Data" ACM Transactions on Internet Technology (TOIT), Accepted   <br />
 
@@ -31,7 +31,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 ### Conference Papers (Full Papers)
 
-171. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. Automating Zero-Shot Patch Porting for Hard Forks. ISSTA 2024: Accepted as a Full Paper.   <br />
+171. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automating Zero-Shot Patch Porting for Hard Forks". ISSTA 2024: Accepted as a Full Paper.   <br />
 
 170. Tingwei Zhu, Zhongxin Liu, Tongtong Xu, Ze Tang, Tian Zhang, Minxue Pan, <strong>Xin Xia</strong>.  "Exploring and Improving Code Completion for Test Code". ICPC 2024: Accepted as a Full Paper   <br />
 
