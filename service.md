@@ -17,6 +17,7 @@ permalink: /service/
 ## 2025
 <ol>
 <li>Area Chair  --  47th International Conference on Software Engineering (ICSE 2025)   </li>
+  <li>Sponsorship co-Chair  --  34th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025)    </li>
 </ol>
 
 ## 2024
