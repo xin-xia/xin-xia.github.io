@@ -81,6 +81,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Zhipeng Gao, Yanqi Su, Xing Hu, <strong>Xin Xia</strong>. "Automating TODO-dropped Methods Detection and Patching" In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Yanming Yang, Xing Hu,  <strong>Xin Xia</strong>, Xiaohu Yang. "The Lost World: Characterizing and Detecting Undiscovered Test Smells".  In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.     <br />
 1. Jia Li, Zhuo Li, Huangzhao Zhang, Ge Li, Zhi Jin, Xing Hu,  <strong>Xin Xia</strong>. "Poison Attack and Poison Detection on Deep Source Code Processing Models". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.     <br />
 1. Jiamou Sun, Zhenchang Xing,  <strong>Xin Xia</strong>, Qinghua Lu, Xiwei Xu, Liming Zhu. "Aspect-Level Information Discrepancies across Heterogeneous Vulnerability Reports: Severity, Types and Detection Methods". In ACM Transactions on Software Engineering and Methodology (TOSEM). 2023. Accepted.   <br />
@@ -203,6 +204,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ISSTA
+1. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. Automating Zero-Shot Patch Porting for Hard Forks. ISSTA 2024: Accepted as a Full Paper.   <br />
 1. Zhongxin Liu, Kui Liu,  <strong>Xin Xia</strong>, Xiaohu Yang.  "Towards More Realistic Evaluation for Neural Test Oracle Generation". The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023).     Accepted as a  Full Paper.      <br />
 1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper. <br />
  
