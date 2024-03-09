@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (128)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 27, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (129)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (170)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 2, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (171)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 3, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2024
 
 ### Journal Papers  
+
+129. Zhipeng Gao, Yanqi Su, Xing Hu, <strong>Xin Xia</strong>. "Automating TODO-dropped Methods Detection and Patching" In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+
 128. Li Wen, Lingfeng Bao, Jiachi Chen, John Grundy, <strong>Xin Xia</strong>, Xiaohu Yang. "Market manipulation of Cryptocurrencies: Evidence from Social Media and Transaction Data" ACM Transactions on Internet Technology (TOIT), Accepted   <br />
 
 127.  Kexing Chen, Lingfeng Bao, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "E-PRedictor: An Approach for Early Prediction of Pull Request Acceptance" Science China Information Sciences (SCIS), Accepted   <br /> 
@@ -27,6 +30,8 @@ permalink: /publication/
 Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 ### Conference Papers (Full Papers)
+
+171. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. Automating Zero-Shot Patch Porting for Hard Forks. ISSTA 2024: Accepted as a Full Paper.   <br />
 
 170. Tingwei Zhu, Zhongxin Liu, Tongtong Xu, Ze Tang, Tian Zhang, Minxue Pan, <strong>Xin Xia</strong>.  "Exploring and Improving Code Completion for Test Code". ICPC 2024: Accepted as a Full Paper   <br />
 
