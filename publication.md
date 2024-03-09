@@ -55,7 +55,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 160. Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Towards More Practical Automation of Vulnerability Assessment". ICSE 2024: Accepted as a  Full Paper.      <br />
 
-159. Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, David Lo, <strong>Xin Xia</strong>, David Lo. "Code Search is All You Need? Improving Code Suggestions with Code Search". ICSE 2024: Accepted as a  Full Paper.      <br />
+159. Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, David Lo, <strong>Xin Xia</strong>, David Lo. "Code Search is All You Need? Improving Code Suggestions with Code Search". ICSE 2024: Accepted as a  Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)    <br />
 
 ## 2023 
 
