@@ -3,6 +3,9 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
+23. <strong>MSR FOSS Impact Paper Award</strong>. 21st International Conference on Mining Software Repositories （MSR 2024）， April 2024. <br />
+
+22. <strong>ACM SIGSOFT Distinguished Paper Award</strong>. 21st International Conference on Mining Software Repositories （MSR 2024）， April 2024. <br />
 21. <strong>ACM SIGSOFT Distinguished Paper Award</strong>. 46th International Conference on Software Engineering (ICSE 2024), April 2024. <br />
 
 20. <strong>IEEE Transactions on Software Engineering 2021 Best Paper Award Runner-Up</strong>,  IEEE Transactions on Software Engineering, December 2022. Source: https://www.computer.org/publications/best-paper-award-winners <br />  
