@@ -34,9 +34,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 ### Conference Papers (Full Papers)
 
-173. Zhipeng Gao, Zhipeng Xue, Xing Hu, Weiyi Shang, <strong>Xin Xia</strong>.  "Easy over Hard: A Simple Baseline for Test Failures Causes Prediction". FSE 2024: Accepted as an Industry FUll Paper.  <br />
+173. Zhipeng Gao, Zhipeng Xue, Xing Hu, Weiyi Shang, <strong>Xin Xia</strong>.  "Easy over Hard: A Simple Baseline for Test Failures Causes Prediction". FSE 2024: Accepted as an Industry Full Paper.  <br />
 
-172. Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Unveil the Mystery of Critical Software Vulnerabilities". FSE 2024: Accepted as an Industry FUll Paper.  <br />
+172. Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Unveil the Mystery of Critical Software Vulnerabilities". FSE 2024: Accepted as an Industry Full Paper.  <br />
 
 171. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automating Zero-Shot Patch Porting for Hard Forks". ISSTA 2024: Accepted as a Full Paper.   <br />
 
