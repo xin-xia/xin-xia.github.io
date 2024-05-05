@@ -16,13 +16,16 @@ permalink: /service/
 
 ## 2025
 <ol>
+  <li>General co-Chair  --  Second Special event of AI Foundation Models and Software Engineering Forge 2025  </li>
+  <li>Industry Challenge Track co-Chair  --  47th International Conference on Software Engineering (ICSE 2025)    </li>
 <li>Area Chair  --  47th International Conference on Software Engineering (ICSE 2025)   </li>
   <li>Sponsorship co-Chair  --  34th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025)    </li>
+  <li>Program Committee  --  34thd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025)    </li>
 </ol>
 
 ## 2024
 <ol>
-  <li>General co-Chair  --  Special event of AI Foundation Models and Software Engineering (Forge 2024)@ICSE 2024   </li>
+  <li>General co-Chair  --  First Special event of AI Foundation Models and Software Engineering (FORGE 2024)  </li>
 <li>Software Engineering in Society (SEIS) co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
 <li>Industry Challenge Track co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
 <li>Program Committee  --  46th International Conference on Software Engineering (ICSE 2024) (Research Track, NIER Track)  </li>
