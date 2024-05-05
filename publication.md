@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (129)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 22,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (130)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 29, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (171)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 3, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (173)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 3, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -17,6 +17,9 @@ permalink: /publication/
 ## 2024
 
 ### Journal Papers  
+
+130. Xunzhu Tang, Haoye Tian, Pingfan Kong, Saad Ezzini, Kui Liu, <strong>Xin Xia</strong>, Jacques Klein, Tegawendé F Bissyande. "App Review Driven Collaborative Bug Finding". In  Empirical Software Engineering (EMSE), Accepted <br />
+
 
 129. Zhipeng Gao, Yanqi Su, Xing Hu, <strong>Xin Xia</strong>. "Automating TODO-dropped Methods Detection and Patching". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
@@ -30,6 +33,10 @@ permalink: /publication/
 Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 ### Conference Papers (Full Papers)
+
+173. Zhipeng Gao, Zhipeng Xue, Xing Hu, Weiyi Shang, <strong>Xin Xia</strong>.  "Easy over Hard: A Simple Baseline for Test Failures Causes Prediction". FSE 2024: Accepted as an Industry FUll Paper.  <br />
+
+172. Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Unveil the Mystery of Critical Software Vulnerabilities". FSE 2024: Accepted as an Industry FUll Paper.  <br />
 
 171. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automating Zero-Shot Patch Porting for Hard Forks". ISSTA 2024: Accepted as a Full Paper.   <br />
 
