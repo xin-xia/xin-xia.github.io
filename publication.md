@@ -42,7 +42,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 170. Tingwei Zhu, Zhongxin Liu, Tongtong Xu, Ze Tang, Tian Zhang, Minxue Pan, <strong>Xin Xia</strong>.  "Exploring and Improving Code Completion for Test Code". ICPC 2024: Accepted as a Full Paper   <br />
 
-169. Jiaqi Wu, Lingfeng Bao, Xiaohu Yang, <strong>Xin Xia</strong>, Xing Hu. "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges".  MSR 2024: Accepted as a Full Paper  <br />
+169. Jiaqi Wu, Lingfeng Bao, Xiaohu Yang, <strong>Xin Xia</strong>, Xing Hu. "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges".  MSR 2024: Accepted as a Full Paper  (<strong>ACM SIGSOFT Distinguished Paper Award</strong> and  <strong>FOSS Impact Paper Award</strong>) <br />
  
 168. Junwei Zhang, Xing Hu, Lingfeng Bao, <strong>Xin Xia</strong>, Shanping Li. "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization". SANER 2024: Accepted as a Full Paper  <br />
 
