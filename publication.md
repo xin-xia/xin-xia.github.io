@@ -42,7 +42,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 178. Tingwei Zhu, Tongtong Xu, Kui Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Tian Zhang, David Lo。  "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities".ICSME 2024: Accepted as a Full paper <br />
 
-175 Zhipeng Xue, Zhipeng Gao, Shaohua Wang, Xing Hu,  <strong>Xin Xia</strong>, Shanping Li. "SelfPiCo: Self-Guided Partial Code Execution with LLMs". ISSTA 2024, Accepted as a Full Paper <br />
+175. Zhipeng Xue, Zhipeng Gao, Shaohua Wang, Xing Hu,  <strong>Xin Xia</strong>, Shanping Li. "SelfPiCo: Self-Guided Partial Code Execution with LLMs". ISSTA 2024, Accepted as a Full Paper <br />
 
 174. Xiao Yu, Lei Liu, Xing Hu*, Jacky Keung,  <strong>Xin Xia</strong>, David Lo. "Practitioners’ Expectations on Automated Test Generations". ISSTA 2024, Accepted as a Full Paper <br />
 
