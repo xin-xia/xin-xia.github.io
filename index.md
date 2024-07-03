@@ -130,7 +130,8 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 ### Top Conference Papers
 
 #### ICSE
-
+1. Junkai Chen, Zhiyuan Pan, Xing Hu, Zhenhao Li, Ge Li,  <strong>Xin Xia</strong>. "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?" . ICSE 2025, Accepted as a Full Paper <br />
+1. Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, Xing Hu,  <strong>Xin Xia</strong>, Jianling Sun. "Towards Better Answers: Automated Stack Overflow Post Updating". ICSE 2025, Accepted as a Full Paper <br />
 1. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xian Zhan, David Lo, Xiaohu Yang. "PPT4J: Patch Presence Test for Java Binaries". ICSE 2024: Accepted as a  Full Paper.      <br />
 1. Zhongxin Liu, Zhijie Tang, Junwen Zhang,  <strong>Xin Xia</strong>, Xiaohu Yang. "Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks". ICSE 2024: Accepted as a  Full Paper.      <br />
 1. Shuzheng Gao, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, <strong>Xin Xia</strong>, Michael R. Lyu."Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models". ICSE 2024: Accepted as a  Full Paper.      <br />
@@ -204,6 +205,8 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ISSTA
+1. Zhipeng Xue, Zhipeng Gao, Shaohua Wang, Xing Hu,  <strong>Xin Xia</strong>, Shanping Li. "SelfPiCo: Self-Guided Partial Code Execution with LLMs". ISSTA 2024, Accepted as a Full Paper <br />
+1. Xiao Yu, Lei Liu, Xing Hu, Jacky Keung,  <strong>Xin Xia</strong>, David Lo. "Practitioners’ Expectations on Automated Test Generations". ISSTA 2024, Accepted as a Full Paper <br />
 1. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automating Zero-Shot Patch Porting for Hard Forks". ISSTA 2024: Accepted as a Full Paper.   <br />
 1. Zhongxin Liu, Kui Liu,  <strong>Xin Xia</strong>, Xiaohu Yang.  "Towards More Realistic Evaluation for Neural Test Oracle Generation". The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023).     Accepted as a  Full Paper.      <br />
 1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper. <br />
