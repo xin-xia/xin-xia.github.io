@@ -8,11 +8,17 @@ permalink: /publication/
 
 <strong>Journal Papers (130)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (173)</strong>: ICSE * 26, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 3, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (178)</strong>: ICSE * 28, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
 <strong>Papers in Chinese (16)</strong>: 软件学报 * 13, 计算机研究与发展 * 2， 计算机学报 * 1
+
+## 2025
+
+177. Junkai Chen, Zhiyuan Pan, Xing Hu, Zhenhao Li, Ge Li,  <strong>Xin Xia</strong>. "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?" . ICSE 2025, Accepted as a Full Paper <br />
+
+176. Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, Xing Hu,  <strong>Xin Xia</strong>, Jianling Sun. "Towards Better Answers: Automated Stack Overflow Post Updating". ICSE 2025, Accepted as a Full Paper <br />
 
 ## 2024
 
@@ -33,6 +39,12 @@ permalink: /publication/
 Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 ### Conference Papers (Full Papers)
+
+178. Tingwei Zhu, Tongtong Xu, Kui Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Tian Zhang, David Lo。  "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities".ICSME 2024: Accepted as a Full paper <br />
+
+175 Zhipeng Xue, Zhipeng Gao, Shaohua Wang, Xing Hu,  <strong>Xin Xia</strong>, Shanping Li. "SelfPiCo: Self-Guided Partial Code Execution with LLMs". ISSTA 2024, Accepted as a Full Paper <br />
+
+174. Xiao Yu, Lei Liu, Xing Hu*, Jacky Keung,  <strong>Xin Xia</strong>, David Lo. "Practitioners’ Expectations on Automated Test Generations". ISSTA 2024, Accepted as a Full Paper <br />
 
 173. Zhipeng Gao, Zhipeng Xue, Xing Hu, Weiyi Shang, <strong>Xin Xia</strong>.  "Easy over Hard: A Simple Baseline for Test Failures Causes Prediction". FSE 2024: Accepted as an Industry Full Paper.  <br />
 
