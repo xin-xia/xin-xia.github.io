@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/Xin.jpg" caption="" width="250px"   align="right" %}
 
-I am the Director of the Software Engineering Application Technology Lab at Huawei, China. Prior to joining Huawei, I was  an ARC DECRA Fellow and a lecturer (equivalent to U.S. assistant professor) at the Faculty of Information Technology, Monash University, Australia. I got my Ph.D degree in June 2014 from the College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang  and Prof. Jianling Sun. From July  2012 to January 2014, I was a visiting student of Prof. [David Lo] in Singapore Management University. I received the <strong>ACM SIGSOFT Early Career Researcher Award</strong> in 2022. 
+I am the Director of the Software Engineering Application Technology Lab at Huawei, China. Prior to joining Huawei, I was  an ARC DECRA Fellow and a lecturer (equivalent to a U.S. assistant professor) at the Faculty of Information Technology, Monash University, Australia. I got my Ph.D degree in June 2014 from the College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang  and Prof. Jianling Sun. From July  2012 to January 2014, I was a visiting student of Prof. [David Lo] at Singapore Management University. I received the <strong>ACM SIGSOFT Early Career Researcher Award</strong> in 2022. 
 
 
 To help developers and testers improve their productivity, my current research focuses on data science for software engineering, i.e., mining and analyzing
@@ -21,7 +21,7 @@ engineering data into automated tools and new insights.
 Data Science, AI and SE, Mining Software Repositories, Empirical Software Engineering
  
 ### Google Scholar
-[Direct link] to Google scholar page.
+[Direct link] to Google Scholar page.
 
 [Direct link]: https://scholar.google.com/citations?user=XSZRxOEAAAAJ
 
@@ -38,6 +38,7 @@ Data Science, AI and SE, Mining Software Repositories, Empirical Software Engine
 
 
 #### IEEE Transactions on Software Engineering
+1. Fangcheng Qiu, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Gang Chen, Xinyu Wang.  "Vulnerability Detection via Multiple-Graph-Based Code Representation".  IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 1. Junxiao Han, Jiahao Zhang, David Lo, <strong>Xin Xia</strong>, Shuiguang Deng,  Minghui Wu. "Understanding Newcomers’ Onboarding Process in Deep Learning Projects". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 1. Yanming Yang, Xing Hu, Zhipeng Gao, Jinfu Chen, Chao Ni, <strong>Xin Xia</strong>,   David Lo. "Federated Learning for Software Engineering: A
 Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
