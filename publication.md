@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (130)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (131)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (178)</strong>: ICSE * 28, ASE * 22, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (181)</strong>: ICSE * 28, ASE * 25, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -16,13 +16,15 @@ permalink: /publication/
 
 ## 2025
 
-177. Junkai Chen, Zhiyuan Pan, Xing Hu, Zhenhao Li, Ge Li,  <strong>Xin Xia</strong>. "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?" . ICSE 2025, Accepted as a Full Paper <br />
+177. Junkai Chen, Zhiyuan Pan, Xing Hu, Zhenhao Li, Ge Li,  <strong>Xin Xia</strong>. "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?". ICSE 2025, Accepted as a Full Paper <br />
 
 176. Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, Xing Hu,  <strong>Xin Xia</strong>, Jianling Sun. "Towards Better Answers: Automated Stack Overflow Post Updating". ICSE 2025, Accepted as a Full Paper <br />
 
 ## 2024
 
 ### Journal Papers  
+
+131. Jiachi Chen, Jiang Hu, <strong>Xin Xia</strong>, David Lo, John Grundy, Zhipeng Gao, Ting Chen. "Angels or demons: investigating and detecting decentralized financial traps on ethereum smart contracts". In Automated Software Engineering (ASEJ), Accepted <br />
 
 130. Xunzhu Tang, Haoye Tian, Pingfan Kong, Saad Ezzini, Kui Liu, <strong>Xin Xia</strong>, Jacques Klein, Tegawendé F Bissyande. "App Review Driven Collaborative Bug Finding". In  Empirical Software Engineering (EMSE), Accepted <br />
 
@@ -39,6 +41,12 @@ permalink: /publication/
 Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 ### Conference Papers (Full Papers)
+
+181. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li.  "REACT: IR-Level Patch Presence Test for Binary". ASE 2024: Accepted as a Full Paper <br />
+
+180. Xiaoy Yu, Zexian Zhang, Feifei Niu, Xing Hu, <strong>Xin Xia</strong>, John Grundy. "What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective". ASE 2024: Accepted as a Full Paper <br />
+
+179. Mouxiang Chen, Zhongxin Liu, He Tao, Yusu Hong, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests”. ASE 2024: Accepted as a Full Paper <br />
 
 178. Tingwei Zhu, Tongtong Xu, Kui Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Tian Zhang, David Lo。  "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities".ICSME 2024: Accepted as a Full paper <br />
 
