@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (131)</strong>: IEEE Transactions on Software Engineering * 39,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (132)</strong>: IEEE Transactions on Software Engineering * 40,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (181)</strong>: ICSE * 28, ASE * 25, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -23,6 +23,8 @@ permalink: /publication/
 ## 2024
 
 ### Journal Papers  
+
+132. Fangcheng Qiu, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Gang Chen, Xinyu Wang.  "Vulnerability Detection via Multiple-Graph-Based Code Representation".  IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 
 131. Jiachi Chen, Jiang Hu, <strong>Xin Xia</strong>, David Lo, John Grundy, Zhipeng Gao, Ting Chen. "Angels or demons: investigating and detecting decentralized financial traps on ethereum smart contracts". In Automated Software Engineering (ASEJ), Accepted <br />
 
