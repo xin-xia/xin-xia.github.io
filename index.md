@@ -180,6 +180,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ASE
+1. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li.  "REACT: IR-Level Patch Presence Test for Binary". ASE 2024: Accepted as a Full Paper <br />
+1. Xiaoy Yu, Zexian Zhang, Feifei Niu, Xing Hu, <strong>Xin Xia</strong>, John Grundy. "What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective". ASE 2024: Accepted as a Full Paper <br />
+1. Mouxiang Chen, Zhongxin Liu, He Tao, Yusu Hong, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests”. ASE 2024: Accepted as a Full Paper <br />
 1. Xing Hu, Zhuang Liu, <strong>Xin Xia</strong>, Zhongxin Liu, Tongtong Xu, Xiaohu Yang. Identify and Update Test Cases when Production Code Changes: A Transformer-based Approach. ASE 2023: Accepted as a Research Full Paper. <br />
 1. Zhenhao Li, An Ran Chen, Xing Hu, <strong>Xin Xia</strong>, Tse-Hsun (Peter) Chen, Weiyi Shang.  Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages. ASE 2023: Accepted as a Research Full Paper. <br />
 1. Lingxiao Tang, Lingfeng Bao, <strong>Xin Xia</strong>, Zhongdong Huang.  Neural SZZ Algorithm. ASE 2023: Accepted as a Research Full Paper. <br />
