@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (132)</strong>: IEEE Transactions on Software Engineering * 40,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (181)</strong>: ICSE * 28, ASE * 25, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (182)</strong>: ICSE * 28, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -43,6 +43,8 @@ permalink: /publication/
 Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />     
 
 ### Conference Papers (Full Papers)
+
+182. Jia Feng, Jiachen Liu, Cuiyun Gao, Chun Yong Chong, Chaozheng Wang, Shan Gao, <strong>Xin Xia</strong>. "ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code". ASE 2024: Accepted as a Full Paper <br />
 
 181. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li.  "REACT: IR-Level Patch Presence Test for Binary". ASE 2024: Accepted as a Full Paper <br />
 
