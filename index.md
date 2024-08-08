@@ -181,6 +181,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ASE
+1. Jia Feng, Jiachen Liu, Cuiyun Gao, Chun Yong Chong, Chaozheng Wang, Shan Gao, <strong>Xin Xia</strong>. "ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code". ASE 2024: Accepted as a Full Paper <br />
 1. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li.  "REACT: IR-Level Patch Presence Test for Binary". ASE 2024: Accepted as a Full Paper <br />
 1. Xiaoy Yu, Zexian Zhang, Feifei Niu, Xing Hu, <strong>Xin Xia</strong>, John Grundy. "What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective". ASE 2024: Accepted as a Full Paper <br />
 1. Mouxiang Chen, Zhongxin Liu, He Tao, Yusu Hong, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests”. ASE 2024: Accepted as a Full Paper <br />
