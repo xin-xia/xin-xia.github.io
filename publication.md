@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (132)</strong>: IEEE Transactions on Software Engineering * 40,  ACM Transactions on Software Engineering and Methodology * 28, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (134)</strong>: IEEE Transactions on Software Engineering * 40,  ACM Transactions on Software Engineering and Methodology * 30, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (182)</strong>: ICSE * 28, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -23,6 +23,10 @@ permalink: /publication/
 ## 2024
 
 ### Journal Papers  
+
+134. Jianhang Xiang, Zhipeng Gao, Lingfeng Bao, Xing Hu, Jiayuan Chen,  <strong>Xin Xia</strong>. "Automating Comment Generation for Smart Contract from Bytecode".  In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+
+133. Xiao Yu, Guangcheng Lin, Xing Hu, Jack Keung, <strong>Xin Xia</strong>. "Less is More: Unlocking Semi-Supervised Deep Learning for Vulnerability Detection".  In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 132. Fangcheng Qiu, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Gang Chen, Xinyu Wang.  "Vulnerability Detection via Multiple-Graph-Based Code Representation".  IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 
@@ -52,7 +56,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 179. Mouxiang Chen, Zhongxin Liu, He Tao, Yusu Hong, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests”. ASE 2024: Accepted as a Full Paper <br />
 
-178. Tingwei Zhu, Tongtong Xu, Kui Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Tian Zhang, David Lo。  "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities".ICSME 2024: Accepted as a Full paper <br />
+178. Tingwei Zhu, Tongtong Xu, Kui Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Tian Zhang, David Lo。  "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities".ICSME 2024: Accepted as a Full paper   (<strong>IEEE TCSE Best Student Paper Award</strong>) <br />
 
 175. Zhipeng Xue, Zhipeng Gao, Shaohua Wang, Xing Hu,  <strong>Xin Xia</strong>, Shanping Li. "SelfPiCo: Self-Guided Partial Code Execution with LLMs". ISSTA 2024, Accepted as a Full Paper <br />
 
