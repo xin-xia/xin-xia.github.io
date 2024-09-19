@@ -3,6 +3,8 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
+
+24.  <strong>IEEE TCSE Best Student Paper Award </strong>. 40th International Conference on Software Maintenance and Evolution (ICSME 2024), October 2024.  <br />
 23. <strong>MSR FOSS Impact Paper Award</strong>. 21st International Conference on Mining Software Repositories （MSR 2024）， April 2024. <br />
 
 22. <strong>ACM SIGSOFT Distinguished Paper Award</strong>. 21st International Conference on Mining Software Repositories （MSR 2024）， April 2024. <br />
