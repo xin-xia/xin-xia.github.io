@@ -56,7 +56,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 179. Mouxiang Chen, Zhongxin Liu, He Tao, Yusu Hong, David Lo, <strong>Xin Xia</strong>, Jianling Sun. "B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests”. ASE 2024: Accepted as a Full Paper <br />
 
-178. Tingwei Zhu, Tongtong Xu, Kui Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Tian Zhang, David Lo。  "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities".ICSME 2024: Accepted as a Full paper   (<strong>IEEE TCSE Best Student Paper Award</strong>) <br />
+178. Tingwei Zhu, Tongtong Xu, Kui Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Tian Zhang, David Lo。  "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities".ICSME 2024: Accepted as a Full paper   (<strong> Best Student Paper Award</strong>) <br />
 
 175. Zhipeng Xue, Zhipeng Gao, Shaohua Wang, Xing Hu,  <strong>Xin Xia</strong>, Shanping Li. "SelfPiCo: Self-Guided Partial Code Execution with LLMs". ISSTA 2024, Accepted as a Full Paper <br />
 
