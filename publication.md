@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (134)</strong>: IEEE Transactions on Software Engineering * 40,  ACM Transactions on Software Engineering and Methodology * 30, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (135)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 30, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (182)</strong>: ICSE * 28, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -23,6 +23,9 @@ permalink: /publication/
 ## 2024
 
 ### Journal Papers  
+
+135.  Xiao Yu, Lei Liu, Xing Hu, Jacky Wai Keung, Jin Liu, <strong>Xin Xia</strong>.  "Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?"  IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
+
 
 134. Jianhang Xiang, Zhipeng Gao, Lingfeng Bao, Xing Hu, Jiayuan Chen,  <strong>Xin Xia</strong>. "Automating Comment Generation for Smart Contract from Bytecode".  In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
