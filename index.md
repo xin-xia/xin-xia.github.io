@@ -134,6 +134,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 ### Top Conference Papers
 
 #### ICSE
+1. Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, <strong>Xin Xia</strong>. "Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them". ICSE 2025, Accepted as a Full Paper <br />
 1. Junkai Chen, Zhiyuan Pan, Xing Hu, Zhenhao Li, Ge Li,  <strong>Xin Xia</strong>. "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?" . ICSE 2025, Accepted as a Full Paper <br />
 1. Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, Xing Hu,  <strong>Xin Xia</strong>, Jianling Sun. "Towards Better Answers: Automated Stack Overflow Post Updating". ICSE 2025, Accepted as a Full Paper <br />
 1. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xian Zhan, David Lo, Xiaohu Yang. "PPT4J: Patch Presence Test for Java Binaries". ICSE 2024: Accepted as a  Full Paper.      <br />
