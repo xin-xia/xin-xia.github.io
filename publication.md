@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (135)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 30, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (183)</strong>: ICSE * 29, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (182)</strong>: ICSE * 28, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -16,11 +16,11 @@ permalink: /publication/
 
 ## 2025
 
-183. Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, <strong>Xin Xia</strong>. "Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them". ICSE 2025, Accepted as a Full Paper <br />
+182. Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, <strong>Xin Xia</strong>. "Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them". ICSE 2025, Accepted as a Full Paper <br />
 
 177. Junkai Chen, Zhiyuan Pan, Xing Hu, Zhenhao Li, Ge Li,  <strong>Xin Xia</strong>. "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?". ICSE 2025, Accepted as a Full Paper <br />
 
-176. Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, Xing Hu,  <strong>Xin Xia</strong>, Jianling Sun. "Towards Better Answers: Automated Stack Overflow Post Updating". ICSE 2025, Accepted as a Full Paper <br />
+ 
 
 ## 2024
 
