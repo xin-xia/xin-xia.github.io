@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (135)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 30, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (136)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 31, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (182)</strong>: ICSE * 28, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -15,6 +15,12 @@ permalink: /publication/
 <strong>Papers in Chinese (16)</strong>: 软件学报 * 13, 计算机研究与发展 * 2， 计算机学报 * 1
 
 ## 2025
+
+### Journal Papers  
+
+136. Lishui Fan, Jiakun Liu, Zhongxin Liu, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Exploring the Capabilities of LLMs for Code Change Related Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+
+### Conference Papers (Full Papers)
 
 182. Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, <strong>Xin Xia</strong>. "Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them". ICSE 2025, Accepted as a Full Paper <br />
 
