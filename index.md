@@ -83,6 +83,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Lishui Fan, Jiakun Liu, Zhongxin Liu, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Exploring the Capabilities of LLMs for Code Change Related Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Jianhang Xiang, Zhipeng Gao, Lingfeng Bao, Xing Hu, Jiayuan Chen,  <strong>Xin Xia</strong>. "Automating Comment Generation for Smart Contract from Bytecode".  In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Xiao Yu, Guangcheng Lin, Xing Hu, Jack Keung, <strong>Xin Xia</strong>. "Less is More: Unlocking Semi-Supervised Deep Learning for Vulnerability Detection".  In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Zhipeng Gao, Yanqi Su, Xing Hu, <strong>Xin Xia</strong>. "Automating TODO-dropped Methods Detection and Patching". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
