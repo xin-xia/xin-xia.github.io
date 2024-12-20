@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (137)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 32, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (183)</strong>: ICSE * 29, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 5, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (184)</strong>: ICSE * 29, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 6, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -23,6 +23,8 @@ permalink: /publication/
 136. Lishui Fan, Jiakun Liu, Zhongxin Liu, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Exploring the Capabilities of LLMs for Code Change Related Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+184. Ruiqi Wang, Jiyu Guo, Cuiyun Gao, Guodong Fan, Chun Yong Chong, <strong>Xin Xia</strong>. "Can LLMs replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering Tasks". ISSTA 2025, Accepted as a Full Paper <br />
 
 183. Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, Xing Hu, <strong>Xin Xia</strong>, Jianling Sun, "Towards Better Answers: Automated Stack Overflow Post Updating". ICSE 2025, Accepted as a Full Paper <br />
 
