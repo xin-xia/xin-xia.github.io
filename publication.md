@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (137)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 32, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (138)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 33, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (184)</strong>: ICSE * 29, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 6, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## 2025
 
 ### Journal Papers  
+
+138. Zezhou Yang, Sirong Chen, Cuiyun Gao, Zhenhao Li, Xing Hu, Kui Liu,  <strong>Xin Xia</strong>. "An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 137. Cuiyun Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Zhi Jin. "The Current Challenges of Software Engineering in the Era of Large Language Models". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
