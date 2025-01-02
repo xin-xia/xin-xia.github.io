@@ -83,6 +83,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Zezhou Yang, Sirong Chen, Cuiyun Gao, Zhenhao Li, Xing Hu, Kui Liu,  <strong>Xin Xia</strong>. "An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1.  Cuiyun Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Zhi Jin. "The Current Challenges of Software Engineering in the Era of Large Language Models". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Lishui Fan, Jiakun Liu, Zhongxin Liu, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Exploring the Capabilities of LLMs for Code Change Related Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Jianhang Xiang, Zhipeng Gao, Lingfeng Bao, Xing Hu, Jiayuan Chen,  <strong>Xin Xia</strong>. "Automating Comment Generation for Smart Contract from Bytecode".  In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
