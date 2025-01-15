@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (138)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 33, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (185)</strong>: ICSE * 29, ASE * 26, ESEC/FSE* 12, ICSME * 8, MSR * 6,  ISSTA * 6, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (187)</strong>: ICSE * 29, ASE * 26, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 6, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -25,6 +25,10 @@ permalink: /publication/
 136. Lishui Fan, Jiakun Liu, Zhongxin Liu, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Exploring the Capabilities of LLMs for Code Change Related Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+187. Yi Gao, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>.  "Automated Unit Test Refactoring". FSE 2025. Accepted as a Full Paper <br />
+
+186. Junwei Zhang, Xing Hu, Shan Gao,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". FSE 2025. Accepted as a Full Paper <br />
 
 185. Zhuang Liu, Xing Hu, Jiayuan Zhou, <strong>Xin Xia</strong>.   "From Industrial Practices to Academia: Uncovering the Gap in   Vulnerability Research and Practice". MSR 2025, Accepted as a Full Paper <br />
 
