@@ -226,6 +226,10 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 1. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automating Zero-Shot Patch Porting for Hard Forks". ISSTA 2024: Accepted as a Full Paper.   <br />
 1. Zhongxin Liu, Kui Liu,  <strong>Xin Xia</strong>, Xiaohu Yang.  "Towards More Realistic Evaluation for Neural Test Oracle Generation". The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023).     Accepted as a  Full Paper.      <br />
 1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper. <br />
+
+####  USENIX Security
+
+1. Kunpeng Zhang, Zongjie Li, Daoyuan Wu, Shuai Wang, <strong>Xin Xia</strong>. "Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators". USENIX Security 2025, , Accepted as a Full Paper <br />
  
  
 #### NeurIPS
