@@ -3,6 +3,7 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
+25.  <strong>ACM Distinguished Member</strong>. For contributions to empirical software engineering and AI for software engineering. ACM Feb 2025. <br />
 
 24.  <strong> Best Student Paper Award </strong>. 40th International Conference on Software Maintenance and Evolution (ICSME 2024), October 2024.  <br />
 23. <strong>MSR FOSS Impact Paper Award</strong>. 21st International Conference on Mining Software Repositories （MSR 2024）， April 2024. <br />
@@ -14,7 +15,7 @@ permalink: /awards/
 
 20. <strong>IEEE Computer Society TCSE  Distinguished Paper Award</strong>,  29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), March, 2022 <br />  
 
-19. <strong>ACM SIGSOFT Early Career Researcher Award</strong>,  ACM SIGSOFT, March, 2022  <br />  
+19. <strong>ACM SIGSOFT Early Career Researcher Award</strong>. For contributions to AI and SE, mining software repositories, and empirical software engineering. ACM SIGSOFT, March, 2022  <br />  
 
 18. <strong>ACM SIGSOFT Distinguished Paper Award</strong>,  36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021), November 2021 <br />  
 
