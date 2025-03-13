@@ -249,8 +249,8 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 ## Contact
 
 Xin Xia <br />
-Director<br />
-Software Engineering Application Technology Lab <br />
+Chief Expert<br />
+Software Engineering Application Technology  <br />
 Huawei, China <br />
 Email: [xin.xia@acm.org]
 
