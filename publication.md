@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (141)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 36, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (190)</strong>: ICSE * 30, ASE * 26, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 6, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (192)</strong>: ICSE * 30, ASE * 26, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -31,6 +31,10 @@ permalink: /publication/
 136. Lishui Fan, Jiakun Liu, Zhongxin Liu, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Exploring the Capabilities of LLMs for Code Change Related Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+192. Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu,  <strong>Xin Xia</strong>. " Understanding Practitioners’ Expectations on Clear Code Review Comments". ISSTA 2025, Accepted as a Full Paper <br />
+
+191. Huan Li, Bei Wang, Xing Hu,  <strong>Xin Xia</strong>. "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs". ISSTA 2025, Accepted as a Full Paper <br />
 
 190. Xuancheng Jin, Zhuang Liu, Junwei Zhang, Xing Hu, <strong>Xin Xia</strong>. "TRACETS4J: A Traceable Unit Test Generation Dataset" 2nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Accepted as a Full Paper  Accepted as a Full Paper <br />
 189. Kunpeng Zhang, Zongjie Li, Daoyuan Wu, Shuai Wang, <strong>Xin Xia</strong>. "Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators". USENIX Security 2025, , Accepted as a Full Paper <br />
@@ -126,7 +130,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 160. Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Towards More Practical Automation of Vulnerability Assessment". ICSE 2024: Accepted as a  Full Paper.      <br />
 
-159. Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, David Lo, <strong>Xin Xia</strong>, David Lo. "Code Search is All You Need? Improving Code Suggestions with Code Search". ICSE 2024: Accepted as a  Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)    <br />
+159. Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao,  <strong>Xin Xia</strong>, David Lo. "Code Search is All You Need? Improving Code Suggestions with Code Search". ICSE 2024: Accepted as a  Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)    <br />
 
 ## 2023 
 
