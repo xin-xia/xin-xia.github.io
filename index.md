@@ -152,7 +152,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 1. Yi Gao, Xing Hu, Tongtong Xu,  <strong>Xin Xia</strong>, David Lo, Xiaohu Yang. "MUT: Human-in-the-Loop Unit Test Migration". ICSE 2024: Accepted as a  Full Paper.      <br />
 1. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Yi Gao, Tongtong Xu, David Lo, Xiaohu Yang. " Exploiting Library Vulnerability via Migration Based Automating Test Generation". ICSE 2024: Accepted as a  Full Paper.      <br />
 1. Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Towards More Practical Automation of Vulnerability Assessment". ICSE 2024: Accepted as a  Full Paper.      <br />
-1. Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, David Lo, <strong>Xin Xia</strong>, David Lo. "Code Search is All You Need? Improving Code Suggestions with Code Search". ICSE 2024: Accepted as a  Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)    <br />
+1. Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, <strong>Xin Xia</strong>, David Lo. "Code Search is All You Need? Improving Code Suggestions with Code Search". ICSE 2024: Accepted as a  Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)    <br />
 1. Zejun Zhang, Zhenchang Xing,  <strong>Xin Xia</strong>, Xiwei Xu, Liming Zhu, Qinghua Lu. "Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 1.  Shengyi Pan, Lingfeng Bao, <strong>Xin Xia</strong>, David Lo, Shanping Li. "Fine-grained Commit-level Vulnerability Type Prediction By CWE Tree Structure". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
 1. Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>, Deheng Ye, Xiwei Xu, Liming Zhu. "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics". 45th ACM/IEEE International Conference on Software Engineering （ICSE 2023).  Accepted as a  Full Paper.      <br />
@@ -223,6 +223,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ISSTA
+
+1. Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu,  <strong>Xin Xia</strong>. " Understanding Practitioners’ Expectations on Clear Code Review Comments". ISSTA 2025, Accepted as a Full Paper <br />
+1. Huan Li, Bei Wang, Xing Hu,  <strong>Xin Xia</strong>. "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs". ISSTA 2025, Accepted as a Full Paper <br />
 1.  Ruiqi Wang, Jiyu Guo, Cuiyun Gao, Guodong Fan, Chun Yong Chong, <strong>Xin Xia</strong>. "Can LLMs replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering Tasks". ISSTA 2025, Accepted as a Full Paper <br />
 1. Zhipeng Xue, Zhipeng Gao, Shaohua Wang, Xing Hu,  <strong>Xin Xia</strong>, Shanping Li. "SelfPiCo: Self-Guided Partial Code Execution with LLMs". ISSTA 2024, Accepted as a Full Paper <br />
 1. Xiao Yu, Lei Liu, Xing Hu, Jacky Keung,  <strong>Xin Xia</strong>, David Lo. "Practitioners’ Expectations on Automated Test Generations". ISSTA 2024, Accepted as a Full Paper <br />
