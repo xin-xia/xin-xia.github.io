@@ -32,14 +32,14 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-196. Cuiyun Gao, <strong>Xin Xia</strong>,  Xing Hu, Zhi Jin.  "Enhancing Software Engineering with Prompt Engineering: A Strategic Roadmap". SE 2030@FSE 2025. Accepted, Accepted as a Full Paper <br />
+196. Cuiyun Gao, <strong>Xin Xia</strong>,  Xing Hu, Zhi Jin.  "Enhancing Software Engineering with Prompt Engineering: A Strategic Roadmap". SE 2030@FSE 2025.  Accepted as a Full Paper <br />
 
-195. Junwei Zhang, Xing Hu, Cuiyun Gao, <strong>Xin Xia</strong>, Shanping Li.  "Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda". SE 2030@FSE 2025. Accepted, Accepted as a Full Paper <br />
+195. Junwei Zhang, Xing Hu, Cuiyun Gao, <strong>Xin Xia</strong>, Shanping Li.  "Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda". SE 2030@FSE 2025.  Accepted as a Full Paper <br />
 
-194. Zezhou Yang, Cuiyun Gao, Zhaoqiang Guo, Zhenhao Li, Kui Liu,  <strong>Xin Xia</strong>, Yuming Zhou. "A Roadmap for Modern Code Review: Challenges and Opportunities". SE 2030@FSE 2025. Accepted, Accepted as a Full Paper <br />
+194. Zezhou Yang, Cuiyun Gao, Zhaoqiang Guo, Zhenhao Li, Kui Liu,  <strong>Xin Xia</strong>, Yuming Zhou. "A Roadmap for Modern Code Review: Challenges and Opportunities". SE 2030@FSE 2025.  Accepted as a Full Paper <br />
 
 
-193. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". SE 2030@FSE 2025. Accepted, Accepted as a Full Paper <br />
+193. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". SE 2030@FSE 2025.  Accepted as a Full Paper <br />
 
 192. Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu,  <strong>Xin Xia</strong>. " Understanding Practitioners’ Expectations on Clear Code Review Comments". ISSTA 2025, Accepted as a Full Paper <br />
 
