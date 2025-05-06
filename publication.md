@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (141)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 36, Empirical Software Engineering * 23,  ACM Computing Surveys * 2, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (142)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 36, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (196)</strong>: ICSE * 30, ASE * 26, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -17,6 +17,8 @@ permalink: /publication/
 ## 2025
 
 ### Journal Papers  
+
+142. Feifei Niu, Chuanyi Li, Kui Liu, <strong>Xin Xia</strong>,  David Lo. "When Deep Learning Meets Information Retrieval-based Bug Localization: A Survey". In ACM Computing Surveys (CSUR). Accepted.  <br />
 
 141. Xing Hu, Weixin Lin, Zhuang Liu, <strong>Xin Xia</strong>, Michael Ling, Yuan Wang, David Lo. "Towards On-The-Fly Code Performance Profiling“. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
