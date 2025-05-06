@@ -54,7 +54,7 @@ permalink: /publication/
 
 187. Yi Gao, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>.  "Automated Unit Test Refactoring". FSE 2025. Accepted as a Full Paper <br />
 
-186. Junwei Zhang, Xing Hu, Shan Gao,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". FSE 2025. Accepted as a Full Paper <br />
+186. Junwei Zhang, Xing Hu, Shan Gao,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". FSE 2025. Accepted as a Full Paper (<strong>ACM SIGSOFT Distinguished Paper Award</strong>) <br />
 
 185. Zhuang Liu, Xing Hu, Jiayuan Zhou, <strong>Xin Xia</strong>.   "From Industrial Practices to Academia: Uncovering the Gap in   Vulnerability Research and Practice". MSR 2025, Accepted as a Full Paper <br />
 
