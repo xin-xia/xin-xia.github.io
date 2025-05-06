@@ -176,7 +176,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 #### ESEC/FSE
 1. Yi Gao, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>.  "Automated Unit Test Refactoring". FSE 2025. Accepted as a Full Paper <br />
-1. Junwei Zhang, Xing Hu, Shan Gao,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". FSE 2025. Accepted as a Full Paper <br />
+1. Junwei Zhang, Xing Hu, Shan Gao,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". FSE 2025. Accepted as a Full Paper (<strong>ACM SIGSOFT Distinguished Paper Award</strong>) <br />
 1. Zhiyuan Wan, Yun Zhang, <strong>Xin Xia</strong>, Yi Jiang, David Lo. Software Architecture in Practice: Challenges and Opportunities. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
 1. Chao Ni, Xin Yin, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, <strong>Xin Xia</strong>. Distinguishing Look-Alike Innocent and Vulnerable Code by  Subtle Semantic Representation Learning and Explanation. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
 1. Bo Lin, Shangwen Wang, Zhongxin Liu, Yepang Liu,  <strong>Xin Xia</strong>, Xiaoguang Mao.  CCT5: A Code-Change-Oriented Pre-Trained Model. ESEC/FSE 2023:  Accepted as a Research Full paper.     <br />
