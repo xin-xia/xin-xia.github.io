@@ -130,6 +130,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### Science China Information Sciences 
+1.  Xiangping Chen, Xing Hu, Yuan Huang, He Jiang, Weixing Ji, Yanjie Jiang, Yanyan Jiang, Bo Liu, Hui Liu, Xiaochen Li, Xiaoli Lian, Guozhu Meng, Xin Peng, Hailong Sun, Lin Shi, Bo Wang, Chong Wang, Jiayi Wang, Tiantian Wang, Jifeng Xuan,  <strong>Xin Xia</strong>, Yibiao Yang, Yixin Yang, Li Zhang, Yuming Zhou, Lu Zhang: Deep learning-based software engineering: progress, challenges, and opportunities. Sci. China Inf. Sci. 68(1) (2025)   <br />
 1.  Kexing Chen, Lingfeng Bao, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "E-PRedictor: An Approach for Early Prediction of Pull Request Acceptance" Science China Information Sciences (SCIS), Accepted   <br /> 
 1.  Ye Wang, Junwu Chen,  Qiao Huang, <strong>Xin Xia</strong>, Bo Jiang. "Deep Learning-based Open API Recommendation for Mashup Development". In Science China Information Sciences (SCIS). Accepted.   <br />
 1.  Lingfeng Bao, Tao Li, <strong>Xin Xia</strong>, Kaiyu Zhu, Hui Li, Xiaohu Yang. "How does Working from Home Affect Developer Productivity? -- A Case Study of Baidu During the COVID-19 Pandemic". In Science China Information Sciences (SCIS). Accepted.     <br />
