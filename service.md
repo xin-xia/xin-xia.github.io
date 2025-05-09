@@ -14,13 +14,19 @@ permalink: /service/
 <li>Associate Editor  --   ACM Transactions on Software Engineering and Methodology  2023 --  </li>
 </ol>
 
+## 2026
+<ol>
+<li>Program co-Chair  --  42nd International Conference on Software Maintenance and Evolution (ICSME 2026) </li>
+</ol>
+
 ## 2025
 <ol>
   <li>General co-Chair  --  Second International Conference on AI Foundation Models and Software Engineering (Forge 2025)  </li>
   <li>Industry Challenge Track co-Chair  --  47th International Conference on Software Engineering (ICSE 2025)    </li>
 <li>Area Chair  --  47th International Conference on Software Engineering (ICSE 2025)   </li>
+   <li>Industry Showcase Track co-Chair --  40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)   </li>
   <li>Sponsorship co-Chair  --  34th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025)    </li>
-  <li>Program Committee  --  34thd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025)    </li>
+  <li>Program Committee  --  34th  ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025)    </li>
     <li>Program Committee  --  40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)   </li>
 <li>Program Committee  --  34th   ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)  </li>
 </ol>
