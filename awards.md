@@ -3,7 +3,7 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
-27.  <strong>  Distinguished Reviwers Award</strong>. 34th ACM International Conference on the Foundations of Software Engineering (FSE 2025) ， June 2025. <br />
+27.  <strong>  Distinguished Reviwer  Award</strong>. 34th ACM International Conference on the Foundations of Software Engineering (FSE 2025) ， June 2025. <br />
 
 26. <strong>ACM SIGSOFT Distinguished Paper Award</strong>. 34th ACM International Conference on the Foundations of Software Engineering (FSE 2025)， June 2025. <br />
 25.  <strong>ACM Distinguished Member</strong>. For contributions to empirical software engineering and AI for software engineering. ACM Feb 2025. <br />
