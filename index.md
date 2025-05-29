@@ -85,6 +85,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Junwei Zhang, Xing Hu, <strong>Xin Xia</strong>, Shing-Chi Cheung, Shanping Li. "Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Junkai Chen, Zhenhao Li, Xing Hu,  <strong>Xin Xia</strong>. "NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1.  Xing Hu, Weixin Lin, Zhuang Liu, <strong>Xin Xia</strong>, Michael Ling, Yuan Wang, David Lo. "Towards On-The-Fly Code Performance Profiling“. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1.  Iftekhar Ahmed, Aldeida Aleti, Haipeng Cai, Alexander Chatzigeorgiou, Pinjia He, Xing Hu, Mauro Pezze, Denys Poshyvanyk, <strong>Xin Xia</strong>.  “Artificial Intelligence for Software Engineering: The Journey so far and the Road ahead“。 In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
