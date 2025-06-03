@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/Xin.jpg" caption="" width="250px"   align="right" %}
 
-I am the Chief Expert of the Software Engineering Application Technology at Huawei, China. Prior to joining Huawei, I was  an ARC DECRA Fellow and a lecturer (equivalent to a U.S. assistant professor) at the Faculty of Information Technology, Monash University, Australia. I got my Ph.D degree in June 2014 from the College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang  and Prof. Jianling Sun. From July  2012 to January 2014, I was a visiting student of Prof. [David Lo] at Singapore Management University. I am an <strong>ACM Distinguished Member</strong> and received the <strong>ACM SIGSOFT Early Career Researcher Award</strong> in 2022. 
+I am a Qiushi Dingstinguished Professor at the College of Computer Science and Technology, Zhejiang University. Prior to joining Zhejiang University, I was a Chief Expert of the Software Engineering Application Technology (2021 - 2025) and the director of Software Engineering Application Technology Lab (2021 - 2024) at Huawei, China.  I was  an ARC DECRA Fellow and a lecturer (equivalent to a U.S. assistant professor) at the Faculty of Information Technology, Monash University, Australia. I got my Ph.D degree in June 2014 from the College of Computer Science and Technology,  Zhejiang University, China.  I was very fortunate to work under the supervision of  Prof. Xiaohu Yang  and Prof. Jianling Sun. From July  2012 to January 2014, I was a visiting student of Prof. [David Lo] at Singapore Management University. I am an <strong>ACM Distinguished Member</strong> and received the <strong>ACM SIGSOFT Early Career Researcher Award</strong> in 2022. 
 
 
 To help developers and testers improve their productivity, my current research focuses on data science for software engineering, i.e., mining and analyzing
@@ -18,7 +18,7 @@ engineering data into automated tools and new insights.
 
 ### Research Interests
 
-Data Science, AI and SE, Mining Software Repositories, Empirical Software Engineering
+AI and SE, Inteligent Software Engineering, Large Language Model,  Empirical Software Engineering
  
 ### Google Scholar
 [Direct link] to Google Scholar page.
@@ -257,9 +257,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 ## Contact
 
 Xin Xia <br />
-Chief Expert<br />
-Software Engineering Application Technology  <br />
-Huawei, China <br />
+Qiushi Distinguished Professor <br />
+College of Computer Science and Technology  <br />
+Zhejiang University, China <br />
 Email: [xin.xia@acm.org]
 
 [Gail C. Murphy]: https://blogs.ubc.ca/gailcmurphy/
