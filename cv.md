@@ -13,6 +13,9 @@ permalink: /cv/
 
 ## Professional Experience
 
+<strong> Chief Expert (May 2021 - May 2025) and Director (July 2021 - October 2024) </strong>, &nbsp;&nbsp;&nbsp;&nbsp; May  2021-- May 2025  <br /> 
+&nbsp;&nbsp;Software Engineering Application Technology Lab  <br /> 
+&nbsp;&nbsp; Huawei Technologies, China  <br /> 
 
 <strong> ARC DECRA Fellow and Lecturer</strong>, &nbsp;&nbsp;&nbsp;&nbsp; Feb  2018 -- May 2021  <br /> 
 &nbsp;&nbsp; Faculty of Information Technology  <br /> 
