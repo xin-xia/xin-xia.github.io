@@ -145,6 +145,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 ### Top Conference Papers
 
 #### ICSE
+
+1. Zhipeng Xue, Zhipeng Gao, Xing Hu, Jingyuan Chen,  <strong>Xin Xia</strong>, Shanping Li.  "Automating Just-In-Time Python Type Annotation Updating". ICSE 2026: Accepted as a Full Paper.  <br/>
+1. Ruiqi Wang, Zezhou Yang, Cuiyun Gao,  <strong>Xin Xia</strong>, Qing Liao.  "An Empirical Study of Knowledge Distillation for Code  Understanding Tasks". ICSE 2026: Accepted as a Full Paper.  <br/>
 1. Zifan Nan, Zhaoqiang Guo, Kui Liu, <strong>Xin Xia</strong>. "Test Intention Guided LLM-based Unit Test Generation". ICSE 2025, Accepted as a Full Paper <br />
 1. Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, Xing Hu, <strong>Xin Xia</strong>, Jianling Sun, "Towards Better Answers: Automated Stack Overflow Post Updating". ICSE 2025, Accepted as a Full Paper <br />
 1. Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, <strong>Xin Xia</strong>. "Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them". ICSE 2025, Accepted as a Full Paper <br />
