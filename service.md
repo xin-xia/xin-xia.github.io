@@ -4,14 +4,15 @@ title: Professoinal Services
 permalink: /service/
 ---
 <ol>
-<li>Steering Committee  --   IEEE/ACM International Conference on Mining Software Repositories (MSR) 2019 -- 2022 </li>
-<li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2022 </li>
+<li>Steering Committee  --   IEEE/ACM International Conference on Mining Software Repositories (MSR) 2019 -- 2024 </li>
+<li>Steering Committee  --   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2019 -- 2023 </li>
   <li>Steering Committee  --  International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE) 2021 -- 2024 </li>
     <li>Steering Committee  --  Asia-Pacific Symposium on Internetware, 2024--  </li>
 <li>Editorial Board Member  --   Journal of Software: Evolution and Process (JSEP) 2020 --  </li>
 <li>Editorial Board Member  --   Empirical Software Engineering 2021 --  </li>
 <li>Associate Editor  --   Automated Software Engineering 2023 --  </li>
 <li>Associate Editor  --   ACM Transactions on Software Engineering and Methodology  2023 --  </li>
+  <li>Associate Editor  --   IEEE Software  2025 --  </li>
 </ol>
 
 ## 2026
