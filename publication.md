@@ -8,11 +8,20 @@ permalink: /publication/
 
 <strong>Journal Papers (146)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 38, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (197)</strong>: ICSE * 30, ASE * 26, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (199)</strong>: ICSE * 32, ASE * 26, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
 <strong>Papers in Chinese (16)</strong>: 软件学报 * 13, 计算机研究与发展 * 2， 计算机学报 * 1
+
+
+## 2026
+
+### Conference Papers (Full Papers)
+
+199. Zhipeng Xue, Zhipeng Gao, Xing Hu, Jingyuan Chen,  <strong>Xin Xia</strong>, Shanping Li.  "Automating Just-In-Time Python Type Annotation Updating". ICSE 2026: Accepted as a Full Paper.  <br/>
+
+198. Ruiqi Wang, Zezhou Yang, Cuiyun Gao,  <strong>Xin Xia</strong>, Qing Liao.  "An Empirical Study of Knowledge Distillation for Code  Understanding Tasks". ICSE 2026: Accepted as a Full Paper.  <br/>
 
 ## 2025
 
@@ -41,6 +50,8 @@ permalink: /publication/
 136. Lishui Fan, Jiakun Liu, Zhongxin Liu, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Exploring the Capabilities of LLMs for Code Change Related Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+
 
 197. Siqi Wang, Xing Hu, Bei Wang, Wenxin Yao, <strong>Xin Xia</strong>, Xinyu Wang. "Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs". ICSME 2025: Accepted as a Full Paper <br/>
 
