@@ -3,7 +3,7 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
-
+30.  <strong>  Most Influential Paper Award </strong>, for paper Deep Learning for Just-in-Time Defect Prediction published in QRS 2015.  <br />
 29. <strong>   Author Service Award  </strong>, for contributions to Empirical Software Engineering, Springer Nature, May 2025.  <br />
 28. <strong>  Editorial Contribution Award</strong>, for contributions to Automated Software Engineering, Springer Nature, May 2025.  <br />
 27.  <strong>  Distinguished Reviwer  Award</strong>. 34th ACM International Conference on the Foundations of Software Engineering (FSE 2025)， June 2025. <br />
