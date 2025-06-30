@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professoinal Services
+title: Professional Services
 permalink: /service/
 ---
 <ol>
@@ -18,6 +18,8 @@ permalink: /service/
 ## 2026
 <ol>
 <li>Program co-Chair  --  42nd International Conference on Software Maintenance and Evolution (ICSME 2026) </li>
+  <li>Program co-Chair  -- 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026) </li>
+   <li>Program Committee  --  35th  ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2026)    </li>
 </ol>
 
 ## 2025
@@ -26,8 +28,8 @@ permalink: /service/
   <li>Industry Challenge Track co-Chair  --  47th International Conference on Software Engineering (ICSE 2025)    </li>
 <li>Area Chair  --  47th International Conference on Software Engineering (ICSE 2025)   </li>
    <li>Industry Showcase Track co-Chair --  40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)   </li>
-  <li>Sponsorship co-Chair  --  34th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025)    </li>
-  <li>Program Committee  --  34th  ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025)    </li>
+  <li>Sponsorship co-Chair  --  34th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2025) （Research Track， Industry Track）   </li>
+  <li>Program Committee  --  34th  ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2025)    </li>
     <li>Program Committee  --  40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)   </li>
 <li>Program Committee  --  34th   ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)  </li>
 </ol>
@@ -38,7 +40,7 @@ permalink: /service/
 <li>Software Engineering in Society (SEIS) co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
 <li>Industry Challenge Track co-Chair  --  46th International Conference on Software Engineering (ICSE 2024)    </li>
 <li>Program Committee  --  46th International Conference on Software Engineering (ICSE 2024) (Research Track, NIER Track)  </li>
-<li>Program Committee  --  33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2024) （Research Track， Industry Track, IVR Track）   </li>
+<li>Program Committee  --  33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2024) （Research Track， Industry Track, IVR Track）   </li>
 <li>Program Committee  --  33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)    </li>
 </ol>
 
