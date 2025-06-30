@@ -897,7 +897,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
     
 27. <strong>Xin Xia</strong>, David Lo, Xinyu Wang, Xiaohu Yang. "Who Should Review This Change? Putting Text and File Location Analyses Together for More Accurate Recommendations''.  31st International Conference on Software Maintenance and Evolution (ICSME 2015). Accepted as a Full Paper.  <a href="icsme15.pdf">[PDF]</a>  <br />
  
-26.  Xinli Yang, David Lo, <strong>Xin Xia</strong>,  Yun Zhang, Jianling Sun. ``Deep Learning for Just-In-Time Defect Prediction''.  IEEE International Conference on Software Quality, Reliability, and Security (QRS 2015). Accepted as a Full Paper. <a href="qrs15.pdf">[PDF]</a>  <br />
+26.  Xinli Yang, David Lo, <strong>Xin Xia</strong>,  Yun Zhang, Jianling Sun. ``Deep Learning for Just-In-Time Defect Prediction''.  IEEE International Conference on Software Quality, Reliability, and Security (QRS 2015). Accepted as a Full Paper. <a href="qrs15.pdf">[PDF]</a>  (<strong>  Most Influential Paper Award </strong>)  <br />
  
 25. Weiqin Zou,  <strong>Xin Xia</strong>,  Weiqiang Zhang,  Zhenyu Chen,  and David Lo. An Empirical Study of Bug Fixing Rate. The 39th Annual International Computers, Software & Applications Conference (COMPSAC 2015). Accepted as a Full Paper.  <a href="compsac151.pdf">[PDF]</a> <br />
  
