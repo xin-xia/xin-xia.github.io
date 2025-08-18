@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (146)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 38, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (199)</strong>: ICSE * 32, ASE * 26, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (201)</strong>: ICSE * 32, ASE * 28, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -51,7 +51,9 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
+201. Xiao Yu, Haoxuan Chen, Lei Liu, Xing Hu, Jacky Keung, <strong>Xin Xia</strong>, Shanping Li.  "RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation". ASE 2025: Accepted as a Full Paper <br />
 
+200. Lishui Fan, Zhongxin Liu, Haoye Wang, Lingfeng Bao, <strong>Xin Xia</strong>, Shanping Li.  "FGIT: Fault-Guided Fine-Tuning for Code Generation". ASE 2025: Accepted as a Full Paper <br />
 
 197. Siqi Wang, Xing Hu, Bei Wang, Wenxin Yao, <strong>Xin Xia</strong>, Xinyu Wang. "Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs". ICSME 2025: Accepted as a Full Paper <br/>
 
