@@ -51,7 +51,7 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-201. Xiao Yu, Haoxuan Chen, Lei Liu, Xing Hu, Jacky Keung, <strong>Xin Xia</strong>, Shanping Li.  "RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation". ASE 2025: Accepted as a Full Paper <br />
+201. Xiao Yu, Haoxuan Chen, Lei Liu, Xing Hu, Jacky Keung, <strong>Xin Xia</strong>.  "RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation". ASE 2025: Accepted as a Full Paper <br />
 
 200. Lishui Fan, Zhongxin Liu, Haoye Wang, Lingfeng Bao, <strong>Xin Xia</strong>, Shanping Li.  "FGIT: Fault-Guided Fine-Tuning for Code Generation". ASE 2025: Accepted as a Full Paper <br />
 
