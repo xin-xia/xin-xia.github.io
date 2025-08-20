@@ -85,6 +85,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Menghan Wu, Yukai Zhao, Xing Hu, Xian Zhan, Shanping Li, <strong>Xin Xia</strong>. "More than Meets the Eye: On Evaluating SBOM Tools in Java". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Junwei Zhang, Xing Hu, <strong>Xin Xia</strong>, Shing-Chi Cheung, Shanping Li. "Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Junkai Chen, Zhenhao Li, Xing Hu,  <strong>Xin Xia</strong>. "NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1.  Xing Hu, Weixin Lin, Zhuang Liu, <strong>Xin Xia</strong>, Michael Ling, Yuan Wang, David Lo. "Towards On-The-Fly Code Performance Profiling“. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
