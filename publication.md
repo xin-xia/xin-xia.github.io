@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (147)</strong>: IEEE Transactions on Software Engineering * 41,  ACM Transactions on Software Engineering and Methodology * 39, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (148)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 39, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (201)</strong>: ICSE * 32, ASE * 28, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -26,6 +26,9 @@ permalink: /publication/
 ## 2025
 
 ### Journal Papers  
+
+
+148. Qiheng Mao, Zhenhao Li, Xing Hu, Kui Liu, <strong>Xin Xia</strong>, Jianling Sun. "Towards Explainable Vulnerability Detection with Large Language Models". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 
 147. Menghan Wu, Yukai Zhao, Xing Hu, Xian Zhan, Shanping Li, <strong>Xin Xia</strong>. "More than Meets the Eye: On Evaluating SBOM Tools in Java". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
