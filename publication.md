@@ -12,7 +12,7 @@ permalink: /publication/
 
 <strong>Book Chapter (3) </strong> 
 
-<strong>Papers in Chinese (16)</strong>: 软件学报 * 13, 计算机研究与发展 * 2， 计算机学报 * 1
+<strong>Papers in Chinese (15)</strong>: 软件学报 * 12, 计算机研究与发展 * 2， 计算机学报 * 1
 
 
 ## 2026
@@ -346,7 +346,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 1. 刘忠鑫,  唐郅杰,  <strong>夏鑫</strong>， 李善平. "代码变更表示学习及其应用研究进展". 软件学报， 2022， 已录用   <br />
 
-1. 徐同同,  刘逵， <strong>夏鑫</strong>. "漏洞自动修复研究综述". 软件学报， 2022， 已录用   <br />
+ 
  
 
 ## 2021
