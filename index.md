@@ -204,7 +204,10 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ASE
-
+1. Qi Zhan, Xing Hu, Yuanyi Lin, Tongtong Xu, <strong>Xin Xia</strong>, Shanping Li.  "When AllClose Fails: Round-Off Error Estimation for Deep Learning Programs". ASE 2025: Accepted as a Full Paper <br />
+1. Xiaogang Zhu,  Enze Dai, Xiaotao Feng, Shaohua Wang, <strong>Xin Xia</strong>, Sheng Wen, Kwok-Yan Lam, Yang Xiang. "WingMuzz: Blackbox Testing of IoT Protocols via Two-dimensional Fuzzing Schedule". ASE 2025: Accepted as a Full Paper <br />
+1. Xin Zhou, Kisub Kim, Ting Zhang, Martin Weyssow, Luis F. Gomes, Guang Yang, Kui Liu, <strong>Xin Xia</strong>, David Lo. "SE-Jury: An LLM-as-Ensemble-Judge Metric for Narrowing the Gap with Human Evaluation in SE". ASE 2025: Accepted as a Full Paper <br />
+1. Yukai Zhao, Menghan Wu, Xing Hu, <strong>Xin Xia</strong>. "HFUZZER: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing". ASE 2025: Accepted as a Full Paper <br />
 1. Xiao Yu, Haoxuan Chen, Lei Liu, Xing Hu, Jacky Keung, <strong>Xin Xia</strong>.  "RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation". ASE 2025: Accepted as a Full Paper <br />
 1. Lishui Fan, Zhongxin Liu, Haoye Wang, Lingfeng Bao, <strong>Xin Xia</strong>, Shanping Li.  "FGIT: Fault-Guided Fine-Tuning for Code Generation". ASE 2025: Accepted as a Full Paper <br />
 1. Jia Feng, Jiachen Liu, Cuiyun Gao, Chun Yong Chong, Chaozheng Wang, Shan Gao, <strong>Xin Xia</strong>. "ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code". ASE 2024: Accepted as a Full Paper <br />
