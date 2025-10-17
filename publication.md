@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (148)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 39, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (207)</strong>: ICSE * 32, ASE * 32, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (210)</strong>: ICSE * 35, ASE * 32, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -18,6 +18,14 @@ permalink: /publication/
 ## 2026
 
 ### Conference Papers (Full Papers)
+
+210. Zhipeng Xue, Zhipeng Gao, Tongtong Xu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision". ICSE 2026: Accepted as a Full Paper.  <br/>
+
+209. Zirui Chen, Zhipeng Xue, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities". ICSE 2026: Accepted as a Full Paper.  <br/>
+
+
+208. Shuhan Liu, Xing Hu, Kerui Huang, Xiaohu Yang, David Lo, <strong>Xin Xia</strong>. "CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing". ICSE 2026: Accepted as a Full Paper.  <br/>
+
 
 199. Zhipeng Xue, Zhipeng Gao, Xing Hu, Jingyuan Chen,  <strong>Xin Xia</strong>, Shanping Li.  "Automating Just-In-Time Python Type Annotation Updating". ICSE 2026: Accepted as a Full Paper.  <br/>
 
