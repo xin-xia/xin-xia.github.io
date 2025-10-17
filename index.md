@@ -147,7 +147,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 ### Top Conference Papers
 
 #### ICSE
-
+1. Zhipeng Xue, Zhipeng Gao, Tongtong Xu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision". ICSE 2026: Accepted as a Full Paper.  <br/>
+1. Zirui Chen, Zhipeng Xue, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities". ICSE 2026: Accepted as a Full Paper.  <br/>
+1. Shuhan Liu, Xing Hu, Kerui Huang, Xiaohu Yang, David Lo, <strong>Xin Xia</strong>. "CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing". ICSE 2026: Accepted as a Full Paper.  <br/>
 1. Zhipeng Xue, Zhipeng Gao, Xing Hu, Jingyuan Chen,  <strong>Xin Xia</strong>, Shanping Li.  "Automating Just-In-Time Python Type Annotation Updating". ICSE 2026: Accepted as a Full Paper.  <br/>
 1. Ruiqi Wang, Zezhou Yang, Cuiyun Gao,  <strong>Xin Xia</strong>, Qing Liao.  "An Empirical Study of Knowledge Distillation for Code  Understanding Tasks". ICSE 2026: Accepted as a Full Paper.  <br/>
 1. Zifan Nan, Zhaoqiang Guo, Kui Liu, <strong>Xin Xia</strong>. "Test Intention Guided LLM-based Unit Test Generation". ICSE 2025, Accepted as a Full Paper <br />
