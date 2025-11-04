@@ -69,7 +69,7 @@ permalink: /publication/
 
 205. Qi Zhan, Xing Hu, Yuanyi Lin, Tongtong Xu, <strong>Xin Xia</strong>, Shanping Li.  "When AllClose Fails: Round-Off Error Estimation for Deep Learning Programs". ASE 2025: Accepted as a Full Paper <br />
 
-204. Xiaogang Zhu,  Enze Dai, Xiaotao Feng, Shaohua Wang, <strong>Xin Xia</strong>, Sheng Wen, Kwok-Yan Lam, Yang Xiang. "WingMuzz: Blackbox Testing of IoT Protocols via Two-dimensional Fuzzing Schedule". ASE 2025: Accepted as a Full Paper <br />
+204. Xiaogang Zhu,  Enze Dai, Xiaotao Feng, Shaohua Wang, <strong>Xin Xia</strong>, Sheng Wen, Kwok-Yan Lam, Yang Xiang. "WingMuzz: Blackbox Testing of IoT Protocols via Two-dimensional Fuzzing Schedule". ASE 2025: Accepted as a Full Paper (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)<br />
 
 203. Xin Zhou, Kisub Kim, Ting Zhang, Martin Weyssow, Luis F. Gomes, Guang Yang, Kui Liu, <strong>Xin Xia</strong>, David Lo. "SE-Jury: An LLM-as-Ensemble-Judge Metric for Narrowing the Gap with Human Evaluation in SE". ASE 2025: Accepted as a Full Paper <br />
 
