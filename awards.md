@@ -3,6 +3,8 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
+
+31. <strong>ACM SIGSOFT Distinguished Paper Award</strong>. 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), November 2025. <br />
 30.  <strong>  Most Influential Paper Award </strong>, for paper Deep Learning for Just-in-Time Defect Prediction published in QRS 2015.  <br />
 29. <strong>   Author Service Award  </strong>, for contributions to Empirical Software Engineering, Springer Nature, May 2025.  <br />
 28. <strong>  Editorial Contribution Award</strong>, for contributions to Automated Software Engineering, Springer Nature, May 2025.  <br />
