@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (148)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 39, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (210)</strong>: ICSE * 35, ASE * 32, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (207)</strong>: ICSE * 35, ASE * 32, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -19,7 +19,7 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-210. Zhipeng Xue, Zhipeng Gao, Tongtong Xu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision". ICSE 2026: Accepted as a Full Paper.  <br/>
+207. Zhipeng Xue, Zhipeng Gao, Tongtong Xu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision". ICSE 2026: Accepted as a Full Paper.  <br/>
 
 209. Zirui Chen, Zhipeng Xue, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities". ICSE 2026: Accepted as a Full Paper.  <br/>
 
@@ -35,6 +35,7 @@ permalink: /publication/
 
 ### Journal Papers  
 
+149. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "CATCODER: Repository-Level Code Generation with Relevant Code and Type Context". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 148. Qiheng Mao, Zhenhao Li, Xing Hu, Kui Liu, <strong>Xin Xia</strong>, Jianling Sun. "Towards Explainable Vulnerability Detection with Large Language Models". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 
@@ -81,15 +82,6 @@ permalink: /publication/
 
 197. Siqi Wang, Xing Hu, Bei Wang, Wenxin Yao, <strong>Xin Xia</strong>, Xinyu Wang. "Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs". ICSME 2025: Accepted as a Full Paper <br/>
 
-196. Cuiyun Gao, <strong>Xin Xia</strong>,  Xing Hu, Zhi Jin.  "Enhancing Software Engineering with Prompt Engineering: A Strategic Roadmap". SE 2030@FSE 2025.  Accepted as a Full Paper <br />
-
-195. Junwei Zhang, Xing Hu, Cuiyun Gao, <strong>Xin Xia</strong>, Shanping Li.  "Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda". SE 2030@FSE 2025.  Accepted as a Full Paper <br />
-
-194. Zezhou Yang, Cuiyun Gao, Zhaoqiang Guo, Zhenhao Li, Kui Liu,  <strong>Xin Xia</strong>, Yuming Zhou. "A Roadmap for Modern Code Review: Challenges and Opportunities". SE 2030@FSE 2025.  Accepted as a Full Paper <br />
-
-
-193. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". SE 2030@FSE 2025.  Accepted as a Full Paper <br />
-
 192. Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu,  <strong>Xin Xia</strong>. " Understanding Practitioners’ Expectations on Clear Code Review Comments". ISSTA 2025, Accepted as a Full Paper <br />
 
 191. Huan Li, Bei Wang, Xing Hu,  <strong>Xin Xia</strong>. "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs". ISSTA 2025, Accepted as a Full Paper <br />
@@ -113,7 +105,10 @@ permalink: /publication/
 
 177. Junkai Chen, Zhiyuan Pan, Xing Hu, Zhenhao Li, Ge Li,  <strong>Xin Xia</strong>. "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?". ICSE 2025, Accepted as a Full Paper <br />
 
- 
+### Conference Papers (Short Papers)
+
+ 206. Mengyuan Liu, Zexun Zhan, Cuiyun Gao, Yujia Chen, Guoai Xu, Chun Yong Chong, Shan Gao,  <strong>Xin Xia</strong>.  "Multi-view Leaderboard: Towards Evaluating the Code Intelligence of LLMs From Multiple Views".  APSEC 2025: Accepted as a Tool Paper   (<strong>Best Tool Demo Paper Award</strong>) <br />
+
 
 ## 2024
 
