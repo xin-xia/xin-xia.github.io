@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (148)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 39, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (207)</strong>: ICSE * 35, ASE * 32, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (208)</strong>: ICSE * 35, ASE * 32, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -63,6 +63,8 @@ permalink: /publication/
 136. Lishui Fan, Jiakun Liu, Zhongxin Liu, David Lo, <strong>Xin Xia</strong>, Shanping Li. "Exploring the Capabilities of LLMs for Code Change Related Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+208. 	Feng Luo, Kexing Ji, Cuiyun Gao, Shuzheng Gao, Jia Feng, Kui Liu, <strong>Xin Xia</strong>, Michael R. Lyu. "Integrating Rules and Semantics for LLM-Based C-to-Rust Translation". ICSME 2025: 685-696 (Industry track) <br />
 
 207. Yongqian Chen, Junwei Zhang, Xing Hu, <strong>Xin Xia</strong>. “Multi-Stage Generation of Rust Unit Tests with LLMs". APSEC 2025: Accepted as a Full Paper <br />
 
