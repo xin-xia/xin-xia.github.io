@@ -15,6 +15,13 @@ permalink: /service/
   <li>Associate Editor  --   IEEE Software  2025 --  </li>
 </ol>
 
+## 2028
+
+<ol>
+<li>General co-Chair  --  43rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2028) </li>
+  
+</ol>
+
 ## 2026
 <ol>
 <li>Program co-Chair  --  42nd International Conference on Software Maintenance and Evolution (ICSME 2026) </li>
