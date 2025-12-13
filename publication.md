@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (148)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 39, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (150)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 41, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (208)</strong>: ICSE * 35, ASE * 32, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -34,6 +34,8 @@ permalink: /publication/
 ## 2025
 
 ### Journal Papers  
+
+150. Xing Hu, Feifei Niu, Junkai Chen, Xin Zhou, Junwei Zhang, Junda He, <strong>Xin Xia</strong>, David Lo. "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 149. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "CATCODER: Repository-Level Code Generation with Relevant Code and Type Context". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
