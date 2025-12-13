@@ -86,6 +86,8 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+
+1. Xing Hu, Feifei Niu, Junkai Chen, Xin Zhou, Junwei Zhang, Junda He, <strong>Xin Xia</strong>, David Lo. "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "CATCODER: Repository-Level Code Generation with Relevant Code and Type Context". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Menghan Wu, Yukai Zhao, Xing Hu, Xian Zhan, Shanping Li, <strong>Xin Xia</strong>. "More than Meets the Eye: On Evaluating SBOM Tools in Java". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Junwei Zhang, Xing Hu, <strong>Xin Xia</strong>, Shing-Chi Cheung, Shanping Li. "Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
