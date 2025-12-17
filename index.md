@@ -150,6 +150,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 ### Top Conference Papers
 
 #### ICSE
+1. Yi Gao, Xing Hu, Tongtong Xu, Jiali Zhao, Xiaohu Yang, <strong>Xin Xia</strong>. "Depradar: Agentic Coordination for Context-Aware Defect Impact Analysis in Deep Learning Libraries". ICSE 2026: Accepted as a Full Paper.  <br/>
 1. Zhipeng Xue, Zhipeng Gao, Tongtong Xu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision". ICSE 2026: Accepted as a Full Paper.  <br/>
 1. Zirui Chen, Zhipeng Xue, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities". ICSE 2026: Accepted as a Full Paper.  <br/>
 1. Shuhan Liu, Xing Hu, Kerui Huang, Xiaohu Yang, David Lo, <strong>Xin Xia</strong>. "CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing". ICSE 2026: Accepted as a Full Paper.  <br/>
