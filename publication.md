@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (150)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 41, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (209)</strong>: ICSE * 36, ASE * 32, ESEC/FSE* 14, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (210)</strong>: ICSE * 36, ASE * 32, FSE* 15, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -18,6 +18,8 @@ permalink: /publication/
 ## 2026
 
 ### Conference Papers (Full Papers)
+
+210. Yi Gao,Ziyuan Zhang, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>. "IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration". FSE 2026:  Accepted as a Full Paper.  <br/>
 
 209. Yi Gao, Xing Hu, Tongtong Xu, Jiali Zhao, Xiaohu Yang, <strong>Xin Xia</strong>. "Depradar: Agentic Coordination for Context-Aware Defect Impact Analysis in Deep Learning Libraries". ICSE 2026: Accepted as a Full Paper.  <br/>
 
