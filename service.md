@@ -13,6 +13,7 @@ permalink: /service/
 <li>Associate Editor  --   Automated Software Engineering 2023 --  </li>
 <li>Associate Editor  --   ACM Transactions on Software Engineering and Methodology  2023 --  </li>
   <li>Associate Editor  --   IEEE Software  2025 --  </li>
+ <li>Associate Editor  --   International Journal of Software Engineering and Knowledge Engineering 2025 --  </li>
 </ol>
 
 ## 2028
@@ -26,7 +27,9 @@ permalink: /service/
 <ol>
 <li>Program co-Chair  --  42nd International Conference on Software Maintenance and Evolution (ICSME 2026) </li>
   <li>Program co-Chair  -- 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026) </li>
-   <li>Program Committee  --  35th  ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2026)    </li>
+   <li>Area Chair  --   41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)    </li>
+   <li>Program Committee  --  35th  ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2026)  （Research Track， Industry Track）  </li>
+<li>Program Committee  --  35th   ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)  </li>
 </ol>
 
 ## 2025
