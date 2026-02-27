@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (151)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 42, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (154)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 45, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (210)</strong>: ICSE * 36, ASE * 32, FSE* 15, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -18,6 +18,13 @@ permalink: /publication/
 ## 2026
 
 ### Journal Papers  
+
+154. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang.  "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+
+153. Junwei Zhang, Xing Hu, Cuiyun Gao, <strong>Xin Xia</strong>, Shanping Li.  "Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+
+152. Zezhou Yang, Cuiyun Gao, Zhaoqiang Guo, Zhenhao Li, Kui Liu, <strong>Xin Xia</strong>, Yuming Zhou. "A Roadmap for Modern Code Review: Challenges and Opportunities". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+
 151. Zhipeng Xue, Xiaoting Zhang, Zhipeng Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Shanping Li. "Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
