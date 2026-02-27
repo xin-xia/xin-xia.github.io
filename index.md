@@ -86,6 +86,10 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+
+1. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang.  "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+1. Junwei Zhang, Xing Hu, Cuiyun Gao, <strong>Xin Xia</strong>, Shanping Li.  "Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
+1. Zezhou Yang, Cuiyun Gao, Zhaoqiang Guo, Zhenhao Li, Kui Liu, <strong>Xin Xia</strong>, Yuming Zhou. "A Roadmap for Modern Code Review: Challenges and Opportunities". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Zhipeng Xue, Xiaoting Zhang, Zhipeng Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Shanping Li. "Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Xing Hu, Feifei Niu, Junkai Chen, Xin Zhou, Junwei Zhang, Junda He, <strong>Xin Xia</strong>, David Lo. "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Zhiyuan Pan, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "CATCODER: Repository-Level Code Generation with Relevant Code and Type Context". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
