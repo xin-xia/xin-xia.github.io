@@ -86,7 +86,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
-
+1. Feifei Niu, Chuanyi Li, Haosheng Zuo, Jionghan Wu, <strong>Xin Xia</strong>. "Feature Request Analysis and Processing: Tasks, Techniques, and Trends". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang.  "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Junwei Zhang, Xing Hu, Cuiyun Gao, <strong>Xin Xia</strong>, Shanping Li.  "Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Zezhou Yang, Cuiyun Gao, Zhaoqiang Guo, Zhenhao Li, Kui Liu, <strong>Xin Xia</strong>, Yuming Zhou. "A Roadmap for Modern Code Review: Challenges and Opportunities". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
