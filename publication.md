@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (154)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 45, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (155)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 46, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
 <strong>Conference Papers (210)</strong>: ICSE * 36, ASE * 32, FSE* 15, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
@@ -18,6 +18,7 @@ permalink: /publication/
 ## 2026
 
 ### Journal Papers  
+155. Feifei Niu, Chuanyi Li, Haosheng Zuo, Jionghan Wu, <strong>Xin Xia</strong>. "Feature Request Analysis and Processing: Tasks, Techniques, and Trends". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 154. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang.  "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
