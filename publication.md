@@ -42,7 +42,7 @@ permalink: /publication/
 208. Shuhan Liu, Xing Hu, Kerui Huang, Xiaohu Yang, David Lo, <strong>Xin Xia</strong>. "CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing". ICSE 2026: Accepted as a Full Paper.  <br/>
 
 
-199. Zhipeng Xue, Zhipeng Gao, Xing Hu, Jingyuan Chen,  <strong>Xin Xia</strong>, Shanping Li.  "Automating Just-In-Time Python Type Annotation Updating". ICSE 2026: Accepted as a Full Paper.  <br/>
+199. Zhipeng Xue, Zhipeng Gao, Xing Hu, Jingyuan Chen,  <strong>Xin Xia</strong>, Shanping Li.  "Automating Just-In-Time Python Type Annotation Updating". ICSE 2026: Accepted as a Full Paper. (<strong>ACM SIGSOFT Distinguished Paper Award</strong>) <br/>
 
 198. Ruiqi Wang, Zezhou Yang, Cuiyun Gao,  <strong>Xin Xia</strong>, Qing Liao.  "An Empirical Study of Knowledge Distillation for Code  Understanding Tasks". ICSE 2026: Accepted as a Full Paper.  <br/>
 
