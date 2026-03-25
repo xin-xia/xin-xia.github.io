@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (155)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 46, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (210)</strong>: ICSE * 36, ASE * 32, FSE* 15, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (214)</strong>: ICSE * 36, ASE * 32, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -29,6 +29,15 @@ permalink: /publication/
 151. Zhipeng Xue, Xiaoting Zhang, Zhipeng Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Shanping Li. "Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+214. Jia Feng, Wenjie Gan, Cuiyun Gao, Chaozheng Wang, Feng Luo, <strong>Xin Xia</strong>, Ge Li, Kui Liu. "Dependency-Guided Repository-Level C-to-Rust Translation with Reinforcement Alignment".  FSE 2025: Accepted as an Industry Paper.  <br/>
+
+213. Shengyi Pan, Zhongxin Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Mitigating Implicit Inconsistencies in Patch Porting". FSE 2025: Accepted as an Industry Paper.  <br/>
+
+212. Ziyuan Zhang, Yi Gao, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automated Knowledge-Aware Test Reuse". FSE 2026:  Accepted as a Full Paper.  <br/>
+
+
+211. Yi Gao, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>. "GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI". FSE 2026:  Accepted as a Full Paper.  <br/>
 
 210. Yi Gao,Ziyuan Zhang, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>. "IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration". FSE 2026:  Accepted as a Full Paper.  <br/>
 
