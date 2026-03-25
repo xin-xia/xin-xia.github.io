@@ -193,6 +193,8 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 1. Dehai Zhao, Zhenchang Xing, Chunyang Chen, <strong>Xin Xia</strong>,  Guoqiang Li. ``ActionNet: Vision-based Workflow Action Recognition From Programming Screencasts''. 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019). Accepted as a Full Paper.  (<strong> Nominated for the ACM SIGSOFT Distinguishied Paper Award</strong>)<br />
 
 #### ESEC/FSE
+1. Ziyuan Zhang, Yi Gao, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automated Knowledge-Aware Test Reuse". FSE 2026:  Accepted as a Full Paper.  <br/>
+1. Yi Gao, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>. "GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI". FSE 2026:  Accepted as a Full Paper.  <br/>
 1.  Yi Gao,Ziyuan Zhang, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>. "IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration". FSE 2026:  Accepted as a Full Paper.  <br/>
 1. Yi Gao, Xing Hu, Xiaohu Yang, <strong>Xin Xia</strong>.  "Automated Unit Test Refactoring". FSE 2025. Accepted as a Full Paper <br />
 1. Junwei Zhang, Xing Hu, Shan Gao,  <strong>Xin Xia</strong>, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". FSE 2025. Accepted as a Full Paper (<strong>ACM SIGSOFT Distinguished Paper Award</strong>) <br />
