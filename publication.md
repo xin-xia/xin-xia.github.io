@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (155)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 46, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (214)</strong>: ICSE * 36, ASE * 32, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 8, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (218)</strong>: ICSE * 36, ASE * 32, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 12, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -30,9 +30,20 @@ permalink: /publication/
 
 ### Conference Papers (Full Papers)
 
-214. Jia Feng, Wenjie Gan, Cuiyun Gao, Chaozheng Wang, Feng Luo, <strong>Xin Xia</strong>, Ge Li, Kui Liu. "Dependency-Guided Repository-Level C-to-Rust Translation with Reinforcement Alignment".  FSE 2025: Accepted as an Industry Paper.  <br/>
+218. Yilun Ma, Lingxiao Tang, Lin Li, Zhipeng Gao, Jiachi Chen, <strong>Xin Xia</strong>, Lingfeng Bao.  "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning". ISSTA 2025: Accepted as a Full Paper.  <br/>
 
-213. Shengyi Pan, Zhongxin Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Mitigating Implicit Inconsistencies in Patch Porting". FSE 2025: Accepted as an Industry Paper.  <br/>
+
+
+217. Shengyi Pan, Zelong Zheng, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Answer is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence". ISSTA 2026: Accepted as a Full Paper.  <br/>
+
+
+216. Yijia Li, Junkai Chen, Xing Hu, <strong>Xin Xia</strong>. "An Empirical Study of Speculative Decoding on Software Engineering Tasks". ISSTA 2026: Accepted as a Full Paper.  <br/>
+
+215. Guancheng Lin, Xiao Yu, Jacky Keung, Xing Hu, <strong>Xin Xia</strong>, Alex X. Liu.  "Don’t Use a Cannon to Kill a Fly: Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations". ISSTA 2026: Accepted as a Full Paper.  <br/>
+
+214. Jia Feng, Wenjie Gan, Cuiyun Gao, Chaozheng Wang, Feng Luo, <strong>Xin Xia</strong>, Ge Li, Kui Liu. "Dependency-Guided Repository-Level C-to-Rust Translation with Reinforcement Alignment".  FSE 2026: Accepted as an Industry Paper.  <br/>
+
+213. Shengyi Pan, Zhongxin Liu, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Mitigating Implicit Inconsistencies in Patch Porting". FSE 2026: Accepted as an Industry Paper.  <br/>
 
 212. Ziyuan Zhang, Yi Gao, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automated Knowledge-Aware Test Reuse". FSE 2026:  Accepted as a Full Paper.  <br/>
 
