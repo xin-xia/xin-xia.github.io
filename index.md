@@ -86,6 +86,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Tingwei Zhu, Zhongzhen Wen, Shangqing Liu, Yi Li, Tian Zhang, <strong>Xin Xia</strong>. "Assessing the Capability of LLMs for Deprecated API Usage Updating from Natural Language Descriptions". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Feifei Niu, Chuanyi Li, Haosheng Zuo, Jionghan Wu, <strong>Xin Xia</strong>. "Feature Request Analysis and Processing: Tasks, Techniques, and Trends". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang.  "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Junwei Zhang, Xing Hu, Cuiyun Gao, <strong>Xin Xia</strong>, Shanping Li.  "Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
@@ -252,7 +253,16 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ISSTA
+1. Yilun Ma, Lingxiao Tang, Lin Li, Zhipeng Gao, Jiachi Chen, <strong>Xin Xia</strong>, Lingfeng Bao.  "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning". ISSTA 2025: Accepted as a Full Paper.  <br/>
 
+
+
+1. Shengyi Pan, Zelong Zheng, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Answer is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence". ISSTA 2026: Accepted as a Full Paper.  <br/>
+
+
+1. Yijia Li, Junkai Chen, Xing Hu, <strong>Xin Xia</strong>. "An Empirical Study of Speculative Decoding on Software Engineering Tasks". ISSTA 2026: Accepted as a Full Paper.  <br/>
+
+1. Guancheng Lin, Xiao Yu, Jacky Keung, Xing Hu, <strong>Xin Xia</strong>, Alex X. Liu.  "Don’t Use a Cannon to Kill a Fly: Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations". ISSTA 2026: Accepted as a Full Paper.  <br/>
 1. Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu,  <strong>Xin Xia</strong>. " Understanding Practitioners’ Expectations on Clear Code Review Comments". ISSTA 2025, Accepted as a Full Paper <br />
 1. Huan Li, Bei Wang, Xing Hu,  <strong>Xin Xia</strong>. "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs". ISSTA 2025, Accepted as a Full Paper <br />
 1.  Ruiqi Wang, Jiyu Guo, Cuiyun Gao, Guodong Fan, Chun Yong Chong, <strong>Xin Xia</strong>. "Can LLMs replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering Tasks". ISSTA 2025, Accepted as a Full Paper <br />
