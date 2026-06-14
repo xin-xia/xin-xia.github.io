@@ -40,6 +40,7 @@ AI and SE, Inteligent Software Engineering, Large Language Model,  Empirical Sof
 
 
 #### IEEE Transactions on Software Engineering
+1. Yulei Zhang, Yifan Yang, Zejun Zhang, Xiaoqian Li, Kui Liu, Zhenchang Xing, <strong>Xin Xia</strong>, Lingfeng Bao. "GUIGroup: Enabling Functional Layout Grouping with Multimodal Large Language Models".  IEEE Transactions on Software Engineering (TSE), Accepted <br />
 1. Qiheng Mao, Zhenhao Li, Xing Hu, Kui Liu, <strong>Xin Xia</strong>, Jianling Sun. "Towards Explainable Vulnerability Detection with Large Language Models". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 1. Xiao Yu, Lei Liu, Xing Hu, Jacky Wai Keung, Jin Liu, <strong>Xin Xia</strong>.  "Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?"  IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 1. Fangcheng Qiu, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Gang Chen, Xinyu Wang.  "Vulnerability Detection via Multiple-Graph-Based Code Representation".  IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
@@ -86,6 +87,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Siqi Wang,  Xing Hu, Xinyu Wang, <strong>Xin Xia</strong>. “ActRef: Enhancing the Understanding of Python Code Refactoring with Action-Based Analysis”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Tingwei Zhu, Zhongzhen Wen, Shangqing Liu, Yi Li, Tian Zhang, <strong>Xin Xia</strong>. "Assessing the Capability of LLMs for Deprecated API Usage Updating from Natural Language Descriptions". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Feifei Niu, Chuanyi Li, Haosheng Zuo, Jionghan Wu, <strong>Xin Xia</strong>. "Feature Request Analysis and Processing: Tasks, Techniques, and Trends". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Zirui Chen, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang.  "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
@@ -271,6 +273,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 1. Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Automating Zero-Shot Patch Porting for Hard Forks". ISSTA 2024: Accepted as a Full Paper.   <br />
 1. Zhongxin Liu, Kui Liu,  <strong>Xin Xia</strong>, Xiaohu Yang.  "Towards More Realistic Evaluation for Neural Test Oracle Generation". The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023).     Accepted as a  Full Paper.      <br />
 1. Pavneet Singh Kochhar, <strong>Xin Xia</strong>, David Lo and Shanping Li. "Practitioners' Expectations on Automated Fault Localization".  ACM International Symposium on Software Testing and Analysis (ISSTA 2016). Accepted as a Full Paper. <br />
+
+#### OOPSLA
+1. Yan Wang, Ling Ding, Jiechen Sun, Tien Nguyen, Shaohua Wang, Aashish Yadavally, <strong>Xin Xia</strong>, Yanan Zheng. "T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics". OOPSLA 2026: Accepted as a Full Paper.  <br/>
 
 ####  USENIX Security
 
