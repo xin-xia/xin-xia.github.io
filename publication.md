@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (156)</strong>: IEEE Transactions on Software Engineering * 42,  ACM Transactions on Software Engineering and Methodology * 47, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (158)</strong>: IEEE Transactions on Software Engineering * 43,  ACM Transactions on Software Engineering and Methodology * 48, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (218)</strong>: ICSE * 36, ASE * 32, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 12, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (219)</strong>: ICSE * 36, ASE * 32, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 12, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -18,6 +18,10 @@ permalink: /publication/
 ## 2026
 
 ### Journal Papers  
+
+158. Yulei Zhang, Yifan Yang, Zejun Zhang, Xiaoqian Li, Kui Liu, Zhenchang Xing, <strong>Xin Xia</strong>, Lingfeng Bao. "GUIGroup: Enabling Functional Layout Grouping with Multimodal Large Language Models".  IEEE Transactions on Software Engineering (TSE), Accepted <br />
+
+157. Siqi Wang,  Xing Hu, Xinyu Wang, <strong>Xin Xia</strong>. “ActRef: Enhancing the Understanding of Python Code Refactoring with Action-Based Analysis”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 156. Tingwei Zhu, Zhongzhen Wen, Shangqing Liu, Yi Li, Tian Zhang, <strong>Xin Xia</strong>. "Assessing the Capability of LLMs for Deprecated API Usage Updating from Natural Language Descriptions". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
  
@@ -32,6 +36,8 @@ permalink: /publication/
 151. Zhipeng Xue, Xiaoting Zhang, Zhipeng Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Shanping Li. "Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+219. Yan Wang, Ling Ding, Jiechen Sun, Tien Nguyen, Shaohua Wang, Aashish Yadavally, <strong>Xin Xia</strong>, Yanan Zheng. "T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics". OOPSLA 2026: Accepted as a Full Paper.  <br/>
 
 218. Yilun Ma, Lingxiao Tang, Lin Li, Zhipeng Gao, Jiachi Chen, <strong>Xin Xia</strong>, Lingfeng Bao.  "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning". ISSTA 2025: Accepted as a Full Paper.  <br/>
 
