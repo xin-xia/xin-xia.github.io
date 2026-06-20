@@ -220,6 +220,10 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ASE
+1. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "EMERGE: Checking Implementation Equivalence for LLMs via Rule Synthesis". ASE 2026: Accepted as a Full Paper.  <br/>
+1. Zirui Chen, Qi Zhan, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Assessing the Cross-Version Applicability of Java Library Vulnerability Exploits".  ASE 2026: Accepted as a Full Paper.  <br/>
+1. Junkai Chen, Chengran Yang, Xing Hu, Zhenhao Li, <strong>Xin Xia</strong>, David Lo. "AgentExecutor: Partial Code Execution via Agentic Context Generation".  ASE 2026: Accepted as a Full Paper.  <br/>
+1. Siqi Wang, Fanjing Luo, Xing Hu, Xingyu Wang, <strong>Xin Xia</strong>. "Bridging the Gap Between Intent and Impact: An Empirical Study of GPU Optimizations in Deep Learning Frameworks". ASE 2026: Accepted as a Full Paper.  <br/>
 1. Qi Zhan, Xing Hu, Yuanyi Lin, Tongtong Xu, <strong>Xin Xia</strong>, Shanping Li.  "When AllClose Fails: Round-Off Error Estimation for Deep Learning Programs". ASE 2025: Accepted as a Full Paper <br />
 1. Xiaogang Zhu,  Enze Dai, Xiaotao Feng, Shaohua Wang, <strong>Xin Xia</strong>, Sheng Wen, Kwok-Yan Lam, Yang Xiang. "WingMuzz: Blackbox Testing of IoT Protocols via Two-dimensional Fuzzing Schedule". ASE 2025: Accepted as a Full Paper (<strong>ACM SIGSOFT Distinguished Paper Award</strong>) <br />
 1. Xin Zhou, Kisub Kim, Ting Zhang, Martin Weyssow, Luis F. Gomes, Guang Yang, Kui Liu, <strong>Xin Xia</strong>, David Lo. "SE-Jury: An LLM-as-Ensemble-Judge Metric for Narrowing the Gap with Human Evaluation in SE". ASE 2025: Accepted as a Full Paper <br />
