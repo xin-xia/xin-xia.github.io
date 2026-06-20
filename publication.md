@@ -8,7 +8,7 @@ permalink: /publication/
 
 <strong>Journal Papers (158)</strong>: IEEE Transactions on Software Engineering * 43,  ACM Transactions on Software Engineering and Methodology * 48, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (219)</strong>: ICSE * 36, ASE * 32, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 12, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (227)</strong>: ICSE * 36, ASE * 36, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 12, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -36,6 +36,26 @@ permalink: /publication/
 151. Zhipeng Xue, Xiaoting Zhang, Zhipeng Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Shanping Li. "Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+227. Puhua Sun, Xing Hu, <strong>Xin Xia</strong>. "Feedback-Oriented Retrieval and Guided Editing for Java Meta-Decompilation".  Internetware 2026: Accepted as a Full Paper.  <br/>
+
+226. Xinwei Miao, Zirui Chen, Xing Hu, <strong>Xin Xia</strong>. "ATTAIN: Automated Exploit Failure Analysis through Trace-Driven Diff Analysis". Internetware 2026: Accepted as a Full Paper.  <br/>
+
+
+225. Jiachen Ge, Feifei Niu, Chuanyi Li, <strong>Xin Xia</strong>.  "Exploring Large Language Models for Security Bug Localization: An Empirical Study". Internetware 2026: Accepted as a Full Paper.  <br/>
+
+224. Yukai Zhao, Menghan Wu, Xing Hu, Shaohua Wang, Meng Luo, <strong>Xin Xia</strong>. "LiveFuzz: Detecting Exploitable Library Vulnerabilities from Client Programs via Directed Greybox Fuzzing". Internetware 2026: Accepted as a Full Paper.  <br/>
+
+223. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "EMERGE: Checking Implementation Equivalence for LLMs via Rule Synthesis". ASE 2026: Accepted as a Full Paper.  <br/>
+
+
+222. Zirui Chen, Qi Zhan, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Assessing the Cross-Version Applicability of Java Library Vulnerability Exploits".  ASE 2026: Accepted as a Full Paper.  <br/>
+
+
+221. Junkai Chen, Chengran Yang, Xing Hu, Zhenhao Li, <strong>Xin Xia</strong>, David Lo. "AgentExecutor: Partial Code Execution via Agentic Context Generation".  ASE 2026: Accepted as a Full Paper.  <br/>
+
+220. Siqi Wang, Fanjing Luo, Xing Hu, Xingyu Wang, <strong>Xin Xia</strong>. "Bridging the Gap Between Intent and Impact: An Empirical Study of GPU Optimizations in Deep Learning Frameworks". ASE 2026: Accepted as a Full Paper.  <br/>
+
 
 219. Yan Wang, Ling Ding, Jiechen Sun, Tien Nguyen, Shaohua Wang, Aashish Yadavally, <strong>Xin Xia</strong>, Yanan Zheng. "T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics". OOPSLA 2026: Accepted as a Full Paper.  <br/>
 
