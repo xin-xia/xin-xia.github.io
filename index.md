@@ -263,15 +263,11 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ISSTA
-1. Yilun Ma, Lingxiao Tang, Lin Li, Zhipeng Gao, Jiachi Chen, <strong>Xin Xia</strong>, Lingfeng Bao.  "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning". ISSTA 2025: Accepted as a Full Paper.  <br/>
-
-
-
+1. Kerui Huang, Shuhan Liu, Xing Hu, Tongtong Xu, Lingfeng Bao, <strong>Xin Xia</strong>. "SEER: Self-Enhancing Chain-of-Thought Compression for Reasoning Models". ISSTA 2026: Accepted as a Full Paper.  <br/>
+1. Jiaxing Liu, Xing Hu, <strong>Xin Xia</strong>. "SWE-PDB: Teaching LLMs to Leverage Debugging Tools via Agentic Training". ISSTA 2026: Accepted as a Full Paper.  <br/>
+1. Yilun Ma, Lingxiao Tang, Lin Li, Zhipeng Gao, Jiachi Chen, <strong>Xin Xia</strong>, Lingfeng Bao.  "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning". ISSTA 2026: Accepted as a Full Paper.  <br/>
 1. Shengyi Pan, Zelong Zheng, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Answer is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence". ISSTA 2026: Accepted as a Full Paper.  <br/>
-
-
 1. Yijia Li, Junkai Chen, Xing Hu, <strong>Xin Xia</strong>. "An Empirical Study of Speculative Decoding on Software Engineering Tasks". ISSTA 2026: Accepted as a Full Paper.  <br/>
-
 1. Guancheng Lin, Xiao Yu, Jacky Keung, Xing Hu, <strong>Xin Xia</strong>, Alex X. Liu.  "Don’t Use a Cannon to Kill a Fly: Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations". ISSTA 2026: Accepted as a Full Paper.  <br/>
 1. Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu,  <strong>Xin Xia</strong>. " Understanding Practitioners’ Expectations on Clear Code Review Comments". ISSTA 2025, Accepted as a Full Paper <br />
 1. Huan Li, Bei Wang, Xing Hu,  <strong>Xin Xia</strong>. "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs". ISSTA 2025, Accepted as a Full Paper <br />
