@@ -220,6 +220,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 
 
 #### ASE
+1. Huan Li, Xing Hu, <strong>Xin Xia</strong>, Xinyu Wang.  "VARIES: Verification Harness Synthesis and Efficient Scheduling for Unsoundness Detection in Rust Libraries". ASE 2026: Accepted as a Full Paper.  <br/>
+1. Shuhan Liu, Zhiyi Zhao, Xing Hu, Kui Liu, Xiaohu Yang, <strong>Xin Xia</strong>.  "RACE-bench: A Reasoning-Augmented Benchmark for Repository-Level Code Agents on Feature Addition". ASE 2026: Accepted as a Full Paper.  <br/>
+1. Jinjun Huang, Zhongzhen Wen, Tongtong Xu, Meng Yan, <strong>Xin Xia</strong>, Zhongxin Liu. "RealisticTritonBench: A Benchmark for Triton-Kernel Generation in Real-World AI Frameworks". ASE 2026: Accepted as a Full Paper.  <br/>
 1. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "EMERGE: Checking Implementation Equivalence for LLMs via Rule Synthesis". ASE 2026: Accepted as a Full Paper.  <br/>
 1. Zirui Chen, Qi Zhan, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Assessing the Cross-Version Applicability of Java Library Vulnerability Exploits".  ASE 2026: Accepted as a Full Paper.  <br/>
 1. Junkai Chen, Chengran Yang, Xing Hu, Zhenhao Li, <strong>Xin Xia</strong>, David Lo. "AgentExecutor: Partial Code Execution via Agentic Context Generation".  ASE 2026: Accepted as a Full Paper.  <br/>
