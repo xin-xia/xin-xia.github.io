@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (158)</strong>: IEEE Transactions on Software Engineering * 43,  ACM Transactions on Software Engineering and Methodology * 48, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (159)</strong>: IEEE Transactions on Software Engineering * 43,  ACM Transactions on Software Engineering and Methodology * 49, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (227)</strong>: ICSE * 36, ASE * 36, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 12, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (232)</strong>: ICSE * 36, ASE * 39, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 14, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -18,6 +18,8 @@ permalink: /publication/
 ## 2026
 
 ### Journal Papers  
+
+159. Yukai Zhao, Shaohua Wang, Jue Wang, Xing Hu, <strong>Xin Xia</strong>. "Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 158. Yulei Zhang, Yifan Yang, Zejun Zhang, Xiaoqian Li, Kui Liu, Zhenchang Xing, <strong>Xin Xia</strong>, Lingfeng Bao. "GUIGroup: Enabling Functional Layout Grouping with Multimodal Large Language Models".  IEEE Transactions on Software Engineering (TSE), Accepted <br />
 
@@ -36,6 +38,17 @@ permalink: /publication/
 151. Zhipeng Xue, Xiaoting Zhang, Zhipeng Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Shanping Li. "Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+232. Huan Li, Xing Hu, <strong>Xin Xia</strong>, Xinyu Wang.  "VARIES: Verification Harness Synthesis and Efficient Scheduling for Unsoundness Detection in Rust Libraries". ASE 2026: Accepted as a Full Paper.  <br/>
+
+231. Shuhan Liu, Zhiyi Zhao, Xing Hu, Kui Liu, Xiaohu Yang, <strong>Xin Xia</strong>.  "RACE-bench: A Reasoning-Augmented Benchmark for Repository-Level Code Agents on Feature Addition". ASE 2026: Accepted as a Full Paper.  <br/>
+
+230. Jinjun Huang, Zhongzhen Wen, Tongtong Xu, Meng Yan, <strong>Xin Xia</strong>, Zhongxin Liu. "RealisticTritonBench: A Benchmark for Triton-Kernel Generation in Real-World AI Frameworks". ASE 2026: Accepted as a Full Paper.  <br/>
+
+
+229. Kerui Huang, Shuhan Liu, Xing Hu, Tongtong Xu, Lingfeng Bao, <strong>Xin Xia</strong>. "SEER: Self-Enhancing Chain-of-Thought Compression for Reasoning Models". ISSTA 2026: Accepted as a Full Paper.  <br/>
+
+228. Jiaxing Liu, Xing Hu, <strong>Xin Xia</strong>. "SWE-PDB: Teaching LLMs to Leverage Debugging Tools via Agentic Training". ISSTA 2026: Accepted as a Full Paper.  <br/>
 
 227. Puhua Sun, Xing Hu, <strong>Xin Xia</strong>. "Feedback-Oriented Retrieval and Guided Editing for Java Meta-Decompilation".  Internetware 2026: Accepted as a Full Paper.  <br/>
 
@@ -59,7 +72,7 @@ permalink: /publication/
 
 219. Yan Wang, Ling Ding, Jiechen Sun, Tien Nguyen, Shaohua Wang, Aashish Yadavally, <strong>Xin Xia</strong>, Yanan Zheng. "T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics". OOPSLA 2026: Accepted as a Full Paper.  <br/>
 
-218. Yilun Ma, Lingxiao Tang, Lin Li, Zhipeng Gao, Jiachi Chen, <strong>Xin Xia</strong>, Lingfeng Bao.  "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning". ISSTA 2025: Accepted as a Full Paper.  <br/>
+218. Yilun Ma, Lingxiao Tang, Lin Li, Zhipeng Gao, Jiachi Chen, <strong>Xin Xia</strong>, Lingfeng Bao.  "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning". ISSTA 2026: Accepted as a Full Paper.  <br/>
 
 
 
