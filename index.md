@@ -87,6 +87,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1. Yukai Zhao, Shaohua Wang, Jue Wang, Xing Hu, <strong>Xin Xia</strong>. "Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Siqi Wang,  Xing Hu, Xinyu Wang, <strong>Xin Xia</strong>. “ActRef: Enhancing the Understanding of Python Code Refactoring with Action-Based Analysis”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Tingwei Zhu, Zhongzhen Wen, Shangqing Liu, Yi Li, Tian Zhang, <strong>Xin Xia</strong>. "Assessing the Capability of LLMs for Deprecated API Usage Updating from Natural Language Descriptions". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Feifei Niu, Chuanyi Li, Haosheng Zuo, Jionghan Wu, <strong>Xin Xia</strong>. "Feature Request Analysis and Processing: Tasks, Techniques, and Trends". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
