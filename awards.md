@@ -3,8 +3,8 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
-
-30.  <strong>IEEE CS TCSE Most Influential Paper Award </strong>, for paper “Automated Debugging Considered Harmful” Considered Harmful – A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems published in ICSME 2015.  <br />
+31. <strong>ACM SIGSOFT Distinguished Paper Award</strong>. 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026), October 2026. <br />
+30.  <strong>IEEE CS TCSE Most Influential Paper Award </strong>, for paper “Automated Debugging Considered Harmful” Considered Harmful – A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems published in ICSME 2016.  <br />
 29. <strong>ACM SIGSOFT Distinguished Paper Award</strong>. 48th International Conference on Software Engineering (ICSE 2026), April 2026. <br />
 28. <strong>Best Tool Demo Paper Award</strong>. 32nd Asia-Pacific Software Engineering Conference (APSEC 2025), December 2025. <br />
 
