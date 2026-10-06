@@ -15,9 +15,17 @@ permalink: /publication/
 <strong>Papers in Chinese (15)</strong>: 软件学报 * 12, 计算机研究与发展 * 2， 计算机学报 * 1
 
 
+## 2027
+
+### Conference Papers
+
+233. Haibo Tang, Enping Wu, Cunyang Liu, Yunbo Yang, Hao Duan, <strong>Xin Xia</strong>, Lingfeng Bao. "MIEX: A Scalable and High-Performance Execution Framework for Blockchain Systems under Mixed Workloads". VLDB 2027: : Accepted as a Full Paper.  <br/>
+
 ## 2026
 
 ### Journal Papers  
+
+160. <strong>Xin Xia</strong>, Junwei Zhang, Xing Hu, and Shanping Li. "Bug Whisperer: Unleashing LLMs to Craft Context-Aware Tests Guided by Path Constraints and Bug Clues". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 159. Yukai Zhao, Shaohua Wang, Jue Wang, Xing Hu, <strong>Xin Xia</strong>. "Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
@@ -38,6 +46,8 @@ permalink: /publication/
 151. Zhipeng Xue, Xiaoting Zhang, Zhipeng Gao, Xing Hu, Shan Gao, <strong>Xin Xia</strong>, Shanping Li. "Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
 ### Conference Papers (Full Papers)
+
+
 
 232. Huan Li, Xing Hu, <strong>Xin Xia</strong>, Xinyu Wang.  "VARIES: Verification Harness Synthesis and Efficient Scheduling for Unsoundness Detection in Rust Libraries". ASE 2026: Accepted as a Full Paper.  <br/>
 
@@ -65,7 +75,7 @@ permalink: /publication/
 222. Zirui Chen, Qi Zhan, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Assessing the Cross-Version Applicability of Java Library Vulnerability Exploits".  ASE 2026: Accepted as a Full Paper.  <br/>
 
 
-221. Junkai Chen, Chengran Yang, Xing Hu, Zhenhao Li, <strong>Xin Xia</strong>, David Lo. "AgentExecutor: Partial Code Execution via Agentic Context Generation".  ASE 2026: Accepted as a Full Paper.  <br/>
+221. Junkai Chen, Chengran Yang, Xing Hu, Zhenhao Li, <strong>Xin Xia</strong>, David Lo. "AgentExecutor: Partial Code Execution via Agentic Context Generation".  ASE 2026: Accepted as a Full Paper. (<strong>ACM SIGSOFT Distinguished Paper Award</strong>) <br/>
 
 220. Siqi Wang, Fanjing Luo, Xing Hu, Xingyu Wang, <strong>Xin Xia</strong>. "Bridging the Gap Between Intent and Impact: An Empirical Study of GPU Optimizations in Deep Learning Frameworks". ASE 2026: Accepted as a Full Paper.  <br/>
 
