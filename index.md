@@ -87,6 +87,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
  <strong>(TSE Featured Paper on October 2016 issue.)</strong>     <br />
  
 #### ACM Transactions on Software Engineering and Methodology
+1.  <strong>Xin Xia</strong>, Junwei Zhang, Xing Hu, and Shanping Li. "Bug Whisperer: Unleashing LLMs to Craft Context-Aware Tests Guided by Path Constraints and Bug Clues". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Yukai Zhao, Shaohua Wang, Jue Wang, Xing Hu, <strong>Xin Xia</strong>. "Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Siqi Wang,  Xing Hu, Xinyu Wang, <strong>Xin Xia</strong>. “ActRef: Enhancing the Understanding of Python Code Refactoring with Action-Based Analysis”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 1. Tingwei Zhu, Zhongzhen Wen, Shangqing Liu, Yi Li, Tian Zhang, <strong>Xin Xia</strong>. "Assessing the Capability of LLMs for Deprecated API Usage Updating from Natural Language Descriptions". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
@@ -226,7 +227,7 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 1. Jinjun Huang, Zhongzhen Wen, Tongtong Xu, Meng Yan, <strong>Xin Xia</strong>, Zhongxin Liu. "RealisticTritonBench: A Benchmark for Triton-Kernel Generation in Real-World AI Frameworks". ASE 2026: Accepted as a Full Paper.  <br/>
 1. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "EMERGE: Checking Implementation Equivalence for LLMs via Rule Synthesis". ASE 2026: Accepted as a Full Paper.  <br/>
 1. Zirui Chen, Qi Zhan, Jiayuan Zhou, Xing Hu, <strong>Xin Xia</strong>, Xiaohu Yang. "Assessing the Cross-Version Applicability of Java Library Vulnerability Exploits".  ASE 2026: Accepted as a Full Paper.  <br/>
-1. Junkai Chen, Chengran Yang, Xing Hu, Zhenhao Li, <strong>Xin Xia</strong>, David Lo. "AgentExecutor: Partial Code Execution via Agentic Context Generation".  ASE 2026: Accepted as a Full Paper.  <br/>
+1. Junkai Chen, Chengran Yang, Xing Hu, Zhenhao Li, <strong>Xin Xia</strong>, David Lo. "AgentExecutor: Partial Code Execution via Agentic Context Generation".  ASE 2026: Accepted as a Full Paper.  (<strong>ACM SIGSOFT Distinguished Paper Award</strong>)   <br/>
 1. Siqi Wang, Fanjing Luo, Xing Hu, Xingyu Wang, <strong>Xin Xia</strong>. "Bridging the Gap Between Intent and Impact: An Empirical Study of GPU Optimizations in Deep Learning Frameworks". ASE 2026: Accepted as a Full Paper.  <br/>
 1. Qi Zhan, Xing Hu, Yuanyi Lin, Tongtong Xu, <strong>Xin Xia</strong>, Shanping Li.  "When AllClose Fails: Round-Off Error Estimation for Deep Learning Programs". ASE 2025: Accepted as a Full Paper <br />
 1. Xiaogang Zhu,  Enze Dai, Xiaotao Feng, Shaohua Wang, <strong>Xin Xia</strong>, Sheng Wen, Kwok-Yan Lam, Yang Xiang. "WingMuzz: Blackbox Testing of IoT Protocols via Two-dimensional Fuzzing Schedule". ASE 2025: Accepted as a Full Paper (<strong>ACM SIGSOFT Distinguished Paper Award</strong>) <br />
