@@ -284,6 +284,9 @@ Case Study of Code Clone Detection and Defect Prediction". IEEE Transactions on 
 ####  USENIX Security
 
 1. Kunpeng Zhang, Zongjie Li, Daoyuan Wu, Shuai Wang, <strong>Xin Xia</strong>. "Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators". USENIX Security 2025, , Accepted as a Full Paper <br />
+
+#### VLDB
+1. Haibo Tang, Enping Wu, Cunyang Liu, Yunbo Yang, Hao Duan, <strong>Xin Xia</strong>, Lingfeng Bao. "MIEX: A Scalable and High-Performance Execution Framework for Blockchain Systems under Mixed Workloads". VLDB 2027: Accepted as a Full Paper.  <br/>
  
  
 #### NeurIPS
