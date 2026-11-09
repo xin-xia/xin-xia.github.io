@@ -40,6 +40,8 @@ AI and SE, Inteligent Software Engineering, Large Language Model,  Empirical Sof
 
 
 #### IEEE Transactions on Software Engineering
+
+1. Guang Yang, Xing Hu, Xiang Chen, <strong>Xin Xia</strong>. "Semantic Consensus Decoding: Backdoor Defense for Verilog Code Generation" IEEE Transactions on Software Engineering (TSE), Accepted as a Full Paper <br />
 1. Yulei Zhang, Yifan Yang, Zejun Zhang, Xiaoqian Li, Kui Liu, Zhenchang Xing, <strong>Xin Xia</strong>, Lingfeng Bao. "GUIGroup: Enabling Functional Layout Grouping with Multimodal Large Language Models".  IEEE Transactions on Software Engineering (TSE), Accepted <br />
 1. Qiheng Mao, Zhenhao Li, Xing Hu, Kui Liu, <strong>Xin Xia</strong>, Jianling Sun. "Towards Explainable Vulnerability Detection with Large Language Models". IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
 1. Xiao Yu, Lei Liu, Xing Hu, Jacky Wai Keung, Jin Liu, <strong>Xin Xia</strong>.  "Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?"  IEEE Transactions on Software Engineering (TSE), Accepted.         <br />   
