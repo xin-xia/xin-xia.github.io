@@ -6,9 +6,9 @@ permalink: /publication/
 
 ## Publication Summary
 
-<strong>Journal Papers (160)</strong>: IEEE Transactions on Software Engineering * 43,  ACM Transactions on Software Engineering and Methodology * 50, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
+<strong>Journal Papers (161)</strong>: IEEE Transactions on Software Engineering * 44,  ACM Transactions on Software Engineering and Methodology * 50, Empirical Software Engineering * 23,  ACM Computing Surveys * 3, IEEE  Transactions on Dependable and Secure Computing * 1, IEEE Transactions on Service Computing * 1. 
 
-<strong>Conference Papers (233)</strong>: ICSE * 36, ASE * 39, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 14, NeurIPS * 1, IJCAI * 1, UbiComp * 1
+<strong>Conference Papers (234)</strong>: ICSE * 36, ASE * 39, FSE* 17, ICSME * 8, MSR * 6,  ISSTA * 14, NeurIPS * 1, IJCAI * 1, UbiComp * 1
 
 <strong>Book Chapter (3) </strong> 
 
@@ -19,11 +19,16 @@ permalink: /publication/
 
 ### Conference Papers
 
+234. Qi Zhan, Xing Hu, <strong>Xin Xia</strong>, Shanping Li. "Lifting CUDA Tensor Kernels to Tile-Level Programs" CGO 2027: Accepted as a Full Paper.  <br/>
+
 233. Haibo Tang, Enping Wu, Cunyang Liu, Yunbo Yang, Hao Duan, <strong>Xin Xia</strong>, Lingfeng Bao. "MIEX: A Scalable and High-Performance Execution Framework for Blockchain Systems under Mixed Workloads". VLDB 2027: Accepted as a Full Paper.  <br/>
 
 ## 2026
 
 ### Journal Papers  
+ 
+
+161. Guang Yang, Xing Hu, Xiang Chen, <strong>Xin Xia</strong>. "Semantic Consensus Decoding: Backdoor Defense for Verilog Code Generation" IEEE Transactions on Software Engineering (TSE), Accepted as a Full Paper <br />
 
 160. <strong>Xin Xia</strong>, Junwei Zhang, Xing Hu, and Shanping Li. "Bug Whisperer: Unleashing LLMs to Craft Context-Aware Tests Guided by Path Constraints and Bug Clues". In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted <br />
 
